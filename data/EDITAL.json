@@ -1,0 +1,274 @@
+{
+  "concurso": "Transpetro 2026",
+  "banca": "CESGRANRIO",
+  "cargo": "Engenharia de Telecomunicações",
+  "prova": "2026-11-29",
+  "especificos": [
+    {
+      "id": "1",
+      "nome": "Probabilidade e Processos Estocásticos",
+      "subitens": [
+        {
+          "id": "1.1",
+          "texto": "Conceito de Probabilidade; Eventos; Probabilidades conjuntas; Probabilidades condicionais; Independência estatística"
+        },
+        {
+          "id": "1.2",
+          "texto": "Variáveis aleatórias; Distribuições discretas e contínuas; Médias estatísticas; Teorema do limite central"
+        },
+        {
+          "id": "1.3",
+          "texto": "Processo Estocástico; Definição; Momentos; Autocorrelação; Estacionariedade; Densidade Espectral de Potência; Wiener-Khinchin; Processo Gaussiano"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "Matemática Aplicada a Sinais",
+      "subitens": [
+        {
+          "id": "2.1",
+          "texto": "Operações com números complexos e funções de variáveis complexas"
+        },
+        {
+          "id": "2.2",
+          "texto": "Funções temporais exponenciais, trigonométricas, impulso e degrau"
+        },
+        {
+          "id": "2.3",
+          "texto": "Série de Fourier; Transformada de Fourier; operações e propriedades"
+        },
+        {
+          "id": "2.4",
+          "texto": "Convolução para sinais contínuos e discretos no tempo"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "Conceitos Básicos de Sinais e Sistemas",
+      "subitens": [
+        {
+          "id": "3.1",
+          "texto": "Sistemas LIT; Laplace; respostas temporais e transitórias; impulso e degrau"
+        },
+        {
+          "id": "3.2",
+          "texto": "Sinais no domínio da frequência"
+        },
+        {
+          "id": "3.3",
+          "texto": "Convolução na determinação da saída de sistema LIT"
+        },
+        {
+          "id": "3.4",
+          "texto": "Resposta em frequência de sistemas lineares"
+        },
+        {
+          "id": "3.5",
+          "texto": "Amostragem; sinais e sistemas discretos; Transformada Z"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "nome": "Princípios de Telecomunicações",
+      "subitens": [
+        {
+          "id": "4.1",
+          "texto": "Sistemas analógicos e digitais de transmissão; modulação analógica e digital"
+        },
+        {
+          "id": "4.2",
+          "texto": "Conversão A/D; SNR; BER; eficiência espectral; codificação de fonte e canal; ARQ e FEC"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "nome": "Telefonia e Videoconferência",
+      "subitens": [
+        {
+          "id": "5.1",
+          "texto": "Centrais; comutação de circuitos/pacotes; tráfego; Erlang B e C"
+        },
+        {
+          "id": "5.2",
+          "texto": "Voz e vídeo; TDM, FDM e CDM; CAS, R2, Q-SIG, DPNSS"
+        },
+        {
+          "id": "5.3",
+          "texto": "H.323; SIP; VoIP; QoS para voz e vídeo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "nome": "Antenas",
+      "subitens": [
+        {
+          "id": "6.1",
+          "texto": "Tipos; diagramas; ganho; polarização; parâmetros; campo próximo/distante; radiação"
+        },
+        {
+          "id": "6.2",
+          "texto": "Dipolo; plano de terra; monopolos"
+        },
+        {
+          "id": "6.3",
+          "texto": "Conjuntos e principais tipos de antenas"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "nome": "Radiopropagação",
+      "subitens": [
+        {
+          "id": "7.1",
+          "texto": "Propagação; radiovisibilidade; Fresnel; espaço livre; difração por gume-de-faca"
+        },
+        {
+          "id": "7.2",
+          "texto": "Equação de enlace; dimensionamento de transmissão e recepção digital"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "nome": "Sistemas de Transmissão via Satélite",
+      "subitens": [
+        {
+          "id": "8.1",
+          "texto": "Satélites; órbitas; características; vantagens e desvantagens"
+        },
+        {
+          "id": "8.2",
+          "texto": "Bandas de frequência e características de transmissão"
+        },
+        {
+          "id": "8.3",
+          "texto": "Serviços; degradações; equação de enlace; razão portadora-ruído"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "nome": "Sistemas de Comunicações Celulares",
+      "subitens": [
+        {
+          "id": "9.1",
+          "texto": "Fundamentos e evolução até 5G"
+        },
+        {
+          "id": "9.2",
+          "texto": "Células; múltiplo acesso; GSM, UMTS, LTE etc.; canal móvel"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "nome": "Redes Locais",
+      "subitens": [
+        {
+          "id": "10.1",
+          "texto": "Wi-Fi IEEE 802.11 a/b/g/n/ac/ax; QoS IEEE 802.11e"
+        },
+        {
+          "id": "10.2",
+          "texto": "Redes cabeadas; switches L2/L3; roteamento e comutação"
+        },
+        {
+          "id": "10.3",
+          "texto": "IEEE 802.1d/p/q/s/w; RMON I/II; SNMPv1/v2/v3; PoE IEEE 802.3af"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "nome": "Redes IP",
+      "subitens": [
+        {
+          "id": "11.1",
+          "texto": "IP multicast; DiffServ; CBWFQ; LLQ"
+        },
+        {
+          "id": "11.2",
+          "texto": "Roteamento estático; OSPF; BGP; MPLS"
+        },
+        {
+          "id": "11.3",
+          "texto": "MPLS-OSPF; MP-BGP; MPLS-VPN L2/L3; MPLS-TE; RSVP-TE; OSPF-TE"
+        },
+        {
+          "id": "11.4",
+          "texto": "Internet; criptografia; IPSec; SSH; SSL"
+        },
+        {
+          "id": "11.5",
+          "texto": "Firewalls de pacote e conteúdo"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "nome": "Sistemas Ópticos",
+      "subitens": [
+        {
+          "id": "12.1",
+          "texto": "Características; propagação em guias e fibras"
+        },
+        {
+          "id": "12.2",
+          "texto": "Sistemas de comunicação ópticos"
+        },
+        {
+          "id": "12.3",
+          "texto": "Redes ópticas; TDM; SDH"
+        },
+        {
+          "id": "12.4",
+          "texto": "MetroEthernet; DWDM; CWDM"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "nome": "Regulamentação das Telecomunicações",
+      "subitens": [
+        {
+          "id": "13.1",
+          "texto": "Lei Geral das Telecomunicações"
+        },
+        {
+          "id": "13.2",
+          "texto": "Espectro; atribuição, destinação e distribuição de faixas no Brasil"
+        },
+        {
+          "id": "13.3",
+          "texto": "Normas técnicas para radiodifusão sonora em FM e TV"
+        }
+      ]
+    }
+  ],
+  "basicos": {
+    "portugues": [
+      "Compreensão de textos",
+      "Ortografia oficial",
+      "Mecanismos de coesão textual",
+      "Significação das palavras",
+      "Tempos e modos verbais",
+      "Classes de palavras",
+      "Coordenação e subordinação",
+      "Pontuação",
+      "Concordância verbal e nominal",
+      "Regência verbal e nominal",
+      "Crase",
+      "Colocação dos pronomes átonos"
+    ],
+    "ingles": [
+      "Compreensão de texto escrito",
+      "Itens gramaticais relevantes para compreensão semântica"
+    ]
+  }
+}
