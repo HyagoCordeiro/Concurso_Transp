@@ -1,4 +1,31 @@
 {
   "schemaVersion": 1,
-  "results": []
+  "results": [
+    {
+      "id": "QTI13-2026-09-28-01",
+      "data": "2026-09-28",
+      "tipo": "QTI-13",
+      "titulo": "QTI-13 — 13 itens do Edital de Telecomunicações",
+      "totalQuestoes": 13,
+      "acertos": 12,
+      "erros": 1,
+      "percentual": 92.3,
+      "origem": "resultado informado pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "QTI13-02",
+          "editalItem": "2",
+          "unitId": "2.4",
+          "materia": "Matemática Aplicada a Sinais",
+          "topico": "Convolução",
+          "respostaEscolhida": null,
+          "gabarito": "C",
+          "errorType": "UNKNOWN",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "observacao": "Usuário informou placar 12/13 e item 2 para revisão."
+    }
+  ]
 }
