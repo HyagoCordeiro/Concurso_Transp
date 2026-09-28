@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "unidades": [
+    {
+      "id": "1.1",
+      "nome": "Conceito de Probabilidade; Eventos; Probabilidades conjuntas; Probabilidades condicionais; Independência estatística",
+      "item": "1",
+      "materia": "Probabilidade e Processos Estocásticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "1.2",
+      "nome": "Variáveis aleatórias; Distribuições de probabilidade discretas e contínuas; Médias estatísticas de variáveis aleatórias; Teorema do limite central",
+      "item": "1",
+      "materia": "Probabilidade e Processos Estocásticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "1.3",
+      "nome": "Processo Estocástico; Definição; Momentos; Função Autocorrelação; Estacionariedade; Densidade Espectral de Potência; Teorema de Wiener-Khinchin; Processo Gaussiano",
+      "item": "1",
+      "materia": "Probabilidade e Processos Estocásticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "2.1",
+      "nome": "Operações com números complexos e com funções de variáveis complexas",
+      "item": "2",
+      "materia": "Matemática Aplicada a Sinais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "2.2",
+      "nome": "Aplicações e propriedades de funções temporais: exponenciais, trigonométricas, impulso e degrau",
+      "item": "2",
+      "materia": "Matemática Aplicada a Sinais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "2.3",
+      "nome": "Série de Fourier; Transformada de Fourier; operações e propriedades",
+      "item": "2",
+      "materia": "Matemática Aplicada a Sinais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "2.4",
+      "nome": "Convolução para sinais contínuos e discretos no tempo",
+      "item": "2",
+      "materia": "Matemática Aplicada a Sinais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "3.1",
+      "nome": "Sistemas LIT; Laplace; respostas temporais e transitórias; impulso e degrau",
+      "item": "3",
+      "materia": "Conceitos Básicos de Sinais e Sistemas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "3.2",
+      "nome": "Sinais no domínio da frequência",
+      "item": "3",
+      "materia": "Conceitos Básicos de Sinais e Sistemas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "3.3",
+      "nome": "Convolução na determinação da saída de sistema LIT",
+      "item": "3",
+      "materia": "Conceitos Básicos de Sinais e Sistemas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "3.4",
+      "nome": "Resposta em frequência de sistemas lineares",
+      "item": "3",
+      "materia": "Conceitos Básicos de Sinais e Sistemas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "3.5",
+      "nome": "Amostragem; sinais e sistemas discretos; Transformada Z",
+      "item": "3",
+      "materia": "Conceitos Básicos de Sinais e Sistemas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "4.1",
+      "nome": "Blocos de sistemas analógicos e digitais de transmissão; modulação analógica e digital",
+      "item": "4",
+      "materia": "Princípios de Telecomunicações",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "4.2",
+      "nome": "Conversão A/D; SNR; BER; eficiência espectral; codificação de fonte e canal; ARQ e FEC",
+      "item": "4",
+      "materia": "Princípios de Telecomunicações",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "5.1",
+      "nome": "Centrais; comutação de circuitos/pacotes; tráfego; Erlang B e C",
+      "item": "5",
+      "materia": "Telefonia e Videoconferência",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "5.2",
+      "nome": "Voz e vídeo; TDM, FDM e CDM; CAS, R2, Q-SIG, DPNSS",
+      "item": "5",
+      "materia": "Telefonia e Videoconferência",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "5.3",
+      "nome": "H.323; SIP; VoIP; QoS para voz e vídeo",
+      "item": "5",
+      "materia": "Telefonia e Videoconferência",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "6.1",
+      "nome": "Tipos; diagramas; ganho; polarização; parâmetros; campo próximo/distante; radiação",
+      "item": "6",
+      "materia": "Antenas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "6.2",
+      "nome": "Dipolo; influência do plano de terra; monopolos",
+      "item": "6",
+      "materia": "Antenas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "6.3",
+      "nome": "Conjuntos e principais tipos de antenas",
+      "item": "6",
+      "materia": "Antenas",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "7.1",
+      "nome": "Propagação; radiovisibilidade; Fresnel; atenuação em espaço livre; difração por gume-de-faca",
+      "item": "7",
+      "materia": "Radiopropagação",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "7.2",
+      "nome": "Equação de enlace; dimensionamento e características de transmissão e recepção digital",
+      "item": "7",
+      "materia": "Radiopropagação",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "8.1",
+      "nome": "Satélites; órbitas; características; vantagens e desvantagens",
+      "item": "8",
+      "materia": "Sistemas de Transmissão via Satélite",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "8.2",
+      "nome": "Bandas de frequência e características de transmissão",
+      "item": "8",
+      "materia": "Sistemas de Transmissão via Satélite",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "8.3",
+      "nome": "Serviços; fatores de degradação; equação de enlace; razão portadora-ruído",
+      "item": "8",
+      "materia": "Sistemas de Transmissão via Satélite",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "9.1",
+      "nome": "Fundamentos teóricos; características e evolução até 5G",
+      "item": "9",
+      "materia": "Sistemas de Comunicações Celulares",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "9.2",
+      "nome": "Células; múltiplo acesso; GSM, UMTS, LTE etc.; canal móvel",
+      "item": "9",
+      "materia": "Sistemas de Comunicações Celulares",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "10.1",
+      "nome": "Wi-Fi IEEE 802.11 a, b, g, n, ac e ax; QoS IEEE 802.11e",
+      "item": "10",
+      "materia": "Redes Locais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "10.2",
+      "nome": "Redes cabeadas com switches L2/L3; roteamento e comutação",
+      "item": "10",
+      "materia": "Redes Locais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "10.3",
+      "nome": "IEEE 802.1d, 802.1p, 802.1q, 802.1s, 802.1w; RMON I/II; SNMPv1/v2/v3; PoE IEEE 802.3af",
+      "item": "10",
+      "materia": "Redes Locais",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "11.1",
+      "nome": "IP multicast; DiffServ; CBWFQ; LLQ",
+      "item": "11",
+      "materia": "Redes IP",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "11.2",
+      "nome": "Roteamento estático; OSPF; BGP; MPLS",
+      "item": "11",
+      "materia": "Redes IP",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "11.3",
+      "nome": "MPLS-OSPF; MP-BGP; MPLS-VPN L2/L3; MPLS-TE; RSVP-TE; OSPF-TE",
+      "item": "11",
+      "materia": "Redes IP",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "11.4",
+      "nome": "Internet; criptografia; IPSec; SSH; SSL",
+      "item": "11",
+      "materia": "Redes IP",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "11.5",
+      "nome": "Firewalls de pacote e conteúdo",
+      "item": "11",
+      "materia": "Redes IP",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "12.1",
+      "nome": "Características básicas; propagação em guias e fibras ópticas",
+      "item": "12",
+      "materia": "Sistemas Ópticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "12.2",
+      "nome": "Sistemas de comunicação ópticos",
+      "item": "12",
+      "materia": "Sistemas Ópticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "12.3",
+      "nome": "Redes ópticas; TDM; SDH",
+      "item": "12",
+      "materia": "Sistemas Ópticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "12.4",
+      "nome": "MetroEthernet; DWDM; CWDM",
+      "item": "12",
+      "materia": "Sistemas Ópticos",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "13.1",
+      "nome": "Lei Geral das Telecomunicações",
+      "item": "13",
+      "materia": "Regulamentação das Telecomunicações",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "13.2",
+      "nome": "Espectro; atribuição, destinação e distribuição de faixas no Brasil",
+      "item": "13",
+      "materia": "Regulamentação das Telecomunicações",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "13.3",
+      "nome": "Normas técnicas para radiodifusão sonora em FM e TV",
+      "item": "13",
+      "materia": "Regulamentação das Telecomunicações",
+      "estado": "A_MAPEAR",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "PT",
+      "nome": "Língua Portuguesa",
+      "materia": "Conhecimentos Básicos",
+      "estado": "EM_ESTUDO",
+      "evidencias": [],
+      "revisoes": []
+    },
+    {
+      "id": "ING",
+      "nome": "Língua Inglesa",
+      "materia": "Conhecimentos Básicos",
+      "estado": "EM_ESTUDO",
+      "evidencias": [],
+      "revisoes": []
+    }
+  ]
+}
