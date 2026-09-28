@@ -6,5 +6,19 @@
     "D7",
     "D21"
   ],
-  "revisoes": []
+  "revisoes": [
+    {
+      "id": "REV-2.4-2026-10-01",
+      "unitId": "2.4",
+      "editalItem": "2.4",
+      "materia": "Matemática Aplicada a Sinais",
+      "topico": "Convolução para sinais contínuos e discretos",
+      "motivo": "Erro no QTI-13 de 28/09/2026",
+      "origemResultado": "QTI13-2026-09-28-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    }
+  ]
 }
