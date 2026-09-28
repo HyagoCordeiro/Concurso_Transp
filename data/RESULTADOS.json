@@ -20,10 +20,10 @@
           "topico": "Convolução",
           "respostaEscolhida": "D",
           "gabarito": "C",
-          "errorType": "UNKNOWN",
+          "errorType": "INTERPRETACAO",
           "confidence": null,
           "responseTimeSec": null,
-          "observacao": "Usuário informou posteriormente que marcou D; gabarito C."
+          "observacao": "Marcou D. A confusão relatada foi interpretar o símbolo * entre x(t) e δ(t−2) como multiplicação, quando no contexto da questão ele representa convolução."
         }
       ],
       "observacao": "Usuário informou placar 12/13 e item 2 para revisão."
