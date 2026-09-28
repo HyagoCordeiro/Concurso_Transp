@@ -18,11 +18,12 @@
           "unitId": "2.4",
           "materia": "Matemática Aplicada a Sinais",
           "topico": "Convolução",
-          "respostaEscolhida": null,
+          "respostaEscolhida": "D",
           "gabarito": "C",
           "errorType": "UNKNOWN",
           "confidence": null,
-          "responseTimeSec": null
+          "responseTimeSec": null,
+          "observacao": "Usuário informou posteriormente que marcou D; gabarito C."
         }
       ],
       "observacao": "Usuário informou placar 12/13 e item 2 para revisão."
