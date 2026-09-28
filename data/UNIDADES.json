@@ -60,9 +60,23 @@
       "nome": "Convolução para sinais contínuos e discretos no tempo",
       "item": "2",
       "materia": "Matemática Aplicada a Sinais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-09-28",
+          "tipo": "QTI-13",
+          "resultado": "ERRO",
+          "questionId": "QTI13-02",
+          "nota": "Único erro do QTI-13; placar geral 12/13."
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-01",
+          "status": "PENDENTE",
+          "motivo": "Erro em convolução no QTI-13"
+        }
+      ]
     },
     {
       "id": "3.1",
