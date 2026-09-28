@@ -15,7 +15,7 @@ Ponto crítico: interpretação do enunciado antes da conta.
 ## 2. Matemática Aplicada a Sinais
 Trabalhado: números complexos/fasores; impulso e degrau; Série de Fourier; Transformada de Fourier; convolução.
 
-**Estado:** ESTUDADO / EM CONSOLIDAÇÃO
+**Estado:** ESTUDADO / EM REVISÃO\n\n**Evidência recente (28/09/2026):** QTI-13 com 12/13 no geral; único erro no item 2, em convolução (subitem 2.4). Revisão curta agendada.
 
 ## 3. Sinais e Sistemas
 Trabalhado: LIT; convolução; estabilidade; polos/zeros; resposta impulso/degrau; amostragem/Nyquist/aliasing; noções de Transformada Z; filtros IIR.
