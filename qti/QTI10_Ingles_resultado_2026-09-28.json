@@ -1,0 +1,26 @@
+{
+  "id": "QTI10-ING-2026-09-28-01",
+  "data": "2026-09-28",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Edge computing",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "respondidas": 10,
+  "origem": "resultado confirmado por captura de tela enviada pelo usuário",
+  "itensErrados": [
+    {
+      "questionId": "Q4",
+      "topico": "Conectores",
+      "expressao": "As a result",
+      "respostaEscolhida": "E",
+      "gabarito": "B",
+      "relacaoSemantica": "consequência",
+      "errorType": "ATENCAO_CONECTOR",
+      "observacao": "As a result = como resultado / consequentemente / por isso."
+    }
+  ],
+  "estado": "SPACED_RETEST"
+}
