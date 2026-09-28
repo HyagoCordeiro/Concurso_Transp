@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "regra": "adaptativa",
+  "marcosSugeridos": [
+    "D1/D3 quando houver erro ou baixa confiança",
+    "D7",
+    "D21"
+  ],
+  "revisoes": []
+}
