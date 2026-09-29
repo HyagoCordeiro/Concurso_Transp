@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QTI-40 | Petrobras 2006 — Telecom</title>
+<style>
+:root {
+  --bg:#0b1220; --card:#111a2b; --muted:#9fb0c8; --text:#eef4ff;
+  --accent:#5bbcff; --ok:#32d583; --bad:#ff6b6b; --line:#24324a; --warn:#f5c451;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:linear-gradient(160deg,#08101d,#0d1727 55%,#111d30);color:var(--text);min-height:100vh}
+.wrap{max-width:980px;margin:auto;padding:28px 18px 60px}
+.header{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;margin-bottom:18px}
+h1{margin:0;font-size:clamp(25px,4vw,40px);letter-spacing:-.5px}
+.sub{color:var(--muted);max-width:760px;line-height:1.5;margin-top:8px}
+.badge{background:#14243c;border:1px solid #294565;color:#b9dcff;padding:7px 11px;border-radius:999px;font-size:13px}
+.panel{background:rgba(17,26,43,.96);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 18px 50px rgba(0,0,0,.25)}
+.topline{display:flex;justify-content:space-between;gap:14px;align-items:center;flex-wrap:wrap}
+.progress{height:10px;background:#1a263a;border-radius:999px;overflow:hidden;margin:16px 0 22px}
+.progress > div{height:100%;background:linear-gradient(90deg,#4aa8ff,#6de3ff);width:0%;transition:.25s}
+.topic{font-size:13px;color:#9fd3ff;text-transform:uppercase;letter-spacing:.08em;font-weight:700}
+.qnum{color:var(--muted);font-size:14px}
+.question{font-size:20px;line-height:1.45;margin:12px 0 18px}
+.options{display:grid;gap:10px}
+.opt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);background:#0d1626;padding:13px 14px;border-radius:12px;cursor:pointer;transition:.15s}
+.opt:hover{border-color:#3b6088;transform:translateY(-1px)}
+.opt input{margin-top:3px;accent-color:#4caeff}
+.opt.correct{border-color:rgba(50,213,131,.8);background:rgba(50,213,131,.10)}
+.opt.wrong{border-color:rgba(255,107,107,.8);background:rgba(255,107,107,.10)}
+.actions{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+button{border:0;border-radius:10px;padding:11px 16px;font-weight:700;cursor:pointer;font-size:15px}
+.primary{background:var(--accent);color:#05111d}
+.secondary{background:#1a2940;color:var(--text);border:1px solid #314865}
+button:disabled{opacity:.45;cursor:not-allowed}
+.feedback{display:none;margin-top:18px;padding:15px;border-radius:12px;line-height:1.5}
+.feedback.ok{display:block;background:rgba(50,213,131,.10);border:1px solid rgba(50,213,131,.45)}
+.feedback.bad{display:block;background:rgba(255,107,107,.10);border:1px solid rgba(255,107,107,.45)}
+.explain{margin-top:8px;color:#d6e3f5}
+.mini{color:var(--muted);font-size:13px}
+#result{display:none}
+.score{font-size:56px;font-weight:800;letter-spacing:-2px;margin:6px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:18px}
+.stat{background:#0d1626;border:1px solid var(--line);padding:13px;border-radius:12px}
+.stat b{font-size:22px}
+.missed{margin-top:18px;display:grid;gap:9px}
+.missed div{padding:10px 12px;background:#0d1626;border:1px solid var(--line);border-radius:10px}
+.footer-note{color:var(--muted);font-size:12px;line-height:1.5;margin-top:16px}
+kbd{background:#0a1321;border:1px solid #30445e;border-radius:5px;padding:2px 6px;color:#d7e8ff}
+@media (max-width:640px){.panel{padding:17px} .question{font-size:18px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="header">
+    <div>
+      <h1>QTI‑40 · Telecom</h1>
+      <div class="sub">40 questões <b>autorais</b>, inspiradas no perfil técnico da prova Petrobras/CESGRANRIO de 2006. Os enunciados e valores foram refeitos — não há reprodução literal das questões originais. Onde o conteúdo antigo ficou datado, o conceito foi atualizado para o escopo atual de Telecom.</div>
+    </div>
+    <div class="badge">CESGRANRIO · nível histórico</div>
+  </div>
+
+  <div class="panel" id="quiz">
+    <div class="topline">
+      <div><span class="topic" id="topic"></span></div>
+      <div class="qnum" id="qnum"></div>
+    </div>
+    <div class="progress"><div id="bar"></div></div>
+    <div class="question" id="question"></div>
+    <div class="options" id="options"></div>
+    <div class="feedback" id="feedback"></div>
+    <div class="actions">
+      <button class="primary" id="checkBtn" onclick="checkAnswer()">Corrigir</button>
+      <button class="secondary" id="nextBtn" onclick="nextQuestion()" disabled>Próxima</button>
+    </div>
+    <div class="footer-note">Atalho: <kbd>1</kbd>–<kbd>5</kbd> marca A–E · <kbd>Enter</kbd> corrige/avança.</div>
+  </div>
+
+  <div class="panel" id="result">
+    <div class="topic">Resultado final</div>
+    <div class="score" id="score"></div>
+    <div id="summary" class="sub"></div>
+    <div class="grid" id="topicStats"></div>
+    <div class="missed" id="missed"></div>
+    <div class="actions">
+      <button class="primary" onclick="retryMissed()">Refazer erros</button>
+      <button class="secondary" onclick="restart()">Reiniciar as 40</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const allQuestions = [{"n": 1, "topic": "Radiopropagação", "answer": "E", "q": "Em um enlace rádio digital, o canal apresenta múltiplos percursos com atrasos suficientemente diferentes para produzir desvanecimento seletivo em frequência. Qual conjunto de técnicas é mais diretamente apropriado para mitigar esse efeito?", "opts": {"A": "Aumento da potência de transmissão, redução da largura de banda do receptor e polarização circular.", "B": "Diversidade de polarização, aumento do ganho da antena e controle automático de potência.", "C": "Codificação de fonte, compressão de voz e controle de fluxo.", "D": "Filtragem passa-baixas, modulação AM e redução da potência transmitida.", "E": "Equalização adaptativa, OFDM e espalhamento espectral."}, "exp": "O desvanecimento seletivo em frequência é combatido com técnicas que lidam com a seletividade do canal e com ecos/multipercurso, como equalização, OFDM e espalhamento espectral."}, {"n": 2, "topic": "Radiopropagação", "answer": "C", "q": "Em espaço livre, com antenas isotrópicas e mesma potência transmitida, a potência recebida a 400 m é −2 dBW. Mantendo-se a frequência e aumentando-se a distância para 1,2 km, a potência recebida será aproximadamente", "opts": {"A": "−5,0 dBW", "B": "−8,0 dBW", "C": "−11,5 dBW", "D": "−14,0 dBW", "E": "−20,0 dBW"}, "exp": "No espaço livre, Pr ∝ 1/d². Triplicar a distância reduz a potência em 20 log10(3) ≈ 9,54 dB. Logo, −2 − 9,54 ≈ −11,5 dBW."}, {"n": 3, "topic": "Radiopropagação", "answer": "B", "q": "No cálculo da atenuação por chuva em um enlace de micro-ondas, são relevantes, entre outros fatores, a taxa de precipitação, a frequência, a polarização e o comprimento do percurso afetado. Qual grandeza abaixo NÃO entra diretamente nesse cálculo específico de atenuação por chuva?", "opts": {"A": "Frequência da portadora", "B": "Endereço IP do equipamento de rádio", "C": "Polarização do sinal", "D": "Taxa de precipitação", "E": "Comprimento efetivo do enlace sob chuva"}, "exp": "A atenuação por chuva é um fenômeno de propagação eletromagnética; endereço IP não participa do modelo físico."}, {"n": 4, "topic": "Antenas", "answer": "D", "q": "O diagrama normalizado de uma antena apresenta os pontos de meia potência (−3 dB) em −18° e +18° em torno do máximo do lóbulo principal. Na direção de 180°, o nível relativo é −14 dB. A largura de feixe de meia potência e a relação frente-costa valem, respectivamente,", "opts": {"A": "18° e 7 dB", "B": "28° e 14 dB", "C": "32° e 18 dB", "D": "36° e 14 dB", "E": "36° e 28 dB"}, "exp": "A HPBW é a separação angular entre os pontos de −3 dB: 18° − (−18°)=36°. Se o lóbulo traseiro está 14 dB abaixo do máximo frontal, a relação frente-costa é 14 dB."}, {"n": 5, "topic": "Radiopropagação", "answer": "A", "q": "Sobre difração e obstrução em enlaces terrestres, assinale a afirmação correta.", "opts": {"A": "A perda por difração depende da geometria do obstáculo, das distâncias envolvidas e do comprimento de onda.", "B": "A difração somente ocorre em enlaces por satélite.", "C": "Quanto maior a obstrução da primeira zona de Fresnel, menor tende a ser a perda adicional.", "D": "A curvatura da Terra jamais influencia enlaces em radiovisibilidade.", "E": "A difração independe da frequência."}, "exp": "A difração depende da geometria do enlace e do obstáculo, das distâncias e de λ. Obstruções importantes da 1ª zona de Fresnel tendem a aumentar a perda."}, {"n": 6, "topic": "Radiopropagação", "answer": "D", "q": "Em um modelo de propagação com raio direto e raio refletido no solo, para distâncias suficientemente grandes, a potência recebida pode decair aproximadamente com a quarta potência da distância. Nesse regime, pode-se escrever", "opts": {"A": "Pr ∝ d", "B": "Pr ∝ d⁻¹", "C": "Pr ∝ d⁻²", "D": "Pr ∝ d⁻⁴", "E": "Pr ∝ d⁻⁶"}, "exp": "No modelo de dois raios, em região assintótica, a potência recebida tende a variar como d⁻⁴, mais rapidamente que no espaço livre (d⁻²)."}, {"n": 7, "topic": "Ruído", "answer": "B", "q": "Para um receptor com temperatura equivalente T e largura de banda de ruído B, a potência de ruído térmico disponível é dada por N = kTB. Portanto, mantendo-se os demais parâmetros constantes,", "opts": {"A": "dobrar B reduz N à metade.", "B": "dobrar T dobra N.", "C": "N é independente da largura de banda.", "D": "N depende diretamente da frequência da portadora e não de B.", "E": "reduzir T aumenta N."}, "exp": "Como N=kTB, o ruído térmico é diretamente proporcional tanto à temperatura absoluta quanto à largura de banda."}, {"n": 8, "topic": "Sistemas Ópticos / SDH", "answer": "C", "q": "Na hierarquia SDH, o STM-1 possui taxa nominal e duração de quadro iguais, respectivamente, a", "opts": {"A": "51,84 Mb/s e 250 μs", "B": "155,52 Mb/s e 1 ms", "C": "155,52 Mb/s e 125 μs", "D": "622,08 Mb/s e 125 μs", "E": "2,048 Mb/s e 125 μs"}, "exp": "O STM-1 opera a 155,52 Mb/s e seu quadro tem 125 μs, correspondendo a 8000 quadros por segundo."}, {"n": 9, "topic": "Sistemas Ópticos / DWDM", "answer": "A", "q": "Em sistemas DWDM, um efeito não linear pode gerar novas componentes ópticas a partir da interação entre canais e produzir interferência sobre canais existentes. Esse fenômeno é conhecido como", "opts": {"A": "mistura de quatro ondas (FWM).", "B": "dispersão modal.", "C": "atenuação por curvatura.", "D": "espalhamento de Rayleigh.", "E": "dispersão cromática."}, "exp": "A Four-Wave Mixing é uma não linearidade relevante em DWDM e pode criar produtos espectrais que caem sobre canais válidos, gerando crosstalk."}, {"n": 10, "topic": "Sistemas Ópticos / SDH", "answer": "E", "q": "Considere as afirmações sobre SDH: I. O quadro STM-1 possui 9 linhas e 270 colunas. II. A duração do quadro permanece 125 μs nos níveis STM-N. III. STM-4 opera a aproximadamente 622,08 Mb/s. Está correto o que se afirma em", "opts": {"A": "I, apenas.", "B": "II, apenas.", "C": "I e II, apenas.", "D": "II e III, apenas.", "E": "I, II e III."}, "exp": "As três afirmações estão corretas: 9×270 bytes no STM-1, 125 μs por quadro e STM-4 = 4×155,52 = 622,08 Mb/s."}, {"n": 11, "topic": "Sistemas Ópticos", "answer": "C", "q": "Sobre TDM e WDM em redes ópticas, assinale a afirmação correta.", "opts": {"A": "WDM impede o transporte simultâneo de protocolos distintos em comprimentos de onda diferentes.", "B": "TDM e WDM são mutuamente exclusivos em um mesmo sistema.", "C": "WDM pode transportar canais ópticos independentes, e cada canal pode ainda utilizar multiplexação no tempo.", "D": "WDM elimina completamente a dispersão cromática.", "E": "TDM exige um laser diferente para cada slot de tempo."}, "exp": "É comum combinar WDM no domínio óptico com TDM dentro de cada comprimento de onda. WDM também pode ser transparente ao protocolo transportado."}, {"n": 12, "topic": "Sistemas Ópticos", "answer": "B", "q": "Comparando CWDM e DWDM, é correto afirmar que, em geral,", "opts": {"A": "CWDM utiliza espaçamentos menores entre canais que DWDM.", "B": "DWDM utiliza grade espectral mais densa que CWDM.", "C": "CWDM suporta obrigatoriamente mais canais que DWDM.", "D": "DWDM é uma técnica de multiplexação no tempo.", "E": "CWDM não utiliza diferentes comprimentos de onda."}, "exp": "DWDM emprega espaçamento espectral mais estreito e comporta maior densidade de canais. CWDM usa espaçamentos mais largos, tipicamente 20 nm."}, {"n": 13, "topic": "Sistemas Ópticos", "answer": "D", "q": "Um enlace óptico transmitia 1 mW e entregava −15 dBm ao receptor. Após manutenção, foi introduzida uma perda adicional de 3 dB, mas o transmissor foi substituído por outro de 2 mW. Se a sensibilidade do receptor é −18 dBm, o enlace", "opts": {"A": "deixa de funcionar, pois a potência recebida cai para −21 dBm.", "B": "deixa de funcionar, pois a potência recebida cai para −18 dBm.", "C": "funciona com potência recebida de −12 dBm.", "D": "funciona com potência recebida próxima de −15 dBm, com margem de cerca de 3 dB.", "E": "funciona com potência recebida de +3 dBm."}, "exp": "1 mW = 0 dBm e 2 mW ≈ +3 dBm. O aumento de potência (+3 dB) compensa a nova perda (−3 dB), mantendo aproximadamente −15 dBm. A margem sobre −18 dBm é 3 dB."}, {"n": 14, "topic": "Sistemas Ópticos / SDH", "answer": "A", "q": "Uma vantagem importante da SDH em relação a hierarquias plesiócronas é que", "opts": {"A": "permite acesso e inserção/retirada de tributários com arquitetura síncrona e forte padronização de gerência e transporte.", "B": "não permite transportar tributários de diferentes hierarquias.", "C": "dispensa completamente cabeçalhos de supervisão.", "D": "opera apenas com equipamentos de um único fabricante.", "E": "não suporta reconfiguração remota."}, "exp": "SDH foi concebida com forte padronização, multiplexação síncrona, facilidade de add/drop e recursos de operação, administração e manutenção."}, {"n": 15, "topic": "Wi‑Fi", "answer": "E", "q": "No IEEE 802.11 clássico, a função DCF e a função PCF diferem no acesso ao meio. Assinale a alternativa correta.", "opts": {"A": "DCF utiliza CSMA/CD.", "B": "PCF é obrigatoriamente usada em redes ad hoc.", "C": "ACK de uma recepção correta é enviado após DIFS.", "D": "DCF depende de polling centralizado pelo ponto de acesso.", "E": "PCF pode utilizar polling coordenado pelo ponto de acesso, enquanto DCF se baseia em CSMA/CA."}, "exp": "DCF é o acesso distribuído com CSMA/CA. PCF é uma função opcional coordenada pelo AP e utiliza polling."}, {"n": 16, "topic": "Wi‑Fi", "answer": "B", "q": "Uma característica introduzida no IEEE 802.11ax (Wi‑Fi 6) para melhorar a eficiência em ambientes densos é", "opts": {"A": "substituir CSMA/CA por CSMA/CD.", "B": "empregar OFDMA para dividir o canal em unidades de recurso entre múltiplos usuários.", "C": "operar exclusivamente em 60 GHz.", "D": "eliminar o uso de MIMO.", "E": "proibir transmissão simultânea para múltiplos usuários."}, "exp": "OFDMA é uma das principais características do 802.11ax, permitindo alocação de Resource Units a diferentes usuários."}, {"n": 17, "topic": "Wi‑Fi", "answer": "D", "q": "Em uma rede IEEE 802.11 em modo infraestrutura, dois ou mais BSS interligados por um sistema de distribuição formam um", "opts": {"A": "PDU.", "B": "VLAN trunk.", "C": "IBSS.", "D": "ESS.", "E": "BSSID secundário."}, "exp": "Um Extended Service Set (ESS) é formado por múltiplos BSS interligados por um Distribution System."}, {"n": 18, "topic": "Wi‑Fi", "answer": "C", "q": "Sobre segurança em redes IEEE 802.11, assinale a afirmação correta.", "opts": {"A": "WEP é considerado atualmente um mecanismo robusto contra ataques de recuperação de chave.", "B": "A autenticação Open System cifra obrigatoriamente todos os quadros de dados.", "C": "WPA2 com AES/CCMP oferece proteção significativamente superior ao WEP.", "D": "A criptografia Wi‑Fi é realizada exclusivamente na camada física.", "E": "WPA3 utiliza WEP como algoritmo criptográfico de base."}, "exp": "WEP possui vulnerabilidades conhecidas. WPA2 com AES/CCMP elevou significativamente a segurança das redes Wi‑Fi."}, {"n": 19, "topic": "Wi‑Fi", "answer": "A", "q": "O método de acesso ao meio usado pela função DCF do IEEE 802.11 é", "opts": {"A": "CSMA/CA.", "B": "CSMA/CD.", "C": "token passing.", "D": "TDMA fixo.", "E": "polling obrigatório."}, "exp": "O 802.11 DCF usa Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)."}, {"n": 20, "topic": "Wi‑Fi", "answer": "E", "q": "Considerando apenas sobreposição de faixas de frequência, qual equipamento tem menor probabilidade de interferir diretamente em uma WLAN operando exclusivamente em 2,4 GHz?", "opts": {"A": "forno de micro-ondas doméstico.", "B": "dispositivo Bluetooth clássico.", "C": "telefone sem fio de 2,4 GHz.", "D": "outro ponto de acesso 802.11b/g/n no mesmo canal.", "E": "terminal celular GSM operando em 900 MHz."}, "exp": "Bluetooth, micro-ondas e outras WLANs usam ou podem irradiar na faixa de 2,4 GHz. GSM 900 opera em outra faixa."}, {"n": 21, "topic": "SNMP", "answer": "B", "q": "Em uma arquitetura de gerenciamento baseada em SNMP, é correto afirmar que", "opts": {"A": "o agente nunca inicia comunicação com o gerente.", "B": "o gerente consulta variáveis de uma MIB e o agente pode também emitir notificações assíncronas.", "C": "SNMP opera diretamente na camada física.", "D": "GetRequest altera obrigatoriamente uma variável gerenciada.", "E": "SetRequest é usado apenas para descobrir rotas IP."}, "exp": "O gerente consulta/ajusta objetos da MIB e agentes podem enviar notificações como Trap ou Inform."}, {"n": 22, "topic": "Redes Locais", "answer": "D", "q": "Uma estação A e uma estação B estão ligadas a portas distintas de um switch Ethernet. As estações C, D e E estão conectadas a um hub que, por sua vez, está ligado a outra porta do switch. Nesse cenário,", "opts": {"A": "todas as estações pertencem necessariamente ao mesmo domínio de colisão.", "B": "cada porta do hub constitui um domínio de colisão separado.", "C": "o switch encaminha quadros exclusivamente com base em endereços IP.", "D": "C, D e E compartilham um domínio de colisão, enquanto as portas do switch segmentam os demais domínios.", "E": "cada porta do switch precisa possuir um endereço IP para comutar quadros."}, "exp": "O hub compartilha o meio entre suas portas; o switch cria domínios de colisão separados por porta."}, {"n": 23, "topic": "Redes IP", "answer": "C", "q": "Um roteador possui as rotas 10.10.0.0/16 via A, 10.10.32.0/19 via B, 10.10.40.0/24 via C e rota padrão via D. Um pacote destinado a 10.10.40.55 será encaminhado pela interface", "opts": {"A": "A, por ser a rota mais antiga.", "B": "B, por possuir menor distância administrativa.", "C": "C, por ser a correspondência de prefixo mais longo.", "D": "D, por ser a rota padrão.", "E": "será descartado por haver mais de uma rota compatível."}, "exp": "O encaminhamento IP usa longest prefix match. /24 é mais específico que /19 e /16."}, {"n": 24, "topic": "Redes Locais", "answer": "A", "q": "O padrão IEEE associado à família Ethernet para redes locais cabeadas é o", "opts": {"A": "IEEE 802.3.", "B": "IEEE 802.11.", "C": "IEEE 802.1X.", "D": "IEEE 802.15.4.", "E": "IEEE 802.16."}, "exp": "IEEE 802.3 especifica a família Ethernet."}, {"n": 25, "topic": "PoE", "answer": "E", "q": "No contexto do IEEE 802.3af, os equipamentos que fornecem e recebem energia por Ethernet são chamados, respectivamente, de", "opts": {"A": "AP e STA.", "B": "PE e CE.", "C": "DTE e DCE.", "D": "OLT e ONU.", "E": "PSE e PD."}, "exp": "PSE significa Power Sourcing Equipment; PD significa Powered Device."}, {"n": 26, "topic": "SNMP", "answer": "C", "q": "No SNMPv2, quando se deseja que uma notificação enviada pelo agente ao gerente tenha confirmação explícita de recebimento, utiliza-se normalmente uma PDU do tipo", "opts": {"A": "GetNextRequest.", "B": "SetRequest.", "C": "InformRequest.", "D": "GetBulkRequest.", "E": "Response."}, "exp": "Trap é tipicamente não confirmado. InformRequest foi definido para notificação com confirmação."}, {"n": 27, "topic": "VoIP / SIP", "answer": "B", "q": "Em uma chamada SIP típica, após o INVITE, o destino envia '180 Ringing' e, ao atender, '200 OK'. Em seguida, o originador normalmente envia", "opts": {"A": "BYE.", "B": "ACK.", "C": "REGISTER.", "D": "CANCEL.", "E": "OPTIONS."}, "exp": "O ACK confirma a resposta final 200 OK ao INVITE e completa o estabelecimento da sessão."}, {"n": 28, "topic": "VoIP", "answer": "D", "q": "Comparando SIP e H.323, assinale a afirmação correta.", "opts": {"A": "SIP utiliza apenas mensagens binárias e H.323 apenas texto ASCII.", "B": "H.323 transporta voz obrigatoriamente por TCP.", "C": "SIP não pode operar sobre UDP.", "D": "H.323 utiliza protocolos como Q.931 na sinalização, enquanto SIP emprega mensagens textuais e pode operar sobre UDP ou TCP.", "E": "SIP define obrigatoriamente todos os codecs de áudio e vídeo usados na sessão."}, "exp": "H.323 é uma suíte mais ampla e usa Q.931/H.225 na sinalização. SIP é textual e pode usar UDP ou TCP."}, {"n": 29, "topic": "QoS / Tempo Real", "answer": "A", "q": "Para voz interativa em tempo real, qual mecanismo tende a ser MENOS adequado quando provoca retransmissões tardias e aumento imprevisível do atraso fim a fim?", "opts": {"A": "ARQ com retransmissões repetidas de pacotes atrasados.", "B": "FEC para recuperação de parte dos erros sem retransmissão.", "C": "jitter buffer dimensionado adequadamente.", "D": "priorização de tráfego sensível a atraso.", "E": "codificação de voz com taxa compatível com o enlace."}, "exp": "Em tempo real, retransmissões tardias podem tornar o pacote inútil e elevar atraso/jitter. Por isso, FEC e tolerância controlada a perdas são frequentemente preferíveis."}, {"n": 30, "topic": "QoS", "answer": "E", "q": "Para um serviço de voz sobre IP interativo, qual conjunto de características é o mais desejável?", "opts": {"A": "alta perda, alto jitter e alta latência.", "B": "largura de banda elástica sem qualquer controle de atraso.", "C": "garantia de entrega com retransmissão ilimitada, mesmo com vários segundos de atraso.", "D": "grande variação de atraso, desde que não haja perda alguma.", "E": "baixa latência, baixo jitter, pequena taxa de perda e banda suficiente/gerenciada."}, "exp": "Voz interativa tolera alguma perda, mas é bastante sensível a latência e jitter. Banda suficiente e priorização ajudam a manter a qualidade."}, {"n": 31, "topic": "Codificação PCM", "answer": "D", "q": "Em PCM de voz, uma função não linear é aplicada antes de um quantizador uniforme para melhorar a relação sinal-ruído de quantização em sinais de pequena amplitude. Essa técnica é denominada", "opts": {"A": "interleaving.", "B": "scrambling.", "C": "equalização.", "D": "compansão (compressão no transmissor e expansão no receptor).", "E": "diversidade espacial."}, "exp": "As leis A e μ realizam compansão: comprimem a faixa dinâmica antes da quantização e expandem depois."}, {"n": 32, "topic": "TDM", "answer": "B", "q": "Em um TDM, cada slot possui duração Δ e é seguido por um intervalo de guarda de 15% de Δ. Tomando o início do primeiro slot como t₁ = 0, o início do n-ésimo slot é", "opts": {"A": "tₙ = nΔ.", "B": "tₙ = 1,15(n−1)Δ.", "C": "tₙ = 0,85nΔ.", "D": "tₙ = (n−1)Δ/1,15.", "E": "tₙ = 1,15nΔ + Δ."}, "exp": "Cada posição ocupa Δ + 0,15Δ = 1,15Δ. Como o primeiro slot começa em zero, tₙ=(n−1)×1,15Δ."}, {"n": 33, "topic": "Telefonia", "answer": "C", "q": "A respeito de sinalização telefônica, assinale a alternativa correta.", "opts": {"A": "QSIG foi criado como sinalização de linha analógica da rede pública comutada.", "B": "R2 é um protocolo de roteamento IP usado entre centrais.", "C": "QSIG é uma sinalização digital utilizada em interligação de redes/centrais privadas, derivada de conceitos de sinalização ISDN.", "D": "SS7 é um exemplo de sinalização de canal associado a cada circuito de voz.", "E": "DPNSS é um padrão de modulação de radiofrequência."}, "exp": "QSIG é voltado à interligação de redes privadas digitais/PBXs. SS7 é sinalização por canal comum, não CAS."}, {"n": 34, "topic": "Segurança / SSH", "answer": "A", "q": "Sobre SSH, assinale a afirmação INCORRETA.", "opts": {"A": "O protocolo envia obrigatoriamente usuário e senha em texto claro pela rede.", "B": "Pode ser usado em arquitetura cliente-servidor.", "C": "Permite encaminhamento de portas (tunneling).", "D": "SFTP pode operar sobre a infraestrutura segura do SSH.", "E": "Pode utilizar autenticação por chave pública."}, "exp": "SSH foi projetado justamente para proteger a sessão por criptografia; credenciais e tráfego não são enviados obrigatoriamente em claro."}, {"n": 35, "topic": "Firewall", "answer": "E", "q": "Um firewall permite: (1) da Internet para 172.16.10.20 TCP/443; (2) do host 198.51.100.8 para 172.16.10.30 TCP/22; (3) da rede interna para qualquer destino TCP/80 e TCP/443. Todo o restante é bloqueado. Qual afirmação é correta?", "opts": {"A": "qualquer host da Internet pode acessar SSH em 172.16.10.30.", "B": "hosts internos não podem navegar via HTTPS.", "C": "a Internet não pode acessar o servidor HTTPS 172.16.10.20.", "D": "qualquer host externo pode acessar qualquer porta em 172.16.10.20.", "E": "somente o host externo 198.51.100.8 está autorizado, pelas regras dadas, a iniciar SSH para 172.16.10.30."}, "exp": "A única regra externa para TCP/22 é específica ao endereço 198.51.100.8 e ao destino 172.16.10.30."}, {"n": 36, "topic": "QoS / DiffServ", "answer": "D", "q": "Na arquitetura DiffServ, considere: I. O DSCP identifica o tratamento desejado para o pacote. II. PHB descreve o comportamento por salto aplicado por um nó. III. Tráfegos classificados de forma equivalente podem ser agregados em uma mesma classe/behavior aggregate. Está correto o que se afirma em", "opts": {"A": "I, apenas.", "B": "II, apenas.", "C": "I e III, apenas.", "D": "I, II e III.", "E": "II e III, apenas."}, "exp": "DSCP, PHB e agregação de comportamentos são conceitos centrais da arquitetura DiffServ."}, {"n": 37, "topic": "TCP", "answer": "A", "q": "No TCP, um transmissor pode inferir perda de segmento e iniciar retransmissão rápida quando recebe", "opts": {"A": "três ACKs duplicados para o mesmo ponto da sequência, ou quando expira o temporizador de retransmissão.", "B": "uma mensagem ICMP Echo Reply.", "C": "um único ACK cumulativo novo.", "D": "um pacote ARP Request.", "E": "uma mensagem SNMP Trap."}, "exp": "A perda pode ser inferida por timeout; três ACKs duplicados são o gatilho clássico do fast retransmit."}, {"n": 38, "topic": "MPLS", "answer": "C", "q": "Sobre MPLS, assinale a alternativa correta.", "opts": {"A": "o encaminhamento MPLS é feito exclusivamente pelo endereço MAC de destino.", "B": "MPLS não pode ser usado em VPNs.", "C": "rótulos podem ser usados no encaminhamento, e a tecnologia pode suportar VPNs, QoS e engenharia de tráfego.", "D": "RSVP-TE é obrigatório em toda rede MPLS, inclusive quando não há engenharia de tráfego.", "E": "MPLS substitui completamente o protocolo IP em todos os enlaces."}, "exp": "MPLS usa labels e pode sustentar L2/L3 VPN, QoS e TE. RSVP-TE é uma opção para engenharia de tráfego, não requisito universal."}, {"n": 39, "topic": "IPv4", "answer": "B", "q": "No cabeçalho IPv4, os campos diretamente envolvidos na fragmentação e posterior remontagem são", "opts": {"A": "TTL, Protocolo e Checksum.", "B": "Identificação, Flags e Deslocamento de Fragmento.", "C": "Versão, IHL e DSCP.", "D": "Endereço de origem, endereço de destino e TTL.", "E": "Opções, DSCP e Protocolo."}, "exp": "Identification associa fragmentos do mesmo datagrama; Flags incluem DF/MF; Fragment Offset informa a posição do fragmento."}, {"n": 40, "topic": "Wi‑Fi / 802.11ax", "answer": "E", "q": "Em uma rede Wi‑Fi 6 com muitos clientes ativos, o uso de OFDMA traz como principal benefício", "opts": {"A": "eliminar a necessidade de qualquer controle de acesso ao meio.", "B": "transformar o enlace sem fio em full-duplex simultâneo na mesma frequência.", "C": "garantir que somente um usuário ocupe todo o canal em cada transmissão.", "D": "substituir endereços MAC por rótulos MPLS.", "E": "dividir o canal em unidades de recurso que podem ser atribuídas a usuários distintos, melhorando a eficiência em cenários densos."}, "exp": "OFDMA subdivide o canal em Resource Units, permitindo atender múltiplos usuários de forma mais eficiente."}];
+let pool = [...allQuestions];
+let idx = 0;
+let locked = false;
+let answers = [];
+let mode = "full";
+
+function render() {
+  const q = pool[idx];
+  document.getElementById("topic").textContent = q.topic;
+  document.getElementById("qnum").textContent = `Questão ${idx+1} de ${pool.length}`;
+  document.getElementById("bar").style.width = `${((idx)/pool.length)*100}%`;
+  document.getElementById("question").textContent = q.q;
+  const optBox = document.getElementById("options");
+  optBox.innerHTML = "";
+  for (const [letter,text] of Object.entries(q.opts)) {
+    const label = document.createElement("label");
+    label.className = "opt";
+    label.dataset.letter = letter;
+    label.innerHTML = `<input type="radio" name="answer" value="${letter}"><div><b>${letter})</b> ${text}</div>`;
+    optBox.appendChild(label);
+  }
+  const fb = document.getElementById("feedback");
+  fb.className = "feedback"; fb.innerHTML = "";
+  document.getElementById("checkBtn").disabled = false;
+  document.getElementById("nextBtn").disabled = true;
+  locked = false;
+}
+
+function checkAnswer() {
+  if (locked) return;
+  const q = pool[idx];
+  const selected = document.querySelector('input[name="answer"]:checked');
+  if (!selected) {
+    const fb = document.getElementById("feedback");
+    fb.className = "feedback bad";
+    fb.innerHTML = "<b>Marque uma alternativa antes de corrigir.</b>";
+    return;
+  }
+  locked = true;
+  const choice = selected.value;
+  const correct = choice === q.answer;
+  answers.push({n:q.n, topic:q.topic, choice, answer:q.answer, correct});
+  document.querySelectorAll(".opt").forEach(el => {
+    const l = el.dataset.letter;
+    if (l === q.answer) el.classList.add("correct");
+    if (l === choice && !correct) el.classList.add("wrong");
+    el.querySelector("input").disabled = true;
+  });
+  const fb = document.getElementById("feedback");
+  fb.className = "feedback " + (correct ? "ok" : "bad");
+  fb.innerHTML = `<b>${correct ? "Correta." : `Incorreta. Gabarito: ${q.answer}.`}</b><div class="explain">${q.exp}</div>`;
+  document.getElementById("checkBtn").disabled = true;
+  document.getElementById("nextBtn").disabled = false;
+}
+
+function nextQuestion() {
+  if (!locked) return;
+  idx++;
+  if (idx >= pool.length) return finish();
+  render();
+}
+
+function finish() {
+  document.getElementById("bar").style.width = "100%";
+  document.getElementById("quiz").style.display = "none";
+  document.getElementById("result").style.display = "block";
+  const correct = answers.filter(a => a.correct).length;
+  const total = answers.length;
+  const pct = Math.round(100*correct/total);
+  document.getElementById("score").textContent = `${correct}/${total}`;
+  document.getElementById("summary").textContent = `Aproveitamento: ${pct}%. O relatório abaixo mostra os tópicos que merecem revisão.`;
+
+  const byTopic = {};
+  answers.forEach(a => {
+    if(!byTopic[a.topic]) byTopic[a.topic] = {c:0,t:0};
+    byTopic[a.topic].t++;
+    if(a.correct) byTopic[a.topic].c++;
+  });
+  document.getElementById("topicStats").innerHTML = Object.entries(byTopic)
+    .map(([t,v]) => `<div class="stat"><div class="mini">${t}</div><b>${v.c}/${v.t}</b></div>`).join("");
+
+  const errors = answers.filter(a => !a.correct);
+  document.getElementById("missed").innerHTML = errors.length
+    ? `<div><b>Erros: ${errors.length}</b> — questões originais deste QTI: ${errors.map(e=>e.n).join(", ")}</div>`
+    : `<div><b>40/40.</b> Nenhuma questão para refazer.</div>`;
+}
+
+function retryMissed() {
+  const missedNs = new Set(answers.filter(a => !a.correct).map(a => a.n));
+  if (!missedNs.size) return;
+  pool = allQuestions.filter(q => missedNs.has(q.n));
+  idx = 0; answers = []; mode = "missed";
+  document.getElementById("result").style.display = "none";
+  document.getElementById("quiz").style.display = "block";
+  render();
+}
+
+function restart() {
+  pool = [...allQuestions]; idx=0; answers=[]; mode="full";
+  document.getElementById("result").style.display = "none";
+  document.getElementById("quiz").style.display = "block";
+  render();
+}
+
+document.addEventListener("keydown", e => {
+  if (document.getElementById("quiz").style.display === "none") return;
+  if (!locked && ["1","2","3","4","5"].includes(e.key)) {
+    const letters = ["A","B","C","D","E"];
+    const r = document.querySelector(`input[value="${letters[Number(e.key)-1]}"]`);
+    if (r) r.checked = true;
+  }
+  if (e.key === "Enter") {
+    if (!locked) checkAnswer(); else nextQuestion();
+  }
+});
+
+render();
+</script>
+</body>
+</html>
