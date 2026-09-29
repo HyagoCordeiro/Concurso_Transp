@@ -1,0 +1,113 @@
+{
+  "qti": "QTI-10",
+  "scope": "Geral — Engenharia de Telecomunicações",
+  "date": "2026-09-29T20:13:29.364Z",
+  "result": {
+    "correct": 10,
+    "total": 10,
+    "percentage": 100
+  },
+  "errors": [],
+  "confidence": {
+    "errors_high": 0,
+    "errors_medium": 0,
+    "errors_low": 0,
+    "correct_low": 1
+  },
+  "details": [
+    {
+      "q": 1,
+      "item": "Item 1 — Probabilidade",
+      "topic": "Probabilidade / complemento",
+      "response": "B",
+      "answer": "B",
+      "confidence": "Média",
+      "result": "ACERTO"
+    },
+    {
+      "q": 2,
+      "item": "Item 3 — Sinais e Sistemas",
+      "topic": "Amostragem / Nyquist",
+      "response": "D",
+      "answer": "D",
+      "confidence": "Alta",
+      "result": "ACERTO"
+    },
+    {
+      "q": 3,
+      "item": "Item 4 — Princípios de Telecomunicações",
+      "topic": "Modulação digital / eficiência espectral",
+      "response": "E",
+      "answer": "E",
+      "confidence": "Média",
+      "result": "ACERTO"
+    },
+    {
+      "q": 4,
+      "item": "Item 5 — Telefonia e Videoconferência",
+      "topic": "Erlang / tráfego",
+      "response": "A",
+      "answer": "A",
+      "confidence": "Alta",
+      "result": "ACERTO"
+    },
+    {
+      "q": 5,
+      "item": "Itens 6 e 7 — Antenas / Radiopropagação",
+      "topic": "Espaço livre / potência",
+      "response": "C",
+      "answer": "C",
+      "confidence": "Média",
+      "result": "ACERTO"
+    },
+    {
+      "q": 6,
+      "item": "Item 8 — Sistemas via Satélite",
+      "topic": "Órbita GEO",
+      "response": "B",
+      "answer": "B",
+      "confidence": "Alta",
+      "result": "ACERTO"
+    },
+    {
+      "q": 7,
+      "item": "Item 9 — Comunicações Celulares",
+      "topic": "LTE / múltiplo acesso",
+      "response": "D",
+      "answer": "D",
+      "confidence": "Alta",
+      "result": "ACERTO"
+    },
+    {
+      "q": 8,
+      "item": "Itens 10 e 11 — Redes",
+      "topic": "SNMP / gerenciamento",
+      "response": "E",
+      "answer": "E",
+      "confidence": "Baixa",
+      "result": "ACERTO"
+    },
+    {
+      "q": 9,
+      "item": "Item 12 — Sistemas Ópticos",
+      "topic": "DWDM / não linearidades",
+      "response": "A",
+      "answer": "A",
+      "confidence": "Média",
+      "result": "ACERTO"
+    },
+    {
+      "q": 10,
+      "item": "Item 13 — Regulamentação",
+      "topic": "Espectro / Anatel",
+      "response": "C",
+      "answer": "C",
+      "confidence": "Alta",
+      "result": "ACERTO"
+    }
+  ],
+  "diagnosis": {
+    "errors": "Nenhum erro de conteúdo.",
+    "attention": "SNMP / gerenciamento: revisar Trap x InformRequest devido à confiança baixa na Q8."
+  }
+}
