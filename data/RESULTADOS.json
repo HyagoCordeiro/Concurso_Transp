@@ -244,6 +244,18 @@
         }
       ],
       "observacao": "Itens: [6/6,3/4,2/5,5/5,3/3,4/4,3/4,3/3,3/3,4/4,3/4,3/3,2/2]. Planejado reforço de 2 questões por erro."
+    },
+    {
+      "id": "REF12-QTI50-2026-09-30",
+      "data": "2026-09-30",
+      "tipo": "REFORCO-12",
+      "titulo": "Reforço dirigido QTI-50 — 2 questões por erro",
+      "totalQuestoes": 12,
+      "acertos": 12,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "Bateria de questões respondidas no chat após QTI-50",
+      "observacao": "Fourier 2/2; Convolução discreta 2/2; Resposta ao degrau/Laplace 2/2; Estabilidade/polos 2/2; Fresnel 2/2; MPLS-TE 2/2. Reteste espaçado recomendado; a bateria de reforço isoladamente não comprova domínio integral."
     }
   ]
 }
