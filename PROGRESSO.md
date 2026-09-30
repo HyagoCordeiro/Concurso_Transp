@@ -89,3 +89,15 @@ Pontos de atenção: vocabulário; negação; conectores.
 ## Planejamento
 
 Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões vencidas, erros recorrentes, questões CESGRANRIO e consolidação.
+
+
+## Evidências — 29/09/2026
+
+- **QTI-5 Redes Locais:** 4/5; erro SNMP com baixa confiança.
+- **QTI-10 Geral Telecom:** 10/10; baixa confiança em SNMP/InformRequest apesar do acerto.
+- **QTI-30 Revisão Ativa Telecom:** 24/30; erros em probabilidade/complemento, Euler, PCM, diretividade, bandas de satélite e Wi-Fi 802.11b.
+- **Reforços dirigidos:** 10/12, 9/12, 3/6 e 3/4, respectivamente.
+- **Recuperações observadas:** satélite, probabilidade/complemento, PCM, Wi-Fi 2,4 GHz e conversão dBi/ganho linear.
+- **Ponto prioritário específico:** Euler: ângulo de referência medido até o eixo X e distinção seno/cosseno de 30° e 60°.
+- **QTI-10 Pronomes:** 8/10; revisar mesóclise (futuro do presente) e colocação em locuções verbais.
+- **Redes:** revisão breve de SNMP Trap versus InformRequest.
