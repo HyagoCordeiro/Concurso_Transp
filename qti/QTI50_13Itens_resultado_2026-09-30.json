@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI50-2026-09-30-01",
+  "date": "2026-09-30",
+  "type": "QTI-50",
+  "title": "QTI-50 — 13 itens CESGRANRIO Telecom",
+  "targetExam": "Transpetro 2026 — Engenharia de Telecomunicações",
+  "time": "44:26",
+  "timeSeconds": 2666,
+  "total": 50,
+  "correct": 44,
+  "wrong": 6,
+  "percent": 88,
+  "highConfidenceErrors": 0,
+  "itemStats": [
+    {
+      "item": 1,
+      "name": "Probabilidade e processos estocásticos",
+      "correct": 6,
+      "total": 6,
+      "percent": 100
+    },
+    {
+      "item": 2,
+      "name": "Matemática aplicada a sinais",
+      "correct": 3,
+      "total": 4,
+      "percent": 75
+    },
+    {
+      "item": 3,
+      "name": "Sinais e sistemas",
+      "correct": 2,
+      "total": 5,
+      "percent": 40
+    },
+    {
+      "item": 4,
+      "name": "Princípios de telecomunicações",
+      "correct": 5,
+      "total": 5,
+      "percent": 100
+    },
+    {
+      "item": 5,
+      "name": "Telefonia e videoconferência",
+      "correct": 3,
+      "total": 3,
+      "percent": 100
+    },
+    {
+      "item": 6,
+      "name": "Antenas",
+      "correct": 4,
+      "total": 4,
+      "percent": 100
+    },
+    {
+      "item": 7,
+      "name": "Radiopropagação",
+      "correct": 3,
+      "total": 4,
+      "percent": 75
+    },
+    {
+      "item": 8,
+      "name": "Satélites",
+      "correct": 3,
+      "total": 3,
+      "percent": 100
+    },
+    {
+      "item": 9,
+      "name": "Comunicações celulares",
+      "correct": 3,
+      "total": 3,
+      "percent": 100
+    },
+    {
+      "item": 10,
+      "name": "Redes locais",
+      "correct": 4,
+      "total": 4,
+      "percent": 100
+    },
+    {
+      "item": 11,
+      "name": "Redes IP",
+      "correct": 3,
+      "total": 4,
+      "percent": 75
+    },
+    {
+      "item": 12,
+      "name": "Sistemas ópticos",
+      "correct": 3,
+      "total": 3,
+      "percent": 100
+    },
+    {
+      "item": 13,
+      "name": "Regulamentação",
+      "correct": 2,
+      "total": 2,
+      "percent": 100
+    }
+  ],
+  "errors": [
+    {
+      "number": 9,
+      "item": 2,
+      "unit": "2.3",
+      "topic": "Fourier / deslocamento temporal",
+      "chosen": "C",
+      "answer": "D",
+      "confidence": null,
+      "mistake": "Sinal invertido no fator exponencial de um atraso: x(t−3) ↔ e^(−j3ω)X(ω)."
+    },
+    {
+      "number": 11,
+      "item": 3,
+      "unit": "3.3",
+      "topic": "Convolução discreta com índice negativo",
+      "chosen": "E",
+      "answer": "B",
+      "confidence": "Baixa",
+      "mistake": "Na convolução y[0], considerar h[0−k]; somar x[0]h[0]+x[1]h[−1]=2+2=4."
+    },
+    {
+      "number": 13,
+      "item": 3,
+      "unit": "3.1",
+      "topic": "Resposta ao degrau / Laplace",
+      "chosen": "E",
+      "answer": "A",
+      "confidence": "Baixa",
+      "mistake": "Para H(s)=4/(s+4), entrada degrau é 1/s; y(t)=1−e^(−4t), não a resposta natural isolada."
+    },
+    {
+      "number": 14,
+      "item": 3,
+      "unit": "3.4",
+      "topic": "Polos / estabilidade contínua",
+      "chosen": "C",
+      "answer": "B",
+      "confidence": null,
+      "mistake": "Sistema LIT racional contínuo causal é BIBO estável quando todos os polos têm parte real estritamente negativa."
+    },
+    {
+      "number": 30,
+      "item": 7,
+      "unit": "7",
+      "topic": "Primeira zona de Fresnel",
+      "chosen": "B",
+      "answer": "E",
+      "confidence": "Média",
+      "mistake": "r1 no meio do enlace = 3 m; desobstrução de 60%=1,8 m; altura necessária = 12+1,8=13,8 m."
+    },
+    {
+      "number": 43,
+      "item": 11,
+      "unit": "11.3",
+      "topic": "MPLS-TE / roteamento e sinalização",
+      "chosen": "A",
+      "answer": "C",
+      "confidence": null,
+      "mistake": "Ordem: OSPF-TE (ou IS-IS-TE) divulga atributos; RSVP-TE sinaliza/estabelece o LSP."
+    }
+  ],
+  "source": "Resultado e detalhamento enviados pelo usuário com duas capturas do HTML interativo.",
+  "plan": "12 questões autorais em 6 pares: 2 para cada um dos erros 9, 11, 13, 14, 30 e 43.",
+  "observation": "6/6 em probabilidade. 2/5 em sinais e sistemas, prioridade. A amostra de cada item é limitada; 100% em itens pequenos não equivale a todo o edital dominado."
+}
