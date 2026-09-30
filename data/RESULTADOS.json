@@ -174,6 +174,76 @@
           "gabarito": "E"
         }
       ]
+    },
+    {
+      "id": "QTI50-2026-09-30-01",
+      "data": "2026-09-30",
+      "tipo": "QTI-50",
+      "titulo": "QTI-50 — 13 itens CESGRANRIO Telecom",
+      "totalQuestoes": 50,
+      "acertos": 44,
+      "erros": 6,
+      "percentual": 88,
+      "duracao": "44:26",
+      "errosAltaConfianca": 0,
+      "origem": "relatório e capturas enviados pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "9",
+          "editalItem": "2",
+          "materia": "Matemática aplicada a sinais",
+          "topico": "Fourier / deslocamento temporal",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "confidence": null
+        },
+        {
+          "questionId": "11",
+          "editalItem": "3",
+          "materia": "Sinais e sistemas",
+          "topico": "Convolução discreta com índice negativo",
+          "respostaEscolhida": "E",
+          "gabarito": "B",
+          "confidence": "Baixa"
+        },
+        {
+          "questionId": "13",
+          "editalItem": "3",
+          "materia": "Sinais e sistemas",
+          "topico": "Resposta ao degrau / Laplace",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "confidence": "Baixa"
+        },
+        {
+          "questionId": "14",
+          "editalItem": "3",
+          "materia": "Sinais e sistemas",
+          "topico": "Polos / estabilidade contínua",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "confidence": null
+        },
+        {
+          "questionId": "30",
+          "editalItem": "7",
+          "materia": "Radiopropagação",
+          "topico": "Primeira zona de Fresnel",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "confidence": "Média"
+        },
+        {
+          "questionId": "43",
+          "editalItem": "11",
+          "materia": "Redes IP",
+          "topico": "MPLS-TE / roteamento e sinalização",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "confidence": null
+        }
+      ],
+      "observacao": "Itens: [6/6,3/4,2/5,5/5,3/3,4/4,3/4,3/3,3/3,4/4,3/4,3/3,2/2]. Planejado reforço de 2 questões por erro."
     }
   ]
 }
