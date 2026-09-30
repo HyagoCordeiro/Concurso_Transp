@@ -19,6 +19,84 @@
       "prioridade": "alta",
       "status": "PENDENTE",
       "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-2.3-2026-10-01-QTI50",
+      "unitId": "2.3",
+      "editalItem": "2",
+      "materia": "Matemática aplicada a sinais",
+      "topico": "Fourier / deslocamento temporal",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-3.3-2026-10-01-QTI50",
+      "unitId": "3.3",
+      "editalItem": "3",
+      "materia": "Sinais e sistemas",
+      "topico": "Convolução discreta com índices negativos",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-3.1-2026-10-01-QTI50",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "materia": "Sinais e sistemas",
+      "topico": "Resposta ao degrau / Laplace",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-3.4-2026-10-01-QTI50",
+      "unitId": "3.4",
+      "editalItem": "3",
+      "materia": "Sinais e sistemas",
+      "topico": "Polos e estabilidade contínua",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-7-2026-10-01-QTI50",
+      "unitId": "7",
+      "editalItem": "7",
+      "materia": "Radiopropagação",
+      "topico": "Primeira zona de Fresnel",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-11.3-2026-10-01-QTI50",
+      "unitId": "11.3",
+      "editalItem": "11",
+      "materia": "Redes IP",
+      "topico": "MPLS-TE: OSPF/IS-IS-TE versus RSVP-TE",
+      "motivo": "Erro no QTI-50 de 30/09/2026",
+      "origemResultado": "QTI50-2026-09-30-01",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
     }
   ]
 }
