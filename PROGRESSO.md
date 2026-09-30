@@ -101,3 +101,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Ponto prioritário específico:** Euler: ângulo de referência medido até o eixo X e distinção seno/cosseno de 30° e 60°.
 - **QTI-10 Pronomes:** 8/10; revisar mesóclise (futuro do presente) e colocação em locuções verbais.
 - **Redes:** revisão breve de SNMP Trap versus InformRequest.
+
+
+## Evidências — 30/09/2026
+
+- **QTI-50 dos 13 itens CESGRANRIO:** **44/50 (88%)**, em **44min26s**, com **6 erros e nenhum erro com confiança alta**.
+- **Resultados por item:** 1=6/6; 2=3/4; 3=2/5; 4=5/5; 5=3/3; 6=4/4; 7=3/4; 8=3/3; 9=3/3; 10=4/4; 11=3/4; 12=3/3; 13=2/2.
+- **Erros:** Q9 Fourier/deslocamento temporal; Q11 convolução discreta; Q13 resposta ao degrau/Laplace; Q14 polos/estabilidade; Q30 Fresnel; Q43 MPLS-TE.
+- **Prioridade identificada neste teste:** item 3 — Sinais e Sistemas (**2/5**), três dos seis erros.
+- **Reforço dirigido:** duas questões para cada erro (12 no total), seguido de revisão por desempenho. Taxas por item não devem ser tomadas como conclusão de todo o edital.
