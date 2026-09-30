@@ -27,6 +27,153 @@
         }
       ],
       "observacao": "Usuário informou placar 12/13 e item 2 para revisão."
+    },
+    {
+      "id": "QTI5-REDESLOCAIS-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "QTI-5",
+      "titulo": "Redes Locais / SNMP",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "itensErrados": [
+        {
+          "topico": "SNMP",
+          "confidence": "Baixa"
+        }
+      ]
+    },
+    {
+      "id": "QTI10-GERAL-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "QTI-10",
+      "titulo": "Geral Telecom",
+      "totalQuestoes": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100,
+      "observacao": "Q8 SNMP/InformRequest acertada com confiança baixa."
+    },
+    {
+      "id": "QTI30-TELECOM-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "QTI-30",
+      "titulo": "Revisão Ativa Telecom",
+      "totalQuestoes": 30,
+      "acertos": 24,
+      "erros": 6,
+      "percentual": 80,
+      "itensErrados": [
+        {
+          "questionId": "2",
+          "topico": "Complemento / sem reposição",
+          "respostaEscolhida": "B",
+          "gabarito": "C"
+        },
+        {
+          "questionId": "3",
+          "topico": "Euler",
+          "respostaEscolhida": "A",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "9",
+          "topico": "PCM",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "confidence": "Baixa"
+        },
+        {
+          "questionId": "15",
+          "topico": "Diretividade",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "confidence": "Baixa"
+        },
+        {
+          "questionId": "18",
+          "topico": "Bandas de satélite",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "confidence": "Alta"
+        },
+        {
+          "questionId": "23",
+          "topico": "Wi-Fi 802.11b",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "confidence": "Baixa"
+        }
+      ]
+    },
+    {
+      "id": "REF12-1-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "REFORCO-12",
+      "titulo": "Pós QTI-30",
+      "totalQuestoes": 12,
+      "acertos": 10,
+      "erros": 2,
+      "percentual": 83.3,
+      "observacao": "Satélite 3/3, probabilidade 2/2, PCM 2/2, antenas 2/2, Wi-Fi 1/2, Euler 0/1."
+    },
+    {
+      "id": "REF12-2-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "REFORCO-12",
+      "titulo": "Dois de cada erro",
+      "totalQuestoes": 12,
+      "acertos": 9,
+      "erros": 3,
+      "percentual": 75,
+      "observacao": "Wi-Fi 2/2, PCM 2/2, probabilidade 2/2, satélite 2/2, antenas 1/2, Euler 0/2."
+    },
+    {
+      "id": "REF6-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "REFORCO-6",
+      "titulo": "Euler e dBi",
+      "totalQuestoes": 6,
+      "acertos": 3,
+      "erros": 3,
+      "percentual": 50,
+      "observacao": "Euler 1/4 e dBi 2/2."
+    },
+    {
+      "id": "REF4-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "REFORCO-4",
+      "titulo": "Euler adicional",
+      "totalQuestoes": 4,
+      "acertos": 3,
+      "erros": 1,
+      "percentual": 75,
+      "observacao": "Sinais dos quadrantes compreendidos; revisar ângulo de referência e valores seno/cosseno 30°/60°."
+    },
+    {
+      "id": "QTI10-PRONOMES-2026-09-29",
+      "data": "2026-09-29",
+      "tipo": "QTI-10",
+      "titulo": "Pronomes / CESGRANRIO",
+      "totalQuestoes": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "itensErrados": [
+        {
+          "questionId": "3",
+          "topico": "Mesóclise com futuro do presente",
+          "respostaEscolhida": "A",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "10",
+          "topico": "Locução verbal",
+          "respostaEscolhida": "D",
+          "gabarito": "E"
+        }
+      ]
     }
   ]
 }
