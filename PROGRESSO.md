@@ -110,3 +110,13 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Erros:** Q9 Fourier/deslocamento temporal; Q11 convolução discreta; Q13 resposta ao degrau/Laplace; Q14 polos/estabilidade; Q30 Fresnel; Q43 MPLS-TE.
 - **Prioridade identificada neste teste:** item 3 — Sinais e Sistemas (**2/5**), três dos seis erros.
 - **Reforço dirigido:** duas questões para cada erro (12 no total), seguido de revisão por desempenho. Taxas por item não devem ser tomadas como conclusão de todo o edital.
+
+
+### Fechamento adicional — 30/09/2026
+- **QTI-5 Números Complexos:** **3/5 (60%)**. Erros em módulo/argumento (alta confiança) e produto na forma exponencial (baixa confiança). Revisão detalhada das 5 questões realizada.
+- **Sessão focada de Fourier:** Euler; pulso retangular e função Sa; deslocamento temporal; deslocamento em frequência; fase; modulação por seno/cosseno; convolução e composição de propriedades.
+- **Recuperação ativa:** houve confusão inicial entre deslocamento no tempo e modulação por exponencial; após micro-reparo, o usuário chegou corretamente a \(x(t-2)e^{j3t}\leftrightarrow X(\omega-3)e^{-j2(\omega-3)}\).
+- **Questões de fase/deslocamento:** 2 autorais análogas respondidas corretamente (2/2), além da questão-modelo resolvida corretamente.
+- **Transferência:** questão CESGRANRIO de modulação por cosseno correta; 2 autorais de transferência corretas.
+- **QTI-10 Fourier / Fixação:** **9/10 (90%)**, tempo **13:47**, média **83 s/questão**. Único erro classificado pelo próprio QTI como **Euler**.
+- **Próxima ação:** manter itens 2.1 e 2.3 **EM REVISÃO** e realizar **SPACED_RETEST** em 01/10; não considerar Fourier/Euler consolidados ainda.
