@@ -161,3 +161,10 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Transferência:** questão CESGRANRIO de modulação por cosseno correta; 2 autorais de transferência corretas.
 - **QTI-10 Fourier / Fixação:** **9/10 (90%)**, tempo **13:47**, média **83 s/questão**. Único erro classificado pelo próprio QTI como **Euler**.
 - **Próxima ação:** manter itens 2.1 e 2.3 **EM REVISÃO** e realizar **SPACED_RETEST** em 01/10; não considerar Fourier/Euler consolidados ainda.
+
+
+## Evidências — 01/10/2026
+
+- **QTI-10 Inglês — Private 5G / CESGRANRIO:** **10/10 (100%)**.
+- Texto de tecnologia/telecomunicações com foco em interpretação, referência textual, conectores, modal **may**, **likely to** e inferência.
+- **Sem erros no bloco.**
