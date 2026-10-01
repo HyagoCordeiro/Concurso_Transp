@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI10-FOURIER-FIXACAO-2026-09-30",
+  "date": "2026-09-30",
+  "type": "QTI-10",
+  "title": "QTI-10 — Fourier / Fixação CESGRANRIO",
+  "editalItem": "2.3",
+  "unitId": "2.3",
+  "total": 10,
+  "correct": 9,
+  "wrong": 1,
+  "percent": 90,
+  "time": "13:47",
+  "timeSeconds": 827,
+  "averageTimeSec": 83,
+  "errors": [
+    {
+      "topic": "Euler",
+      "chosen": null,
+      "answer": null,
+      "confidence": null,
+      "observation": "A captura final do QTI mostra 1 erro e o diagnóstico 'Reforçar: Euler'. O relatório detalhado não pôde ser copiado por erro de visualização; não inventar número da questão, alternativa ou confiança."
+    }
+  ],
+  "diagnosis": [
+    "Reforçar Euler.",
+    "Desempenho >=80% com erro: micro-reparo pontual e SPACED_RETEST."
+  ],
+  "source": "Captura de tela do resultado final enviada pelo usuário.",
+  "nextAction": "SPACED_RETEST"
+}
