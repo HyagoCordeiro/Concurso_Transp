@@ -319,6 +319,39 @@
       "percentual": 100,
       "origem": "captura de tela enviada pelo usuário",
       "observacao": "Texto autoral sobre private 5G networks and industrial operations; questões calibradas no estilo CESGRANRIO/QConcursos. Resultado perfeito: 10/10."
+    },
+    {
+      "id": "QTI10-PORTUGUES-CESGRANRIO-2026-09-30",
+      "data": "2026-09-30",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 — Português CESGRANRIO — Fechamento do dia",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "origem": "captura de tela enviada pelo usuário",
+      "desempenhoPorTopico": {
+        "Interpretação": "2/2",
+        "Progressão temática": "1/1",
+        "Inferência": "1/1",
+        "Vocabulário contextual": "1/1",
+        "Conectores": "1/1",
+        "Crase": "2/2",
+        "Ortografia e hífen": "0/1",
+        "Ortografia": "1/1"
+      },
+      "itensErrados": [
+        {
+          "questionId": "9",
+          "topico": "Ortografia e hífen",
+          "respostaEscolhida": null,
+          "gabarito": "C",
+          "confidence": null,
+          "observacao": "Questão sobre autocontrole / ex-cliente / microcrédito."
+        }
+      ],
+      "observacao": "Resultado final 9/10 (90%). Único erro em Ortografia e hífen. O botão 'Copiar resultado' do HTML não funcionou; resultado recuperado da captura enviada pelo usuário."
     }
   ]
 }
