@@ -116,6 +116,47 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **QTI-5 Números Complexos:** **3/5 (60%)**. Erros em módulo/argumento (alta confiança) e produto na forma exponencial (baixa confiança). Revisão detalhada das 5 questões realizada.
 - **Sessão focada de Fourier:** Euler; pulso retangular e função Sa; deslocamento temporal; deslocamento em frequência; fase; modulação por seno/cosseno; convolução e composição de propriedades.
 - **Recuperação ativa:** houve confusão inicial entre deslocamento no tempo e modulação por exponencial; após micro-reparo, o usuário chegou corretamente a \(x(t-2)e^{j3t}\leftrightarrow X(\omega-3)e^{-j2(\omega-3)}\).
+
+ 📍 Registro de Sessão de Estudo - Quiz Interativo (CESGRANRIO)
+
+- **Data:** 30/09/2026
+- **Matéria:** Língua Portuguesa (Transpetro 2026)
+- **Tópico:** Ortografia Oficial, Acentuação Gráfica e Novo Acordo
+- **Desempenho no Quiz:** 8 / 10 (80% de aproveitamento) 🚀
+
+---
+
+## 📊 Métricas de Desempenho
+
+| Métrica | Resultado |
+|---|---|
+| **Total de Questões** | 10 |
+| **Acertos** | 8 (80%) |
+| **Erros** | 2 (20%) |
+| **Evolução** | +30% em relação ao simulado inicial (50% ➔ 80%) |
+
+---
+
+## 🔍 Análise de Erros (Error Analysis)
+
+### 1. Hiato pós-ditongo em Paroxítonas vs. Oxítonas (*feiura* vs. *Piauí*)
+- **Conceito:** O Novo Acordo Ortográfico removeu o acento do *i* e *u* tônicos em hiato quando precedidos de ditongo **apenas em palavras paroxítonas** (ex.: *fei-u-ra*, *ba-i-u-ca*).
+- **Regra de Fixação:** Em palavras **oxítonas**, o acento no *i* ou *u* tônico em hiato após ditongo **permanece obrigatoriamente** (ex.: *Pi-au-í*, *te-i-ú*).
+
+### 2. Acento Diferencial Mantido pelo Novo Acordo
+- **Conceito:** A maioria dos acentos diferenciais foi abolida (*pelo, pela, polo, para*), mas alguns foram expressamente **mantidos**:
+  - **Pôde** (passado) $\neq$ **Pode** (presente)
+  - **Pôr** (verbo) $\neq$ **Por** (preposição)
+  - **Têm / Vêm** (plural) $\neq$ **Tem / Vem** (singular)
+
+---
+
+## 🔄 Plano de Repetição Espaçada & Próximos Passos
+- [x] Fixar a diferença entre oxítonas e paroxítonas na regra do hiato pós-ditongo.
+- [x] Memorizar os 3 casos principais de acento diferencial mantidos.
+- [ ] Iniciar o estudo do próximo tópico do edital (**Crase** ou **Regência Verbal/Nominal**).
+
+- [ ] 
 - **Questões de fase/deslocamento:** 2 autorais análogas respondidas corretamente (2/2), além da questão-modelo resolvida corretamente.
 - **Transferência:** questão CESGRANRIO de modulação por cosseno correta; 2 autorais de transferência corretas.
 - **QTI-10 Fourier / Fixação:** **9/10 (90%)**, tempo **13:47**, média **83 s/questão**. Único erro classificado pelo próprio QTI como **Euler**.
