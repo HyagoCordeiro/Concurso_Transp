@@ -256,6 +256,56 @@
       "percentual": 100,
       "origem": "Bateria de questões respondidas no chat após QTI-50",
       "observacao": "Fourier 2/2; Convolução discreta 2/2; Resposta ao degrau/Laplace 2/2; Estabilidade/polos 2/2; Fresnel 2/2; MPLS-TE 2/2. Reteste espaçado recomendado; a bateria de reforço isoladamente não comprova domínio integral."
+    },
+    {
+      "id": "QTI5-NUMCOMPLEX-2026-09-30",
+      "data": "2026-09-30",
+      "tipo": "QTI-5",
+      "titulo": "QTI-5 — Números Complexos / CESGRANRIO",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "origem": "relatório colado pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "4",
+          "topico": "Módulo e argumento",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "confidence": "Alta"
+        },
+        {
+          "questionId": "5",
+          "topico": "Produto na forma exponencial",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "confidence": "Baixa"
+        }
+      ],
+      "observacao": "Revisadas detalhadamente as 5 questões. Prioridades: argumento/quadrantes e produto na forma exponencial."
+    },
+    {
+      "id": "QTI10-FOURIER-FIXACAO-2026-09-30",
+      "data": "2026-09-30",
+      "tipo": "QTI-10",
+      "titulo": "QTI-10 — Fourier / Fixação CESGRANRIO",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "duracao": "13:47",
+      "tempoMedioSec": 83,
+      "origem": "captura do resultado final enviada pelo usuário",
+      "itensErrados": [
+        {
+          "topico": "Euler",
+          "respostaEscolhida": null,
+          "gabarito": null,
+          "confidence": null
+        }
+      ],
+      "observacao": "O relatório detalhado não pôde ser copiado por erro de visualização. A captura confirma 9/10, 1 erro e diagnóstico 'Reforçar: Euler'. Próxima ação: SPACED_RETEST."
     }
   ]
 }
