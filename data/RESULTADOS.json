@@ -306,6 +306,19 @@
         }
       ],
       "observacao": "O relatório detalhado não pôde ser copiado por erro de visualização. A captura confirma 9/10, 1 erro e diagnóstico 'Reforçar: Euler'. Próxima ação: SPACED_RETEST."
+    },
+    {
+      "id": "QTI10-INGLES-5G-2026-10-01",
+      "data": "2026-10-01",
+      "tipo": "QTI-10",
+      "disciplina": "Inglês",
+      "titulo": "QTI-10 — Inglês CESGRANRIO — Private 5G networks",
+      "totalQuestoes": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "captura de tela enviada pelo usuário",
+      "observacao": "Texto autoral sobre private 5G networks and industrial operations; questões calibradas no estilo CESGRANRIO/QConcursos. Resultado perfeito: 10/10."
     }
   ]
 }
