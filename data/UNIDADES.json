@@ -33,9 +33,28 @@
       "nome": "Operações com números complexos e com funções de variáveis complexas",
       "item": "2",
       "materia": "Matemática Aplicada a Sinais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-09-30",
+          "tipo": "QTI-5",
+          "resultado": "3/5 (60%)",
+          "nota": "Erros em módulo/argumento (alta confiança) e produto na forma exponencial; revisão detalhada realizada."
+        },
+        {
+          "data": "2026-09-30",
+          "tipo": "QTI-10 Fourier",
+          "resultado": "9/10 (90%)",
+          "nota": "Único erro classificado pelo QTI como Euler; relatório detalhado indisponível por falha de visualização."
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-01",
+          "status": "PENDENTE",
+          "motivo": "Reteste de Euler, argumento e forma exponencial"
+        }
+      ]
     },
     {
       "id": "2.2",
@@ -51,9 +70,34 @@
       "nome": "Série de Fourier; Transformada de Fourier; operações e propriedades",
       "item": "2",
       "materia": "Matemática Aplicada a Sinais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-09-30",
+          "tipo": "QTI-50",
+          "resultado": "ERRO em Fourier/deslocamento temporal",
+          "nota": "Q9 do QTI-50: sinal do fator exponencial de atraso."
+        },
+        {
+          "data": "2026-09-30",
+          "tipo": "SESSAO_FOCADA",
+          "resultado": "REPARO",
+          "nota": "Euler; pulso retangular/Sa; deslocamento temporal e em frequência; fase; modulação por seno/cosseno; convolução; composição de propriedades."
+        },
+        {
+          "data": "2026-09-30",
+          "tipo": "QTI-10",
+          "resultado": "9/10 (90%)",
+          "nota": "Fixação de Fourier; diagnóstico final indica reforçar Euler e realizar spaced retest."
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-01",
+          "status": "PENDENTE",
+          "motivo": "Reteste espaçado após reparo de Fourier/deslocamento"
+        }
+      ]
     },
     {
       "id": "2.4",
