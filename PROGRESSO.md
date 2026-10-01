@@ -168,3 +168,5 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **QTI-10 Inglês — Private 5G / CESGRANRIO:** **10/10 (100%)**.
 - Texto de tecnologia/telecomunicações com foco em interpretação, referência textual, conectores, modal **may**, **likely to** e inferência.
 - **Sem erros no bloco.**
+
+- **QTI-10 Português / CESGRANRIO:** **9/10 (90%)**. Acertos integrais em interpretação, progressão temática, inferência, vocabulário contextual, conectores, crase e ortografia geral. Único erro: **Q9 — Ortografia e hífen** (autocontrole / ex-cliente / microcrédito).
