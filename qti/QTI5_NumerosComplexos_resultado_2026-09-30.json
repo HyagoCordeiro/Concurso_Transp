@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI5-NUMCOMPLEX-2026-09-30",
+  "date": "2026-09-30",
+  "type": "QTI-5",
+  "title": "QTI-5 — Números Complexos / CESGRANRIO",
+  "editalItem": "2.1",
+  "unitId": "2.1",
+  "total": 5,
+  "correct": 3,
+  "wrong": 2,
+  "percent": 60,
+  "errors": [
+    {
+      "number": 4,
+      "topic": "Módulo e argumento",
+      "chosen": "B",
+      "answer": "E",
+      "confidence": "Alta",
+      "observation": "Módulo 2 identificado; erro no argumento. Para z=-1-j√3, quadrante III e argumento 240°."
+    },
+    {
+      "number": 5,
+      "topic": "Produto na forma exponencial",
+      "chosen": "E",
+      "answer": "A",
+      "confidence": "Baixa",
+      "observation": "Na multiplicação de exponenciais complexas, somam-se os expoentes; e^(jπ/3)e^(-j5π/6)=e^(-jπ/2)=-j."
+    }
+  ],
+  "diagnosis": "Reforçar argumento/quadrantes e produto/divisão na forma exponencial. Um erro foi cometido com alta confiança.",
+  "source": "Relatório colado pelo usuário no chat."
+}
