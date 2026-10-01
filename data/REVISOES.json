@@ -31,7 +31,8 @@
       "agendadaPara": "2026-10-01",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+      "plano": "Reteste espaçado após micro-reparo realizado em 30/09; foco em deslocamento temporal/frequência, fase e Euler.",
+      "evidenciaReparo": "30/09: reforço 2/2 em Fourier no REF12; estudo focado; QTI-10 Fourier 9/10, único erro classificado como Euler."
     },
     {
       "id": "REV-3.3-2026-10-01-QTI50",
@@ -97,6 +98,19 @@
       "prioridade": "média",
       "status": "PENDENTE",
       "plano": "micro-reparo + 2 questões de reforço + 1 reteste"
+    },
+    {
+      "id": "REV-2.1-EULER-2026-10-01",
+      "unitId": "2.1",
+      "editalItem": "2.1",
+      "materia": "Matemática Aplicada a Sinais",
+      "topico": "Euler, argumento e forma exponencial",
+      "motivo": "QTI-5 de números complexos 3/5 e QTI-10 Fourier 9/10 com único erro classificado como Euler",
+      "origemResultado": "QTI5-NUMCOMPLEX-2026-09-30 + QTI10-FOURIER-FIXACAO-2026-09-30",
+      "agendadaPara": "2026-10-01",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo curto de Euler/argumento + reteste de sinais e deslocamentos; manter D3/D7 conforme desempenho"
     }
   ]
 }
