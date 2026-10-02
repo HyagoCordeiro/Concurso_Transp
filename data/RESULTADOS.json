@@ -352,6 +352,42 @@
         }
       ],
       "observacao": "Resultado final 9/10 (90%). Único erro em Ortografia e hífen. O botão 'Copiar resultado' do HTML não funcionou; resultado recuperado da captura enviada pelo usuário."
+    },
+    {
+      "id": "SESSAO-SINAIS-2026-10-01",
+      "data": "2026-10-01",
+      "tipo": "SESSAO-DIRIGIDA",
+      "disciplina": "Matemática Aplicada a Sinais / Sinais e Sistemas",
+      "titulo": "Revisão extensa — Fourier, Convolução, Laplace, Z, Estabilidade, Nyquist e Resposta em Frequência",
+      "totalQuestoes": 80,
+      "respondidas": 78,
+      "acertos": 55,
+      "erros": 23,
+      "semResposta": 2,
+      "percentualRespondidas": 70.5,
+      "origem": "sessão interativa no chat com questões CESGRANRIO originais e autorais calibradas",
+      "desempenhoPorBloco": {
+        "Fourier reteste Q1-Q7": "5/7",
+        "Sinais/Convolução/Laplace/Estabilidade/Z Q8-Q27": "13/20",
+        "Fourier composição Q28-Q33": "5/6",
+        "Nyquist/Aliasing Q34-Q45": "10/12",
+        "Resposta em frequência Q46-Q80": "22 acertos / 33 respondidas; 2 sem resposta"
+      },
+      "pontosFortes": [
+        "Convolução discreta com índice negativo após reforço",
+        "Questão CESGRANRIO/Transpetro 2023 de resposta ao degrau",
+        "Recuperação de Fourier com deslocamento temporal e modulação",
+        "Nyquist após reforço",
+        "Reconhecimento de módulo e fase em resposta em frequência"
+      ],
+      "pontosDeAtencao": [
+        "Fronteira de estabilidade BIBO: eixo imaginário em s e círculo unitário em z",
+        "Diferenciar critério de estabilidade contínuo (parte real) e discreto (módulo)",
+        "Fase de quociente complexo: ângulo do numerador menos ângulo do denominador",
+        "Módulo de quociente complexo: módulo do numerador dividido pelo do denominador",
+        "Em Nyquist, maior frequência sem aliasing é Fs/2"
+      ],
+      "observacao": "Sessão longa e instrucional; percentual não deve ser comparado diretamente a um QTI/simulado fechado. Q80 correta: (4+j4)/(2-j2)=2e^{j90°}."
     }
   ]
 }
