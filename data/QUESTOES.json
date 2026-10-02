@@ -37,7 +37,14 @@
     "exactRepeatBlocked": true,
     "sameDayCorrectRepeatBlocked": true,
     "unseenPriority": true,
-    "shortageRule": "NUNCA reutilizar questão correta ainda bloqueada. Reduzir o QTI ou buscar/criar questões novas."
+    "shortageRule": "NUNCA reutilizar questão correta ainda bloqueada. Reduzir o QTI ou buscar/criar questões novas.",
+    "legacySafetyRule": "Enquanto o histórico antigo não tiver canonicalId completo, também cruzar candidatos com data/RESULTADOS.json e arquivos qti/ dos últimos 7 dias. Se não for possível provar que uma questão recente é inédita, tratá-la como BLOQUEADA e escolher outra.",
+    "preflightSources": [
+      "data/QUESTOES.json",
+      "data/RESULTADOS.json",
+      "qti/ (últimos 7 dias quando houver histórico sem canonicalId)"
+    ],
+    "requireCanonicalIdForNewQuestions": true
   },
   "questions": [
     {
