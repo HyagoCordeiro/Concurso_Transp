@@ -194,3 +194,10 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Recuperações confirmadas no reteste:** estabilidade BIBO, Euler/argumento, Fourier com atraso + deslocamento, convolução discreta, resposta ao degrau/Laplace, MPLS-TE e primeira zona de Fresnel.
 - **Sinais adicionais:** Binomial correta, porém lenta (**265 s**); eficiência espectral correta com **baixa confiança**.
 - **Ação pedagógica:** micro-reparo de Wi-Fi e MPLS/rótulos; em seguida **SPACED_RETEST**. Não reestudar capítulos inteiros.
+
+
+### Reforço pós-QTI-30 — 02/10/2026
+
+- **Wi-Fi 802.11 (item 10.1):** reforço 4/5 (**80%**). Erro localizado em faixa/compatibilidade do 802.11g; recuperação posterior em taxas e bandas. **Próxima ação: SPACED_RETEST**.
+- **MPLS (item 11.2):** reforço 4/5 (**80%**). Erro localizado na nomenclatura da tabela do LSR; recuperação posterior em rótulos e operações push/swap/pop. **Próxima ação: SPACED_RETEST**.
+- **Decisão:** encerrar reparo imediato dos dois erros do QTI-30; não reestudar capítulos inteiros.
