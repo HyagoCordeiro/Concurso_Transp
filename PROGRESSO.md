@@ -170,3 +170,18 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Sem erros no bloco.**
 
 - **QTI-10 Português / CESGRANRIO:** **9/10 (90%)**. Acertos integrais em interpretação, progressão temática, inferência, vocabulário contextual, conectores, crase e ortografia geral. Único erro: **Q9 — Ortografia e hífen** (autocontrole / ex-cliente / microcrédito).
+
+
+## Fechamento de estudo — 01/10/2026 (Sinais, Sistemas e Matemática Aplicada)
+
+- **Sessão longa de revisão dirigida:** 80 itens numerados ao longo do dia; 78 respondidos, **55 acertos**, **23 erros** e **2 sem resposta** (**70,5% entre as respondidas**). Sessão majoritariamente didática/autoral, portanto o percentual não deve ser tratado como simulado fechado.
+- **Q80:** correta — \(H(j\omega)=(4+j4)/(2-j2)=2e^{j90^\circ}\).
+- **Fourier / propriedades:** reteste inicial 5/7; reforço posterior 5/6. Melhor recuperação em deslocamento temporal + modulação por seno/cosseno; ainda houve erro ao substituir o argumento completo de \(X(\omega)\) e ao distinguir soma (cosseno) de diferença (seno).
+- **Convolução discreta:** bom desempenho no retorno, incluindo índice negativo e cálculo para \(n=3\); a questão 49 original CESGRANRIO/Transpetro 2023 foi respondida corretamente.
+- **Laplace / resposta ao degrau:** questão 69 original CESGRANRIO/Transpetro 2023 correta; reforçada a regra de valor final para sistema estável.
+- **Transformada Z:** questão 68 original CESGRANRIO/Transpetro 2023 trabalhada; houve erro inicial ao eliminar \(z^{-1}\), seguido de acerto na análoga. Regra consolidada: contínuo \(s\) → parte real dos polos; discreto \(z\) → módulo dos polos.
+- **Estabilidade:** ainda apareceram erros em casos de fronteira: polos no eixo imaginário (contínuo) e no círculo unitário (discreto) não são BIBO estáveis. Também houve confusão pontual entre critério em \(s\) e em \(z\).
+- **Nyquist / aliasing:** 10/12 no bloco Q34–Q45; após erros, recuperou a sequência \(T_s\to F_s=1/T_s\to F_{max}=F_s/2\). Questões originais CESGRANRIO de PCM/TDM usadas como referência.
+- **Resposta em frequência:** novo conteúdo iniciado. Aprendido: \(Y(j\omega)=H(j\omega)X(j\omega)\), módulo altera amplitude e fase soma ao argumento da entrada; identificação de passa-baixas/passa-altas de 1ª ordem; em \(\omega_c\), \(|H|=1/\sqrt2\), passa-baixas tem \(-45^\circ\) e passa-altas \(+45^\circ\).
+- **Ponto de atenção atual:** cálculo de fase e módulo de quocientes complexos — usar \(\angle H=\angle N-\angle D\) e \(|H|=|N|/|D|\), observando quadrantes e sinais.
+- **Próxima retomada sugerida:** consolidar resposta em frequência com 6–10 questões mistas CESGRANRIO/autorais e depois voltar ao restante do item 3 do edital.
