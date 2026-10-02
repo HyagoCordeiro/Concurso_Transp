@@ -332,3 +332,24 @@ Um QTI só está completo quando produz simultaneamente:
 6. JSON reutilizável pelo Orquestrador.
 
 Se produzir apenas perguntas, alternativas e nota final, **não atende ao padrão QTI do projeto**.
+
+
+---
+
+## Protocolo anti-repetição
+
+O arquivo `data/QUESTOES.json` é a **fonte obrigatória de elegibilidade** antes de montar qualquer QTI.
+
+### Regra obrigatória de seleção
+
+1. Identificar cada questão por `canonicalId` estável. Em questão original, usar banca/concurso/ano/número; em autoral/adaptada, usar ID único e fingerprint do enunciado quando possível.
+2. Questão respondida **corretamente** entra em bloqueio e só pode voltar após intervalo de **3, 5 ou 7 dias**, escolhido de forma aleatória. Acerto lento ou com baixa confiança pode usar 3 dias.
+3. Questão **errada** pode reaparecer imediatamente em modo `REPAIR` ou em reteste dirigido. Depois de acertada no reparo, aplicar cooldown mínimo de 3 dias.
+4. Em QTI misto, priorizar: **INÉDITAS → vencidas (due) → retestes de erros**.
+5. É proibido reutilizar questão correta ainda em cooldown apenas para completar a quantidade solicitada. Se o banco elegível for insuficiente, pesquisar novas questões CESGRANRIO/QConcursos ou criar questões autorais inéditas; se ainda faltar, reduzir o bloco e avisar.
+6. Antes de gerar HTML, validar todas as questões contra `data/QUESTOES.json`. Depois do QTI, atualizar `lastSeenAt`, `lastResult`, `cooldownDays` e `nextEligibleAt`.
+7. O botão **Refazer QTI** não deve reapresentar questões corretas da rodada recém-concluída; deve mostrar somente erros/reparos ainda elegíveis.
+
+### Objetivo pedagógico
+
+Evitar familiaridade artificial com enunciados recentes. O ganho deve vir de recuperação após intervalo, transferência e questões novas, não de memória visual da alternativa.
