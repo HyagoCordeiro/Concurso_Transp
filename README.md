@@ -36,6 +36,6 @@ A estratégia metodológica foi adaptada exclusivamente ao edital de **Engenhari
 
 ## Regra de continuidade
 
-Em qualquer novo chat deste projeto, este repositório deve ser tratado como a **fonte de verdade persistente** para o estado dos estudos. Antes de planejar uma sessão, consultar `PROGRESSO.md`, `data/EDITAL.json`, `data/UNIDADES.json` e `data/REVISOES.json`.
+Em qualquer novo chat deste projeto, este repositório deve ser tratado como a **fonte de verdade persistente** para o estado dos estudos. Antes de planejar uma sessão, consultar `PROGRESSO.md`, `data/EDITAL.json`, `data/UNIDADES.json`, `data/REVISOES.json` e **`data/QUESTOES.json`**. O banco de questões é obrigatório para impedir repetição precoce: acertos ficam bloqueados por 3/5/7 dias; erros podem entrar em reparo/reteste.
 
 **Prova-alvo:** 29/11/2026.
