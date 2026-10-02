@@ -185,3 +185,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Resposta em frequência:** novo conteúdo iniciado. Aprendido: \(Y(j\omega)=H(j\omega)X(j\omega)\), módulo altera amplitude e fase soma ao argumento da entrada; identificação de passa-baixas/passa-altas de 1ª ordem; em \(\omega_c\), \(|H|=1/\sqrt2\), passa-baixas tem \(-45^\circ\) e passa-altas \(+45^\circ\).
 - **Ponto de atenção atual:** cálculo de fase e módulo de quocientes complexos — usar \(\angle H=\angle N-\angle D\) e \(|H|=|N|/|D|\), observando quadrantes e sinais.
 - **Próxima retomada sugerida:** consolidar resposta em frequência com 6–10 questões mistas CESGRANRIO/autorais e depois voltar ao restante do item 3 do edital.
+
+
+## Evidências — 02/10/2026
+
+- **QTI-30 — 13 matérias mescladas:** **28/30 (93,3%)**, em **17min01s**, média de **34 s/questão**.
+- **Erros:** Q12 — IEEE 802.11 a/b/g (taxas teóricas), classificado como **MEMÓRIA** e baixa confiança; Q17 — MPLS (encaminhamento por **rótulos**), classificado como **MEMÓRIA**.
+- **Recuperações confirmadas no reteste:** estabilidade BIBO, Euler/argumento, Fourier com atraso + deslocamento, convolução discreta, resposta ao degrau/Laplace, MPLS-TE e primeira zona de Fresnel.
+- **Sinais adicionais:** Binomial correta, porém lenta (**265 s**); eficiência espectral correta com **baixa confiança**.
+- **Ação pedagógica:** micro-reparo de Wi-Fi e MPLS/rótulos; em seguida **SPACED_RETEST**. Não reestudar capítulos inteiros.
