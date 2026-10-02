@@ -68,3 +68,10 @@ Em 02/10/2026, o banco foi iniciado com:
 - 3 questões autorais de rendimento de AM.
 
 As questões corretas receberam cooldowns distribuídos entre 3/5/7 dias. Questões erradas permanecem candidatas a reteste dirigido e passam a cooldown após recuperação.
+
+
+## Regra de segurança para histórico legado
+
+Como parte das sessões anteriores foi registrada antes da criação de `canonicalId`, o histórico antigo pode não identificar todas as questões pelo número exato. Até esse legado ser absorvido, todo novo QTI deve cruzar o candidato também com `data/RESULTADOS.json` e com os resultados em `qti/` dos últimos 7 dias.
+
+Se não for possível demonstrar que uma questão potencialmente recente é inédita, ela deve ser tratada como **BLOQUEADA** e substituída por outra. Questões novas passam obrigatoriamente a ter `canonicalId` antes de entrar no QTI.
