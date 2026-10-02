@@ -388,6 +388,64 @@
         "Em Nyquist, maior frequência sem aliasing é Fs/2"
       ],
       "observacao": "Sessão longa e instrucional; percentual não deve ser comparado diretamente a um QTI/simulado fechado. Q80 correta: (4+j4)/(2-j2)=2e^{j90°}."
+    },
+    {
+      "id": "QTI30-20261002223014",
+      "data": "2026-10-02",
+      "tipo": "QTI-30",
+      "titulo": "QTI-30 — 13 matérias mescladas",
+      "totalQuestoes": 30,
+      "acertos": 28,
+      "erros": 2,
+      "percentual": 93.3,
+      "duracao": "17:01",
+      "tempoMedioSec": 34,
+      "origem": "JSON gerado pelo QTI HTML e enviado pelo usuário",
+      "sourceType": "MISTO_CESGRANRIO_RETEST_TRANSFER",
+      "nextAction": "SPACED_RETEST",
+      "itensErrados": [
+        {
+          "questionId": "Q12",
+          "editalItem": "10",
+          "unitId": "10.1",
+          "materia": "Redes Locais",
+          "topico": "IEEE 802.11 — taxas teóricas",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "confidence": "Baixa",
+          "responseTimeSec": 50,
+          "errorType": "MEMORIA"
+        },
+        {
+          "questionId": "Q17",
+          "editalItem": "11",
+          "unitId": "11.2",
+          "materia": "Redes IP",
+          "topico": "MPLS — rótulos",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "confidence": null,
+          "responseTimeSec": 20,
+          "errorType": "MEMORIA"
+        }
+      ],
+      "sinaisDiagnosticos": [
+        {
+          "questionId": "Q16",
+          "topico": "Distribuição binomial",
+          "signal": "ACERTO_LENTO",
+          "responseTimeSec": 265,
+          "confidence": "Alta"
+        },
+        {
+          "questionId": "Q23",
+          "topico": "Eficiência espectral",
+          "signal": "ACERTO_BAIXA_CONFIANCA",
+          "responseTimeSec": 33,
+          "confidence": "Baixa"
+        }
+      ],
+      "observacao": "Retestes anteriores de estabilidade BIBO, Euler, Fourier, convolução, MPLS-TE e Fresnel foram acertados. Reforço imediato indicado apenas para Wi-Fi 802.11 a/b/g e MPLS/rótulos; depois, reteste espaçado."
     }
   ]
 }
