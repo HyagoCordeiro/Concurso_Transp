@@ -445,7 +445,31 @@
           "confidence": "Baixa"
         }
       ],
-      "observacao": "Retestes anteriores de estabilidade BIBO, Euler, Fourier, convolução, MPLS-TE e Fresnel foram acertados. Reforço imediato indicado apenas para Wi-Fi 802.11 a/b/g e MPLS/rótulos; depois, reteste espaçado."
+      "observacao": "Retestes anteriores de estabilidade BIBO, Euler, Fourier, convolução, MPLS-TE e Fresnel foram acertados. Reforço imediato indicado apenas para Wi-Fi 802.11 a/b/g e MPLS/rótulos; depois, reteste espaçado.",
+      "repairResults": [
+        {
+          "materia": "Redes Locais",
+          "unitId": "10.1",
+          "topico": "IEEE 802.11 — taxas, faixa e compatibilidade",
+          "totalQuestoes": 5,
+          "acertos": 4,
+          "erros": 1,
+          "percentual": 80,
+          "nextAction": "SPACED_RETEST",
+          "observacao": "Erro inicial em compatibilidade/faixa do 802.11g; depois 4 acertos consecutivos em taxa/faixa."
+        },
+        {
+          "materia": "Redes IP",
+          "unitId": "11.2",
+          "topico": "MPLS — rótulos e operações push/swap/pop",
+          "totalQuestoes": 5,
+          "acertos": 4,
+          "erros": 1,
+          "percentual": 80,
+          "nextAction": "SPACED_RETEST",
+          "observacao": "Erro na nomenclatura da tabela do LSR (NHLFE/Next Hop Label Forwarding Table); depois acertos em rótulo, NHLFE, swap e pop."
+        }
+      ]
     }
   ]
 }
