@@ -111,6 +111,58 @@
       "prioridade": "alta",
       "status": "PENDENTE",
       "plano": "micro-reparo curto de Euler/argumento + reteste de sinais e deslocamentos; manter D3/D7 conforme desempenho"
+    },
+    {
+      "id": "REV-2.2-DIRAC-2026-10-02-QTI20",
+      "unitId": "2.2",
+      "editalItem": "2",
+      "materia": "Matemática Aplicada a Sinais",
+      "topico": "Impulso de Dirac — propriedade de amostragem",
+      "motivo": "Erro Q05 no QTI-20 de 02/10/2026",
+      "origemResultado": "QTI20-20261003004106",
+      "agendadaPara": "2026-10-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões inéditas/análogas + reteste espaçado"
+    },
+    {
+      "id": "REV-11.4-IPV6-2026-10-02-QTI20",
+      "unitId": "11.4",
+      "editalItem": "11",
+      "materia": "Redes IP",
+      "topico": "IPv6 — fragmentação",
+      "motivo": "Erro Q15 no QTI-20 de 02/10/2026",
+      "origemResultado": "QTI20-20261003004106",
+      "agendadaPara": "2026-10-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões inéditas/análogas + reteste espaçado"
+    },
+    {
+      "id": "REV-11.1-IGMPV1-2026-10-02-QTI20",
+      "unitId": "11.1",
+      "editalItem": "11",
+      "materia": "Redes IP",
+      "topico": "IGMPv1 — Membership Report",
+      "motivo": "Erro Q16 no QTI-20 de 02/10/2026",
+      "origemResultado": "QTI20-20261003004106",
+      "agendadaPara": "2026-10-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões inéditas/análogas + reteste espaçado"
+    },
+    {
+      "id": "REV-12.4-CWDM-2026-10-02-QTI20",
+      "unitId": "12.4",
+      "editalItem": "12",
+      "materia": "Sistemas Ópticos",
+      "topico": "CWDM — espaçamento entre canais",
+      "motivo": "Erro Q18 no QTI-20 de 02/10/2026",
+      "origemResultado": "QTI20-20261003004106",
+      "agendadaPara": "2026-10-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "micro-reparo + 2 questões inéditas/análogas + reteste espaçado"
     }
   ]
 }
