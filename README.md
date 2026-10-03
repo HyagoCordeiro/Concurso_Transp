@@ -87,3 +87,12 @@ Esta regra vale para **Telecomunicações, Português, Inglês e qualquer QTI/si
 ### Regra de formato dos QTI
 
 **QTI = HTML interativo por padrão.** Sempre que o usuário pedir um QTI, gerar arquivo HTML; não entregar apenas a bateria em texto no chat. Exceção somente quando o usuário pedir explicitamente formato textual.
+
+
+## Comandos persistentes
+
+O arquivo `data/COMANDOS.json` contém associações operacionais obrigatórias do projeto. A associação principal é:
+
+**QTI => HTML interativo**
+
+Essa regra deve ser aplicada automaticamente em novas conversas e sessões do projeto, salvo pedido explícito do usuário por outro formato.
