@@ -211,3 +211,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Próxima ação:** REPAIR_AND_RETEST apenas nos quatro erros, usando questões análogas/inéditas; não repetir os 16 acertos.
 
 - **QTI-10 Português / CESGRANRIO — 02/10/2026:** **8/10 (80%)**. Erros em **vocabulário contextual** (Q3: “favorecer” = facilitar) e **interpretação global** (Q10: rapidez × cautela dependem do contexto). Crase **2/2**, ortografia/hífen **2/2** no conjunto do teste.
+
+
+### Fechamento dos reparos do QTI-20 — 02/10/2026
+
+- **Dirac / propriedade de amostragem (item 2.2):** houve erros de execução no bloco inicial, mas o mini-reteste final foi **3/3**. Próxima ação: **SPACED_RETEST em 05/10**.
+- **IPv6 / fragmentação (item 11.4):** **2/2** no reparo. Regra recuperada: roteadores intermediários não fragmentam; a origem ajusta/fragmenta quando necessário. Próxima ação: **SPACED_RETEST em 05/10**.
+- **IGMPv1 (item 11.1):** **2/2** no reparo. Host = Membership Report; roteador = Membership Query. Próxima ação: **SPACED_RETEST em 05/10**.
+- **CWDM (item 12.4):** **2/2** no reparo. Fixado o espaçamento de **20 nm** e que CWDM não é limitado a dois canais. Próxima ação: **SPACED_RETEST em 05/10**.
+- **Protocolo anti-repetição:** questões usadas nos reparos foram registradas no banco e bloqueadas pelo respectivo cooldown; não repetir imediatamente.
