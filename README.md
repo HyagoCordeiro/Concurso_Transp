@@ -69,3 +69,16 @@ Para toda bateria, QTI, simulado ou revisão de **Língua Inglesa**:
 - Questões podem ser originais da prova ou inéditas no mesmo estilo, mas **não podem repetir enunciado, alternativas ou estrutura já usada recentemente**.
 - Manter o foco histórico da prova-alvo: **interpretação e inferência**, ideia central, referência pronominal/textual, vocabulário contextual, conectores, modal verbs e equivalência de sentido; gramática isolada apenas quando houver recorrência histórica clara.
 - Registrar cada novo texto e cada nova questão de Inglês no banco anti-repetição.
+
+
+## Regra global anti-repetição
+
+Esta regra vale para **Telecomunicações, Português, Inglês e qualquer QTI/simulado**:
+
+- antes de montar questões, consultar obrigatoriamente `data/QUESTOES.json`, `data/RESULTADOS.json` e o histórico recente em `qti/`;
+- questão já usada no mesmo dia fica bloqueada para outro QTI, salvo `REPAIR`/`RETEST` explicitamente identificado;
+- não repetir questão correta durante o cooldown de 3/5/7 dias;
+- não considerar inédita uma questão apenas porque números, nomes ou alternativas foram trocados;
+- em caso de dúvida sobre identidade ou uso recente, **bloquear e substituir**;
+- se faltar questão elegível, pesquisar nova CESGRANRIO/QConcursos, criar autoral genuinamente inédita ou reduzir o bloco;
+- bateria contaminada por repetição deve ser marcada e **não usada como medida longitudinal limpa de domínio**.
