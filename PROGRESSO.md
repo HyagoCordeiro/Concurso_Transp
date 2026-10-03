@@ -209,3 +209,5 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Erros:** item 2.2 — Impulso de Dirac/propriedade de amostragem; item 11.4 — IPv6/fragmentação; item 11.1 — IGMPv1/Membership Report; item 12.4 — CWDM/espaçamento entre canais.
 - **Protocolo anti-repetição aplicado:** 16 acertos bloqueados por 3/5/7 dias; 4 erros mantidos elegíveis para reparo dirigido imediato.
 - **Próxima ação:** REPAIR_AND_RETEST apenas nos quatro erros, usando questões análogas/inéditas; não repetir os 16 acertos.
+
+- **QTI-10 Português / CESGRANRIO — 02/10/2026:** **8/10 (80%)**. Erros em **vocabulário contextual** (Q3: “favorecer” = facilitar) e **interpretação global** (Q10: rapidez × cautela dependem do contexto). Crase **2/2**, ortografia/hífen **2/2** no conjunto do teste.
