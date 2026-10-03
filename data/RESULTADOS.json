@@ -484,7 +484,7 @@
       "tempoMedioSec": 10,
       "origem": "JSON gerado pelo QTI HTML e enviado pelo usuário",
       "sourceType": "MISTO_CESGRANRIO_INEDITAS_TRANSFER",
-      "nextAction": "REPAIR_AND_RETEST",
+      "nextAction": "SPACED_RETEST",
       "antiRepeat": true,
       "itensErrados": [
         {
@@ -532,7 +532,48 @@
           "errorType": "UNKNOWN"
         }
       ],
-      "observacao": "QTI sob protocolo anti-repetição. Os 16 acertos entram em cooldown 3/5/7 dias; os 4 erros permanecem elegíveis para reparo imediato."
+      "observacao": "QTI sob protocolo anti-repetição. Os 16 acertos entram em cooldown 3/5/7 dias; os 4 erros permanecem elegíveis para reparo imediato. Reparos dos quatro erros concluídos em 02/10; todos seguem para reteste espaçado em 05/10.",
+      "repairResults": [
+        {
+          "materia": "Matemática Aplicada a Sinais",
+          "unitId": "2.2",
+          "topico": "Impulso de Dirac — propriedade de amostragem",
+          "resultado": "RECUPERADO",
+          "evidencia": "Bloco com erros de execução seguido de mini-reteste final 3/3 correto.",
+          "nextAction": "SPACED_RETEST",
+          "retesteEm": "2026-10-05"
+        },
+        {
+          "materia": "Redes IP",
+          "unitId": "11.4",
+          "topico": "IPv6 — fragmentação",
+          "totalQuestoes": 2,
+          "acertos": 2,
+          "percentual": 100,
+          "nextAction": "SPACED_RETEST",
+          "retesteEm": "2026-10-05"
+        },
+        {
+          "materia": "Redes IP",
+          "unitId": "11.1",
+          "topico": "IGMPv1 — Membership Report/Query",
+          "totalQuestoes": 2,
+          "acertos": 2,
+          "percentual": 100,
+          "nextAction": "SPACED_RETEST",
+          "retesteEm": "2026-10-05"
+        },
+        {
+          "materia": "Sistemas Ópticos",
+          "unitId": "12.4",
+          "topico": "CWDM — espaçamento entre canais",
+          "totalQuestoes": 2,
+          "acertos": 2,
+          "percentual": 100,
+          "nextAction": "SPACED_RETEST",
+          "retesteEm": "2026-10-05"
+        }
+      ]
     },
     {
       "id": "QTI10-PORTUGUES-2026-10-02",
