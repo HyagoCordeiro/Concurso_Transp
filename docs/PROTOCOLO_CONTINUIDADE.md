@@ -40,3 +40,14 @@ Atualizar:
 ## Fonte de verdade
 
 Não confiar apenas em memória de conversa quando o repositório contiver informação mais recente.
+
+
+## Associações operacionais persistentes
+
+Antes de executar comandos padronizados do projeto, consultar `data/COMANDOS.json`.
+
+Regra crítica:
+- ao detectar o gatilho **QTI** em qualquer forma (QTI-5, QTI-10, QTI-20, QTI-30, QTI-50 etc.), aplicar automaticamente a associação definida em `data/COMANDOS.json`;
+- atualmente, **QTI => HTML interativo**;
+- não exigir que o usuário repita essa preferência em cada conversa;
+- exceção apenas quando o usuário pedir explicitamente formato textual.
