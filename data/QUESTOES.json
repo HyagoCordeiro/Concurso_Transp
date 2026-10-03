@@ -1070,5 +1070,103 @@
       "correctAnswer": "C",
       "confidence": null
     }
-  ]
+  ],
+  "portuguesePolicy": {
+    "enabled": true,
+    "sourcePriority": [
+      "Texto real de prova antiga CESGRANRIO confirmado no QConcursos",
+      "Transpetro/Petrobras",
+      "Banco do Brasil / Caixa / outros cargos de nível superior CESGRANRIO"
+    ],
+    "rules": [
+      "Não repetir texto já utilizado.",
+      "Não repetir questão já utilizada, exceto REPAIR/RETEST dirigido.",
+      "Antes de cada bloco de Português, cruzar data/QUESTOES.json, data/RESULTADOS.json e qti/.",
+      "Evitar texto autoral quando houver texto histórico adequado disponível.",
+      "Questões inéditas devem preservar o estilo CESGRANRIO sem repetir enunciados ou alternativas já usados.",
+      "Priorizar interpretação, inferência, progressão temática/coerência, vocabulário contextual, crase, ortografia/hífen e conectores.",
+      "Sintaxe isolada somente quando houver recorrência histórica clara."
+    ],
+    "usedTextsBlocklist": [
+      {
+        "title": "À moda brasileira",
+        "author": "Lygia Fagundes Telles",
+        "source": "CESGRANRIO/Transpetro 2023",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "Memórias Póstumas de Brás Cubas — trecho de Lobo Neves",
+        "author": "Machado de Assis",
+        "source": "CESGRANRIO/Transpetro 2018",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "O gigolô das palavras",
+        "author": "Luis Fernando Verissimo",
+        "source": "CESGRANRIO/Petrobras Telecom 2012",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "Aula de português",
+        "author": "Carlos Drummond de Andrade",
+        "source": "CESGRANRIO/Petrobras Telecom 2012",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "O Enfermeiro",
+        "author": "Machado de Assis",
+        "source": "já utilizado em treino",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "O Espelho",
+        "author": "Machado de Assis",
+        "source": "já utilizado/adaptado em QTI",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "O sucesso e Aristóteles",
+        "author": null,
+        "source": "QConcursos/CESGRANRIO — já utilizado em treino",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "Da conveniência à confiança",
+        "author": "autoral",
+        "source": "treino anterior",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "Quando a facilidade também exige atenção",
+        "author": "autoral",
+        "source": "treino anterior",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "A pausa necessária",
+        "author": "autoral",
+        "source": "QTI anterior",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "Quando a facilidade estimula o impulso",
+        "author": "autoral",
+        "source": "QTI anterior",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      },
+      {
+        "title": "O valor da demora",
+        "author": "autoral",
+        "source": "QTI 02/10/2026",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      }
+    ],
+    "preflightChecklist": [
+      "Pesquisar no QConcursos questão/texto CESGRANRIO adequado.",
+      "Confirmar que o texto pertence a prova antiga da CESGRANRIO.",
+      "Checar usedTextsBlocklist.",
+      "Checar canonicalIds e histórico recente das questões.",
+      "Só então montar o novo bloco."
+    ]
+  }
 }
