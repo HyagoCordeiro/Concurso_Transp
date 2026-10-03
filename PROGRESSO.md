@@ -220,3 +220,5 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **IGMPv1 (item 11.1):** **2/2** no reparo. Host = Membership Report; roteador = Membership Query. Próxima ação: **SPACED_RETEST em 05/10**.
 - **CWDM (item 12.4):** **2/2** no reparo. Fixado o espaçamento de **20 nm** e que CWDM não é limitado a dois canais. Próxima ação: **SPACED_RETEST em 05/10**.
 - **Protocolo anti-repetição:** questões usadas nos reparos foram registradas no banco e bloqueadas pelo respectivo cooldown; não repetir imediatamente.
+
+- **QTI-10 Português / CESGRANRIO — “A ciência da biodiversidade” (02/10/2026):** **10/10 (100%)**, nível **Excelente**. Sem erros. Texto histórico CESGRANRIO/Petrobras 2006; desempenho perfeito em interpretação, inferência, progressão temática, conectores, crase, hífen/ortografia e vocabulário contextual.
