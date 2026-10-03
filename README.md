@@ -82,3 +82,8 @@ Esta regra vale para **Telecomunicações, Português, Inglês e qualquer QTI/si
 - em caso de dúvida sobre identidade ou uso recente, **bloquear e substituir**;
 - se faltar questão elegível, pesquisar nova CESGRANRIO/QConcursos, criar autoral genuinamente inédita ou reduzir o bloco;
 - bateria contaminada por repetição deve ser marcada e **não usada como medida longitudinal limpa de domínio**.
+
+
+### Regra de formato dos QTI
+
+**QTI = HTML interativo por padrão.** Sempre que o usuário pedir um QTI, gerar arquivo HTML; não entregar apenas a bateria em texto no chat. Exceção somente quando o usuário pedir explicitamente formato textual.
