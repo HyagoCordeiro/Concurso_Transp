@@ -353,3 +353,18 @@ O arquivo `data/QUESTOES.json` é a **fonte obrigatória de elegibilidade** ante
 ### Objetivo pedagógico
 
 Evitar familiaridade artificial com enunciados recentes. O ganho deve vir de recuperação após intervalo, transferência e questões novas, não de memória visual da alternativa.
+
+
+## Regra obrigatória de entrega em HTML
+
+Sempre que o usuário pedir **QTI** (QTI-5, QTI-10, QTI-20, QTI-30, QTI-50, QTI-130 ou qualquer variação), a entrega padrão é **arquivo HTML interativo**.
+
+Regras:
+- não entregar o QTI apenas como texto no chat;
+- gerar o HTML com o padrão visual e funcional deste documento;
+- apresentar no chat somente uma mensagem curta com o link para abrir/baixar o HTML e, quando útil, uma observação breve;
+- manter uma questão por vez, correção imediata, progresso, resultado final e JSON para consolidação;
+- só usar formato textual quando o usuário pedir explicitamente "em texto", "aqui no chat" ou equivalente;
+- esta regra tem prioridade operacional sobre respostas ad hoc durante a sessão.
+
+Motivo: QTI é tratado neste projeto como **artefato interativo**, não como simples lista de questões.
