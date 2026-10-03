@@ -75,3 +75,18 @@ As questões corretas receberam cooldowns distribuídos entre 3/5/7 dias. Quest�
 Como parte das sessões anteriores foi registrada antes da criação de `canonicalId`, o histórico antigo pode não identificar todas as questões pelo número exato. Até esse legado ser absorvido, todo novo QTI deve cruzar o candidato também com `data/RESULTADOS.json` e com os resultados em `qti/` dos últimos 7 dias.
 
 Se não for possível demonstrar que uma questão potencialmente recente é inédita, ela deve ser tratada como **BLOQUEADA** e substituída por outra. Questões novas passam obrigatoriamente a ter `canonicalId` antes de entrar no QTI.
+
+
+## Incidente de 03/10/2026 — regra reforçada
+
+Durante o QTI-130 (10 questões para cada um dos 13 itens), houve repetição de numerosas questões já utilizadas, inclusive no mesmo dia. O evento foi marcado como **CONTAMINADO_POR_REPETICAO** e não deve alimentar métricas longitudinais de domínio com o mesmo peso de um QTI inédito.
+
+A partir deste incidente, valem adicionalmente as seguintes regras obrigatórias:
+
+1. **Bloqueio do mesmo dia:** qualquer questão vista no dia, correta ou incorreta, fica bloqueada para outro QTI/simulado no mesmo dia. Exceção apenas para `REPAIR` ou `RETEST` explicitamente anunciado.
+2. **Bloqueio por família:** trocar números, nomes ou ordem das alternativas não torna uma questão inédita se a estrutura lógica e o caminho de solução forem essencialmente os mesmos.
+3. **Preflight obrigatório:** antes de liberar qualquer bateria, cruzar candidatos com `data/QUESTOES.json`, `data/RESULTADOS.json` e arquivos de `qti/` dos últimos 7 dias.
+4. **Fail closed:** se a origem/identidade de uma questão não puder ser verificada, tratá-la como BLOQUEADA, não como inédita.
+5. **Sem preenchimento por repetição:** se faltarem questões elegíveis, pesquisar novas CESGRANRIO/QConcursos, criar questão autoral genuinamente nova ou reduzir o tamanho da bateria.
+6. **Diagnóstico contaminado:** se uma bateria escapar ao filtro e contiver repetição relevante, registrar `antiRepeatViolation=true`, `diagnosticValidity=CONTAMINADO_POR_REPETICAO` e excluir o resultado do cálculo longitudinal de domínio.
+7. **Prioridade de novidade:** em simulados diagnósticos, a meta é 100% de questões inéditas no período de cooldown. Reteste é uma atividade separada e deve ser rotulada.
