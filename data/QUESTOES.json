@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "prioridadeFontes": [
     "CESGRANRIO — Transpetro Telecom",
     "CESGRANRIO — Petrobras Telecom",
@@ -45,7 +45,18 @@
       "qti/ (últimos 7 dias quando houver histórico sem canonicalId)"
     ],
     "requireCanonicalIdForNewQuestions": true,
-    "assignedQuestionRule": "Questões selecionadas para um QTI ainda não respondido ficam bloqueadas para outros QTIs até a consolidação."
+    "assignedQuestionRule": "Questões selecionadas para um QTI ainda não respondido ficam bloqueadas para outros QTIs até a consolidação.",
+    "sameDayAnyRepeatBlocked": true,
+    "sameDayExceptionOnly": [
+      "REPAIR",
+      "RETEST"
+    ],
+    "familyRepeatBlocked": true,
+    "familyIdentityRule": "Mudança de valores, nomes, ordem de alternativas ou cosmética não cria questão inédita quando estrutura lógica/caminho de solução permanecem essencialmente iguais.",
+    "failClosedOnUncertainIdentity": true,
+    "longitudinalContaminationRule": "Bateria com repetição relevante recebe antiRepeatViolation=true e diagnosticValidity=CONTAMINADO_POR_REPETICAO; não usar no mastery longitudinal.",
+    "preflightMandatory": true,
+    "preflightLookbackDays": 7
   },
   "questions": [
     {
