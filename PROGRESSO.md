@@ -201,3 +201,11 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Wi-Fi 802.11 (item 10.1):** reforço 4/5 (**80%**). Erro localizado em faixa/compatibilidade do 802.11g; recuperação posterior em taxas e bandas. **Próxima ação: SPACED_RETEST**.
 - **MPLS (item 11.2):** reforço 4/5 (**80%**). Erro localizado na nomenclatura da tabela do LSR; recuperação posterior em rótulos e operações push/swap/pop. **Próxima ação: SPACED_RETEST**.
 - **Decisão:** encerrar reparo imediato dos dois erros do QTI-30; não reestudar capítulos inteiros.
+
+
+### QTI-20 anti-repetição — 02/10/2026
+
+- **Resultado:** **16/20 (80%)**, em **3min20s**, média de **10 s/questão**.
+- **Erros:** item 2.2 — Impulso de Dirac/propriedade de amostragem; item 11.4 — IPv6/fragmentação; item 11.1 — IGMPv1/Membership Report; item 12.4 — CWDM/espaçamento entre canais.
+- **Protocolo anti-repetição aplicado:** 16 acertos bloqueados por 3/5/7 dias; 4 erros mantidos elegíveis para reparo dirigido imediato.
+- **Próxima ação:** REPAIR_AND_RETEST apenas nos quatro erros, usando questões análogas/inéditas; não repetir os 16 acertos.
