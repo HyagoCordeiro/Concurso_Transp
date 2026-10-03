@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-03",
+  "purpose": "Associações operacionais persistentes do projeto Estudo - Concurso.",
+  "commands": {
+    "QTI": {
+      "trigger": "QTI",
+      "aliases": [
+        "QTI-5",
+        "QTI-10",
+        "QTI-20",
+        "QTI-30",
+        "QTI-40",
+        "QTI-50",
+        "QTI-130"
+      ],
+      "outputFormat": "HTML_INTERATIVO",
+      "mandatory": true,
+      "defaultBehavior": "Sempre gerar e entregar um arquivo HTML interativo. Não entregar o QTI apenas como lista de questões no chat.",
+      "exceptions": [
+        "Somente quando o usuário pedir explicitamente em texto.",
+        "Somente quando o usuário pedir explicitamente para responder diretamente no chat."
+      ],
+      "requiredFeatures": [
+        "uma questão por vez",
+        "alternativas A-E clicáveis",
+        "correção imediata",
+        "explicação da resposta",
+        "contador e barra de progresso",
+        "resultado final",
+        "JSON para consolidação",
+        "protocolo anti-repetição antes da seleção das questões"
+      ],
+      "precedence": "HIGH"
+    }
+  }
+}
