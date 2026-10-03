@@ -239,3 +239,13 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Resultados por assunto:** Probabilidade 3/4; Matemática Aplicada a Sinais 3/4; Sinais e Sistemas 3/4; Princípios de Telecomunicações 3/5; Telefonia/Videoconferência 3/3; Antenas 4/4; Radiopropagação 5/5; Satélite 2/3; Celulares 2/3; Redes Locais 3/4; Redes IP 4/5; Sistemas Ópticos 4/4; Regulamentação 2/2.
 - **Erros:** IDs 2, 8, 11, 13, 17, 32, 34, 38 e 44.
 - **Confiança:** nenhum erro com confiança alta; oito erros com confiança 3 e um com confiança 2.
+
+
+### QTI-130 — 13 itens — 03/10/2026
+
+- **Resultado bruto:** 104/130 (**80,0%**).
+- **Por item:** 1=4/10; 2=8/10; 3=8/10; 4=7/10; 5=10/10; 6=9/10; 7=9/10; 8=8/10; 9=8/10; 10=9/10; 11=9/10; 12=6/10; 13=9/10.
+- **Prioridades aparentes:** Probabilidade; Sistemas Ópticos (fibra/SDH); convolução; fonte × canal; GSM/UMTS/LTE.
+- **Auditoria:** o usuário identificou numerosas questões repetidas, inclusive questões usadas nos simulados da manhã do mesmo dia.
+- **Classificação metodológica:** `CONTAMINADO_POR_REPETICAO`. Preservar o 104/130 como registro bruto de revisão, mas **não usar este percentual como evidência longitudinal limpa de domínio**.
+- **Correção de processo:** protocolo anti-repetição reforçado para bloquear qualquer reutilização no mesmo dia, bloquear famílias/análogas cosméticas, operar em modo fail-closed quando a identidade for incerta e exigir preflight contra `QUESTOES.json`, `RESULTADOS.json` e `qti/`.
