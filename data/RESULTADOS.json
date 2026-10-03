@@ -624,6 +624,51 @@
       },
       "itensErrados": [],
       "observacao": "Resultado perfeito. Sem erros. Texto histórico CESGRANRIO/Petrobras 2006, não repetido no histórico recente."
+    },
+    {
+      "id": "QTI10-INGLES-TRANSPETRO2023-2026-10-02",
+      "data": "2026-10-02",
+      "tipo": "QTI-10",
+      "disciplina": "Inglês",
+      "titulo": "QTI-10 — Inglês CESGRANRIO — How space technology is bringing green wins for transport",
+      "totalQuestoes": 10,
+      "acertos": 7,
+      "erros": 3,
+      "percentual": 70,
+      "origem": "captura de tela enviada pelo usuário",
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "textoBase": {
+        "titulo": "How space technology is bringing green wins for transport",
+        "fonte": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações"
+      },
+      "itensErrados": [
+        {
+          "questionId": "Q3",
+          "canonicalId": "CESGRANRIO-TRANSPETRO-2023-ING-Q13",
+          "topico": "Inferência — transmissão/conectividade",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "observacao": "O trecho trata da limitação de transmissão/conectividade das tecnologias terrestres."
+        },
+        {
+          "questionId": "Q4",
+          "canonicalId": "CESGRANRIO-TRANSPETRO-2023-ING-Q14",
+          "topico": "Inferência — custo/acesso",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "observacao": "'Booming' + 'driving down the cost' indica maior acesso associado a menor preço."
+        },
+        {
+          "questionId": "Q7",
+          "canonicalId": "CESGRANRIO-TRANSPETRO-2023-ING-Q17",
+          "topico": "Inferência — energia",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "observacao": "O texto afirma que os modelos ajudam a gerir um fluxo consistente de energia verde."
+        }
+      ],
+      "nextAction": "REPAIR_AND_RETEST",
+      "observacao": "Texto e 10 questões históricas da CESGRANRIO/Transpetro 2023. Erros concentrados em inferência; acertos em ideia central, conector however, low latency, referência which e vocabulário pivotal/state-of-the-art."
     }
   ]
 }
