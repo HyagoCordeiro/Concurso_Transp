@@ -1317,11 +1317,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-10-05",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q02",
@@ -1332,11 +1333,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-10-07",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q03",
@@ -1347,11 +1349,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
+      "lastResult": "INCORRETA",
       "cooldownDays": 0,
-      "nextEligibleAt": null,
-      "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "nextEligibleAt": "2026-10-03",
+      "eligibleNow": true,
+      "note": "Erro no QTI-10 de Inglês; elegível para reparo/reteste dirigido. Não reutilizar em bloco misto como repetição comum.",
+      "status": "ELIGIBLE_FOR_REPAIR"
     },
     {
       "id": "QTI10-ING-20261002-Q04",
@@ -1362,11 +1365,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
+      "lastResult": "INCORRETA",
       "cooldownDays": 0,
-      "nextEligibleAt": null,
-      "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "nextEligibleAt": "2026-10-03",
+      "eligibleNow": true,
+      "note": "Erro no QTI-10 de Inglês; elegível para reparo/reteste dirigido. Não reutilizar em bloco misto como repetição comum.",
+      "status": "ELIGIBLE_FOR_REPAIR"
     },
     {
       "id": "QTI10-ING-20261002-Q05",
@@ -1377,11 +1381,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-09",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q06",
@@ -1392,11 +1397,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-10-05",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q07",
@@ -1407,11 +1413,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
+      "lastResult": "INCORRETA",
       "cooldownDays": 0,
-      "nextEligibleAt": null,
-      "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "nextEligibleAt": "2026-10-03",
+      "eligibleNow": true,
+      "note": "Erro no QTI-10 de Inglês; elegível para reparo/reteste dirigido. Não reutilizar em bloco misto como repetição comum.",
+      "status": "ELIGIBLE_FOR_REPAIR"
     },
     {
       "id": "QTI10-ING-20261002-Q08",
@@ -1422,11 +1429,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-10-07",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q09",
@@ -1437,11 +1445,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-09",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-ING-20261002-Q10",
@@ -1452,11 +1461,12 @@
       "source": "CESGRANRIO / Transpetro / 2023 — Engenharia de Telecomunicações",
       "textId": "CESGRANRIO-TRANSPETRO-2023-SPACE-TECH-GREEN-WINS",
       "lastSeenAt": "2026-10-02",
-      "lastResult": "ASSIGNED",
-      "cooldownDays": 0,
-      "nextEligibleAt": null,
+      "lastResult": "CORRETA",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-10-05",
       "eligibleNow": false,
-      "note": "Questão atribuída ao QTI-10 de Inglês; bloquear até consolidação do resultado."
+      "note": "Acerto no QTI-10 de Inglês; bloqueado pelo protocolo anti-repetição até nextEligibleAt.",
+      "status": "COOLDOWN"
     },
     {
       "id": "QTI10-PORT-REAL-2006-Q1761",
@@ -1695,6 +1705,28 @@
       "Checar usedTextsBlocklist.",
       "Checar canonicalIds e histórico recente das questões.",
       "Só então montar o novo bloco."
+    ]
+  },
+  "englishPolicy": {
+    "enabled": true,
+    "sourcePriority": [
+      "Texto real de prova antiga CESGRANRIO confirmado no QConcursos",
+      "Transpetro/Petrobras",
+      "Banco do Brasil / Caixa / outros cargos de nível superior CESGRANRIO"
+    ],
+    "rules": [
+      "Não repetir texto já utilizado.",
+      "Não repetir questão já utilizada, exceto REPAIR/RETEST dirigido.",
+      "Antes de cada bloco de Inglês, cruzar data/QUESTOES.json, data/RESULTADOS.json e qti/.",
+      "Evitar texto autoral quando houver texto histórico adequado disponível.",
+      "Priorizar interpretação, inferência, ideia central, referência pronominal/textual, vocabulário contextual, conectores e modal verbs."
+    ],
+    "usedTextsBlocklist": [
+      {
+        "title": "How space technology is bringing green wins for transport",
+        "source": "CESGRANRIO/Transpetro 2023 — Engenharia de Telecomunicações",
+        "status": "BLOQUEADO_PARA_REPETICAO"
+      }
     ]
   }
 }
