@@ -222,3 +222,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Protocolo anti-repetição:** questões usadas nos reparos foram registradas no banco e bloqueadas pelo respectivo cooldown; não repetir imediatamente.
 
 - **QTI-10 Português / CESGRANRIO — “A ciência da biodiversidade” (02/10/2026):** **10/10 (100%)**, nível **Excelente**. Sem erros. Texto histórico CESGRANRIO/Petrobras 2006; desempenho perfeito em interpretação, inferência, progressão temática, conectores, crase, hífen/ortografia e vocabulário contextual.
+
+
+### QTI-10 Inglês histórico — 02/10/2026
+
+- **CESGRANRIO/Transpetro 2023 — Engenharia de Telecomunicações:** **7/10 (70%)**.
+- Texto real: **“How space technology is bringing green wins for transport”**.
+- **Erros:** Q3 — inferência sobre transmissão/conectividade terrestre; Q4 — inferência sobre expansão do mercado e redução de custos; Q7 — inferência sobre fluxo consistente de energia verde.
+- **Acertos:** ideia central, **however = opposition**, **low latency**, referência de **which**, **pivotal = essential**, automated driving/space technology e **state-of-the-art = cutting-edge**.
+- **Próxima ação:** micro-reparo apenas das 3 inferências erradas e posterior **SPACED_RETEST**; não repetir o texto nem os 7 acertos antes do cooldown.
