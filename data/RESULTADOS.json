@@ -604,6 +604,26 @@
         }
       ],
       "observacao": "Acertos em progressão temática, conectores, inferência, crase (2/2), ortografia e hífen (1/1) e ortografia (1/1)."
+    },
+    {
+      "id": "QTI10-PORTUGUES-BIODIVERSIDADE-2026-10-02",
+      "data": "2026-10-02",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 — Português CESGRANRIO — A ciência da biodiversidade",
+      "totalQuestoes": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100,
+      "nivel": "Excelente",
+      "origem": "resultado textual enviado pelo usuário",
+      "textoBase": {
+        "titulo": "A ciência da biodiversidade",
+        "autora": "Ana Lucia Azevedo",
+        "fonte": "CESGRANRIO/Petrobras 2006 — Engenharia de Telecomunicações"
+      },
+      "itensErrados": [],
+      "observacao": "Resultado perfeito. Sem erros. Texto histórico CESGRANRIO/Petrobras 2006, não repetido no histórico recente."
     }
   ]
 }
