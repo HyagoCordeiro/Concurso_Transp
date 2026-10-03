@@ -54,3 +54,18 @@ Para toda bateria, QTI, simulado ou revisão de **Língua Portuguesa**:
 - Questões podem ser originais da prova ou inéditas no mesmo estilo, mas **não podem repetir enunciado, alternativas ou estrutura já usada recentemente**.
 - Manter o foco histórico da prova-alvo: **interpretação e inferência**, progressão temática/coerência, vocabulário contextual, crase, ortografia/hífen e conectores; sintaxe isolada apenas quando houver recorrência histórica clara.
 - Registrar cada novo texto e cada nova questão de Português no banco anti-repetição.
+
+
+## Regra específica — Inglês
+
+Para toda bateria, QTI, simulado ou revisão de **Língua Inglesa**:
+
+- **Não repetir textos já utilizados** em sessões anteriores.
+- **Não repetir questões já utilizadas**, salvo quando houver um reteste dirigido explicitamente identificado como REPAIR/RETEST.
+- Antes de montar o bloco, consultar **`data/QUESTOES.json`**, **`data/RESULTADOS.json`** e **`qti/`** para bloquear repetições.
+- O texto-base deve, por padrão, ser **texto real já utilizado em prova antiga da CESGRANRIO e localizado/confirmado no QConcursos**.
+- Priorizar provas de **Transpetro/Petrobras**, Banco do Brasil, Caixa e outros concursos de nível superior da CESGRANRIO com perfil compatível.
+- Evitar textos autorais quando houver texto histórico adequado disponível.
+- Questões podem ser originais da prova ou inéditas no mesmo estilo, mas **não podem repetir enunciado, alternativas ou estrutura já usada recentemente**.
+- Manter o foco histórico da prova-alvo: **interpretação e inferência**, ideia central, referência pronominal/textual, vocabulário contextual, conectores, modal verbs e equivalência de sentido; gramática isolada apenas quando houver recorrência histórica clara.
+- Registrar cada novo texto e cada nova questão de Inglês no banco anti-repetição.
