@@ -533,6 +533,36 @@
         }
       ],
       "observacao": "QTI sob protocolo anti-repetição. Os 16 acertos entram em cooldown 3/5/7 dias; os 4 erros permanecem elegíveis para reparo imediato."
+    },
+    {
+      "id": "QTI10-PORTUGUES-2026-10-02",
+      "data": "2026-10-02",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 — Português CESGRANRIO — 02/10/2026",
+      "totalQuestoes": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "nivel": "Bom",
+      "origem": "resultado textual enviado pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "3",
+          "topico": "Vocabulário contextual",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "observacao": "No contexto, 'favorecer' = facilitar."
+        },
+        {
+          "questionId": "10",
+          "topico": "Interpretação",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "observacao": "O último parágrafo afirma que rapidez e cautela devem prevalecer conforme o contexto, não que a cautela sempre deva prevalecer."
+        }
+      ],
+      "observacao": "Acertos em progressão temática, conectores, inferência, crase (2/2), ortografia e hífen (1/1) e ortografia (1/1)."
     }
   ]
 }
