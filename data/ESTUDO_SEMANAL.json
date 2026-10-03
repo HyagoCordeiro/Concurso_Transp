@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "trackingStarted": "2026-10-03",
+  "weeklyWindow": "domingo-sábado",
+  "purpose": "Fechamento semanal aos sábados: horas líquidas estudadas e questões respondidas.",
+  "baselineCumulativeEstimateAtStart": {
+    "asOf": "2026-10-03",
+    "hoursLiquidCentralEstimate": 82,
+    "hoursLiquidEstimatedRange": [
+      75,
+      90
+    ],
+    "questionsCentralEstimate": 780,
+    "questionsEstimatedRange": [
+      700,
+      850
+    ],
+    "note": "Estimativa histórica; não tratar como contagem exata."
+  },
+  "trackingRuleFromStart": {
+    "hours": "Registrar apenas tempo líquido efetivamente estudado; excluir pausas.",
+    "questions": "Contar questões efetivamente respondidas pelo usuário, incluindo QTI, simulados, baterias e reforços; não contar exemplos apenas explicados sem resposta do usuário.",
+    "weeklyClose": "Todo sábado, somar o período de domingo até sábado e informar total semanal e acumulado."
+  },
+  "knownSessions": [
+    {
+      "date": "2026-10-03",
+      "type": "QTI-50 CESGRANRIO Telecom",
+      "liquidTime": "00:27:44",
+      "liquidMinutes": 27.7333,
+      "questionsAnswered": 50,
+      "score": "41/50",
+      "note": "Primeiro registro exato no novo controle semanal; outras atividades do dia anteriores a este marco podem não estar integralmente contabilizadas."
+    }
+  ],
+  "weeklyClosures": []
+}
