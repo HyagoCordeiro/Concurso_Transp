@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-03",
+  "quiz": "QTI-50 CESGRANRIO Telecom",
+  "score": {
+    "correct": 41,
+    "total": 50,
+    "percent": 82
+  },
+  "time": "00:27:44",
+  "by_subject": {
+    "Probabilidade e Processos Estocásticos": "3/4",
+    "Matemática Aplicada a Sinais": "3/4",
+    "Conceitos Básicos de Sinais e Sistemas": "3/4",
+    "Princípios de Telecomunicações": "3/5",
+    "Telefonia e Videoconferência": "3/3",
+    "Antenas": "4/4",
+    "Radiopropagação": "5/5",
+    "Sistemas de Transmissão via Satélite": "2/3",
+    "Sistemas de Comunicações Celulares": "2/3",
+    "Redes Locais": "3/4",
+    "Redes IP": "4/5",
+    "Sistemas Ópticos": "4/4",
+    "Regulamentação das Telecomunicações": "2/2"
+  },
+  "wrong_answers": [
+    {
+      "id": 2,
+      "subject": "Probabilidade e Processos Estocásticos",
+      "selected": "C",
+      "answer": "A",
+      "confidence": 3
+    },
+    {
+      "id": 8,
+      "subject": "Matemática Aplicada a Sinais",
+      "selected": "D",
+      "answer": "A",
+      "confidence": 3
+    },
+    {
+      "id": 11,
+      "subject": "Conceitos Básicos de Sinais e Sistemas",
+      "selected": "B",
+      "answer": "E",
+      "confidence": 3
+    },
+    {
+      "id": 13,
+      "subject": "Princípios de Telecomunicações",
+      "selected": "C",
+      "answer": "B",
+      "confidence": 3
+    },
+    {
+      "id": 17,
+      "subject": "Princípios de Telecomunicações",
+      "selected": "C",
+      "answer": "A",
+      "confidence": 2
+    },
+    {
+      "id": 32,
+      "subject": "Sistemas de Transmissão via Satélite",
+      "selected": "D",
+      "answer": "B",
+      "confidence": 3
+    },
+    {
+      "id": 34,
+      "subject": "Sistemas de Comunicações Celulares",
+      "selected": "B",
+      "answer": "C",
+      "confidence": 3
+    },
+    {
+      "id": 38,
+      "subject": "Redes Locais",
+      "selected": "D",
+      "answer": "B",
+      "confidence": 3
+    },
+    {
+      "id": 44,
+      "subject": "Redes IP",
+      "selected": "A",
+      "answer": "B",
+      "confidence": 3
+    }
+  ],
+  "high_confidence_errors": []
+}
