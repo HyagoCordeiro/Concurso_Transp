@@ -669,6 +669,240 @@
       ],
       "nextAction": "REPAIR_AND_RETEST",
       "observacao": "Texto e 10 questões históricas da CESGRANRIO/Transpetro 2023. Erros concentrados em inferência; acertos em ideia central, conector however, low latency, referência which e vocabulário pivotal/state-of-the-art."
+    },
+    {
+      "id": "QTI130-13ITENS-2026-10-03",
+      "data": "2026-10-03",
+      "tipo": "QTI-130",
+      "titulo": "QTI-130 — 10 questões para cada um dos 13 itens do edital",
+      "totalQuestoes": 130,
+      "acertos": 104,
+      "erros": 26,
+      "percentual": 80,
+      "desempenhoPorItem": [
+        {
+          "item": 1,
+          "tema": "Probabilidade e Processos Estocásticos",
+          "acertos": 4,
+          "erros": 6
+        },
+        {
+          "item": 2,
+          "tema": "Matemática Aplicada a Sinais",
+          "acertos": 8,
+          "erros": 2
+        },
+        {
+          "item": 3,
+          "tema": "Conceitos Básicos de Sinais e Sistemas",
+          "acertos": 8,
+          "erros": 2
+        },
+        {
+          "item": 4,
+          "tema": "Princípios de Telecomunicações",
+          "acertos": 7,
+          "erros": 3
+        },
+        {
+          "item": 5,
+          "tema": "Telefonia e Videoconferência",
+          "acertos": 10,
+          "erros": 0
+        },
+        {
+          "item": 6,
+          "tema": "Antenas",
+          "acertos": 9,
+          "erros": 1
+        },
+        {
+          "item": 7,
+          "tema": "Radiopropagação",
+          "acertos": 9,
+          "erros": 1
+        },
+        {
+          "item": 8,
+          "tema": "Sistemas de Transmissão via Satélite",
+          "acertos": 8,
+          "erros": 2
+        },
+        {
+          "item": 9,
+          "tema": "Sistemas de Comunicações Celulares",
+          "acertos": 8,
+          "erros": 2
+        },
+        {
+          "item": 10,
+          "tema": "Redes Locais",
+          "acertos": 9,
+          "erros": 1
+        },
+        {
+          "item": 11,
+          "tema": "Redes IP",
+          "acertos": 9,
+          "erros": 1
+        },
+        {
+          "item": 12,
+          "tema": "Sistemas Ópticos",
+          "acertos": 6,
+          "erros": 4
+        },
+        {
+          "item": 13,
+          "tema": "Regulamentação das Telecomunicações",
+          "acertos": 9,
+          "erros": 1
+        }
+      ],
+      "itensErrados": [
+        {
+          "item": 1,
+          "q": "Q1",
+          "topico": "Probabilidade condicional"
+        },
+        {
+          "item": 1,
+          "q": "Q2",
+          "topico": "Independência e união"
+        },
+        {
+          "item": 1,
+          "q": "Q5",
+          "topico": "Distribuição uniforme"
+        },
+        {
+          "item": 1,
+          "q": "Q6",
+          "topico": "Esperança matemática"
+        },
+        {
+          "item": 1,
+          "q": "Q7",
+          "topico": "Teorema do Limite Central"
+        },
+        {
+          "item": 1,
+          "q": "Q9",
+          "topico": "Wiener-Khinchin"
+        },
+        {
+          "item": 2,
+          "q": "Q7",
+          "topico": "Fourier — deslocamento temporal"
+        },
+        {
+          "item": 2,
+          "q": "Q10",
+          "topico": "Convolução de pulsos retangulares"
+        },
+        {
+          "item": 3,
+          "q": "Q5",
+          "topico": "Resposta em frequência — módulo"
+        },
+        {
+          "item": 3,
+          "q": "Q6",
+          "topico": "Convolução — comprimento de sobreposição"
+        },
+        {
+          "item": 4,
+          "q": "Q6",
+          "topico": "Codificação de canal"
+        },
+        {
+          "item": 4,
+          "q": "Q9",
+          "topico": "SNR de quantização"
+        },
+        {
+          "item": 4,
+          "q": "Q10",
+          "topico": "Codificação de fonte"
+        },
+        {
+          "item": 6,
+          "q": "Q3",
+          "topico": "Campo distante / Fraunhofer"
+        },
+        {
+          "item": 7,
+          "q": "Q9",
+          "topico": "Ruído térmico e C/N versus largura de banda"
+        },
+        {
+          "item": 8,
+          "q": "Q9",
+          "topico": "Figura de mérito G/T"
+        },
+        {
+          "item": 8,
+          "q": "Q10",
+          "topico": "Atraso GEO",
+          "observacao": "Sem resposta"
+        },
+        {
+          "item": 9,
+          "q": "Q6",
+          "topico": "UMTS / WCDMA"
+        },
+        {
+          "item": 9,
+          "q": "Q8",
+          "topico": "OFDM introduzido no 4G/LTE"
+        },
+        {
+          "item": 10,
+          "q": "Q6",
+          "topico": "RSTP — Discarding/Learning/Forwarding"
+        },
+        {
+          "item": 11,
+          "q": "Q4",
+          "topico": "OSPF — dinâmico/link-state/intradomínio"
+        },
+        {
+          "item": 12,
+          "q": "Q1",
+          "topico": "Reflexão interna total — n_núcleo > n_casca"
+        },
+        {
+          "item": 12,
+          "q": "Q2",
+          "topico": "Espalhamento Rayleigh ~ 1/lambda^4"
+        },
+        {
+          "item": 12,
+          "q": "Q6",
+          "topico": "SDH baseado em TDM"
+        },
+        {
+          "item": 12,
+          "q": "Q10",
+          "topico": "Hierarquia STM — STM-16 em 2,5 Gbps"
+        },
+        {
+          "item": 13,
+          "q": "Q2",
+          "topico": "LGT — interesse coletivo/restrito e regime público/privado"
+        }
+      ],
+      "antiRepeatViolation": true,
+      "diagnosticValidity": "CONTAMINADO_POR_REPETICAO",
+      "excludeFromLongitudinalMasteryScore": true,
+      "observacao": "Sessão útil como revisão, mas NÃO deve ser tratada como diagnóstico independente nem como evidência limpa de domínio: o usuário identificou inúmeras repetições de questões já vistas, inclusive questões usadas em simulados do mesmo dia. Isso viola o protocolo anti-repetição já existente no repositório. O placar 104/130 deve ser preservado como registro bruto, mas não usado isoladamente para estimar domínio ou evolução.",
+      "prioridadesDeRevisao": [
+        "Item 1 — Probabilidade e Processos Estocásticos",
+        "Item 12 — Sistemas Ópticos (fundamentos de fibra e SDH)",
+        "Convolução",
+        "Codificação de fonte x canal",
+        "GSM/UMTS/LTE"
+      ]
     }
   ]
 }
