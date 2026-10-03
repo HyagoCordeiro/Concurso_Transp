@@ -231,3 +231,11 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Erros:** Q3 — inferência sobre transmissão/conectividade terrestre; Q4 — inferência sobre expansão do mercado e redução de custos; Q7 — inferência sobre fluxo consistente de energia verde.
 - **Acertos:** ideia central, **however = opposition**, **low latency**, referência de **which**, **pivotal = essential**, automated driving/space technology e **state-of-the-art = cutting-edge**.
 - **Próxima ação:** micro-reparo apenas das 3 inferências erradas e posterior **SPACED_RETEST**; não repetir o texto nem os 7 acertos antes do cooldown.
+
+
+## Evidências — 03/10/2026
+
+- **QTI-50 CESGRANRIO Telecom:** **41/50 (82%)**, em **27min44s**.
+- **Resultados por assunto:** Probabilidade 3/4; Matemática Aplicada a Sinais 3/4; Sinais e Sistemas 3/4; Princípios de Telecomunicações 3/5; Telefonia/Videoconferência 3/3; Antenas 4/4; Radiopropagação 5/5; Satélite 2/3; Celulares 2/3; Redes Locais 3/4; Redes IP 4/5; Sistemas Ópticos 4/4; Regulamentação 2/2.
+- **Erros:** IDs 2, 8, 11, 13, 17, 32, 34, 38 e 44.
+- **Confiança:** nenhum erro com confiança alta; oito erros com confiança 3 e um com confiança 2.
