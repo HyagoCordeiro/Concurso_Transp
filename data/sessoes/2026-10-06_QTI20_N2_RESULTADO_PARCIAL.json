@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "eventId": "QTI20-N2-20261006-1791312724366",
+  "occurredAt": "2026-10-06T18:52:04.366Z",
+  "qti": "QTI-20",
+  "rodada": "N2 — 13 itens / anti-repetição",
+  "editalItem": "1-13",
+  "tema": "Engenharia de Telecomunicações — CESGRANRIO",
+  "total": 20,
+  "acertos": 12,
+  "erros": 8,
+  "accuracy": 60,
+  "tempoTotalSec": 658,
+  "tempoMedioSec": 33,
+  "sourceType": "MISTO_CESGRANRIO_TRANSFER_AUTORAL",
+  "antiRepeatPreflight": true,
+  "diagnosticValidity": "VALIDO_SEM_REPETICAO_INTENCIONAL",
+  "diagnostico": {
+    "weakItems": [
+      "Item 1 (0/2)",
+      "Item 2 (1/2)",
+      "Item 5 (1/2)",
+      "Item 7 (0/1)",
+      "Item 9 (0/1)",
+      "Item 11 (1/2)",
+      "Item 12 (1/2)"
+    ],
+    "correctSlow": 0,
+    "correctLowConfidence": 0
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "questionResults": null,
+  "questionResultsStatus": "PENDENTE — screenshot recebido mostra somente o topo do JSON; faltam os resultados por questão para identificar exatamente os 8 itens errados e atualizar o banco de questões sem inventar dados.",
+  "origem": "screenshot enviado pelo usuário"
+}
