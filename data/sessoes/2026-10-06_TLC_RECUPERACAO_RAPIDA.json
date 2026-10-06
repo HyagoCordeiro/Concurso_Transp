@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-06",
+  "session": "TLC_RECUPERACAO_RAPIDA",
+  "topic": "Teorema do Limite Central - media amostral, variancia e desvio-padrao",
+  "questions": [
+    {"id":"tlc-r1","result":"correct","selected":"C","correct":"C"},
+    {"id":"tlc-r2","result":"correct","selected":"D","correct":"D"},
+    {"id":"tlc-r3","result":"correct","selected":"B","correct":"B"},
+    {"id":"tlc-r4","result":"incorrect","selected":"B","correct":"A","diagnosis":"confusao entre variancia da media e desvio-padrao da media quando o enunciado fornece sigma"},
+    {"id":"tlc-r5-transfer","result":"correct","selected":"C","correct":"C"}
+  ],
+  "summary": {
+    "total": 5,
+    "acertos": 4,
+    "erros": 1,
+    "accuracy": 80.0,
+    "status": "RECUPERACAO_PROVISORIA",
+    "nextAction": "SPACED_RETEST",
+    "note": "Regra correta no reteste: Var(Xbar)=sigma^2/n e sigma_Xbar=sigma/sqrt(n)."
+  }
+}
