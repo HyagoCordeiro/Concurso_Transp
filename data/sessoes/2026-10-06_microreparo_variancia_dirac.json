@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "MICROREPAIR-2026-10-06-VAR-DIRAC",
+  "data": "2026-10-06",
+  "tipo": "MICRO_REPARO",
+  "titulo": "Micro-reparo pós QTI-15 N2 — Variância e Impulso de Dirac",
+  "totalQuestoes": 4,
+  "acertos": 3,
+  "erros": 1,
+  "percentual": 75,
+  "origem": "respostas no chat após microaula",
+  "desempenhoPorTopico": {
+    "Impulso de Dirac": "1/2",
+    "Variância": "2/2"
+  },
+  "questoes": [
+    {
+      "questionId": "MICRO-DIRAC-01",
+      "topico": "Impulso de Dirac — fator 1/|a|",
+      "respostaEscolhida": "D",
+      "gabarito": "A",
+      "resultado": "INCORRETA",
+      "observacao": "Calculou corretamente t0=2 e f(t0)=8, mas parou antes de multiplicar por 1/|a|=1/4."
+    },
+    {
+      "questionId": "MICRO-DIRAC-02",
+      "topico": "Impulso de Dirac — fator de escala",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "CORRETA",
+      "observacao": "Aplicou corretamente t0=3, 1/|a|=1/3 e f(3)=11, obtendo 11/3."
+    },
+    {
+      "questionId": "MICRO-VAR-01",
+      "topico": "Variância — E[X²] − E[X]²",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "CORRETA",
+      "observacao": "Calculou Var(X)=13−9=4."
+    },
+    {
+      "questionId": "MICRO-VAR-02",
+      "topico": "Variância — transformação linear",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "CORRETA",
+      "observacao": "Aplicou Var(aX+b)=a²Var(X): 2²×3=12."
+    }
+  ],
+  "diagnostico": {
+    "variancia": "REPAIR_SUCCESS_PROVISIONAL",
+    "dirac": "REPAIR_PARTIAL",
+    "observacao": "Variância respondeu 2/2 após microaula. Dirac acertou 1/2; ainda precisa de um ou dois itens novos, sem repetir o mesmo enunciado, para consolidar o fator 1/|a|."
+  },
+  "nextAction": "ONE_MORE_DIRAC_THEN_SPACED_RETEST"
+}
