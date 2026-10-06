@@ -1,0 +1,190 @@
+{
+  "eventId": "CONSOLIDADO-20261006-QTI20-RECUPERACOES",
+  "occurredAt": "2026-10-06T15:55:00-03:00",
+  "type": "SESSION_CONSOLIDATION",
+  "scope": "QTI-20 N2 + recuperação dos erros + micro-reparo TLC + recuperação rápida TLC",
+  "qti20": {
+    "name": "QTI-20 N2",
+    "total": 20,
+    "acertos": 12,
+    "erros": 8,
+    "accuracy": 60.0,
+    "averageTimeSeconds": 33,
+    "knownByItem": {
+      "1": {"acertos": 0, "total": 2},
+      "2": {"acertos": 1, "total": 2},
+      "5": {"acertos": 1, "total": 2},
+      "7": {"acertos": 0, "total": 1},
+      "9": {"acertos": 0, "total": 1},
+      "11": {"acertos": 1, "total": 2},
+      "12": {"acertos": 1, "total": 2}
+    },
+    "note": "O print disponibilizado mostrou o resultado agregado e por item, mas não trouxe questionResults completos; por isso não foram inventados IDs/alternativas das 8 questões originais erradas.",
+    "diagnosis": "REPAIR_AND_RETEST"
+  },
+  "recovery8": {
+    "total": 8,
+    "acertos": 7,
+    "erros": 1,
+    "accuracy": 87.5,
+    "questions": [
+      {
+        "item": 1,
+        "topic": "Teorema do Limite Central - média e variância da média amostral",
+        "promptData": "E[X]=40, Var(X)=16, n=64",
+        "selected": "B",
+        "correct": "C",
+        "result": "INCORRETO",
+        "keyPoint": "E[Xbar]=mu; Var(Xbar)=Var(X)/n=16/64=0,25. O valor 4 é o desvio-padrão populacional, não a variância da média."
+      },
+      {
+        "item": 1,
+        "topic": "Teorema de Bayes",
+        "promptData": "Fábrica A 70% com 2% defeitos; B 30% com 6% defeitos; dado defeituoso",
+        "selected": "C",
+        "correct": "C",
+        "result": "CORRETO",
+        "keyPoint": "P(B|D)=0,018/(0,014+0,018)=0,5625=56,25%."
+      },
+      {
+        "item": 2,
+        "topic": "Transformada de Fourier - escala no tempo e simetria",
+        "promptData": "x(t) real e ímpar; y(t)=x(2t)",
+        "selected": "D",
+        "correct": "D",
+        "result": "CORRETO",
+        "keyPoint": "x(2t) <-> 1/2 X(f/2); para x real e ímpar, X é puramente imaginária e ímpar."
+      },
+      {
+        "item": 5,
+        "topic": "QSIG",
+        "selected": "C",
+        "correct": "C",
+        "result": "CORRETO",
+        "keyPoint": "QSIG é associado à sinalização entre PABXs em redes privadas ISDN e suporte a serviços suplementares."
+      },
+      {
+        "item": 7,
+        "topic": "Propagação - difração",
+        "selected": "C",
+        "correct": "C",
+        "result": "CORRETO",
+        "keyPoint": "Sem visada direta + contorno de obstáculo -> difração."
+      },
+      {
+        "item": 9,
+        "topic": "CDMA - near-far",
+        "selected": "B",
+        "correct": "B",
+        "result": "CORRETO",
+        "keyPoint": "Controle de potência dos terminais combate o efeito near-far."
+      },
+      {
+        "item": 11,
+        "topic": "IPv4 multicast - IGMP",
+        "selected": "C",
+        "correct": "C",
+        "result": "CORRETO",
+        "keyPoint": "IGMP atua entre host e roteador local para associação a grupos multicast; PIM é entre roteadores."
+      },
+      {
+        "item": 12,
+        "topic": "SDH - RSOH",
+        "selected": "B",
+        "correct": "B",
+        "result": "CORRETO",
+        "keyPoint": "RSOH contém bytes de alinhamento de quadro, como A1/A2."
+      }
+    ],
+    "diagnosis": "7 famílias recuperadas de forma imediata; TLC permaneceu ativo para reparo adicional."
+  },
+  "tlcMicroRepair": {
+    "sequence": [
+      {
+        "promptData": "E[X]=25, Var(X)=36, n=9; pedir E[Xbar] e Var(Xbar)",
+        "selected": "D",
+        "correct": "C",
+        "result": "INCORRETO",
+        "explanation": "Var(Xbar)=36/9=4; 2 é o desvio-padrão da média."
+      },
+      {
+        "promptData": "E[X]=100, Var(X)=81, n=9; pedir média e variância de Xbar",
+        "selected": "B",
+        "correct": "B",
+        "result": "CORRETO",
+        "explanation": "E[Xbar]=100; Var(Xbar)=81/9=9."
+      }
+    ],
+    "status": "RECUPERACAO_PROVISORIA"
+  },
+  "tlcRapidRecovery": {
+    "batch4": {
+      "total": 4,
+      "acertos": 3,
+      "erros": 1,
+      "accuracy": 75.0,
+      "answers": [
+        {
+          "number": 1,
+          "promptData": "E[X]=50, Var(X)=25, n=25; média e variância",
+          "selected": "C",
+          "correct": "C",
+          "result": "CORRETO",
+          "calculation": "Var(Xbar)=25/25=1"
+        },
+        {
+          "number": 2,
+          "promptData": "E[X]=80, sigma=12, n=36; pedir desvio-padrão da média",
+          "selected": "D",
+          "correct": "D",
+          "result": "CORRETO",
+          "calculation": "sigma_Xbar=12/sqrt(36)=2"
+        },
+        {
+          "number": 3,
+          "promptData": "E[X]=20, Var(X)=64, n=16; pedir Var(Xbar)",
+          "selected": "B",
+          "correct": "B",
+          "result": "CORRETO",
+          "calculation": "Var(Xbar)=64/16=4"
+        },
+        {
+          "number": 4,
+          "promptData": "E[X]=100, sigma=15, n=25; média e variância",
+          "selected": "B",
+          "correct": "A",
+          "result": "INCORRETO",
+          "calculation": "sigma_Xbar=15/sqrt(25)=3; Var(Xbar)=3^2=9",
+          "errorPattern": "Quando o enunciado fornece sigma e pede variância, houve parada intermediária no desvio-padrão."
+        }
+      ]
+    },
+    "finalCheck": {
+      "promptData": "E[X]=60, sigma=20, n=100; pedir variância da média",
+      "selected": "C",
+      "correct": "C",
+      "result": "CORRETO",
+      "calculation": "sigma^2=400; Var(Xbar)=400/100=4"
+    },
+    "aggregate": {
+      "total": 5,
+      "acertos": 4,
+      "erros": 1,
+      "accuracy": 80.0
+    },
+    "diagnosis": "Melhora clara. Regra direta com Var(X) está funcional. Vulnerabilidade residual: converter sigma para sigma^2 quando o enunciado fornece desvio-padrão e pede variância.",
+    "nextAction": "SPACED_RETEST"
+  },
+  "formulasToRetain": [
+    "E[Xbar] = mu",
+    "Var(Xbar) = sigma^2 / n = Var(X)/n",
+    "sigma_Xbar = sigma / sqrt(n)"
+  ],
+  "sessionAssessment": {
+    "qti20": "12/20 = 60%",
+    "immediateRecovery": "7/8 = 87,5%",
+    "tlcRapidRecovery": "4/5 = 80%",
+    "currentWeakPoint": "TLC: distinguir variância da média amostral de seu desvio-padrão, especialmente quando o enunciado fornece sigma em vez de Var(X).",
+    "recommendedAction": "Não repetir agora as famílias já recuperadas. Fazer reteste espaçado de TLC e dos demais erros, priorizando enunciados com mudança real de estrutura e caminho de solução."
+  }
+}
