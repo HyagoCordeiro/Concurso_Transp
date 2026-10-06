@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "data": "2026-10-06",
+  "tipo": "RECUPERACAO_POS_QTI20",
+  "titulo": "Recuperacao dirigida — 1 questao por erro da QTI-20 N2",
+  "totalQuestoes": 8,
+  "acertos": 7,
+  "erros": 1,
+  "percentual": 87.5,
+  "origem": "respostas no chat",
+  "questoes": [
+    {"ordem":1,"editalItem":"1","topico":"Teorema do Limite Central — media amostral","respostaEscolhida":"B","gabarito":"C","resultado":"INCORRETA","observacao":"Manteve corretamente E[Xbar]=40, mas confundiu variancia da media amostral com desvio-padrao. Regra: Var(Xbar)=Var(X)/n=16/64=0,25."},
+    {"ordem":2,"editalItem":"1","topico":"Teorema de Bayes","respostaEscolhida":"C","gabarito":"C","resultado":"CORRETA","observacao":"P(B|D)=0,018/0,032=56,25%."},
+    {"ordem":3,"editalItem":"2","topico":"Transformada de Fourier — escala no tempo e simetria","respostaEscolhida":"D","gabarito":"D","resultado":"CORRETA"},
+    {"ordem":4,"editalItem":"5","topico":"QSIG — sinalizacao entre PABXs privados ISDN","respostaEscolhida":"C","gabarito":"C","resultado":"CORRETA"},
+    {"ordem":5,"editalItem":"7","topico":"Propagacao — difracao","respostaEscolhida":"C","gabarito":"C","resultado":"CORRETA"},
+    {"ordem":6,"editalItem":"9","topico":"CDMA — efeito near-far e controle de potencia","respostaEscolhida":"B","gabarito":"B","resultado":"CORRETA"},
+    {"ordem":7,"editalItem":"11","topico":"Multicast IPv4 — IGMP","respostaEscolhida":"C","gabarito":"C","resultado":"CORRETA"},
+    {"ordem":8,"editalItem":"12","topico":"SDH — RSOH e alinhamento de quadro","respostaEscolhida":"B","gabarito":"B","resultado":"CORRETA"}
+  ],
+  "diagnostico": {
+    "recuperacaoGeral": "SATISFATORIA",
+    "itensRecuperados": ["2","5","7","9","11","12"],
+    "item1": "PARCIAL — Bayes correto, mas TLC/media amostral ainda requer micro-reparo",
+    "erroRemanescente": "Diferenciar variancia e desvio-padrao da media amostral: Var(Xbar)=sigma^2/n; sigma_Xbar=sigma/sqrt(n).",
+    "nextAction": "MICRO_REPAIR_TLC_THEN_SPACED_RETEST"
+  }
+}
