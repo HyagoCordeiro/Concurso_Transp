@@ -1,0 +1,52 @@
+{
+  "eventId": "ASSIGN-QTI20-N2-20261006",
+  "status": "ASSIGNED_UNANSWERED",
+  "date": "2026-10-06",
+  "qti": "QTI-20",
+  "difficulty": "N2",
+  "antiRepeatPreflight": true,
+  "sourcesConsulted": [
+    "docs/QTI_PADRAO.md",
+    "data/QUESTOES.json",
+    "data/sessoes/2026-10-06_*",
+    "QConcursos/CESGRANRIO",
+    "provas do projeto"
+  ],
+  "blockedFamiliesToday": [
+    "variância",
+    "impulso de Dirac",
+    "dispersão modal",
+    "abertura numérica",
+    "campo reativo",
+    "MEO",
+    "PoE 802.3af",
+    "BGP Hold Time",
+    "SNMPv3",
+    "LTE OFDMA/SC-FDMA",
+    "Carson",
+    "horizonte rádio",
+    "H.323 Gatekeeper"
+  ],
+  "questions": [
+    {"questionId":"QTI20N2-20261006-Q01","canonicalId":"TRANSFER-TWORAY-D4-20261006-Q01","editalItem":"7","topic":"Modelo de dois raios — decaimento d^-4","sourceType":"TRANSFER"},
+    {"questionId":"QTI20N2-20261006-Q02","canonicalId":"AUTORAL-CLT-MEDIA-AMOSTRAL-20261006-Q02","editalItem":"1","topic":"Teorema do Limite Central — média amostral","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q03","canonicalId":"CESGRANRIO-PETROBRAS-2011-Q69","editalItem":"11","topic":"IPSec — modo túnel","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI20N2-20261006-Q04","canonicalId":"CESGRANRIO-TRANSPETRO-2012-Q53","editalItem":"5","topic":"R2 Digital — sinalização CAS","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI20N2-20261006-Q05","canonicalId":"AUTORAL-FOURIER-REAL-IMPAR-20261006-Q05","editalItem":"2","topic":"Transformada de Fourier — simetria","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q06","canonicalId":"AUTORAL-RSTP-ALTERNATE-PORT-20261006-Q06","editalItem":"10","topic":"RSTP — função da porta Alternate","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q07","canonicalId":"AUTORAL-SHANNON-CAPACIDADE-20261006-Q07","editalItem":"4","topic":"Capacidade de canal — Shannon","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q08","canonicalId":"CESGRANRIO-PETROBRAS-2011-Q30","editalItem":"12","topic":"Enlace óptico — orçamento de potência","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI20N2-20261006-Q09","canonicalId":"AUTORAL-ANTENA-POLARIZACAO-MISMATCH-20261006-Q09","editalItem":"6","topic":"Antenas — perda por desalinhamento de polarização","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q10","canonicalId":"AUTORAL-CDMA-NEAR-FAR-20261006-Q10","editalItem":"9","topic":"Sistemas celulares — efeito near-far no CDMA","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q11","canonicalId":"AUTORAL-SISTEMA-TX-TEMPO-20261006-Q11","editalItem":"3","topic":"Sistemas — linearidade e invariância no tempo","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q12","canonicalId":"AUTORAL-SAT-TRANSPONDER-TRANSPARENTE-20261006-Q12","editalItem":"8","topic":"Satélite — transponder transparente (bent-pipe)","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q13","canonicalId":"TRANSFER-LGT-ART2-DEVER-PODER-PUBLICO-20261006-Q13","editalItem":"13","topic":"LGT — deveres do Poder Público","sourceType":"TRANSFER"},
+    {"questionId":"QTI20N2-20261006-Q14","canonicalId":"AUTORAL-BAYES-ORIGEM-DEFEITO-20261006-Q14","editalItem":"1","topic":"Probabilidade condicional — Teorema de Bayes","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q15","canonicalId":"AUTORAL-QSIG-REDE-PRIVADA-20261006-Q15","editalItem":"5","topic":"Sinalização telefônica — QSIG","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q16","canonicalId":"CESGRANRIO-PETROBRAS-2011-Q28","editalItem":"12","topic":"SDH — RSOH","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI20N2-20261006-Q17","canonicalId":"AUTORAL-AM-POTENCIA-TOTAL-20261006-Q17","editalItem":"4","topic":"AM convencional — potência total","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q18","canonicalId":"AUTORAL-MULTICAST-IGMP-PIM-20261006-Q18","editalItem":"11","topic":"Multicast IP — IGMP e PIM","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q19","canonicalId":"AUTORAL-FOURIER-ESCALA-TEMPO-20261006-Q19","editalItem":"2","topic":"Transformada de Fourier — escala no tempo","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI20N2-20261006-Q20","canonicalId":"AUTORAL-SISTEMA-MEMORIA-20261006-Q20","editalItem":"3","topic":"Sistemas discretos — memória, causalidade e invariância","sourceType":"AUTORAL_CESGRANRIO_STYLE"}
+  ]
+}
