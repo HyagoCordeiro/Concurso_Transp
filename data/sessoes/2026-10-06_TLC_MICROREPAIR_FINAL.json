@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-06",
+  "session": "TLC micro-repair final",
+  "topic": "Teorema do Limite Central - média amostral",
+  "editalItem": 1,
+  "attempts": [
+    {
+      "question": "E[X]=25, Var(X)=36, n=9; pedir E[Xbar] e Var(Xbar)",
+      "selected": "D",
+      "correct": "C",
+      "result": "ERRADO",
+      "diagnosis": "Confusão entre variância da média amostral e desvio-padrão da média."
+    },
+    {
+      "question": "E[X]=100, Var(X)=81, n=9; pedir média e variância de Xbar",
+      "selected": "B",
+      "correct": "B",
+      "result": "CORRETO"
+    }
+  ],
+  "summary": {
+    "acertos": 1,
+    "erros": 1,
+    "status": "SPACED_RETEST",
+    "note": "Regra correta aplicada na tentativa final: Var(Xbar)=Var(X)/n. Evidência ainda curta; manter reteste espaçado antes de considerar domínio consolidado."
+  }
+}
