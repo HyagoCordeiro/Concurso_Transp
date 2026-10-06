@@ -1,0 +1,63 @@
+{
+  "eventId": "QTI15-N2-20261006-USER-RESULT",
+  "occurredAt": "2026-10-06",
+  "qti": "QTI-15",
+  "rodada": "N2 — 13 itens — rotação semântica / anti-repetição",
+  "titulo": "QTI-15 N2 — CESGRANRIO Telecom",
+  "total": 15,
+  "acertos": 12,
+  "erros": 3,
+  "accuracy": 80.0,
+  "resultadoInformadoPeloUsuario": true,
+  "jsonOriginalIndisponivel": true,
+  "motivoJsonOriginalIndisponivel": "Usuário informou que não conseguiu copiar o JSON do HTML.",
+  "diagnosticValidity": "VALIDO",
+  "antiRepeatViolation": false,
+  "nextAction": "REPAIR_AND_RETEST",
+  "erros": [
+    {
+      "questionId": "QTI15N2-20261006-Q01",
+      "canonicalId": "AUTORAL-CESGRANRIO-VAR-ALEATORIA-VARIANCIA-20261006-Q01",
+      "editalItem": "1",
+      "unitId": "1.2",
+      "topic": "Variável aleatória — média e variância",
+      "correctAnswer": "C",
+      "selected": null,
+      "errorType": "UNKNOWN",
+      "observacao": "Usuário informou erro na questão 1; alternativa marcada não informada."
+    },
+    {
+      "questionId": "QTI15N2-20261006-Q02",
+      "canonicalId": "AUTORAL-CESGRANRIO-DELTA-ESCALA-20261006-Q02",
+      "editalItem": "2",
+      "unitId": "2.2",
+      "topic": "Impulso de Dirac — propriedade de escala",
+      "correctAnswer": "D",
+      "selected": null,
+      "errorType": "UNKNOWN",
+      "observacao": "Usuário informou erro na questão 2; alternativa marcada não informada."
+    },
+    {
+      "questionId": "QTI15N2-20261006-Q15",
+      "canonicalId": "TRANSFER-CESGRANRIO-FIBRA-DISPERSAO-MODAL-20261006-Q15",
+      "editalItem": "12",
+      "unitId": "12.1",
+      "topic": "Fibras ópticas — dispersão modal / taxa binária máxima",
+      "correctAnswer": "E",
+      "correctValue": "1,25 Mbit/s",
+      "selected": null,
+      "errorType": "UNKNOWN",
+      "observacao": "Usuário identificou a questão da fibra cujo resultado correto era 1,25 Mbit/s."
+    }
+  ],
+  "repairPlan": {
+    "totalQuestions": 6,
+    "questionsPerError": 2,
+    "topics": [
+      "Variância de variável aleatória",
+      "Impulso de Dirac — escala e amostragem",
+      "Dispersão modal — relação entre alargamento, taxa e distância"
+    ],
+    "status": "ASSIGNED"
+  }
+}
