@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-06",
+  "purpose": "Complementar o anti-repeat de QUESTOES.json com distância semântica entre subtemas dentro dos 13 itens.",
+  "rules": {
+    "lookbackDays": 7,
+    "noExactRepeat": true,
+    "noFamilyRepeat": true,
+    "sameNumbersChangedIsNotNew": true,
+    "preferSiblingRotation": true,
+    "ruleText": "Dentro do mesmo item do edital, antes de voltar ao mesmo conceito/caminho de solução, girar para outro subtema elegível. Ex.: campo distante -> campo próximo reativo/arrays/polarização; GEO -> LEO/MEO/bandas/link budget; 802.1Q -> PoE/SNMP/RSTP; DiffServ/MPLS-label -> BGP/OSPF/IPSec; SDH/CWDM -> abertura numérica/dispersão/Rayleigh.",
+    "exceptions": ["REPAIR", "RETEST dirigido por erro"]
+  },
+  "recentExposure": {
+    "session": "QTI-20-2026-10-06",
+    "topics": [
+      "1: complemento pelo menos um",
+      "2: modulo de numero complexo",
+      "3: convolucao discreta simples",
+      "4: taxa simbolica 16-QAM",
+      "5: trafego Erlang",
+      "6: dipolo meia onda",
+      "7: FSPL por duplicacao de distancia",
+      "8: GEO comparada a LEO",
+      "9: distancia de reuso celular",
+      "10: IEEE 802.1Q",
+      "11: DiffServ/DSCP",
+      "12: STM-1",
+      "13: PDFF",
+      "1: independencia/probabilidade condicional",
+      "3/4: Nyquist/PCM",
+      "4: FEC",
+      "7: fading",
+      "11: MPLS swap",
+      "12: CWDM espacamento",
+      "6: campo distante"
+    ]
+  },
+  "assigned": {
+    "qti": "QTI-15-N2-2026-10-06",
+    "status": "ASSIGNED",
+    "semanticRotation": true,
+    "questions": [
+      {"id":"QTI15N2-20261006-Q01","item":"1","topic":"Variavel aleatoria - media e variancia"},
+      {"id":"QTI15N2-20261006-Q02","item":"2","topic":"Impulso de Dirac - propriedade de escala"},
+      {"id":"QTI15N2-20261006-Q03","item":"3","topic":"LIT - resposta em frequencia/autossinais"},
+      {"id":"QTI15N2-20261006-Q04","item":"4","topic":"FM - regra de Carson"},
+      {"id":"QTI15N2-20261006-Q05","item":"5","topic":"H.323 - gatekeeper"},
+      {"id":"QTI15N2-20261006-Q06","item":"6","topic":"Campo proximo reativo"},
+      {"id":"QTI15N2-20261006-Q07","item":"7","topic":"Horizonte radio"},
+      {"id":"QTI15N2-20261006-Q08","item":"8","topic":"Orbita MEO"},
+      {"id":"QTI15N2-20261006-Q09","item":"9","topic":"LTE - OFDMA/SC-FDMA"},
+      {"id":"QTI15N2-20261006-Q10","item":"10","topic":"PoE IEEE 802.3af"},
+      {"id":"QTI15N2-20261006-Q11","item":"11","topic":"BGP OPEN - Hold Time"},
+      {"id":"QTI15N2-20261006-Q12","item":"12","topic":"Fibra - abertura numerica"},
+      {"id":"QTI15N2-20261006-Q13","item":"13","topic":"LGT - servico via satelite"},
+      {"id":"QTI15N2-20261006-Q14","item":"10","topic":"SNMPv3 - seguranca"},
+      {"id":"QTI15N2-20261006-Q15","item":"12","topic":"Fibra - dispersao modal"}
+    ]
+  }
+}
