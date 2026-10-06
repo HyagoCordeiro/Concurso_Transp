@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "sessionDate": "2026-10-06",
+  "area": "Engenharia de Telecomunicacoes",
+  "banca": "CESGRANRIO",
+  "parentQti": {
+    "eventId": "QTI15-N2-20261006-USER-RESULT",
+    "tipo": "QTI-15 N2",
+    "total": 15,
+    "acertos": 12,
+    "erros": 3,
+    "accuracy": 80.0,
+    "origem": "resultado informado pelo usuario; JSON original nao foi copiado",
+    "itensErrados": [
+      {
+        "questionId": "QTI15N2-20261006-Q01",
+        "editalItem": "1",
+        "unitId": "1.2",
+        "topico": "Variavel aleatoria discreta — media e variancia",
+        "gabarito": "C",
+        "observacao": "Erro na aplicacao de Var(X)=E[X^2]-(E[X])^2."
+      },
+      {
+        "questionId": "QTI15N2-20261006-Q02",
+        "editalItem": "2",
+        "unitId": "2.2",
+        "topico": "Impulso de Dirac — propriedade de escala",
+        "gabarito": "D",
+        "observacao": "Erro ligado ao fator 1/|a| em delta(at-b)."
+      },
+      {
+        "questionId": "QTI15N2-20261006-Q15",
+        "editalItem": "12",
+        "unitId": "12.1",
+        "topico": "Fibra optica — dispersao modal e taxa binaria",
+        "gabarito": "E",
+        "resultadoCorreto": "1,25 Mbit/s",
+        "observacao": "Requeria DeltaT total e Rb,max≈1/(2DeltaT)."
+      }
+    ],
+    "nextAction": "REPAIR_2_PER_ERROR"
+  },
+  "repairEvent": {
+    "eventId": "REPAIR-QTI15N2-20261006-1791298706786",
+    "occurredAt": "2026-10-06T14:58:26.786Z",
+    "qti": "QTI-6",
+    "rodada": "REPAIR — 2 por erro",
+    "parentEventId": "QTI15-N2-20261006-USER-RESULT",
+    "total": 6,
+    "acertos": 2,
+    "erros": 4,
+    "accuracy": 33.3,
+    "tempoTotalSec": 403,
+    "tempoMedioSec": 67,
+    "sourceType": "REPAIR",
+    "nextAction": "REPAIR_AND_RETEST",
+    "questionResults": [
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q01",
+        "canonicalId": "REPAIR-VAR-DISCRETA-20261006-A",
+        "parentQuestionId": "QTI15N2-20261006-Q01",
+        "editalItem": "1",
+        "unitId": "1.2",
+        "topic": "Variancia — E[X²] − E[X]²",
+        "result": "INCORRETA",
+        "selected": "E",
+        "correctAnswer": "B",
+        "responseTimeSec": 41,
+        "errorType": "PROCEDIMENTO"
+      },
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q02",
+        "canonicalId": "REPAIR-VAR-TRANSFORMACAO-LINEAR-20261006-B",
+        "parentQuestionId": "QTI15N2-20261006-Q01",
+        "editalItem": "1",
+        "unitId": "1.2",
+        "topic": "Variancia — transformacao linear",
+        "result": "INCORRETA",
+        "selected": "C",
+        "correctAnswer": "E",
+        "responseTimeSec": 106,
+        "errorType": "PROCEDIMENTO"
+      },
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q03",
+        "canonicalId": "REPAIR-DIRAC-ESCALA-AMOSTRAGEM-20261006-A",
+        "parentQuestionId": "QTI15N2-20261006-Q02",
+        "editalItem": "2",
+        "unitId": "2.2",
+        "topic": "Impulso de Dirac — escala e amostragem",
+        "result": "INCORRETA",
+        "selected": "B",
+        "correctAnswer": "A",
+        "responseTimeSec": 53,
+        "errorType": "PROCEDIMENTO"
+      },
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q04",
+        "canonicalId": "REPAIR-DIRAC-ARGUMENTO-INVERTIDO-20261006-B",
+        "parentQuestionId": "QTI15N2-20261006-Q02",
+        "editalItem": "2",
+        "unitId": "2.2",
+        "topic": "Impulso de Dirac — raiz do argumento",
+        "result": "INCORRETA",
+        "selected": "C",
+        "correctAnswer": "D",
+        "responseTimeSec": 3,
+        "errorType": "PROCEDIMENTO"
+      },
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q05",
+        "canonicalId": "REPAIR-FIBRA-DISPERSAO-MODAL-RB-20261006-A",
+        "parentQuestionId": "QTI15N2-20261006-Q15",
+        "editalItem": "12",
+        "unitId": "12.1",
+        "topic": "Fibra — dispersao modal e taxa binaria",
+        "result": "CORRETA",
+        "selected": "C",
+        "correctAnswer": "C",
+        "responseTimeSec": 25,
+        "errorType": null
+      },
+      {
+        "questionId": "REPAIR-QTI15N2-20261006-Q06",
+        "canonicalId": "REPAIR-FIBRA-DISPERSAO-MODAL-LMAX-20261006-B",
+        "parentQuestionId": "QTI15N2-20261006-Q15",
+        "editalItem": "12",
+        "unitId": "12.1",
+        "topic": "Fibra — distancia maxima por dispersao",
+        "result": "CORRETA",
+        "selected": "B",
+        "correctAnswer": "B",
+        "responseTimeSec": 175,
+        "errorType": null
+      }
+    ]
+  },
+  "diagnostico": {
+    "variancia": {
+      "status": "REPAIR_AND_RETEST",
+      "evidencia": "0/2 no reparo",
+      "erro1": "Confundiu E[X²] com Var(X); marcou 15 quando 15 era E[X²].",
+      "erro2": "Nao aplicou Var(aX+b)=a²Var(X); termo aditivo nao altera a variancia.",
+      "gatilho": "Var(X)=E[X²]-(E[X])²; Var(aX+b)=a²Var(X)."
+    },
+    "dirac": {
+      "status": "REPAIR_AND_RETEST",
+      "evidencia": "0/2 no reparo",
+      "erro1": "Amostrou corretamente em t0, mas esqueceu o fator 1/|a|.",
+      "erro2": "Na segunda questao respondeu a raiz t0=2 em 3 s, antes de concluir o procedimento.",
+      "gatilho": "delta(at-b)=(1/|a|)delta(t-b/a)."
+    },
+    "fibraDispersaoModal": {
+      "status": "SPACED_RETEST",
+      "evidencia": "2/2 no reparo",
+      "fluidez": "Questao direta em 25 s; questao inversa em 175 s.",
+      "gatilho": "DeltaT=(dispersao em ns/km)×L; Rb,max≈1/(2DeltaT)."
+    }
+  },
+  "proximaEtapa": {
+    "acao": "MICROAULA_VARIANCIA_DIRAC",
+    "depois": "RETESTE_CURTO_COM_NOVAS_FAMILIAS_SEMANTICAS",
+    "regraAntiRepeticao": true
+  }
+}
