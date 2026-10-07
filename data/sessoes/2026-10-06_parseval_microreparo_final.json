@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-06",
+  "tema": "Fourier — Teorema de Parseval",
+  "contexto": "Microaula e reteste após QTI-15 N4",
+  "status": "REPAIR_ACTIVE",
+  "conceitos": {
+    "convencao_omega": "X(ω)=∫x(t)e^{-jωt}dt",
+    "parseval": "∫|x(t)|²dt = (1/2π)∫|X(ω)|²dω",
+    "regra_memorizacao": "Parseval relaciona energia no tempo e na frequência; usa módulo ao quadrado em ambos os domínios. Na convenção em ω aparece o fator 1/(2π)."
+  },
+  "reteste": {
+    "enunciado_resumido": "Se ∫|x(t)|²dt=8, determinar ∫|X(ω)|²dω na convenção em ω.",
+    "resposta_usuario": "E",
+    "gabarito": "D",
+    "resultado": "INCORRETA",
+    "solucao": "8=(1/2π)I => I=16π"
+  },
+  "diagnostico": "Ainda há confusão ao isolar a integral no domínio da frequência. O fator 1/(2π) deve ser invertido ao passar a energia temporal para a integral espectral.",
+  "nextAction": "REPAIR_AND_RETEST"
+}
