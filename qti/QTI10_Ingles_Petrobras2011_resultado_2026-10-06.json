@@ -1,0 +1,20 @@
+{
+  "id": "QTI10-INGLES-PETROBRAS2011-2026-10-06",
+  "data": "2026-10-06",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "fonte": "CESGRANRIO / Petrobras / 2011 — Engenheiro(a) de Telecomunicações Júnior",
+  "textoBase": "Experts Try to Gauge Health Effects of Gulf Oil Spill",
+  "totalQuestoes": 10,
+  "acertos": 7,
+  "erros": 3,
+  "percentual": 70,
+  "itensErrados": [
+    {"questionId":"Q1","topico":"Main purpose / interpretação global","respostaEscolhida":"A","gabarito":"C"},
+    {"questionId":"Q8","topico":"Conectores / if","respostaEscolhida":"C","gabarito":"E"},
+    {"questionId":"Q9","topico":"Vocabulário contextual / look at / pointed out","respostaEscolhida":"D","gabarito":"C"}
+  ],
+  "nextAction": "REPAIR_AND_RETEST",
+  "observacao": "Micro-reparo em Q1, Q8 e Q9; depois spaced retest. Não repetir o texto nem as 7 questões acertadas em QTI comum recente.",
+  "origem": "captura de tela enviada pelo usuário"
+}
