@@ -1,0 +1,66 @@
+{
+  "eventId": "QTI15-N4-20261006-1791336279361",
+  "occurredAt": "2026-10-07T01:24:39.361Z",
+  "qti": "QTI-15",
+  "rodada": "N4 — REPAIR/RETEST somente erros",
+  "editalItem": "1-13",
+  "tema": "Engenharia de Telecomunicações — CESGRANRIO",
+  "total": 3,
+  "acertos": 2,
+  "erros": 1,
+  "accuracy": 66.7,
+  "tempoTotalSec": 20,
+  "tempoMedioSec": 7,
+  "sourceType": "MISTO_CESGRANRIO_QCONCURSOS_AUTORAL",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "VALIDO_SEM_REPETICAO_INTENCIONAL",
+  "diagnostico": {
+    "weakItems": ["Item 2"]
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "questionResults": [
+    {
+      "questionId": "QTI15N4-20261006-Q03",
+      "canonicalId": "AUTORAL-FOURIER-PARSEVAL-20261006-Q03",
+      "editalItem": "2",
+      "topic": "Fourier — Parseval",
+      "result": "INCORRETA",
+      "selected": "D",
+      "correctAnswer": "E",
+      "responseTimeSec": 8,
+      "confidence": null,
+      "errorType": "DESCONHECIMENTO",
+      "source": "Autoral — Transformada de Fourier, estilo CESGRANRIO",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI15N4-20261006-Q05",
+      "canonicalId": "AUTORAL-FIRSTORDER-LOWPASS-CUTOFF-20261006-Q05",
+      "editalItem": "3",
+      "topic": "Resposta em frequência — 1ª ordem",
+      "result": "CORRETA",
+      "selected": "D",
+      "correctAnswer": "D",
+      "responseTimeSec": 3,
+      "confidence": null,
+      "errorType": null,
+      "source": "Autoral — Resposta em frequência, estilo CESGRANRIO",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI15N4-20261006-Q08",
+      "canonicalId": "AUTORAL-ANTENNA-EFFECTIVE-APERTURE-20261006-Q08",
+      "editalItem": "6",
+      "topic": "Antenas — abertura efetiva",
+      "result": "CORRETA",
+      "selected": "C",
+      "correctAnswer": "C",
+      "responseTimeSec": 2,
+      "confidence": null,
+      "errorType": null,
+      "source": "Autoral — Antenas, calibrada ao estilo CESGRANRIO",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    }
+  ]
+}
