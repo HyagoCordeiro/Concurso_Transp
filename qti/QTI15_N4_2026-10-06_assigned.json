@@ -1,0 +1,34 @@
+{
+  "eventId": "ASSIGN-QTI15-N4-20261006",
+  "status": "ASSIGNED_UNANSWERED",
+  "date": "2026-10-06",
+  "qti": "QTI-15",
+  "difficulty": "N2",
+  "rodada": "N4 — fechamento do dia / anti-repetição",
+  "antiRepeatPreflight": true,
+  "sourcesConsulted": [
+    "docs/QTI_PADRAO.md",
+    "data/QUESTOES.json",
+    "resultado QTI-20 N3 de 2026-10-06",
+    "provas CESGRANRIO do projeto",
+    "QConcursos — CESGRANRIO Telecom"
+  ],
+  "selectionNote": "Foram evitadas as famílias trabalhadas no mesmo dia, inclusive exponencial sem memória, dmin, duto troposférico, TLC, variância, Dirac, Fourier derivação/deslocamento, LTI degrau-impulso, ROC da Transformada Z, QSIG, difração, CDMA near-far, IGMP, RSOH, entre outras. O bloco usa famílias novas/rotacionadas.",
+  "questions": [
+    {"questionId":"QTI15N4-20261006-Q01","canonicalId":"AUTORAL-WSS-CONDITIONS-20261006-Q01","editalItem":"1","topic":"Processos estocásticos — WSS","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q02","canonicalId":"AUTORAL-GAUSSIAN-PROCESS-LINEAR-COMBINATION-20261006-Q02","editalItem":"1","topic":"Processo Gaussiano","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q03","canonicalId":"AUTORAL-FOURIER-PARSEVAL-20261006-Q03","editalItem":"2","topic":"Fourier — Parseval","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q04","canonicalId":"AUTORAL-LAPLACE-FINAL-VALUE-20261006-Q04","editalItem":"3","topic":"Laplace — valor final","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q05","canonicalId":"AUTORAL-FIRSTORDER-LOWPASS-CUTOFF-20261006-Q05","editalItem":"3","topic":"Resposta em frequência — 1ª ordem","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q06","canonicalId":"AUTORAL-ARQ-GOBACKN-20261006-Q06","editalItem":"4","topic":"ARQ Go-Back-N","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q07","canonicalId":"AUTORAL-ERLANG-C-QUEUE-20261006-Q07","editalItem":"5","topic":"Erlang B × Erlang C","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q08","canonicalId":"AUTORAL-ANTENNA-EFFECTIVE-APERTURE-20261006-Q08","editalItem":"6","topic":"Antenas — abertura efetiva","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q09","canonicalId":"AUTORAL-FARADAY-ROTATION-20261006-Q09","editalItem":"7","topic":"Radiopropagação — rotação de Faraday","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q10","canonicalId":"AUTORAL-SAT-CBAND-UPLINK-DOWNLINK-20261006-Q10","editalItem":"8","topic":"Satélite — uplink/downlink em banda C","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q11","canonicalId":"AUTORAL-CELLULAR-REUSE-CLUSTER-20261006-Q11","editalItem":"9","topic":"Sistemas celulares — reuso","sourceType":"AUTORAL_CESGRANRIO_STYLE"},
+    {"questionId":"QTI15N4-20261006-Q12","canonicalId":"CESGRANRIO-TRANSPETRO-2018-Q1060161","editalItem":"10","topic":"IEEE 802.11 — WPA2/AES","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI15N4-20261006-Q13","canonicalId":"CESGRANRIO-PETROBRAS-2010-Q31-VLSM","editalItem":"11","topic":"Redes IP — VLSM","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI15N4-20261006-Q14","canonicalId":"CESGRANRIO-PETROBRAS-2011-Q183259","editalItem":"12","topic":"Sistemas ópticos — EDFA","sourceType":"CESGRANRIO_ORIGINAL"},
+    {"questionId":"QTI15N4-20261006-Q15","canonicalId":"AUTORAL-LGT-REGIME-PUBLICO-UNIVERSALIZACAO-20261006-Q15","editalItem":"13","topic":"LGT — regime público","sourceType":"AUTORAL_CESGRANRIO_STYLE"}
+  ]
+}
