@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "canonicalId": "CESGRANRIO-IPEA-2024-Q2384775",
+  "qconcursosId": "Q2384775",
+  "banca": "CESGRANRIO",
+  "orgao": "IPEA",
+  "ano": 2024,
+  "prova": "Técnico de Planejamento e Pesquisa - Políticas Públicas e Avaliação",
+  "discipline": "Economia",
+  "editalItem": "1",
+  "unitId": "1.3",
+  "topic": "Processos estocásticos — estacionariedade fraca (WSS)",
+  "sourceType": "CESGRANRIO_ORIGINAL",
+  "source": "QConcursos — Q2384775",
+  "status": "UNSEEN",
+  "eligibleNow": true,
+  "question": "Dados de qualquer série temporal podem ser pensados como sendo gerados por um processo estocástico. Quando um processo estocástico possui suas média, variância e autocovariância constantes ao longo do tempo, diz-se que este é um processo estocástico",
+  "options": {
+    "A": "de diferença estacionário",
+    "B": "de tendência diferenciada estacionário",
+    "C": "não estacionário",
+    "D": "fracamente estacionário",
+    "E": "com raiz unitária"
+  },
+  "answer": "D",
+  "calibration": "Manter no banco por aderência direta ao item 1.3 do edital e nível conceitual compatível com Telecom.",
+  "sourceFilterNote": "Não usar questões de Estatístico Júnior como referência de dificuldade para Engenharia de Telecomunicações; priorizar Telecom e áreas afins em nível equivalente."
+}
