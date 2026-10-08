@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-08",
+  "project": "Transpetro 2026 - Engenharia de Telecomunicacoes - CESGRANRIO",
+  "qti": "QTI-20 Banco 456",
+  "eventId": "QTI20-BANK456-1791489869527",
+  "occurredAt": "2026-10-08T20:04:29.527Z",
+  "round": "BANK456_ORIGINAL",
+  "sourceType": "CESGRANRIO_ORIGINAL_BANK456",
+  "bankRange": "1-456",
+  "referenceVisible": true,
+  "optionsOrderPreserved": true,
+  "antiRepeatPreflight": true,
+  "exactRepeat": false,
+  "selectedBankNumbers": [400,401,403,406,410,411,416,417,421,422,423,428,431,434,440,442,448,450,451,453],
+  "result": {
+    "total": 20,
+    "correct": 10,
+    "wrong": 10,
+    "accuracyPct": 50.0,
+    "totalTimeSec": 1442,
+    "avgTimeSec": 72,
+    "nextActionAtResult": "REPAIR_AND_RETEST"
+  },
+  "wrongQuestions": [
+    {"bankNumber":401,"topic":"Satelites - multiplo acesso"},
+    {"bankNumber":403,"topic":"GSM/GPRS/EDGE"},
+    {"bankNumber":421,"topic":"ATM sobre SDH - taxa util"},
+    {"bankNumber":422,"topic":"Metro Ethernet - EVC multiponto com raiz"},
+    {"bankNumber":428,"topic":"Modulacao analogica - largura de banda"},
+    {"bankNumber":431,"topic":"Radiopropagacao - mecanismos por faixa"},
+    {"bankNumber":440,"topic":"Wi-Fi - multipercurso"},
+    {"bankNumber":448,"topic":"QPSK - ruido impulsivo"},
+    {"bankNumber":450,"topic":"Meios fisicos de transmissao"},
+    {"bankNumber":451,"topic":"Meios nao guiados"}
+  ],
+  "correctQuestionsByComplement": [400,406,410,411,416,417,423,434,442,453],
+  "repairSequence": [
+    {"target":"Q421 ATM/SDH","transferQuestion":"ATM 100 Mbps, eficiencia 48/53","response":"D","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q428 DSB","transferQuestion":"W=5 kHz em DSB-SC","response":"B","correctAnswer":"D","result":"INCORRETA"},
+    {"target":"Q428 DSB","transferQuestion":"W=8 kHz em DSB","response":"D","result":"CORRETA"},
+    {"target":"Q431 propagacao por faixa","response":"C","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q448 QPSK - taxa de simbolos","response":"C","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q401 TDMA satelite - overhead","response":"C","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q422 EVC rooted-multipoint","response":"C","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q440 Wi-Fi/multipercurso","response":"D","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q403 GPRS","response":"B","result":"CORRETA","status":"REPARADO"},
+    {"target":"Q450 meios fisicos","response":"C","result":"CORRETA"},
+    {"target":"Q451 meios nao guiados","response":"E","result":"CORRETA","status":"REPARADO"}
+  ],
+  "retest10Reformulated": {
+    "total": 10,
+    "correct": 8,
+    "wrong": 2,
+    "accuracyPct": 80.0,
+    "responses": ["C","B","E","A","C","C","B","E","C","D"],
+    "correctAnswers": ["C","B","E","A","D","C","B","E","A","D"],
+    "wrongItems": [
+      {"number":5,"topic":"Modulacao analogica - VSB","selected":"C","correct":"D","diagnosis":"confundiu VSB com DSB"},
+      {"number":9,"topic":"Meios fisicos - antenas direcionais em micro-ondas","selected":"C","correct":"A","diagnosis":"generalizacao incorreta sobre coaxial/crosstalk"}
+    ]
+  },
+  "endState": {
+    "repaired": [
+      "Satelite/TDMA",
+      "GPRS",
+      "ATM sobre SDH",
+      "Metro Ethernet rooted-multipoint",
+      "Radiopropagacao por faixa",
+      "Wi-Fi/multipercurso",
+      "QPSK - taxa de simbolos",
+      "Meios nao guiados"
+    ],
+    "fragile": [
+      "Modulacao analogica - SSB/VSB/DSB",
+      "Meios fisicos - caracteristicas e antenas em enlaces ponto-a-ponto"
+    ],
+    "nextAction": "REPAIR_AND_RETEST_4",
+    "recommendedNextBlock": "4 questoes, 2 de modulacao analogica e 2 de meios fisicos; se 4/4, mover para SPACED_RETEST"
+  }
+}
