@@ -33,6 +33,12 @@ A estratégia metodológica foi adaptada exclusivamente ao edital de **Engenhari
 - `materiais/` — índice dos materiais-fonte usados no projeto.
 - `provas/` — catálogo das provas históricas da CESGRANRIO.
 - `PROGRESSO.md` — estado atual do estudo.
+- `docs/CLASSIFICACAO_TECCONCURSOS_13_ITENS_2026-10-07.md` — classificação completa das 456 questões dos cadernos TEcom_Tec nos 13 itens do edital.
+- `data/TECCONCURSOS_13_ITENS_2026-10-07.json` — versão estruturada e legível por máquina da classificação, para seleção/rotação de questões em QTI.
+
+## Banco TecConcursos classificado
+
+Os três cadernos `TEcom_Tec.pdf`, `TEcom_Tec2.pdf` e `TEcom_Tec3.pdf` foram classificados integralmente em 07/10/2026: **456 questões**, sendo **445 dentro dos 13 itens do edital** e **11 fora do escopo específico**. Antes de montar QTI, usar essa classificação em conjunto com `data/QUESTOES.json`, `data/RESULTADOS.json` e o histórico em `qti/`, respeitando cooldown, anti-repetição e rotação semântica.
 
 ## Regra de continuidade
 
