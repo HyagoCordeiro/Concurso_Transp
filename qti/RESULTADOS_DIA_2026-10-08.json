@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-08",
+  "project": "Transpetro 2026 - Engenharia de Telecomunicacoes - CESGRANRIO",
+  "sessionType": "qti_reta_final_banco456_reparo_e_reteste",
+  "summary": {
+    "qti30RetaFinal": {
+      "score": "22/30",
+      "accuracyPct": 73.3,
+      "statusInitial": "REPAIR_AND_RETEST",
+      "confirmedErrors": [
+        "WDM - caracteristicas",
+        "PCM - SNR de quantizacao",
+        "Arranjo broadside",
+        "PCM - A-law",
+        "Fibra multimodo - dispersao modal",
+        "Manchester",
+        "Super-heterodino - frequencia imagem"
+      ],
+      "invalidInterfaceCase": {
+        "topic": "Degrau e impulso",
+        "reason": "delta(t-3) ficou ilegivel na renderizacao",
+        "classification": "INTERFACE_RENDERING",
+        "diagnosticValidity": "INVALID_INTERFACE",
+        "retestReadable": "CORRETA",
+        "masteryImpact": "NAO CONTAR COMO ERRO CONCEITUAL"
+      },
+      "lowConfidenceCorrect": ["SDH - TM/ADM/SDXC"]
+    },
+    "repairAfterQti30": {
+      "topics": [
+        "WDM",
+        "dispersao modal",
+        "SDH - TM/ADM/SDXC versus OADM",
+        "A-law",
+        "PCM - SNR de quantizacao",
+        "broadside/end-fire",
+        "Manchester",
+        "super-heterodino",
+        "degrau/impulso em renderizacao legivel"
+      ],
+      "finalMixedRetest": {
+        "score": "6/6",
+        "accuracyPct": 100.0,
+        "topics": ["PCM/SNR","WDM","end-fire/broadside","Manchester","SDH/SDXC","dispersao modal"],
+        "status": "SPACED_RETEST"
+      }
+    },
+    "qti20Bank456": {
+      "eventId": "QTI20-BANK456-1791489869527",
+      "score": "10/20",
+      "accuracyPct": 50.0,
+      "tempoTotalSec": 1442,
+      "tempoMedioSec": 72,
+      "sourceType": "CESGRANRIO_ORIGINAL_BANK456",
+      "selectedBankNumbers": [400,401,403,406,410,411,416,417,421,422,423,428,431,434,440,442,448,450,451,453],
+      "errors": [401,403,421,422,428,431,440,448,450,451],
+      "statusInitial": "REPAIR_AND_RETEST"
+    },
+    "repairAfterQti20": {
+      "immediateConceptRepair": {
+        "repaired": [401,403,421,422,431,440,448,451],
+        "q428": "errou primeiro reforco de DSB e acertou o segundo",
+        "q450": "acertou primeiro reforco, mas voltou a errar conceito relacionado no reteste reformulado"
+      },
+      "retest10Reformulated": {
+        "score": "8/10",
+        "accuracyPct": 80.0,
+        "responses": ["C","B","E","A","C","C","B","E","C","D"],
+        "correctAnswers": ["C","B","E","A","D","C","B","E","A","D"],
+        "remainingErrors": [
+          "Modulacao analogica - VSB versus DSB",
+          "Meios fisicos - antenas direcionais e generalizacoes sobre coaxial/crosstalk"
+        ]
+      }
+    },
+    "endOfDayLearningState": {
+      "repairedAndMoveToSpacedRetest": [
+        "WDM",
+        "dispersao modal",
+        "PCM - SNR",
+        "A-law",
+        "broadside/end-fire",
+        "Manchester",
+        "super-heterodino",
+        "SDH - TM/ADM/SDXC/OADM",
+        "Satelite - TDMA overhead",
+        "GPRS",
+        "ATM sobre SDH",
+        "Metro Ethernet rooted-multipoint",
+        "Radiopropagacao por faixa",
+        "Wi-Fi/multipercurso",
+        "QPSK - taxa de simbolos",
+        "meios nao guiados"
+      ],
+      "remainingImmediateRepair": [
+        "Modulacao analogica - SSB/VSB/DSB",
+        "Meios fisicos - caracteristicas e antenas em enlaces ponto-a-ponto"
+      ],
+      "nextAction": "REPAIR_AND_RETEST_4",
+      "nextBlock": "4 questoes: 2 de modulacao analogica e 2 de meios fisicos; se 4/4, mover ambos para SPACED_RETEST"
+    }
+  },
+  "qtiPolicyNotes": [
+    "QTI futuros devem usar prioritariamente as 456 questoes classificadas, com referencia visivel de numero do banco, concurso/ano e ID TecConcursos quando disponivel.",
+    "Autorais devem ser minoritarias e usadas para transferencia, lacuna ou reforco, nao como fonte dominante quando houver questao elegivel no banco 456.",
+    "Aplicar anti-repeticao semantica, nao apenas canonicalId: mudanca de numeros ou redacao nao torna uma familia recente realmente inedita.",
+    "Manter data/QTI_RENDERING_RULES.json como preflight obrigatorio para formulas e simbolos matematicos."
+  ]
+}
