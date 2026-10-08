@@ -1,0 +1,24 @@
+{
+  "id": "QTI10-PORTUGUES-ESSA-TAL-FELICIDADE-2026-10-07",
+  "status": "ASSIGNED_AWAITING_RESULT",
+  "data": "2026-10-07",
+  "disciplina": "Português",
+  "banca": "CESGRANRIO",
+  "origem": "Petrobras 2010 — texto 'Essa tal felicidade' — prova localizada no QConcursos",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "textIdentity": "CESGRANRIO-PETROBRAS-2010-ESSA-TAL-FELICIDADE",
+  "questionCanonicalIds": [
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q01",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q02",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q03",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q04",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q05",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q06",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q07",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q08",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q09",
+    "ADAPT-CESGRANRIO-PETROBRAS2010-ESSATALFELICIDADE-Q10"
+  ],
+  "note": "Bloquear texto e estas famílias de questões para outros QTI até consolidação do resultado. Questões adaptadas dos pontos cobrados na prova CESGRANRIO/Petrobras 2010, sem reprodução literal integral do material externo."
+}
