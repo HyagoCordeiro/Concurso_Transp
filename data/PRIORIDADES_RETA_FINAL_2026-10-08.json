@@ -1,0 +1,101 @@
+{
+  "updatedAt": "2026-10-08",
+  "examDate": "2026-11-29",
+  "board": "CESGRANRIO",
+  "objective": "Maximizar pontos na prova, com profundidade calibrada por edital, recorrência histórica, erros reais e retorno esperado do tempo de estudo.",
+  "decisionHierarchy": [
+    "EDITAL_2026",
+    "TRANSPETRO_TELECOM_2012_2018_2023",
+    "USER_CURRENT_ERRORS_AND_LOW_CONFIDENCE",
+    "TECCONCURSOS_456_BANK",
+    "OTHER_CESGRANRIO_TELECOM_RELATED",
+    "EXTRA_ACADEMIC_DEPTH"
+  ],
+  "principles": {
+    "doNotAbandonAnyOf13Items": true,
+    "studyForScoreNotAcademicExhaustion": true,
+    "theoryTriggeredByErrorOrHighYieldGap": true,
+    "correctTopicMovesToSpacedRetest": true,
+    "useOriginalCesgranrioWheneverAvailable": true,
+    "useQConcursosTecConcursosAsQuestionBase": true,
+    "useGithubForAntiRepeatAndHistory": true
+  },
+  "priorityOrder": [
+    {
+      "rank": 1,
+      "block": "OPTICA_SDH",
+      "priority": "MAXIMA",
+      "historicalSignal": "forte_em_2012_2018_2023",
+      "focus": ["monomodo_multimodo", "atenuacao", "dispersoes", "Rayleigh", "LED_LASER", "orcamento_optico", "OTDR", "PDH_SDH", "STM", "TM_ADM_SDXC", "WDM_CWDM_DWDM", "OADM_WADM", "transponder"]
+    },
+    {
+      "rank": 2,
+      "block": "RADIOPROPAGACAO_SATELITE",
+      "priority": "ALTA",
+      "historicalSignal": "propagacao_nas_3_provas_satelite_forte_2018_2023",
+      "focus": ["espaco_livre", "Fresnel", "horizonte_radio", "reflexao", "dois_raios", "difracao", "multipercurso", "fading_plano_seletivo", "Rayleigh_Rice", "troposfera", "GEO_LEO", "bandas_C_Ku_Ka", "VSAT", "inbound_outbound", "EIRP", "G_T", "C_N", "Boltzmann", "chuva", "backoff"]
+    },
+    {
+      "rank": 3,
+      "block": "TELEFONIA_VOZ_VIDEO",
+      "priority": "ALTA",
+      "historicalSignal": "presente_nas_3_provas",
+      "focus": ["PCM", "amostragem", "quantizacao", "TDM", "E1", "Erlang", "R2", "H323", "gatekeeper", "MCU", "Q931", "H245", "RTP_RTCP", "SIP", "QoS_voz_video"]
+    },
+    {
+      "rank": 4,
+      "block": "REGULAMENTACAO_ESPECTRO",
+      "priority": "ALTA_MEDIA",
+      "historicalSignal": "recorrente_em_2018_2023",
+      "focus": ["LGT", "competencias", "PDFF", "atribuicao_destinacao_distribuicao", "faixas_frequencia", "regras_espectro_satelite"]
+    },
+    {
+      "rank": 5,
+      "block": "CELULAR",
+      "priority": "MEDIA_ALTA",
+      "historicalSignal": "cresceu_nas_provas_recentes",
+      "focus": ["reuso", "cluster", "interferencia_cocanal", "evolucao_2G_5G", "FDMA_TDMA_CDMA_OFDMA_SCFDMA", "LTE", "5G_R15", "SA_NSA", "small_cells", "massive_MIMO", "handover", "near_far"]
+    },
+    {
+      "rank": 6,
+      "block": "CODIFICACAO_VOZ_VIDEO",
+      "priority": "MEDIA",
+      "historicalSignal": "mais_forte_em_2012",
+      "focus": ["familias_codecs", "compressao_audio_video", "MPEG_H26x_em_nivel_de_prova"]
+    },
+    {
+      "rank": 7,
+      "block": "BANDA_BASE",
+      "priority": "MEDIA_BAIXA",
+      "historicalSignal": "muitas_no_banco_amplo_menor_recorrencia_nas_3_provas_alvo",
+      "focus": ["NRZ", "Manchester", "AMI", "ISI", "diagrama_de_olho", "pulso_filtro_nivel_prova"]
+    },
+    {
+      "rank": 8,
+      "block": "SUPER_HETERODINO",
+      "priority": "BAIXA",
+      "historicalSignal": "nao_se_destacou_em_2012_2018_2023",
+      "focus": ["mixer", "frequencia_intermediaria", "frequencia_imagem", "rejeicao_imagem"]
+    }
+  ],
+  "maintenanceByQti": [
+    "REDES_IP",
+    "REDES_LOCAIS",
+    "SINAIS_SISTEMAS",
+    "FOURIER",
+    "TRANSFORMADA_Z",
+    "CONVOLUCAO",
+    "PROBABILIDADE",
+    "ANTENAS",
+    "PRINCIPIOS_TELECOM"
+  ],
+  "qtiMixGuide": {
+    "highYieldOrCurrentGapPercent": 50,
+    "rotationAcrossRemainingEditalPercent": 30,
+    "spacedRetestErrorsTransferPercent": 20,
+    "rigidQuota": false,
+    "antiRepeatOverridesMix": true
+  },
+  "stopRule": "Depois de teoria mínima, CESGRANRIO original e questão de transferência acertadas com segurança, sair do tópico e colocá-lo em repetição espaçada. Aprofundar apenas por erro repetido, alta recorrência ou exigência clara do edital.",
+  "sourceNote": "Prioridades derivadas do cruzamento entre o banco classificado de 456 questões e o padrão observado nas provas Transpetro Telecom 2012, 2018 e 2023, ajustadas pelo histórico recente de QTIs do usuário."
+}
