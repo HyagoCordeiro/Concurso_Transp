@@ -79,5 +79,5 @@
     "status": "INVALID_INTERFACE_PENDING_RETEST",
     "note": "O erro da questão não deve, isoladamente, contar como desconhecimento do conteúdo até reteste com apresentação legível."
   },
-  "generatorRule": "Antes de gerar qualquer QTI HTML, ler docs/QTI_PADRAO.md, data/QTI_RENDERING_RULES.json, data/QUESTOES.json e o histórico recente qti/."
+  "generatorRule": "Antes de gerar qualquer QTI HTML, ler docs/QTI_PADRAO.md, data/QTI_USER_RULES.json, data/QTI_RENDERING_RULES.json, data/QUESTOES.json e o histórico recente qti/. Regras em data/QTI_USER_RULES.json têm prioridade sobre defaults genéricos incompatíveis."
 }
