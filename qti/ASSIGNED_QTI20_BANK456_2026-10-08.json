@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-08",
+  "qti": "QTI-20 Banco 456 CESGRANRIO",
+  "status": "ASSIGNED_PENDING_RESULT",
+  "antiRepeatPreflight": true,
+  "source": "TEcom_Tec3.pdf — caderno 456",
+  "selected": [
+    {"bankNumber":400,"canonicalId":"TECCONCURSOS-456-Q400-2665687","tecId":"2665687","topic":"CDMA — Códigos de Walsh","answer":"D"},
+    {"bankNumber":401,"canonicalId":"TECCONCURSOS-456-Q401-2705341","tecId":"2705341","topic":"Satélites — múltiplo acesso","answer":"E"},
+    {"bankNumber":403,"canonicalId":"TECCONCURSOS-456-Q403-227171","tecId":"227171","topic":"GSM/GPRS/EDGE","answer":"E"},
+    {"bankNumber":406,"canonicalId":"TECCONCURSOS-456-Q406-349889","tecId":"349889","topic":"VoIP — QoS","answer":"C"},
+    {"bankNumber":410,"canonicalId":"TECCONCURSOS-456-Q410-2699050","tecId":"2699050","topic":"Espectro — faixa SHF","answer":"A"},
+    {"bankNumber":411,"canonicalId":"TECCONCURSOS-456-Q411-643492","tecId":"643492","topic":"PDFF — tabelas de atribuição","answer":"A"},
+    {"bankNumber":416,"canonicalId":"TECCONCURSOS-456-Q416-2394196","tecId":"2394196","topic":"Multiplexação","answer":"A"},
+    {"bankNumber":417,"canonicalId":"TECCONCURSOS-456-Q417-2405454","tecId":"2405454","topic":"Segurança — spoofing","answer":"E"},
+    {"bankNumber":421,"canonicalId":"TECCONCURSOS-456-Q421-2405493","tecId":"2405493","topic":"ATM sobre SDH — taxa útil","answer":"C"},
+    {"bankNumber":422,"canonicalId":"TECCONCURSOS-456-Q422-224602","tecId":"224602","topic":"Metro Ethernet — EVC multiponto com raiz","answer":"D"},
+    {"bankNumber":423,"canonicalId":"TECCONCURSOS-456-Q423-224615","tecId":"224615","topic":"UIT — regiões de radiocomunicações","answer":"B"},
+    {"bankNumber":428,"canonicalId":"TECCONCURSOS-456-Q428-2668276","tecId":"2668276","topic":"Modulação analógica — largura de banda","answer":"D"},
+    {"bankNumber":431,"canonicalId":"TECCONCURSOS-456-Q431-2668290","tecId":"2668290","topic":"Radiopropagação — mecanismos por faixa","answer":"E"},
+    {"bankNumber":434,"canonicalId":"TECCONCURSOS-456-Q434-2688332","tecId":"2688332","topic":"Redes — atrasos de propagação e transmissão","answer":"C"},
+    {"bankNumber":440,"canonicalId":"TECCONCURSOS-456-Q440-2704891","tecId":"2704891","topic":"Wi-Fi — multipercurso","answer":"D"},
+    {"bankNumber":442,"canonicalId":"TECCONCURSOS-456-Q442-2687589","tecId":"2687589","topic":"Erros em rajada — interleaving e FEC","answer":"E"},
+    {"bankNumber":448,"canonicalId":"TECCONCURSOS-456-Q448-2697567","tecId":"2697567","topic":"QPSK — ruído impulsivo","answer":"B"},
+    {"bankNumber":450,"canonicalId":"TECCONCURSOS-456-Q450-2699067","tecId":"2699067","topic":"Meios físicos de transmissão","answer":"C"},
+    {"bankNumber":451,"canonicalId":"TECCONCURSOS-456-Q451-2705285","tecId":"2705285","topic":"Meios não guiados","answer":"E"},
+    {"bankNumber":453,"canonicalId":"TECCONCURSOS-456-Q453-2706563","tecId":"2706563","topic":"Propagação — absorção por gases","answer":"B"}
+  ],
+  "answerDistribution":{"A":3,"B":3,"C":4,"D":4,"E":6}
+}
