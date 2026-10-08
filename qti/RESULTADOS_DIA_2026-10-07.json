@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-07",
+  "project": "Transpetro 2026 - Engenharia de Telecomunicacoes - CESGRANRIO",
+  "sessionType": "consolidacao_por_questoes_correcao_e_reteste",
+  "summary": {
+    "mainQtiResults": [
+      {
+        "qti": "QTI-30 N5 CESGRANRIO",
+        "score": "30/30",
+        "accuracyPct": 100.0,
+        "status": "SPACED_RETEST"
+      },
+      {
+        "qti": "QTI-50 mesclado",
+        "score": "43/50",
+        "accuracyPct": 86.0,
+        "errors": 7,
+        "status": "REPAIR_AND_RETEST"
+      },
+      {
+        "qti": "QTI-14 repair - 2 por erro",
+        "score": "12/14",
+        "accuracyPct": 85.7,
+        "errors": 2,
+        "remainingTopics": [
+          "convolucao continua",
+          "zona de Fresnel"
+        ]
+      },
+      {
+        "qti": "QTI-5 convolucao",
+        "score": "3/5",
+        "accuracyPct": 60.0,
+        "errors": 2,
+        "remainingTopics": [
+          "amplitude na convolucao continua",
+          "valor maximo da convolucao de pulsos"
+        ]
+      },
+      {
+        "qti": "QTI-30 rotacao semantica",
+        "score": "22/30",
+        "accuracyPct": 73.3,
+        "errors": 8,
+        "status": "REPAIR_AND_RETEST"
+      },
+      {
+        "qti": "QTI-10 mesclado",
+        "eventId": "QTI10-MIX-20261007-1791420185688",
+        "occurredAt": "2026-10-08T00:43:05.688Z",
+        "score": "9/10",
+        "accuracyPct": 90.0,
+        "tempoTotalSec": 357,
+        "tempoMedioSec": 36,
+        "antiRepeatPreflight": true,
+        "semanticRotation": true,
+        "exactRepeat": false,
+        "error": {
+          "item": 11,
+          "unitId": "11.2",
+          "topic": "TCP - controle de congestionamento",
+          "selected": "A",
+          "correctAnswer": "B",
+          "confidence": 2,
+          "responseTimeSec": 49
+        }
+      }
+    ],
+    "repairResults": [
+      {
+        "topic": "zona de Fresnel",
+        "result": "2/2 apos repair",
+        "status": "REPARADO"
+      },
+      {
+        "topic": "convolucao continua - amplitude e maximo",
+        "result": "4/4 apos reforco",
+        "status": "REPARADO"
+      },
+      {
+        "block": "reteste dos 8 erros do QTI-30 rotacao semantica",
+        "score": "5/8",
+        "remainingGaps": [
+          "Fourier - simetria conjugada/hermitiana para sinal real",
+          "Transformada Z - teorema do valor final",
+          "satelite - backoff/intermodulacao"
+        ]
+      },
+      {
+        "block": "reteste apos miniaula Fourier/Z/backoff",
+        "score": "6/6",
+        "status": "3 TOPICOS REPARADOS"
+      },
+      {
+        "block": "diagnostico dos 5 pontos apos QTI-10",
+        "score": "3/5",
+        "confirmedGaps": [
+          "TCP - slow start",
+          "AM convencional - indice de modulacao/sobremodulacao"
+        ],
+        "recoveredWithoutLesson": [
+          "IEEE 802.11 - RTS/CTS",
+          "antena log-periodica",
+          "VSAT - outbound/inbound"
+        ]
+      },
+      {
+        "block": "reteste apos miniaula TCP/AM",
+        "score": "4/4",
+        "status": "TCP E AM REPARADOS"
+      }
+    ],
+    "endOfDayStatus": {
+      "repairedToday": [
+        "zona de Fresnel",
+        "convolucao continua - suporte/intersecao/amplitude/maximo",
+        "Fourier - simetria conjugada",
+        "Transformada Z - teorema do valor final",
+        "satelite - backoff e intermodulacao",
+        "TCP - slow start versus congestion avoidance",
+        "AM convencional - indice de modulacao e sobremodulacao"
+      ],
+      "recoveredByDiagnostic": [
+        "IEEE 802.11 - RTS/CTS",
+        "antena log-periodica",
+        "VSAT - inbound/outbound",
+        "coherence bandwidth versus delay spread",
+        "802.1X - EAPOL",
+        "Rayleigh - dependencia 1/lambda^4",
+        "codigo Gray",
+        "inverso de numero complexo"
+      ],
+      "nextStudyPolicy": "retirar topicos reparados do reparo imediato e recoloca-los em reteste espacado; continuar QTI misto com rotacao semantica e anti-repeticao"
+    }
+  },
+  "qti10QuestionResults": [
+    {"canonicalId":"ADAPT-CESGRANRIO-Q427-80211-20261007","item":10,"topic":"IEEE 802.11 - RTS/CTS","result":"CORRETA","confidence":2,"responseTimeSec":22},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q100-AM-20261007","item":4,"topic":"AM convencional - sobremodulacao","result":"CORRETA","confidence":1,"responseTimeSec":13},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q228-FARADAY-20261007","item":7,"topic":"Propagacao ionosferica - rotacao de Faraday","result":"CORRETA","confidence":5,"responseTimeSec":76},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q433-TCP-20261007","item":11,"topic":"TCP - controle de congestionamento","result":"INCORRETA","confidence":2,"responseTimeSec":49},
+    {"canonicalId":"ADAPT-CESGRANRIO-POISSON-20261007-Q01","item":1,"topic":"Distribuicao de Poisson","result":"CORRETA","confidence":5,"responseTimeSec":70},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q402-GSM-20261007","item":9,"topic":"GSM - acesso multiplo","result":"CORRETA","confidence":5,"responseTimeSec":16},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q230-ANTENA-20261007","item":6,"topic":"Antena log-periodica","result":"CORRETA","confidence":2,"responseTimeSec":17},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q335-OPTAMP-20261007","item":12,"topic":"Amplificacao optica","result":"CORRETA","confidence":4,"responseTimeSec":19},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q194-VSAT-20261007","item":8,"topic":"VSAT - acesso multiplo","result":"CORRETA","confidence":3,"responseTimeSec":26},
+    {"canonicalId":"ADAPT-CESGRANRIO-Q371-PABX-20261007","item":5,"topic":"PABX / central privada","result":"CORRETA","confidence":5,"responseTimeSec":12}
+  ],
+  "notes": [
+    "Dia marcado por diagnostico apos erro, teoria pontual e reteste imediato.",
+    "Nao repetir no proximo QTI normal as familias treinadas/reparadas hoje; usar SPACED_RETEST quando elegiveis.",
+    "Continuar usando os cadernos TEcom_Tec, TEcom_Tec2 e TEcom_Tec3 como banco prioritario, cruzando com data/QUESTOES.json e historico qti/ antes de selecionar questoes."
+  ]
+}
