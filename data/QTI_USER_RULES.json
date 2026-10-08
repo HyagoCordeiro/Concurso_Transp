@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-08",
+  "priority": "USER_OVERRIDE",
+  "purpose": "Regras operacionais específicas do usuário para nomenclatura e reteste no projeto Estudo - Concurso.",
+  "terminology": {
+    "tecConcurso": {
+      "canonicalLabel": "TecConcurso",
+      "meaning": "Banco classificado de 456 questões dos arquivos TEcom_Tec.pdf, TEcom_Tec2.pdf e TEcom_Tec3.pdf.",
+      "aliasesAccepted": [
+        "456",
+        "banco 456",
+        "Banco 456",
+        "TecConcursos",
+        "TEcom_Tec",
+        "TEcom_Tec2",
+        "TEcom_Tec3"
+      ],
+      "displayRule": "Em conversa, planejamento e nome de QTI, preferir 'TecConcurso' em vez de '456' ou 'banco 456'.",
+      "traceabilityRule": "Internamente, manter bankNumber/Qxxx, canonicalId e referência original para rastreabilidade."
+    }
+  },
+  "retestPolicy": {
+    "wrongQuestion": {
+      "defaultNextEligible": "NEXT_CALENDAR_DAY",
+      "cooldownDays": 1,
+      "label": "D1_RETEST",
+      "sameDayRepairAllowed": true,
+      "sameDayRepairPreference": "Usar questão reformulada/de transferência do mesmo conceito, evitando repetição literal quando possível.",
+      "nextDayRule": "Toda questão respondida incorretamente pode voltar no dia seguinte; não aplicar D3 obrigatório só por ter sido errada.",
+      "afterNextDayCorrect": "Após acerto no reteste do dia seguinte, aplicar o espaçamento normal de acerto (3/5/7 dias), ajustado por confiança e tempo."
+    },
+    "correctQuestion": {
+      "defaultCooldownDays": [3,5,7],
+      "lowConfidenceOrSlow": "Pode usar o menor intervalo previsto pelo padrão vigente."
+    },
+    "overrideRule": "Esta política substitui qualquer regra genérica anterior que imponha cooldown mínimo de 3 dias a questões previamente erradas/reparadas."
+  },
+  "generatorRequirement": "Antes de montar qualquer QTI, consultar este arquivo junto de data/QUESTOES.json, histórico qti/ recente, docs/QTI_PADRAO.md e data/QTI_RENDERING_RULES.json.",
+  "examples": [
+    "Usuário diz 'faça um QTI usando o TecConcurso' = selecionar do banco das 456 questões classificadas.",
+    "Questão errada em 08/10/2026 = elegível para reteste em 09/10/2026, sem necessidade de aguardar D3."
+  ]
+}
