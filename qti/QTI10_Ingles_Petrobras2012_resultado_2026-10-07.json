@@ -1,0 +1,42 @@
+{
+  "id": "QTI10-INGLES-PETROBRAS2012-2026-10-07",
+  "data": "2026-10-07",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Petrobras 2012",
+  "fonte": "CESGRANRIO / Petrobras / 2012 — Engenheiro(a) de Telecomunicações Júnior",
+  "textos": [
+    "A Day in the Life of the Women of O&G",
+    "How To Start A Career In The Oil And Gas Industry: What Employers Say"
+  ],
+  "totalQuestoes": 10,
+  "acertos": 8,
+  "erros": 1,
+  "naoRespondidas": 1,
+  "percentual": 80,
+  "itensComProblema": [
+    {
+      "questionId": "Q7",
+      "status": "INCORRETA",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "topico": "Tempos verbais / ações exclusivamente no passado",
+      "observacao": "A alternativa C apresenta ações exclusivamente no passado."
+    },
+    {
+      "questionId": "Q8",
+      "status": "NAO_RESPONDIDA",
+      "respostaEscolhida": null,
+      "gabarito": "E",
+      "topico": "Main purpose / interpretação global",
+      "observacao": "O texto reúne várias orientações práticas de carreira."
+    }
+  ],
+  "nextAction": "REPAIR_AND_SPACED_RETEST",
+  "antiRepeat": {
+    "blockTextsForNormalQTI": true,
+    "blockCorrectQuestionsDuringCooldown": true,
+    "allowQ7Q8OnlyInDirectedRetest": true
+  },
+  "origem": "resultado informado pelo usuário no chat"
+}
