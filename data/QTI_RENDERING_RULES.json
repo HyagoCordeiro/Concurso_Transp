@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-08",
+  "purpose": "Garantir legibilidade matemática e evitar que falhas de interface contaminem o diagnóstico pedagógico dos QTIs.",
+  "mandatory": true,
+  "appliesTo": [
+    "QTI-5",
+    "QTI-10",
+    "QTI-20",
+    "QTI-30",
+    "QTI-50",
+    "QTI-130",
+    "qualquer QTI HTML futuro"
+  ],
+  "html": {
+    "charset": "utf-8",
+    "mathFontStack": [
+      "Cambria Math",
+      "STIX Two Math",
+      "STIXGeneral",
+      "DejaVu Sans",
+      "Segoe UI Symbol",
+      "serif"
+    ],
+    "inlineClass": "math",
+    "displayClass": "math-display",
+    "fontSizeInlineEm": 1.08,
+    "fontSizeDisplayEm": 1.16,
+    "externalRendererOptional": ["KaTeX", "MathJax"],
+    "externalRendererCannotBeOnlyFallback": true
+  },
+  "criticalSymbols": {
+    "delta": {"unicode": "δ", "htmlEntity": "&#948;"},
+    "mu": {"unicode": "μ", "htmlEntity": "&#956;"},
+    "lambda": {"unicode": "λ", "htmlEntity": "&#955;"},
+    "omega": {"unicode": "ω", "htmlEntity": "&#969;"},
+    "pi": {"unicode": "π", "htmlEntity": "&#960;"},
+    "infinity": {"unicode": "∞", "htmlEntity": "&infin;"},
+    "sqrt": {"unicode": "√", "htmlEntity": "&radic;"},
+    "minus": {"unicode": "−", "htmlEntity": "&#8722;"}
+  },
+  "highRiskNotationExamples": [
+    "δ(t)",
+    "δ(t−3)",
+    "u(t)",
+    "u(t−3)",
+    "z⁻¹",
+    "e^(−jωt)",
+    "X(ω−ω0)",
+    "G/T",
+    "C/N",
+    "λ/4"
+  ],
+  "preflight": {
+    "required": true,
+    "forbiddenReplacementCharacter": "�",
+    "rejectMalformedCriticalMath": true,
+    "verifyQuestionOptionExplanationNotationConsistency": true,
+    "verifyNoTruncation": true,
+    "verifyMathHasDedicatedClass": true,
+    "verifyLegibilityOfSimilarExpressions": true
+  },
+  "diagnosticPolicy": {
+    "userReportedUnreadableMath": {
+      "errorType": "INTERFACE_RENDERING",
+      "diagnosticValidity": "INVALID_INTERFACE",
+      "excludeFromMastery": true,
+      "excludeFromRepairPriority": true,
+      "excludeFromLongitudinalAccuracy": true,
+      "nextAction": "RETEST_WITH_CORRECT_RENDERING"
+    },
+    "rule": "Nunca converter falha de renderização, fonte, símbolo corrompido, fórmula truncada ou alternativa ilegível em lacuna de conteúdo."
+  },
+  "currentKnownCase": {
+    "date": "2026-10-08",
+    "qti": "QTI-30-RETA-FINAL",
+    "topic": "Degrau e impulso",
+    "expression": "d[u(t−3)]/dt = δ(t−3)",
+    "status": "INVALID_INTERFACE_PENDING_RETEST",
+    "note": "O erro da questão não deve, isoladamente, contar como desconhecimento do conteúdo até reteste com apresentação legível."
+  },
+  "generatorRule": "Antes de gerar qualquer QTI HTML, ler docs/QTI_PADRAO.md, data/QTI_RENDERING_RULES.json, data/QUESTOES.json e o histórico recente qti/."
+}
