@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-08",
+  "purpose": "Centralizar nomenclatura das fontes e regras operacionais de elegibilidade/reteste para os QTIs da reta final.",
+  "precedence": {
+    "thisFileOverridesOlderConflictingCooldownRules": true,
+    "note": "Em caso de conflito com regras anteriores de data/QUESTOES.json ou docs/QTI_PADRAO.md, aplicar este arquivo para nomenclatura da fonte TecConcursos e para o agendamento de questões erradas."
+  },
+  "sourceNaming": {
+    "preferredName": "TecConcursos",
+    "legacyAliases": [
+      "banco 456",
+      "banco das 456",
+      "456 questões",
+      "caderno 456"
+    ],
+    "definition": "Conjunto fixo de 456 questões dos cadernos TEcom_Tec.pdf, TEcom_Tec2.pdf e TEcom_Tec3.pdf, já classificado por item do edital.",
+    "classificationFile": "data/TECCONCURSOS_13_ITENS_2026-10-07.json",
+    "usageRule": "Ao falar dessa base no chat, em QTI, JSON, relatórios e diagnósticos, usar o nome TecConcursos. Pode mencionar '456 questões' apenas como explicação auxiliar, não como nome principal da fonte.",
+    "questionReferenceFormat": "TecConcursos Q<numero> — <banca>/<orgao>/<ano> — ID <id quando disponível>"
+  },
+  "wrongQuestionScheduling": {
+    "enabled": true,
+    "defaultNextEligible": "NEXT_CALENDAR_DAY",
+    "minimumDelayDaysAfterWrongAnswer": 1,
+    "doNotForceD3ForWrongQuestions": true,
+    "sameDayRepairAllowed": true,
+    "nextDayExactQuestionRetestAllowed": true,
+    "nextDaySemanticTransferAllowed": true,
+    "rule": "Questão respondida incorretamente pode reaparecer no dia seguinte, inclusive a questão original em reteste dirigido. Não aplicar automaticamente cooldown D3 a uma questão que acabou de ser errada.",
+    "afterSameDayRepairCorrect": {
+      "nextEligible": "NEXT_CALENDAR_DAY",
+      "note": "Mesmo que o conceito seja corrigido no mesmo dia, a questão originalmente errada pode voltar no dia seguinte para confirmar retenção."
+    },
+    "afterNextDaySuccessfulRetest": {
+      "returnToNormalCorrectCooldown": true,
+      "cooldownDays": [3, 5, 7],
+      "note": "Depois de acertar no reteste do dia seguinte, a questão volta ao regime normal de espaçamento de acertos."
+    },
+    "afterNextDayWrongAgain": {
+      "status": "RECURRING_ERROR",
+      "nextEligible": "NEXT_CALENDAR_DAY",
+      "action": "REPAIR_AND_RETEST",
+      "note": "Erro repetido mantém prioridade alta e pode ser retestado novamente no dia seguinte."
+    }
+  },
+  "correctQuestionScheduling": {
+    "firstTryCorrect": {
+      "cooldownDays": [3, 5, 7]
+    },
+    "lowConfidenceOrSlowCorrect": {
+      "preferredCooldownDays": 3
+    },
+    "sameDayExactRepeatBlocked": true,
+    "exceptions": [
+      "REPAIR",
+      "RETEST"
+    ]
+  },
+  "qtiSelectionOrder": [
+    "TecConcursos elegível, priorizando CESGRANRIO Telecom/áreas afins",
+    "outras CESGRANRIO/QConcursos elegíveis",
+    "reteste do dia seguinte de questões erradas",
+    "questões vencidas em revisão espaçada",
+    "autorais somente para lacuna, reforço ou transferência"
+  ],
+  "generatorChecklist": [
+    "Ler data/QTI_OPERATIONAL_RULES.json",
+    "Ler data/QUESTOES.json",
+    "Cruzar resultados QTI dos últimos 7 dias",
+    "Aplicar anti-repetição semântica",
+    "Usar TecConcursos como nome oficial da base de 456 questões",
+    "Para questão errada, agendar elegibilidade para o próximo dia, não D3",
+    "Preservar referência da questão TecConcursos quando utilizada"
+  ]
+}
