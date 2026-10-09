@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "project": "Transpetro 2026 - Engenharia de Telecomunicacoes - CESGRANRIO",
-  "sessionType": "qti_reta_final_banco456_reparo_e_reteste",
+  "sessionType": "qti_reta_final_teconcursos_reparo_reteste_e_fechamento",
   "summary": {
     "qti30RetaFinal": {
       "score": "22/30",
@@ -24,7 +24,9 @@
         "retestReadable": "CORRETA",
         "masteryImpact": "NAO CONTAR COMO ERRO CONCEITUAL"
       },
-      "lowConfidenceCorrect": ["SDH - TM/ADM/SDXC"]
+      "lowConfidenceCorrect": [
+        "SDH - TM/ADM/SDXC"
+      ]
     },
     "repairAfterQti30": {
       "topics": [
@@ -41,37 +43,69 @@
       "finalMixedRetest": {
         "score": "6/6",
         "accuracyPct": 100.0,
-        "topics": ["PCM/SNR","WDM","end-fire/broadside","Manchester","SDH/SDXC","dispersao modal"],
+        "topics": [
+          "PCM/SNR",
+          "WDM",
+          "end-fire/broadside",
+          "Manchester",
+          "SDH/SDXC",
+          "dispersao modal"
+        ],
         "status": "SPACED_RETEST"
       }
     },
-    "qti20Bank456": {
+    "qti20TecConcursos": {
+      "legacyName": "qti20Bank456",
       "eventId": "QTI20-BANK456-1791489869527",
       "score": "10/20",
       "accuracyPct": 50.0,
       "tempoTotalSec": 1442,
       "tempoMedioSec": 72,
-      "sourceType": "CESGRANRIO_ORIGINAL_BANK456",
-      "selectedBankNumbers": [400,401,403,406,410,411,416,417,421,422,423,428,431,434,440,442,448,450,451,453],
-      "errors": [401,403,421,422,428,431,440,448,450,451],
+      "sourceType": "CESGRANRIO_ORIGINAL_TECCONCURSOS",
+      "selectedBankNumbers": [
+        400, 401, 403, 406, 410, 411, 416, 417, 421, 422,
+        423, 428, 431, 434, 440, 442, 448, 450, 451, 453
+      ],
+      "errors": [
+        401, 403, 421, 422, 428, 431, 440, 448, 450, 451
+      ],
       "statusInitial": "REPAIR_AND_RETEST"
     },
-    "repairAfterQti20": {
+    "repairAfterQti20TecConcursos": {
       "immediateConceptRepair": {
-        "repaired": [401,403,421,422,431,440,448,451],
+        "repaired": [
+          401, 403, 421, 422, 431, 440, 448, 451
+        ],
         "q428": "errou primeiro reforco de DSB e acertou o segundo",
         "q450": "acertou primeiro reforco, mas voltou a errar conceito relacionado no reteste reformulado"
       },
       "retest10Reformulated": {
         "score": "8/10",
         "accuracyPct": 80.0,
-        "responses": ["C","B","E","A","C","C","B","E","C","D"],
-        "correctAnswers": ["C","B","E","A","D","C","B","E","A","D"],
+        "responses": [
+          "C", "B", "E", "A", "C", "C", "B", "E", "C", "D"
+        ],
+        "correctAnswers": [
+          "C", "B", "E", "A", "D", "C", "B", "E", "A", "D"
+        ],
         "remainingErrors": [
           "Modulacao analogica - VSB versus DSB",
           "Meios fisicos - antenas direcionais e generalizacoes sobre coaxial/crosstalk"
         ]
       }
+    },
+    "qti20Fechamento": {
+      "eventId": "QTI20-FECHAMENTO-1791506748177",
+      "occurredAtUtc": "2026-10-09T00:45:48.177Z",
+      "studyDateLocal": "2026-10-08",
+      "score": "19/20",
+      "accuracyPct": 95.0,
+      "tempoTotalSec": 946,
+      "tempoMedioSec": 47,
+      "sourceType": "CESGRANRIO_ORIGINAL_MIX",
+      "singleErrorTopic": "Processo de Poisson",
+      "status": "SPACED_RETEST",
+      "interpretation": "Desempenho forte em bloco misto. Nao reabrir probabilidade inteira; fazer micro-reteste de Poisson no proximo dia."
     },
     "endOfDayLearningState": {
       "repairedAndMoveToSpacedRetest": [
@@ -92,18 +126,21 @@
         "QPSK - taxa de simbolos",
         "meios nao guiados"
       ],
-      "remainingImmediateRepair": [
+      "nextDayEligibleErrors": [
+        "Processo de Poisson",
         "Modulacao analogica - SSB/VSB/DSB",
         "Meios fisicos - caracteristicas e antenas em enlaces ponto-a-ponto"
       ],
-      "nextAction": "REPAIR_AND_RETEST_4",
-      "nextBlock": "4 questoes: 2 de modulacao analogica e 2 de meios fisicos; se 4/4, mover ambos para SPACED_RETEST"
+      "nextAction": "NEXT_DAY_TARGETED_RETEST_PLUS_ROTATION",
+      "note": "Pela regra operacional vigente, erros nao precisam aguardar D3; ficam elegiveis no dia seguinte."
     }
   },
   "qtiPolicyNotes": [
-    "QTI futuros devem usar prioritariamente as 456 questoes classificadas, com referencia visivel de numero do banco, concurso/ano e ID TecConcursos quando disponivel.",
-    "Autorais devem ser minoritarias e usadas para transferencia, lacuna ou reforco, nao como fonte dominante quando houver questao elegivel no banco 456.",
+    "Usar 'TecConcursos' como nome operacional do banco classificado de 456 questoes.",
+    "QTI futuros devem usar prioritariamente questoes do TecConcursos, com referencia visivel de numero do banco, concurso/ano e ID TecConcursos quando disponivel.",
+    "Autorais devem ser minoritarias e usadas para transferencia, lacuna ou reforco, nao como fonte dominante quando houver questao elegivel no TecConcursos.",
     "Aplicar anti-repeticao semantica, nao apenas canonicalId: mudanca de numeros ou redacao nao torna uma familia recente realmente inedita.",
+    "Questao errada fica elegivel para reteste no dia seguinte; depois de acerto confirmado, retorna ao fluxo normal de espacamento.",
     "Manter data/QTI_RENDERING_RULES.json como preflight obrigatorio para formulas e simbolos matematicos."
   ]
 }
