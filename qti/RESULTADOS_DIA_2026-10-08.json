@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "project": "Transpetro 2026 - Engenharia de Telecomunicacoes - CESGRANRIO",
-  "sessionType": "qti_reta_final_teconcursos_reparo_reteste_e_fechamento",
+  "sessionType": "qti_reta_final_teconcursos_reparo_reteste_fechamento_e_poisson",
   "summary": {
     "qti30RetaFinal": {
       "score": "22/30",
@@ -107,6 +107,47 @@
       "status": "SPACED_RETEST",
       "interpretation": "Desempenho forte em bloco misto. Nao reabrir probabilidade inteira; fazer micro-reteste de Poisson no proximo dia."
     },
+    "poissonMicroRepairAfterClosingQti": {
+      "presentationRuleConfirmed": "Sempre fornecer o valor numerico de e^(-lambda) quando necessario.",
+      "round1": {
+        "score": "1/2",
+        "questions": [
+          {
+            "focus": "pelo menos 3 com lambda=4",
+            "response": "A",
+            "correct": "C",
+            "result": "INCORRETA",
+            "errorPattern": "nao aplicou complemento corretamente"
+          },
+          {
+            "focus": "exatamente 2 com lambda=2",
+            "response": "D",
+            "correct": "D",
+            "result": "CORRETA"
+          }
+        ]
+      },
+      "round2": {
+        "score": "1/2",
+        "questions": [
+          {
+            "focus": "pelo menos 2 com lambda=3",
+            "response": "D",
+            "correct": "D",
+            "result": "CORRETA"
+          },
+          {
+            "focus": "no maximo 1 com lambda=2",
+            "response": "E",
+            "correct": "C",
+            "result": "INCORRETA",
+            "errorPattern": "interpretacao de X<=1"
+          }
+        ]
+      },
+      "diagnosis": "Calculo basico de Poisson esta funcional; o ponto de atencao e a traducao verbal do evento, especialmente 'pelo menos' e 'no maximo'. O usuario relatou que compreendeu apos a correcao.",
+      "status": "UNDERSTOOD_PENDING_NEXT_DAY_CONFIRMATION"
+    },
     "endOfDayLearningState": {
       "repairedAndMoveToSpacedRetest": [
         "WDM",
@@ -127,12 +168,12 @@
         "meios nao guiados"
       ],
       "nextDayEligibleErrors": [
-        "Processo de Poisson",
+        "Processo de Poisson - interpretar pelo menos/no maximo",
         "Modulacao analogica - SSB/VSB/DSB",
         "Meios fisicos - caracteristicas e antenas em enlaces ponto-a-ponto"
       ],
       "nextAction": "NEXT_DAY_TARGETED_RETEST_PLUS_ROTATION",
-      "note": "Pela regra operacional vigente, erros nao precisam aguardar D3; ficam elegiveis no dia seguinte."
+      "note": "Pela regra operacional vigente, erros nao precisam aguardar D3; ficam elegiveis no dia seguinte. Em Poisson, sempre fornecer e^(-lambda) numericamente quando a conta exigir."
     }
   },
   "qtiPolicyNotes": [
@@ -141,6 +182,7 @@
     "Autorais devem ser minoritarias e usadas para transferencia, lacuna ou reforco, nao como fonte dominante quando houver questao elegivel no TecConcursos.",
     "Aplicar anti-repeticao semantica, nao apenas canonicalId: mudanca de numeros ou redacao nao torna uma familia recente realmente inedita.",
     "Questao errada fica elegivel para reteste no dia seguinte; depois de acerto confirmado, retorna ao fluxo normal de espacamento.",
+    "Em Poisson, quando e^(-lambda) for necessario, fornecer seu valor numerico no enunciado.",
     "Manter data/QTI_RENDERING_RULES.json como preflight obrigatorio para formulas e simbolos matematicos."
   ]
 }
