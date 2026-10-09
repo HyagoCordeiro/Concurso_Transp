@@ -3,7 +3,7 @@
   "qti": "QTI-20",
   "rodada": "AQUECIMENTO_2026-10-09",
   "assignedAt": "2026-10-09",
-  "status": "ASSIGNED_NOT_ANSWERED",
+  "status": "ANSWERED_PARTIAL_RESULT_RECEIVED",
   "sourceCommit": "afdaded7d18eaffca9b772c4de3aa4802c4e5d30",
   "sourceMix": {
     "CESGRANRIO_ORIGINAL_TECCONCURSOS": 19,
@@ -347,5 +347,17 @@
       "eligibilityReason": "NO_RECENT_ID_OR_FAMILY_MATCH",
       "fingerprint": "1f4f8cf02c1692aa1f1985330669bb2ab76c4abd7e34d0279db651f8a5840192"
     }
-  ]
+  ],
+  "resultEventId": "QTI20-20261009-1791554648432",
+  "resultPath": "qti/QTI20_AQUECIMENTO_resultado_2026-10-09_1791554648432.json",
+  "resultSummary": {
+    "completedAt": "2026-10-09T14:22:04.560Z",
+    "total": 20,
+    "totalValid": 19,
+    "acertos": 12,
+    "erros": 7,
+    "invalidos": 1,
+    "accuracy": 63.2
+  },
+  "pendingQuestionResults": true
 }
