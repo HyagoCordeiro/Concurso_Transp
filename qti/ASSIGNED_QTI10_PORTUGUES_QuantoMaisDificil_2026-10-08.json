@@ -1,6 +1,7 @@
 {
-  "status": "ASSIGNED",
+  "status": "COMPLETED",
   "date": "2026-10-08",
+  "completedAt": "2026-10-09T00:57:55.660Z",
   "qti": "QTI-10",
   "disciplina": "Português",
   "texto": "Quanto mais difícil, melhor",
@@ -9,6 +10,15 @@
   "sourceUrl": "https://arquivos.qconcursos.com/prova/arquivo_prova/105662/cesgranrio-2024-casa-da-moeda-analista-de-producao-designer-de-valores-gravador-prova.pdf",
   "antiRepeatPreflight": true,
   "antiRepeatViolation": false,
+  "result": {
+    "acertos": 8,
+    "erros": 2,
+    "accuracy": 80,
+    "tempoTotalSec": 628,
+    "tempoMedioSec": 63,
+    "weakTopics": ["Conectores", "Ortografia e hífen"],
+    "nextAction": "REPAIR_AND_RETEST"
+  },
   "questionCanonicalIds": [
     "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q01",
     "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q02",
@@ -21,5 +31,7 @@
     "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q09",
     "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q10"
   ],
-  "note": "Texto e famílias destas questões ficam bloqueados contra repetição até consolidação do resultado."
+  "textRepeatPolicy": "BLOCKED_PERMANENTLY_FOR_NORMAL_QTI",
+  "repairPolicy": "Erros podem ser retestados em novo contexto/texto, sem repetir este texto nem a mesma questão literal.",
+  "note": "Resultado consolidado. Texto permanece bloqueado para repetição normal em Português."
 }
