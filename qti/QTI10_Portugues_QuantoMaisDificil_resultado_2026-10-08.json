@@ -1,0 +1,37 @@
+{
+  "eventId": "QTI10-PT-20261008-1791507475660",
+  "occurredAt": "2026-10-09T00:57:55.660Z",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "rodada": "CESGRANRIO/Casa da Moeda 2024 — texto histórico, questões adaptadas inéditas",
+  "texto": "Quanto mais difícil, melhor",
+  "total": 10,
+  "acertos": 8,
+  "erros": 2,
+  "accuracy": 80,
+  "tempoTotalSec": 628,
+  "tempoMedioSec": 63,
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "VALIDO_SEM_REPETICAO",
+  "diagnostico": {
+    "weakTopics": [
+      "Conectores",
+      "Ortografia e hífen"
+    ],
+    "attentionLowConfidence": []
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "questionResults": [
+    {"questionId":"QTI10PT-20261008-Q01","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q01","topic":"Interpretação global","result":"CORRETA","selected":"D","correctAnswer":"D","responseTimeSec":254,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q02","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q02","topic":"Efeito de humor","result":"CORRETA","selected":"A","correctAnswer":"A","responseTimeSec":55,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q03","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q03","topic":"Inferência","result":"CORRETA","selected":"C","correctAnswer":"C","responseTimeSec":18,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q04","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q04","topic":"Coesão textual","result":"CORRETA","selected":"B","correctAnswer":"B","responseTimeSec":104,"confidence":"Média","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q05","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q05","topic":"Conectores","result":"INCORRETA","selected":"C","correctAnswer":"E","responseTimeSec":34,"confidence":"Baixa","errorType":"MEMORIA"},
+    {"questionId":"QTI10PT-20261008-Q06","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q06","topic":"Crase","result":"CORRETA","selected":"A","correctAnswer":"A","responseTimeSec":22,"confidence":"Média","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q07","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q07","topic":"Crase","result":"CORRETA","selected":"C","correctAnswer":"C","responseTimeSec":17,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q08","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q08","topic":"Ortografia e hífen","result":"INCORRETA","selected":"D","correctAnswer":"B","responseTimeSec":33,"confidence":"Média","errorType":"REGRA"},
+    {"questionId":"QTI10PT-20261008-Q09","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q09","topic":"Significação das palavras","result":"CORRETA","selected":"D","correctAnswer":"D","responseTimeSec":17,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261008-Q10","canonicalId":"ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q10","topic":"Interpretação / síntese","result":"CORRETA","selected":"E","correctAnswer":"E","responseTimeSec":37,"confidence":"Alta","errorType":null}
+  ]
+}
