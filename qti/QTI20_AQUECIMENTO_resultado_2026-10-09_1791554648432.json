@@ -1,0 +1,33 @@
+{
+  "eventId": "QTI20-20261009-1791554648432",
+  "occurredAt": "2026-10-09T14:04:08.432Z",
+  "completedAt": "2026-10-09T14:22:04.560Z",
+  "studyDateLocal": "2026-10-09",
+  "qti": "QTI-20",
+  "rodada": "AQUECIMENTO",
+  "editalItem": "13_ITENS",
+  "tema": "Aquecimento misto CESGRANRIO/TecConcursos",
+  "total": 20,
+  "totalValid": 19,
+  "acertos": 12,
+  "erros": 7,
+  "invalidos": 1,
+  "accuracy": 63.2,
+  "tempoTotalSec": 1063.8,
+  "tempoMedioSec": 53.2,
+  "sourceType": "CESGRANRIO_ORIGINAL_TECCONCURSOS_MAIS_RETESTE_AUTORAL",
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "PARTIAL_INVALID_INTERFACE",
+  "notStandaloneUnseenDiagnostic": true,
+  "nextAction": "REPAIR_AND_RETEST",
+  "dataCompleteness": {
+    "status": "PARTIAL_RESULT_RECEIVED",
+    "diagnosticoReceived": false,
+    "questionResultsReceived": false,
+    "missingFields": [
+      "diagnostico",
+      "questionResults"
+    ],
+    "note": "JSON recebido truncado no início de diagnostico. Respostas individuais, item inválido e desempenho por tema aguardam o restante do arquivo; não foram inferidos."
+  }
+}
