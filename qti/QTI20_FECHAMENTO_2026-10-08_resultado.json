@@ -1,0 +1,37 @@
+{
+  "eventId": "QTI20-FECHAMENTO-1791506748177",
+  "occurredAtUtc": "2026-10-09T00:45:48.177Z",
+  "studyDateLocal": "2026-10-08",
+  "qti": "QTI-20",
+  "rodada": "FECHAMENTO_2026-10-08",
+  "total": 20,
+  "acertos": 19,
+  "erros": 1,
+  "accuracy": 95.0,
+  "tempoTotalSec": 946,
+  "tempoMedioSec": 47,
+  "sourceType": "CESGRANRIO_ORIGINAL_MIX",
+  "nextAction": "SPACED_RETEST",
+  "diagnostico": [
+    "Processo de Poisson"
+  ],
+  "pedagogicalDecision": {
+    "overall": "EXCELLENT_CLOSE",
+    "probabilidade": "MICRO_RETEST_NEXT_DAY",
+    "doNotReopenWholeTopic": true,
+    "reason": "19/20 no bloco misto. O único erro foi Processo de Poisson; pela regra operacional vigente, erros ficam elegíveis para reteste no dia seguinte, sem necessidade de aguardar D3."
+  },
+  "nextDayRetest": {
+    "topic": "Processo de Poisson",
+    "focus": [
+      "converter corretamente a taxa para o intervalo pedido",
+      "traduzir 'pelo menos' para complemento quando for mais eficiente",
+      "aplicar P(X=k)=e^-lambda * lambda^k / k!"
+    ],
+    "eligibleOn": "2026-10-09"
+  },
+  "dataCompleteness": {
+    "questionResultsReceived": false,
+    "note": "O JSON colado no chat foi recebido apenas até o campo diagnostico; o registro preserva integralmente os campos de sessão disponíveis e não inventa respostas individuais."
+  }
+}
