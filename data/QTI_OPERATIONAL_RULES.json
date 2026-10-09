@@ -57,6 +57,20 @@
       "RETEST"
     ]
   },
+  "probabilityPresentation": {
+    "poisson": {
+      "alwaysProvideNumericExpValueWhenNeeded": true,
+      "rule": "Em questões de Poisson, quando o cálculo exigir e^(-lambda), informar no enunciado o valor numérico de e^(-lambda) necessário para a conta, por exemplo e^(-4) ≈ 0,0183.",
+      "interpretationFirst": true,
+      "highlightKeywords": [
+        "exatamente",
+        "pelo menos",
+        "no máximo",
+        "nenhum",
+        "ao menos um"
+      ]
+    }
+  },
   "qtiSelectionOrder": [
     "TecConcursos elegível, priorizando CESGRANRIO Telecom/áreas afins",
     "outras CESGRANRIO/QConcursos elegíveis",
@@ -71,6 +85,7 @@
     "Aplicar anti-repetição semântica",
     "Usar TecConcursos como nome oficial da base de 456 questões",
     "Para questão errada, agendar elegibilidade para o próximo dia, não D3",
-    "Preservar referência da questão TecConcursos quando utilizada"
+    "Preservar referência da questão TecConcursos quando utilizada",
+    "Em Poisson, fornecer o valor numérico de e^(-lambda) quando necessário"
   ]
 }
