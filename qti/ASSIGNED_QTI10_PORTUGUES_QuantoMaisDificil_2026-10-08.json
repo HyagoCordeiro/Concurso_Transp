@@ -1,0 +1,25 @@
+{
+  "status": "ASSIGNED",
+  "date": "2026-10-08",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "texto": "Quanto mais difícil, melhor",
+  "autor": "Ruy Castro",
+  "fonte": "CESGRANRIO / Casa da Moeda 2024 — QConcursos",
+  "sourceUrl": "https://arquivos.qconcursos.com/prova/arquivo_prova/105662/cesgranrio-2024-casa-da-moeda-analista-de-producao-designer-de-valores-gravador-prova.pdf",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "questionCanonicalIds": [
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q01",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q02",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q03",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q04",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q05",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q06",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q07",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q08",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q09",
+    "ADAPT-CESGRANRIO-CMB2024-QUANTOMAISDIFICIL-Q10"
+  ],
+  "note": "Texto e famílias destas questões ficam bloqueados contra repetição até consolidação do resultado."
+}
