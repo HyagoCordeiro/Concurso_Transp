@@ -1,0 +1,57 @@
+{
+  "id": "QTI10-INGLES-MANUTENCAO-PREDITIVA-2026-10-08",
+  "data": "2026-10-08",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — AI and the shift toward predictive maintenance",
+  "formato": "HTML interativo",
+  "textoBase": {
+    "tipo": "adaptado",
+    "titulo": "AI and the shift toward predictive maintenance",
+    "tema": "IA, manutenção preditiva, petróleo e operações industriais"
+  },
+  "totalQuestoes": 10,
+  "acertos": 8,
+  "erros": 2,
+  "percentual": 80,
+  "origem": "captura de tela enviada pelo usuário",
+  "itensErrados": [
+    {
+      "questionId": "Q6",
+      "topico": "Equivalência de sentido / conectores",
+      "expressao": "Rather than",
+      "respostaEscolhida": "D",
+      "gabarito": "B",
+      "observacao": "Rather than = instead of = em vez de."
+    },
+    {
+      "questionId": "Q7",
+      "topico": "Vocabulário contextual",
+      "expressao": "misleading",
+      "respostaEscolhida": "E",
+      "gabarito": "D",
+      "observacao": "Misleading = enganoso / capaz de induzir ao erro / inaccurate."
+    }
+  ],
+  "diagnostico": {
+    "pontosFortes": [
+      "ideia central",
+      "informação explícita",
+      "referência textual",
+      "however = contraste",
+      "may = possibilidade",
+      "referência pronominal",
+      "inferência",
+      "questão INCORRECT"
+    ],
+    "reforcar": [
+      "rather than = instead of",
+      "misleading = enganoso / inaccurate"
+    ]
+  },
+  "nextAction": "REPAIR_AND_SPACED_RETEST",
+  "antiRepeat": {
+    "status": "BLOQUEADO_PARA_REPETICAO_COMUM",
+    "observacao": "Questões corretas entram no protocolo de cooldown; Q6 e Q7 podem reaparecer apenas em repair/retest dirigido."
+  }
+}
