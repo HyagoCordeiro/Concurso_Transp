@@ -3,7 +3,7 @@
   "qti": "QTI-20",
   "rodada": "AQUECIMENTO_2026-10-09",
   "assignedAt": "2026-10-09",
-  "status": "ANSWERED_PARTIAL_RESULT_RECEIVED",
+  "status": "ANSWERED_COMPLETE_RESULT_RECEIVED",
   "sourceCommit": "afdaded7d18eaffca9b772c4de3aa4802c4e5d30",
   "sourceMix": {
     "CESGRANRIO_ORIGINAL_TECCONCURSOS": 19,
@@ -357,7 +357,11 @@
     "acertos": 12,
     "erros": 7,
     "invalidos": 1,
-    "accuracy": 63.2
+    "accuracy": 63.2,
+    "diagnosticValidity": "PARTIAL_INVALID_INTERFACE",
+    "fragileCorrect": 1,
+    "recurringErrors": 2
   },
-  "pendingQuestionResults": true
+  "pendingQuestionResults": false,
+  "completedAt": "2026-10-09T14:22:04.560Z"
 }
