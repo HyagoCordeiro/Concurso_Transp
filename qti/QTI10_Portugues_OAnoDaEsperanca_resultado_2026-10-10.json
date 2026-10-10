@@ -1,0 +1,40 @@
+{
+  "eventId": "QTI10-PT-20261009-1791668189945",
+  "occurredAt": "2026-10-10T21:36:29.945Z",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "rodada": "CESGRANRIO/Liquigás 2018 — texto histórico + REPAIR conectores/hífen",
+  "texto": "O ano da esperança",
+  "status": "COMPLETED",
+  "total": 10,
+  "acertos": 9,
+  "erros": 1,
+  "accuracy": 90,
+  "tempoTotalSec": 344,
+  "tempoMedioSec": 34,
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "VALIDO_SEM_REPETICAO_NAO_INTENCIONAL",
+  "diagnostico": {
+    "weakTopics": ["REPAIR — Ortografia e hífen"],
+    "attentionLowConfidence": ["Pontuação"]
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "repairStatus": {
+    "Conectores": "RECUPERADO — acertou o reteste com confiança alta",
+    "Ortografia e hífen": "ABERTO — errou novamente, tipo MEMORIA",
+    "Pontuação": "ATENCAO — acertou com confiança baixa"
+  },
+  "questionResults": [
+    {"questionId":"QTI10PT-20261009-Q01","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q01","topic":"Interpretação","result":"CORRETA","selected":"A","correctAnswer":"A","responseTimeSec":39,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q02","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q02","topic":"Progressão textual","result":"CORRETA","selected":"B","correctAnswer":"B","responseTimeSec":22,"confidence":"Média","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q03","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q03","topic":"Interpretação / internet","result":"CORRETA","selected":"E","correctAnswer":"E","responseTimeSec":79,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q04","canonicalId":"RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q04","topic":"REPAIR — Conectores","result":"CORRETA","selected":"D","correctAnswer":"D","responseTimeSec":19,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q05","canonicalId":"RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q05","topic":"REPAIR — Ortografia e hífen","result":"INCORRETA","selected":"B","correctAnswer":"C","responseTimeSec":20,"confidence":"Média","errorType":"MEMORIA"},
+    {"questionId":"QTI10PT-20261009-Q06","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q06","topic":"Colocação pronominal","result":"CORRETA","selected":"A","correctAnswer":"A","responseTimeSec":11,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q07","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q07","topic":"Verbos","result":"CORRETA","selected":"E","correctAnswer":"E","responseTimeSec":19,"confidence":"Média","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q08","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q08","topic":"Pontuação","result":"CORRETA","selected":"B","correctAnswer":"B","responseTimeSec":41,"confidence":"Baixa","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q09","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q09","topic":"Crase","result":"CORRETA","selected":"C","correctAnswer":"C","responseTimeSec":27,"confidence":"Alta","errorType":null},
+    {"questionId":"QTI10PT-20261009-Q10","canonicalId":"ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q10","topic":"Síntese","result":"CORRETA","selected":"D","correctAnswer":"D","responseTimeSec":24,"confidence":"Média","errorType":null}
+  ]
+}
