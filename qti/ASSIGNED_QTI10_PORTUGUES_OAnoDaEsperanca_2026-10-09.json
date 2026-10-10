@@ -1,0 +1,30 @@
+{
+  "status": "ASSIGNED",
+  "date": "2026-10-09",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "texto": "O ano da esperança",
+  "autor": "Walcyr Carrasco",
+  "fonte": "CESGRANRIO / Liquigás 2018 — QConcursos",
+  "sourceUrl": "https://arquivos.qconcursos.com/prova/arquivo_prova/57655/cesgranrio-2018-liquigas-tecnico-quimico-prova.pdf",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "mode": "MIXED_WITH_REPAIR",
+  "repairTargets": [
+    "Conectores — concessão",
+    "Ortografia e hífen"
+  ],
+  "questionCanonicalIds": [
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q01",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q02",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q03",
+    "RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q04",
+    "RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q05",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q06",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q07",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q08",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q09",
+    "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q10"
+  ],
+  "note": "Texto e famílias destas questões ficam bloqueados contra repetição até consolidação do resultado. Q04 e Q05 são REPAIR/RETEST permitidos pela política do GitHub por corresponderem aos erros do QTI anterior."
+}
