@@ -1,0 +1,29 @@
+{
+  "id": "QTI10-INGLES-DIGITALTWINS-2026-10-10",
+  "data": "2026-10-10",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Digital Twins",
+  "totalQuestoes": 10,
+  "acertos": 10,
+  "erros": 0,
+  "percentual": 100,
+  "origem": "captura de tela enviada pelo usuário",
+  "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO",
+  "temaTexto": "Digital twins and safer pipeline operations",
+  "topicosCobrados": [
+    "main purpose",
+    "informação explícita",
+    "referência textual",
+    "conectores",
+    "vocabulário contextual",
+    "modal verb",
+    "inferência",
+    "alternativa INCORRECT"
+  ],
+  "itensErrados": [],
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "VALID",
+  "nextAction": "SPACED_RETEST",
+  "observacao": "Resultado perfeito: 10/10 (100%). Manter o texto e as questões fora de novos QTI comuns durante o cooldown; reutilização apenas em reteste espaçado quando elegível."
+}
