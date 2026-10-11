@@ -1,0 +1,31 @@
+{
+  "status": "ASSIGNED",
+  "date": "2026-10-11",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "texto": "O fenômeno urbano: passado, presente e futuro",
+  "autor": "Nelson B. Olic",
+  "fonte": "CESGRANRIO / Transpetro 2012 — QConcursos",
+  "sourceUrl": "https://arquivos.qconcursos.com/prova/arquivo_prova/28598/cesgranrio-2012-transpetro-tecnico-de-seguranca-junior-prova.pdf",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "repairTargets": [
+    "Ortografia e hífen"
+  ],
+  "attentionTargets": [
+    "Pontuação"
+  ],
+  "questionCanonicalIds": [
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q01",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q02",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q03",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q04",
+    "RETEST-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q05",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q06",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q07",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q08",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q09",
+    "ADAPT-CESGRANRIO-TRANSPETRO2012-FENOMENOURBANO-Q10"
+  ],
+  "note": "Texto novo no histórico recente. Hífen reaparece somente como REPAIR dirigido; pontuação entra como atenção por acerto anterior de baixa confiança. Bloquear texto e famílias até consolidação."
+}
