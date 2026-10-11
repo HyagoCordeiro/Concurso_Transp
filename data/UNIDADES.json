@@ -6,18 +6,81 @@
       "nome": "Conceito de Probabilidade; Eventos; Probabilidades conjuntas; Probabilidades condicionais; Independência estatística",
       "item": "1",
       "materia": "Probabilidade e Processos Estocásticos",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-10",
+          "tipo": "REVISAO_GUIADA",
+          "resultado": "12/16 (75%)",
+          "origemResultado": "REVISAO-PROB-1.1-20261010",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+          "nota": "Complemento da união; Denominador da probabilidade condicional; Independência versus exclusividade"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-11",
+          "status": "PENDENTE",
+          "motivo": "12/16 na prática guiada; três pontos de retomada confirmados.",
+          "reviewId": "REV-PROB-1.1-20261010"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-10"
     },
     {
       "id": "1.2",
       "nome": "Variáveis aleatórias; Distribuições de probabilidade discretas e contínuas; Médias estatísticas de variáveis aleatórias; Teorema do limite central",
       "item": "1",
       "materia": "Probabilidade e Processos Estocásticos",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-10",
+          "tipo": "REVISAO_GUIADA",
+          "resultado": "4/4 (100%)",
+          "origemResultado": "REVISAO-BERNOULLI-BINOMIAL-20261010",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+          "nota": "Acertos do bloco guiado; confirmar retenção posterior."
+        },
+        {
+          "data": "2026-10-10",
+          "tipo": "REVISAO_GUIADA",
+          "resultado": "2/4 (50%)",
+          "origemResultado": "REVISAO-POISSON-20261010",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+          "nota": "Traduzir 'no máximo' para o evento correto; Calcular λ^k/k!"
+        },
+        {
+          "data": "2026-10-10",
+          "tipo": "REVISAO_GUIADA",
+          "resultado": "2/4 (50%)",
+          "origemResultado": "REVISAO-GEOMETRICA-20261010",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+          "nota": "Retestar distribuição geométrica; detalhes dos erros não recuperados"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-13",
+          "status": "PENDENTE",
+          "motivo": "4/4 no bloco guiado do dia; confirmar retenção posterior.",
+          "reviewId": "REV-BERNOULLI-BINOMIAL-20261010"
+        },
+        {
+          "data": "2026-10-11",
+          "status": "PENDENTE",
+          "motivo": "2/4; dificuldade recorrente em traduzir o evento.",
+          "reviewId": "REV-POISSON-20261010"
+        },
+        {
+          "data": "2026-10-11",
+          "status": "PENDENTE",
+          "motivo": "2/4; classificação individual dos erros não recuperada.",
+          "reviewId": "REV-GEOMETRICA-20261010"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-10",
+      "coberturaNota": "Bernoulli/Binomial, Poisson e geométrica praticados; hipergeométrica e uniforme apenas propostas. Não considerar o item inteiro consolidado."
     },
     {
       "id": "1.3",
@@ -441,17 +504,58 @@
       "id": "PT",
       "nome": "Língua Portuguesa",
       "materia": "Conhecimentos Básicos",
-      "estado": "EM_ESTUDO",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-10",
+          "tipo": "QTI-10",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "QTI10-PT-20261009-1791668189945",
+          "sourceFile": "qti/QTI10_Portugues_OAnoDaEsperanca_resultado_2026-10-10.json",
+          "nota": "Conectores recuperados; hífen aberto; pontuação com confiança baixa."
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-11",
+          "status": "PENDENTE",
+          "motivo": "Erro de memória recorrente no REPAIR; B em vez de C.",
+          "reviewId": "REV-PT-HIFEN-20261010"
+        },
+        {
+          "data": "2026-10-13",
+          "status": "PENDENTE",
+          "motivo": "Acerto com confiança baixa; atenção, não erro consolidado.",
+          "reviewId": "REV-PT-PONTUACAO-20261010"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-10"
     },
     {
       "id": "ING",
       "nome": "Língua Inglesa",
       "materia": "Conhecimentos Básicos",
-      "estado": "EM_ESTUDO",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-10",
+          "tipo": "QTI-10",
+          "resultado": "10/10 (100%)",
+          "origemResultado": "QTI10-INGLES-DIGITALTWINS-2026-10-10",
+          "sourceFile": "qti/QTI10_Ingles_DigitalTwins_resultado_2026-10-10.json",
+          "nota": "Resultado confirmado por captura; sem tempos ou detalhes individuais."
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-13",
+          "status": "PENDENTE",
+          "motivo": "10/10 confirmado; manter revisão espaçada, sem concluir domínio.",
+          "reviewId": "REV-ING-DIGITALTWINS-20261010"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-10"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-10"
 }

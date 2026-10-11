@@ -102,3 +102,8 @@ O arquivo `data/COMANDOS.json` contém associações operacionais obrigatórias 
 **QTI => HTML interativo**
 
 Essa regra deve ser aplicada automaticamente em novas conversas e sessões do projeto, salvo pedido explícito do usuário por outro formato.
+
+
+## Último fechamento — 10/10/2026
+
+[Telecom, Português e Inglês — resultados, revisões e próximo passo](qti/RESULTADOS_DIA_2026-10-10.md). **PT 9/10; Inglês 10/10**. Revisão guiada de Probabilidade registrada; QTI-30 dos 13 itens atribuído, ainda sem resultado. O pedido de voltar ao método mais rápido está em [Perfil de Estudo](docs/PERFIL_ESTUDO.md).

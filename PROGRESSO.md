@@ -249,3 +249,18 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Auditoria:** o usuário identificou numerosas questões repetidas, inclusive questões usadas nos simulados da manhã do mesmo dia.
 - **Classificação metodológica:** `CONTAMINADO_POR_REPETICAO`. Preservar o 104/130 como registro bruto de revisão, mas **não usar este percentual como evidência longitudinal limpa de domínio**.
 - **Correção de processo:** protocolo anti-repetição reforçado para bloquear qualquer reutilização no mesmo dia, bloquear famílias/análogas cosméticas, operar em modo fail-closed quando a identidade for incerta e exigir preflight contra `QUESTOES.json`, `RESULTADOS.json` e `qti/`.
+
+
+## Fechamento — 10/10/2026 (America/Sao_Paulo)
+
+[Resumo completo](qti/RESULTADOS_DIA_2026-10-10.md) · [Registro estruturado](qti/RESULTADOS_DIA_2026-10-10.json).
+
+- **Telecom / Probabilidade:** item 1.1 **12/16**; Bernoulli/Binomial **4/4**; Poisson **2/4**; geométrica **2/4**. Prática guiada, com detalhes individuais parcialmente indisponíveis; não representa diagnóstico independente dos 13 itens.
+- **Retomar:** complemento da união, denominador da condicional, independência versus exclusividade; Poisson (“no máximo” e λ^k/k!); geométrica. Erros do dia com reteste dirigido a partir de **11/10**.
+- **Hipergeométrica e Uniforme contínua:** apenas propostas, sem respostas confirmadas; não somar às questões respondidas.
+- **Português — O ano da esperança:** **9/10 (90%)**, **5min44s**. Conectores recuperados com confiança alta; hífen permanece aberto (MEMÓRIA); pontuação correta com baixa confiança. Reparar hífen em novo contexto em 11/10; pontuação após cooldown em 13/10. O timestamp confirma conclusão em 10/10, apesar do ID com 20261009.
+- **Inglês — Digital Twins:** **10/10 (100%)**. Questões autorais/adaptadas no estilo CESGRANRIO; resultado por captura. Sem tempo/confiança individual disponível. Revisão espaçada a partir de 13/10 com texto novo.
+- **Contagem confirmada do dia:** **48 respostas** (28 na revisão de Probabilidade + 20 PT/ING). Apenas **344 s** de tempo medido foram recebidos; o tempo líquido total permanece desconhecido. Não misturar prática guiada e QTI em percentual global de domínio.
+- **Método vigente:** pedido do usuário em 10/10 para voltar ao jeito anterior, mais rápido; abandonar exigência fixa de 1 diagnóstica + 3 fixações por subtópico. Preferir blocos mistos e reparo localizado; miniaula sob demanda. QTI continua HTML.
+- **QTI-30 dos 13 itens:** [HTML](qti/QTI-30_Telecom_2026-10-10.html) e [manifesto](qti/ASSIGNED_QTI30_MISTO_13ITENS_2026-10-10.json) registrados. **ASSIGNED_NOT_ANSWERED**, sem nota ou tempo. 17 originais + 1 adaptada + 12 autorais; 21 NEW + 7 RETEST + 2 SPACED_RETEST. Questões reservadas no banco; excluídas das 48 respondidas.
+- **Próximo passo:** receber o JSON real do QTI-30, consolidar erros/confiança/tempo e manter reparos dirigidos de Probabilidade e hífen. Revisões anteriores sem reteste confirmado continuam pendentes.

@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "studyDateLocal": "2026-10-10",
+  "timezone": "America/Sao_Paulo",
+  "project": "Transpetro 2026 — Engenharia de Telecomunicações — CESGRANRIO",
+  "sessionType": "REVISAO_PROBABILIDADE_PORTUGUES_INGLES_E_QTI30_ATRIBUIDO",
+  "sessions": [
+    {
+      "id": "REVISAO-PROB-1.1-20261010",
+      "unitId": "1.1",
+      "titulo": "Eventos, probabilidade conjunta, condicional e independência",
+      "totalQuestoes": 16,
+      "acertos": 12,
+      "erros": 4,
+      "percentual": 75,
+      "prioridades": [
+        "Complemento da união",
+        "Denominador da probabilidade condicional",
+        "Independência versus exclusividade"
+      ],
+      "sourceTimestamp": "2026-10-10T22:14:22Z",
+      "data": "2026-10-10",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REVISAO_GUIADA",
+      "disciplina": "Telecomunicações",
+      "status": "COMPLETED",
+      "origem": "Resumo da conversa de estudo de 10/10/2026 recuperado para continuidade",
+      "evidenceLevel": "CONVERSATION_AGGREGATE",
+      "sourceType": "NAO_RECUPERADO",
+      "questionResults": [],
+      "questionDetailsRecovered": false,
+      "tempoTotalSec": null,
+      "diagnosticValidity": "PRATICA_GUIADA_NAO_DIAGNOSTICO_INDEPENDENTE",
+      "antiRepeatViolation": null,
+      "observacao": "Contagem agregada confirmada na conversa; não reconstruir IDs, tempos, confiança ou gabaritos individuais ausentes."
+    },
+    {
+      "id": "REVISAO-BERNOULLI-BINOMIAL-20261010",
+      "unitId": "1.2",
+      "titulo": "Bernoulli e Binomial",
+      "totalQuestoes": 4,
+      "acertos": 4,
+      "erros": 0,
+      "percentual": 100,
+      "prioridades": [],
+      "sourceTimestamp": "2026-10-10T22:26:07Z",
+      "respostasConfirmadas": [
+        "Binomial: A",
+        "Bernoulli: C",
+        "Binomial — cálculo: D = 0,051",
+        "Pelo menos uma: B = 0,488"
+      ],
+      "data": "2026-10-10",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REVISAO_GUIADA",
+      "disciplina": "Telecomunicações",
+      "status": "COMPLETED",
+      "origem": "Resumo da conversa de estudo de 10/10/2026 recuperado para continuidade",
+      "evidenceLevel": "CONVERSATION_AGGREGATE",
+      "sourceType": "NAO_RECUPERADO",
+      "questionResults": [],
+      "questionDetailsRecovered": false,
+      "tempoTotalSec": null,
+      "diagnosticValidity": "PRATICA_GUIADA_NAO_DIAGNOSTICO_INDEPENDENTE",
+      "antiRepeatViolation": null,
+      "observacao": "Contagem agregada confirmada na conversa; não reconstruir IDs, tempos, confiança ou gabaritos individuais ausentes."
+    },
+    {
+      "id": "REVISAO-POISSON-20261010",
+      "unitId": "1.2",
+      "titulo": "Poisson",
+      "totalQuestoes": 4,
+      "acertos": 2,
+      "erros": 2,
+      "percentual": 50,
+      "prioridades": [
+        "Traduzir 'no máximo' para o evento correto",
+        "Calcular λ^k/k!"
+      ],
+      "sourceTimestamp": "2026-10-10T22:32:23Z",
+      "data": "2026-10-10",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REVISAO_GUIADA",
+      "disciplina": "Telecomunicações",
+      "status": "COMPLETED",
+      "origem": "Resumo da conversa de estudo de 10/10/2026 recuperado para continuidade",
+      "evidenceLevel": "CONVERSATION_AGGREGATE",
+      "sourceType": "NAO_RECUPERADO",
+      "questionResults": [],
+      "questionDetailsRecovered": false,
+      "tempoTotalSec": null,
+      "diagnosticValidity": "PRATICA_GUIADA_NAO_DIAGNOSTICO_INDEPENDENTE",
+      "antiRepeatViolation": null,
+      "observacao": "Contagem agregada confirmada na conversa; não reconstruir IDs, tempos, confiança ou gabaritos individuais ausentes."
+    },
+    {
+      "id": "REVISAO-GEOMETRICA-20261010",
+      "unitId": "1.2",
+      "titulo": "Distribuição geométrica",
+      "totalQuestoes": 4,
+      "acertos": 2,
+      "erros": 2,
+      "percentual": 50,
+      "prioridades": [
+        "Retestar distribuição geométrica; detalhes dos erros não recuperados"
+      ],
+      "sourceTimestamp": "2026-10-10T22:41:01Z",
+      "data": "2026-10-10",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REVISAO_GUIADA",
+      "disciplina": "Telecomunicações",
+      "status": "COMPLETED",
+      "origem": "Resumo da conversa de estudo de 10/10/2026 recuperado para continuidade",
+      "evidenceLevel": "CONVERSATION_AGGREGATE",
+      "sourceType": "NAO_RECUPERADO",
+      "questionResults": [],
+      "questionDetailsRecovered": false,
+      "tempoTotalSec": null,
+      "diagnosticValidity": "PRATICA_GUIADA_NAO_DIAGNOSTICO_INDEPENDENTE",
+      "antiRepeatViolation": null,
+      "observacao": "Contagem agregada confirmada na conversa; não reconstruir IDs, tempos, confiança ou gabaritos individuais ausentes."
+    },
+    {
+      "eventId": "QTI10-PT-20261009-1791668189945",
+      "occurredAt": "2026-10-10T21:36:29.945Z",
+      "qti": "QTI-10",
+      "disciplina": "Português",
+      "rodada": "CESGRANRIO/Liquigás 2018 — texto histórico + REPAIR conectores/hífen",
+      "texto": "O ano da esperança",
+      "status": "COMPLETED",
+      "total": 10,
+      "acertos": 9,
+      "erros": 1,
+      "accuracy": 90,
+      "tempoTotalSec": 344,
+      "tempoMedioSec": 34,
+      "antiRepeatPreflight": true,
+      "antiRepeatViolation": false,
+      "diagnosticValidity": "VALIDO_SEM_REPETICAO_NAO_INTENCIONAL",
+      "diagnostico": {
+        "weakTopics": [
+          "REPAIR — Ortografia e hífen"
+        ],
+        "attentionLowConfidence": [
+          "Pontuação"
+        ]
+      },
+      "nextAction": "REPAIR_AND_RETEST",
+      "repairStatus": {
+        "Conectores": "RECUPERADO — acertou o reteste com confiança alta",
+        "Ortografia e hífen": "ABERTO — errou novamente, tipo MEMORIA",
+        "Pontuação": "ATENCAO — acertou com confiança baixa"
+      },
+      "questionResults": [
+        {
+          "questionId": "QTI10PT-20261009-Q01",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q01",
+          "topic": "Interpretação",
+          "result": "CORRETA",
+          "selected": "A",
+          "correctAnswer": "A",
+          "responseTimeSec": 39,
+          "confidence": "Alta",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q02",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q02",
+          "topic": "Progressão textual",
+          "result": "CORRETA",
+          "selected": "B",
+          "correctAnswer": "B",
+          "responseTimeSec": 22,
+          "confidence": "Média",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q03",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q03",
+          "topic": "Interpretação / internet",
+          "result": "CORRETA",
+          "selected": "E",
+          "correctAnswer": "E",
+          "responseTimeSec": 79,
+          "confidence": "Alta",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q04",
+          "canonicalId": "RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q04",
+          "topic": "REPAIR — Conectores",
+          "result": "CORRETA",
+          "selected": "D",
+          "correctAnswer": "D",
+          "responseTimeSec": 19,
+          "confidence": "Alta",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q05",
+          "canonicalId": "RETEST-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q05",
+          "topic": "REPAIR — Ortografia e hífen",
+          "result": "INCORRETA",
+          "selected": "B",
+          "correctAnswer": "C",
+          "responseTimeSec": 20,
+          "confidence": "Média",
+          "errorType": "MEMORIA"
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q06",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q06",
+          "topic": "Colocação pronominal",
+          "result": "CORRETA",
+          "selected": "A",
+          "correctAnswer": "A",
+          "responseTimeSec": 11,
+          "confidence": "Alta",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q07",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q07",
+          "topic": "Verbos",
+          "result": "CORRETA",
+          "selected": "E",
+          "correctAnswer": "E",
+          "responseTimeSec": 19,
+          "confidence": "Média",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q08",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q08",
+          "topic": "Pontuação",
+          "result": "CORRETA",
+          "selected": "B",
+          "correctAnswer": "B",
+          "responseTimeSec": 41,
+          "confidence": "Baixa",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q09",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q09",
+          "topic": "Crase",
+          "result": "CORRETA",
+          "selected": "C",
+          "correctAnswer": "C",
+          "responseTimeSec": 27,
+          "confidence": "Alta",
+          "errorType": null
+        },
+        {
+          "questionId": "QTI10PT-20261009-Q10",
+          "canonicalId": "ADAPT-CESGRANRIO-LIQUIGAS2018-ANODAESPERANCA-Q10",
+          "topic": "Síntese",
+          "result": "CORRETA",
+          "selected": "D",
+          "correctAnswer": "D",
+          "responseTimeSec": 24,
+          "confidence": "Média",
+          "errorType": null
+        }
+      ],
+      "id": "QTI10-PT-20261009-1791668189945",
+      "data": "2026-10-10",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "QTI-10",
+      "titulo": "QTI-10 Português — O ano da esperança",
+      "totalQuestoes": 10,
+      "percentual": 90,
+      "sourceFile": "qti/QTI10_Portugues_OAnoDaEsperanca_resultado_2026-10-10.json",
+      "sourceType": "CESGRANRIO_ADAPTADA_E_RETEST",
+      "dateNote": "O ID contém 20261009, mas occurredAt confirma conclusão em 10/10/2026 às 18:36:29 (America/Sao_Paulo)."
+    },
+    {
+      "id": "QTI10-INGLES-DIGITALTWINS-2026-10-10",
+      "data": "2026-10-10",
+      "tipo": "QTI-10",
+      "disciplina": "Inglês",
+      "titulo": "QTI-10 — Inglês CESGRANRIO — Digital Twins",
+      "totalQuestoes": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "captura de tela enviada pelo usuário",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO",
+      "temaTexto": "Digital twins and safer pipeline operations",
+      "topicosCobrados": [
+        "main purpose",
+        "informação explícita",
+        "referência textual",
+        "conectores",
+        "vocabulário contextual",
+        "modal verb",
+        "inferência",
+        "alternativa INCORRECT"
+      ],
+      "itensErrados": [],
+      "antiRepeatViolation": false,
+      "diagnosticValidity": "VALID",
+      "nextAction": "SPACED_RETEST",
+      "observacao": "Resultado perfeito: 10/10 (100%). Manter o texto e as questões fora de novos QTI comuns durante o cooldown; reutilização apenas em reteste espaçado quando elegível. Tempo, confiança e respostas individuais não disponíveis na evidência recebida.",
+      "studyDateLocal": "2026-10-10",
+      "timezone": "America/Sao_Paulo",
+      "status": "COMPLETED",
+      "sourceFile": "qti/QTI10_Ingles_DigitalTwins_resultado_2026-10-10.json",
+      "tempoTotalSec": null,
+      "questionDetailsRecovered": false
+    }
+  ],
+  "summary": {
+    "confirmedQuestionsAnswered": 48,
+    "telecomGuidedPractice": {
+      "questions": 28,
+      "correct": 20,
+      "wrong": 8,
+      "independentDiagnostic": false
+    },
+    "completedLanguageQti": {
+      "questions": 20,
+      "correct": 19,
+      "wrong": 1
+    },
+    "knownTimedSeconds": 344,
+    "totalStudyTimeSeconds": null,
+    "countScope": "Somente respostas confirmadas; contagem mínima recuperada, sem questões apenas propostas ou QTI atribuído. O tempo de 344 s é exclusivo do QTI de Português; não é a duração total do dia.",
+    "longitudinalMasteryNote": "Não combinar prática guiada e QTI em um percentual global de domínio. Acertos do dia não encerram tópicos."
+  },
+  "pendingActivities": [
+    {
+      "topic": "Hipergeométrica",
+      "status": "PROPOSED_NO_CONFIRMED_ANSWERS",
+      "note": "Os rótulos 'fixação 2/3' e 'fixação 3/3' indicavam a posição da questão no bloco, não notas."
+    },
+    {
+      "topic": "Uniforme contínua",
+      "status": "PROPOSED_NO_CONFIRMED_ANSWERS"
+    }
+  ],
+  "generatedArtifacts": [
+    {
+      "sessionId": "QTI30-20261010-MISTO-13ITENS",
+      "status": "ASSIGNED_NOT_ANSWERED",
+      "totalAssigned": 30,
+      "sourceFile": "qti/ASSIGNED_QTI30_MISTO_13ITENS_2026-10-10.json",
+      "htmlFile": "qti/QTI-30_Telecom_2026-10-10.html",
+      "acertos": null,
+      "tempoTotalSec": null,
+      "includeInCompletedStats": false,
+      "sourceMix": {
+        "CESGRANRIO_ORIGINAL": 17,
+        "CESGRANRIO_ADAPTADA": 1,
+        "AUTORAL_CESGRANRIO_STYLE": 12
+      },
+      "modeMix": {
+        "NEW": 21,
+        "RETEST": 7,
+        "SPACED_RETEST": 2
+      }
+    }
+  ],
+  "methodDecision": {
+    "occurredAt": "2026-10-10T22:51:03Z",
+    "requestedBy": "USER",
+    "status": "ACTIVE",
+    "instruction": "Voltar ao método anterior, mais rápido; deixar de exigir 1 diagnóstica + 3 fixações em cada subtópico.",
+    "implementation": "Usar blocos mistos e reparo localizado conforme necessidade. Miniaula sob demanda. Não alongar a revisão de todos os subtópicos com uma sequência fixa.",
+    "qtiFormat": "HTML_INTERATIVO"
+  },
+  "nextPriorities": [
+    "Receber resultado do QTI-30 antes de pontuar ou atualizar domínio dos 13 itens",
+    "Probabilidade 1.1: complemento da união, condicional e independência/exclusividade",
+    "Poisson: tradução de no máximo e λ^k/k!; fornecer e^(-λ) numericamente quando necessário",
+    "Geométrica: reteste dirigido para localizar os erros",
+    "Português: ortografia/hífen; pontuação em atenção por baixa confiança",
+    "Manter Inglês em revisão espaçada com texto novo"
+  ],
+  "evidenceNotes": [
+    "Português e Inglês: arquivos de resultado já existentes no GitHub, preservados como evidência primária.",
+    "Telecom: resumos datados da conversa de 10/10; detalhes individuais indisponíveis ficam nulos/ausentes.",
+    "Não importar os resultados de Português/Inglês de 08/10 para este fechamento.",
+    "Não registrar Hipergeométrica, Uniforme ou QTI-30 como respondidos sem evidência."
+  ]
+}

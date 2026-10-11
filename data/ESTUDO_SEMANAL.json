@@ -31,7 +31,75 @@
       "questionsAnswered": 50,
       "score": "41/50",
       "note": "Primeiro registro exato no novo controle semanal; outras atividades do dia anteriores a este marco podem não estar integralmente contabilizadas."
+    },
+    {
+      "sessionId": "REVISAO-PROB-1.1-20261010",
+      "date": "2026-10-10",
+      "type": "Eventos, probabilidade conjunta, condicional e independência",
+      "questionsAnswered": 16,
+      "score": "12/16",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+      "note": "Contagem agregada confirmada em conversa; tempo líquido não recuperado."
+    },
+    {
+      "sessionId": "REVISAO-BERNOULLI-BINOMIAL-20261010",
+      "date": "2026-10-10",
+      "type": "Bernoulli e Binomial",
+      "questionsAnswered": 4,
+      "score": "4/4",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+      "note": "Contagem agregada confirmada em conversa; tempo líquido não recuperado."
+    },
+    {
+      "sessionId": "REVISAO-POISSON-20261010",
+      "date": "2026-10-10",
+      "type": "Poisson",
+      "questionsAnswered": 4,
+      "score": "2/4",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+      "note": "Contagem agregada confirmada em conversa; tempo líquido não recuperado."
+    },
+    {
+      "sessionId": "REVISAO-GEOMETRICA-20261010",
+      "date": "2026-10-10",
+      "type": "Distribuição geométrica",
+      "questionsAnswered": 4,
+      "score": "2/4",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
+      "note": "Contagem agregada confirmada em conversa; tempo líquido não recuperado."
+    },
+    {
+      "sessionId": "QTI10-PT-20261009-1791668189945",
+      "date": "2026-10-10",
+      "type": "QTI-10 Português — O ano da esperança",
+      "questionsAnswered": 10,
+      "score": "9/10",
+      "liquidTime": "00:05:44",
+      "liquidMinutes": 5.733333333333333,
+      "sourceFile": "qti/QTI10_Portugues_OAnoDaEsperanca_resultado_2026-10-10.json",
+      "note": "Tempo recebido no JSON; data de conclusão confirmada por occurredAt."
+    },
+    {
+      "sessionId": "QTI10-INGLES-DIGITALTWINS-2026-10-10",
+      "date": "2026-10-10",
+      "type": "QTI-10 — Inglês CESGRANRIO — Digital Twins",
+      "questionsAnswered": 10,
+      "score": "10/10",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/QTI10_Ingles_DigitalTwins_resultado_2026-10-10.json",
+      "note": "Resultado por captura; tempo não informado."
     }
   ],
-  "weeklyClosures": []
+  "weeklyClosures": [],
+  "updatedAt": "2026-10-10",
+  "dataCompletenessNote": "10/10: adicionadas 48 respostas confirmadas e 344 segundos medidos em Português. Os demais tempos do dia e registros de outros dias não foram reconstruídos integralmente neste fechamento; não tratar soma de knownSessions como total semanal completo."
 }

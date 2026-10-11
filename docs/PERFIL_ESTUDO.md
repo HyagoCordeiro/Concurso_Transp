@@ -48,3 +48,14 @@ Usar revisão espaçada adaptativa. D7 e D21 continuam úteis como marcos, mas o
 ## Encerramento de tópico
 
 Não considerar um tópico encerrado apenas por ter sido lido ou por um acerto isolado.
+
+## Ajuste de método — 10/10/2026
+
+Pedido explícito do usuário: voltar ao método anterior, mais rápido. Não exigir a sequência fixa de **1 diagnóstica + 3 fixações em cada subtópico**, rejeitada por demorar demais.
+
+- Usar blocos mistos, correção objetiva e reparo localizado conforme os erros.
+- Miniaula sob demanda; manter teoria necessária antes de tema novo.
+- Registrar pontos firmes e a retomar sem prolongar cada subtópico por uma quantidade fixa de questões.
+- Preservar QTI em HTML, prioridade CESGRANRIO/TecConcursos e anti-repetição.
+
+[Fechamento e evidências do dia](../qti/RESULTADOS_DIA_2026-10-10.md).
