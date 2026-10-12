@@ -1,0 +1,23 @@
+{
+  "eventId": "QTI10-PT-20261011-RESULT",
+  "occurredAt": "2026-10-12T02:04:46.000Z",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "rodada": "CESGRANRIO/Transpetro 2012 — texto histórico + REPAIR hífen + atenção pontuação",
+  "texto": "O fenômeno urbano: passado, presente e futuro",
+  "total": 10,
+  "acertos": 9,
+  "erros": 1,
+  "accuracy": 90,
+  "tempoTotalSec": 372,
+  "tempoMedioSec": 37,
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "diagnosticValidity": "VALIDO_SEM_REPETICAO_NAO_INTENCIONAL",
+  "diagnostico": {
+    "weakTopics": ["Pontuação — vírgula"],
+    "repairedTopics": ["Ortografia e hífen"]
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "observacao": "Usuário informou que o único erro foi na questão de vírgula/pontuação. O REPAIR de hífen foi superado neste bloco."
+}
