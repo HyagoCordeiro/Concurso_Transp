@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-10-11",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Private wireless networks in critical operations",
+  "formato": "HTML_INTERATIVO",
+  "sourceType": "AUTORAL_ADAPTADO_CESGRANRIO_STYLE",
+  "tema": "Redes privadas LTE/5G em operações críticas",
+  "totalQuestoes": 10,
+  "acertos": 8,
+  "erros": 2,
+  "percentual": 80,
+  "diagnosticValidity": "VALID",
+  "antiRepeatViolation": false,
+  "itensErrados": [
+    {
+      "questionId": "Q8",
+      "topico": "Inferência",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "observacao": "O texto afirma que redes privadas podem operar junto com outras tecnologias; ideia central: complementaridade, não substituição total."
+    },
+    {
+      "questionId": "Q9",
+      "topico": "Equivalência de sentido / vocabulário contextual",
+      "expressao": "rather than",
+      "respostaEscolhida": "C",
+      "gabarito": "B",
+      "observacao": "Rather than = instead of = em vez de."
+    }
+  ],
+  "acertosRelevantes": [
+    "main purpose",
+    "informação explícita",
+    "referência pronominal",
+    "However = contraste",
+    "weak = insufficient",
+    "may = possibilidade",
+    "Therefore = Consequently",
+    "questão do tipo INCORRECT"
+  ],
+  "nextAction": "MICRO_REPAIR_Q8_Q9_THEN_SPACED_RETEST",
+  "cooldownRecommendationDays": 3,
+  "observacao": "Resultado confirmado por captura de tela enviada pelo usuário. Manter bloqueio anti-repetição para as 8 questões corretas; Q8 e Q9 podem retornar apenas como REPAIR/RETEST dirigido."
+}
