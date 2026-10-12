@@ -104,6 +104,13 @@ O arquivo `data/COMANDOS.json` contém associações operacionais obrigatórias 
 Essa regra deve ser aplicada automaticamente em novas conversas e sessões do projeto, salvo pedido explícito do usuário por outro formato.
 
 
-## Último fechamento — 10/10/2026
+## Fechamento anterior — 10/10/2026
 
 [Telecom, Português e Inglês — resultados, revisões e próximo passo](qti/RESULTADOS_DIA_2026-10-10.md). **PT 9/10; Inglês 10/10**. Revisão guiada de Probabilidade registrada; QTI-30 dos 13 itens atribuído, ainda sem resultado. O pedido de voltar ao método mais rápido está em [Perfil de Estudo](docs/PERFIL_ESTUDO.md).
+
+
+## Último fechamento — 11/10/2026
+
+[Processo de estudo: itens1–4, históricos, correções e reforços](qti/RESULTADOS_DIA_2026-10-11.md). Item1histórico9/9; item 3histórico9/10;4.1=5/5;4.2inicial4/5; bloco11 históricas 9/11. Tempo de estudo **estimado em cerca de 6h15**, com pausas explícitas excluídas. Treino guiado comreaplicações solicitadas, não simulado longitudinal. QAM: bits 3/3, última marcação de gráfico errada, masusuário declarou quejá sabe; nenhumreparo imediato extra.
+
+**Retomada combinada:12/10/2026 — item 5, Telefonia e Videoconferência, iniciando pelo5.1.**

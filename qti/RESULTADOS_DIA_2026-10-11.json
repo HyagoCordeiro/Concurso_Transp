@@ -1,0 +1,1530 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-10-11",
+  "timezone": "America/Sao_Paulo",
+  "cutoff": "2026-10-11T20:55:41-03:00",
+  "recordType": "RECUPERACAO_E_FECHAMENTO_DE_TREINO_TEXTUAL",
+  "evidenceCompleteness": "VISIBLE_CONVERSATION_PLUS_PARTIAL_EARLIER_HISTORY",
+  "time": {
+    "status": "ESTIMATED_FROM_ACTIVE_INTERVALS",
+    "timezone": "America/Sao_Paulo",
+    "cutoff": "2026-10-11T20:55:41-03:00",
+    "activeIntervals": [
+      {
+        "start": "2026-10-11T09:36:42-03:00",
+        "end": "2026-10-11T11:21:55-03:00",
+        "seconds": 6313
+      },
+      {
+        "start": "2026-10-11T13:12:27-03:00",
+        "end": "2026-10-11T14:17:05-03:00",
+        "seconds": 3878
+      },
+      {
+        "start": "2026-10-11T14:44:27-03:00",
+        "end": "2026-10-11T17:01:11-03:00",
+        "seconds": 8204
+      },
+      {
+        "start": "2026-10-11T17:12:48-03:00",
+        "end": "2026-10-11T17:36:02-03:00",
+        "seconds": 1394
+      },
+      {
+        "start": "2026-10-11T20:10:47-03:00",
+        "end": "2026-10-11T20:55:41-03:00",
+        "seconds": 2694
+      }
+    ],
+    "estimatedActiveSeconds": 22483,
+    "estimatedActiveHours": 6.245277777777778,
+    "roundedDisplay": "cerca de6h15",
+    "excludedBreaks": [
+      {
+        "start": "11:21:55",
+        "end": "13:12:27",
+        "reason": "almoço"
+      },
+      {
+        "start": "14:17:05",
+        "end": "14:44:27",
+        "reason": "pausa"
+      },
+      {
+        "start": "17:01:11",
+        "end": "17:12:48",
+        "reason": "descanso"
+      },
+      {
+        "start": "17:36:02",
+        "end": "20:10:47",
+        "reason": "pausa até retorno noturno"
+      }
+    ],
+    "limitations": "Estimativa pela soma dos intervalos de conversa entre início/retorno e pausas explícitas. Inclui explicações, cálculos e esperas do atendimento. Não é cronômetro de atividade nem desconta interrupções não sinalizadas; não registrar como horas líquidas medidas."
+  },
+  "blocks": [
+    {
+      "id": "ESTUDO-PROB-CONCEITO-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "titulo": "Conceito de probabilidade",
+      "totalQuestoes": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "D=0,40; questão repetida do QTI-30 de 10/10, repetição identificada pelo usuário.",
+      "antiRepeatViolation": true
+    },
+    {
+      "id": "ESTUDO-PROB-CONJUNTA-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "titulo": "Probabilidades conjuntas",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Marcações B,C,A recuperadas."
+    },
+    {
+      "id": "ESTUDO-PROB-CONDICIONAL-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "titulo": "Probabilidade condicional",
+      "totalQuestoes": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro C; correta A=0,75. Restringir o denominador à condição."
+    },
+    {
+      "id": "ESTUDO-PROB-COND-REPAIR-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "titulo": "Reforço de probabilidade condicional",
+      "totalQuestoes": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Primeira B, correta E=1/3; segunda C=0,25 correta."
+    },
+    {
+      "id": "ESTUDO-PROB-INDEPENDENCIA-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "titulo": "Independência estatística",
+      "totalQuestoes": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "B correta."
+    },
+    {
+      "id": "ESTUDO-PROB-VARIAVEIS-TLC-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "titulo": "Variáveis, distribuições, médias e TLC",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "D=1,8; E=20; B: normal, média50ms e DP2ms."
+    },
+    {
+      "id": "ESTUDO-PROCESSOS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.3",
+      "editalItem": "1",
+      "titulo": "Processos estocásticos, autocorrelação, DEP e gaussianos",
+      "totalQuestoes": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C: estacionário, E[X²]=13 e variância4; D: R(0)=12, área da DEP; E incorreta, correta A. Covariância zero implica independência sob normalidade conjunta."
+    },
+    {
+      "id": "ESTUDO-PROB-HISTORICAS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "titulo": "Item1 — 9 questões históricas adaptadas",
+      "totalQuestoes": 9,
+      "acertos": 9,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "D,B,C,D,A,E,C,B,A; inclui Markov/Petrobras2012Q40. Manifesto preservado; treinamento solicitado com valores alterados.",
+      "unitIds": [
+        "1.1",
+        "1.2",
+        "1.3"
+      ],
+      "sourceType": "CESGRANRIO_ADAPTADA"
+    },
+    {
+      "id": "ESTUDO-COMPLEXOS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "2.1",
+      "editalItem": "2",
+      "titulo": "Números complexos",
+      "totalQuestoes": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Fechamento parcial recuperado:1/2; erro na exponencial complexa; módulo4 multiplica as partes real e imaginária. Usuário relatou confusão trigonométrica/cansaço.",
+      "evidenceCompleteness": "PARTIAL_RECONSTRUCTION"
+    },
+    {
+      "id": "ESTUDO-FUNCOES-TEMPORAIS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "2.2",
+      "editalItem": "2",
+      "titulo": "Impulso, degrau, exponenciais e período",
+      "totalQuestoes": 3,
+      "acertos": 1,
+      "erros": 2,
+      "percentual": 33.3,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Placar1/3 recuperado; discutidos decaimento exponencial e período fundamental. Detalhes individuais e eventual reparo extra não recuperados com segurança.",
+      "evidenceCompleteness": "PARTIAL_RECONSTRUCTION"
+    },
+    {
+      "id": "ESTUDO-FOURIER-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "2.3",
+      "editalItem": "2",
+      "titulo": "Série e Transformada de Fourier",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Fechamento3/3 recuperado; atenção ao fator1/(2j) na modulação por seno.",
+      "evidenceCompleteness": "RETRIEVED_SUMMARY"
+    },
+    {
+      "id": "ESTUDO-CONVOLUCAO-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "2.4",
+      "editalItem": "2",
+      "titulo": "Convolução contínua/discreta",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Placar3/3 recuperado. Recuperação também citou reforço2/3 e reparo2/2, mas atribuição entre2.4 e3.3 ficou incerta: não somados novamente.",
+      "evidenceCompleteness": "PARTIAL_RECONSTRUCTION"
+    },
+    {
+      "id": "ESTUDO-ITEM2-HISTORICAS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "2.3",
+      "editalItem": "2",
+      "titulo": "Item2 — 5 questões Transpetro2023 adaptadas",
+      "totalQuestoes": 5,
+      "acertos": null,
+      "erros": null,
+      "percentual": null,
+      "status": "RESPOSTAS_NAO_RECUPERADAS",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Manifesto comQ44,Q49,Q55,Q67,Q70 preservado. Marcações individuais/placar não recuperados suficientemente; não transformar gabarito planejado em resultado do usuário.",
+      "unitIds": [
+        "2.2",
+        "2.3",
+        "2.4"
+      ],
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "answersRecovered": false
+    },
+    {
+      "id": "ESTUDO-LIT-LAPLACE-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "titulo": "LIT, Laplace, impulso e degrau",
+      "totalQuestoes": 3,
+      "acertos": 1,
+      "erros": 2,
+      "percentual": 33.3,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro na invariância de x(2t); impulso6/(s+3) correto; degrau8/(s+4) confundido com exponencial isolada."
+    },
+    {
+      "id": "ESTUDO-DOMINIO-FREQUENCIA-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.2",
+      "editalItem": "3",
+      "titulo": "Sinais no domínio da frequência",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "H=10/(s+10), entrada4cos(10t): amplitude2√2 e fase−π/4. Explicado s=jω e ω=10 extraído do cosseno; Bode−40dB/década→grau relativo2; valor final.",
+      "responseRevision": "autocorreção de C para D em fase, conforme fechamento da conversa"
+    },
+    {
+      "id": "ESTUDO-DOMINIO-FREQUENCIA-REPAIR-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "3.2",
+      "editalItem": "3",
+      "titulo": "Fixação adicional em frequência",
+      "totalQuestoes": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Questão adicional solicitada após explicação de s=jω."
+    },
+    {
+      "id": "ESTUDO-SAIDA-CONVOLUCAO-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.3",
+      "editalItem": "3",
+      "titulo": "Convolução para saída de LIT",
+      "totalQuestoes": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro no degrau: h=4e^(−2t),x=3u→y=6(1−e^(−2t)), não12e^(−2t)."
+    },
+    {
+      "id": "ESTUDO-CONVOLUCAO-REPAIR-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "3.3",
+      "editalItem": "3",
+      "titulo": "Reforço de convolução com degrau",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C: h=6e^(−3t),x=2u→4(1−e^(−3t)); B: h=10e^(−5t),x=4u→valor final8."
+    },
+    {
+      "id": "ESTUDO-RESPOSTA-FREQUENCIA-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.4",
+      "editalItem": "3",
+      "titulo": "Resposta em frequência",
+      "totalQuestoes": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro de fase no passa-altas s/(s+4) emω=4: +π/4. Acertos no passa-baixas12/(s+4), ganhoDC3, e Bode−60dB/década→grau3."
+    },
+    {
+      "id": "ESTUDO-AMOSTRAGEM-Z-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.5",
+      "editalItem": "3",
+      "titulo": "Amostragem e Transformada Z",
+      "totalQuestoes": 3,
+      "acertos": 1,
+      "erros": 2,
+      "percentual": 33.3,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "PCM4kHz/8bits→64kbps correto. Erro ao eliminar z^−1. Na saída do polo repetido, usuário afirmou ter calculado certo e marcado errado: preservar como erro de marcação declarado, sem inferir falta de compreensão."
+    },
+    {
+      "id": "ESTUDO-ITEM3-HISTORICAS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "titulo": "Item3 — 9 principais e1 relacionada",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+      "unitIds": [
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "7.2"
+      ],
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "userRequestedRepetition": true
+    },
+    {
+      "id": "ESTUDO-ITEM4-1-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "4.1",
+      "editalItem": "4",
+      "titulo": "Blocos de transmissão e modulação",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "D,C,A,B,E; canal16QAM/banda9MHz; quantização; AMm0,60; Carson100kHz;8PSK8Mbaud.",
+      "sourceType": "MISTO_CESGRANRIO_ADAPTADA_E_AUTORAL"
+    },
+    {
+      "id": "ESTUDO-ITEM4-2-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "A/D, SNR, TEB, eficiência e fonte/canal",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C,D,A,E,D; erro SNR: razão linear100 corresponde20dB, não100dB. Demais acertosPCM84kbps, TEB2e−5, eficiênciaI/III e fonte/FEC/ARQ."
+    },
+    {
+      "id": "ESTUDO-SNR-REPAIR-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "Reforço de SNR",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C:15mW/0,015mW→30dB; D:2mW/20µW→20dB."
+    },
+    {
+      "id": "ESTUDO-ITEM4-HISTORICAS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "11 questões sobre item4.2 e aplicações",
+      "totalQuestoes": 11,
+      "acertos": 9,
+      "erros": 2,
+      "percentual": 81.8,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+      "sourceType": "CESGRANRIO_ORIGINAL_E_ADAPTADA",
+      "userRequestedRepetition": true,
+      "unitIds": [
+        "4.2",
+        "4.1",
+        "5.2",
+        "8.3",
+        "12.2"
+      ]
+    },
+    {
+      "id": "ESTUDO-QAM-CRC-REPAIR-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "Duas questões por erro — QAM e CRC",
+      "totalQuestoes": 4,
+      "acertos": 3,
+      "erros": 1,
+      "percentual": 75,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C(errada,B15dB),C(correta21dB),A(gCRCcorreto),D(grau5/detecção). QAM1/2 eCRC2/2. Esclarecido10011 pode ser exemplo deCRC5bits; representação do gerador x5+x2+1 é100101."
+    },
+    {
+      "id": "ESTUDO-QAM-BITS-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "Bits por símbolo e percentuais",
+      "totalQuestoes": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C:64QAM+50%→9bits/512;D:16QAM+25%→5bits/32;A:256QAM+50%→12bits/4096."
+    },
+    {
+      "id": "ESTUDO-QAM-GRAFICO-20261011",
+      "data": "2026-10-11",
+      "studyDateLocal": "2026-10-11",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "titulo": "Transferência para gráfico QAM",
+      "totalQuestoes": 1,
+      "acertos": 0,
+      "erros": 1,
+      "percentual": 0,
+      "status": "COMPLETED",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "origem": "conversa de estudo e evidências recuperadas",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "C21dB marcada; corretaD24dB para512QAM eTEB1e−4. Usuário declarou 'eu errei, mas já sei fazer'; não continuar reforços imediatos automaticamente.",
+      "userReportedUnderstanding": true,
+      "immediateRepairStoppedAtUserRequest": true
+    }
+  ],
+  "questions": {
+    "item3": [
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q55",
+        "year": 2012,
+        "originalQuestion": 55,
+        "unitId": "3.5",
+        "topic": "PCM/Nyquist",
+        "response": "D",
+        "answer": "D",
+        "result": "CORRETA",
+        "values": {
+          "bandKHz": 6,
+          "bitsPerSample": 12
+        },
+        "solution": "fs=12kHz; Rb=144kbps"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q42",
+        "year": 2023,
+        "originalQuestion": 42,
+        "unitId": "3.1",
+        "topic": "Laplace/resposta temporal",
+        "response": "B",
+        "answer": "B",
+        "result": "CORRETA",
+        "values": {
+          "inputDC": 18,
+          "H": "3s/(s²+6s+13)"
+        },
+        "solution": "y(t)=27e^(−3t)sen(2t)"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q45",
+        "year": 2023,
+        "originalQuestion": 45,
+        "unitId": "3.2",
+        "topic": "Bode/grau relativo",
+        "response": "D",
+        "answer": "D",
+        "result": "CORRETA",
+        "values": {
+          "highFrequencySlopeDbPerDecade": -20
+        },
+        "solution": "grau relativo1"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q46",
+        "year": 2023,
+        "originalQuestion": 46,
+        "unitId": "3.5",
+        "topic": "Z e tempo/índice",
+        "response": "D",
+        "answer": "B",
+        "result": "INCORRETA",
+        "values": {
+          "H": "(z−0,4)/(z²−1,3z+0,4)",
+          "Tsec": 0.5,
+          "tSec": 2
+        },
+        "solution": "n=4; y4=0,641"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q49",
+        "year": 2023,
+        "originalQuestion": 49,
+        "unitId": "3.3",
+        "topic": "Convolução discreta",
+        "response": "E",
+        "answer": "E",
+        "result": "CORRETA",
+        "values": {
+          "x": [
+            3,
+            -2,
+            1
+          ],
+          "h": {
+            "0": 2,
+            "1": 3,
+            "-1": -1
+          }
+        },
+        "solution": "y0=8"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q55",
+        "year": 2023,
+        "originalQuestion": 55,
+        "unitId": "3.2",
+        "topic": "Modulação por cosseno/Fourier",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {
+          "X2": "(3+j2πf)^−1"
+        },
+        "solution": "(1/2)[X2(f−f0)+X2(f+f0)]"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q68",
+        "year": 2023,
+        "originalQuestion": 68,
+        "unitId": "3.5",
+        "topic": "Equação de diferenças/Z",
+        "response": "B",
+        "answer": "B",
+        "result": "CORRETA",
+        "values": {
+          "equation": "y[n]−5y[n−1]+6y[n−2]=x[n]−4x[n−1]"
+        },
+        "solution": "H=(z²−4z)/(z²−5z+6)"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q69",
+        "year": 2023,
+        "originalQuestion": 69,
+        "unitId": "3.1",
+        "topic": "Valor final de degrau",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {
+          "equation": "y''+9y'+20y=30x+6x'"
+        },
+        "solution": "polos−4,−5; y∞=30/20=1,5"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q70",
+        "year": 2023,
+        "originalQuestion": 70,
+        "unitId": "3.2",
+        "topic": "Fourier/pulsos",
+        "response": "E",
+        "answer": "E",
+        "result": "CORRETA",
+        "values": {
+          "negativePulse": "−2 em[−6,0]",
+          "positivePulse": "+2 em[0,6]"
+        },
+        "solution": "G=−j24Sa(3ω)sen(3ω)"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q58",
+        "year": 2012,
+        "originalQuestion": 58,
+        "unitId": "7.2",
+        "topic": "Canal variante e seletivo",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {
+          "condition": "λ>2T",
+          "h": "a(t)δ(t)+b(t)δ(t+λ)"
+        },
+        "solution": "variante no tempo e seletivo em frequência; adicional relacionada"
+      }
+    ],
+    "item4": [
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q51",
+        "year": 2012,
+        "originalQuestion": 51,
+        "unitId": "4.2",
+        "topic": "Compressão/fonte versus canal",
+        "response": "B",
+        "answer": "B",
+        "result": "CORRETA",
+        "values": {},
+        "solution": "H.261,G.711,G.728; Viterbi é algoritmo de decodificação, Reed-Solomon/BCH/Hamming são códigos de canal"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q47",
+        "year": 2023,
+        "originalQuestion": 47,
+        "unitId": "4.2",
+        "topic": "QAM/TEB/EbN0",
+        "response": "D",
+        "answer": "C",
+        "result": "INCORRETA",
+        "values": {
+          "initialModulation": 16,
+          "initialEbN0Db": 10,
+          "efficiencyIncreasePercent": 100,
+          "optionsDb": [
+            10,
+            15,
+            19,
+            22,
+            25
+          ]
+        },
+        "solution": "4→8bits;256QAM; interseção na TEB inicial≈19dB. Original13,2dB→22,4dB (B); gráfico mantido, ponto inicialalterado."
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q55",
+        "year": 2012,
+        "originalQuestion": 55,
+        "unitId": "4.2",
+        "topic": "PCM",
+        "response": "A",
+        "answer": "A",
+        "result": "CORRETA",
+        "values": {
+          "bandKHz": 4,
+          "bitsPerSample": 9,
+          "optionsKbps": [
+            72,
+            36,
+            64,
+            80,
+            144
+          ]
+        },
+        "solution": "8kamostras/s×9=72kbps"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q56",
+        "year": 2012,
+        "originalQuestion": 56,
+        "unitId": "4.2",
+        "topic": "Eficiência/roll-off/código",
+        "response": "E",
+        "answer": "E",
+        "result": "CORRETA",
+        "values": {},
+        "solution": "I eIII; η=rlog2M/(1+α) nas condições de filtragem adotadas"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q31",
+        "year": 2018,
+        "originalQuestion": 31,
+        "unitId": "4.2",
+        "topic": "Quantização",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {},
+        "solution": "Arredondar amplitudes para níveis disponíveis"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q50",
+        "year": 2023,
+        "originalQuestion": 50,
+        "unitId": "4.1",
+        "topic": "Fonte/canal/QAM/banda",
+        "response": "D",
+        "answer": "D",
+        "result": "CORRETA",
+        "values": {
+          "RbMbps": 18,
+          "codeRate": "3/4",
+          "M": 64,
+          "bandMultiplier": 1.25
+        },
+        "solution": "Rc24Mbps;6bits/símbolo;Rs4Mbaud;B5MHz"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q32",
+        "year": 2012,
+        "originalQuestion": 32,
+        "unitId": "4.2",
+        "topic": "CRC do IEEE802.16",
+        "response": "C",
+        "answer": "D",
+        "result": "INCORRETA",
+        "values": {},
+        "solution": "g=x8+x2+x+1; HCS8bits; parâmetro normativo não alterado"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q52",
+        "year": 2012,
+        "originalQuestion": 52,
+        "unitId": "5.2",
+        "topic": "PCM/TDM",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {
+          "totalSlots": 24,
+          "voiceSlots": 22,
+          "controlSlots": 2,
+          "channelKbps": 80,
+          "bitsPerSample": 10
+        },
+        "solution": "Taxa de voz=22×80=1760kbps; enunciadoadaptadoexplicitou exclusão docontrole"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q61",
+        "year": 2012,
+        "originalQuestion": 61,
+        "unitId": "12.2",
+        "topic": "Eficiência/banda/distância",
+        "response": "D",
+        "answer": "D",
+        "result": "CORRETA",
+        "values": {
+          "channels": 25,
+          "channelKbps": 80,
+          "bandDistanceMHzKm": 600,
+          "efficiency": 0.2
+        },
+        "solution": "Rb2Mbps;B10MHz;L60km; A corrigida paraD antesdafeedback"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q54",
+        "year": 2018,
+        "originalQuestion": 54,
+        "unitId": "8.3",
+        "topic": "SNR/enlace satélite",
+        "response": "E",
+        "answer": "E",
+        "result": "CORRETA",
+        "values": {
+          "EIRPdBW": 48,
+          "GTdBK": 18,
+          "spaceLossDb": 205,
+          "atmosphericLossDb": 5,
+          "bandMHz": 20,
+          "kLog": -228.6
+        },
+        "solution": "10logB=73;C/N11,6dB; EIRP do mapa foi apresentado numericamente"
+      },
+      {
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
+        "year": 2023,
+        "originalQuestion": 53,
+        "unitId": "8.3",
+        "topic": "C/N/enlace satélite",
+        "response": "C",
+        "answer": "C",
+        "result": "CORRETA",
+        "values": {
+          "EIRPdBW": 49,
+          "GTdBK": 9,
+          "spaceLossDb": 202,
+          "bandMHz": 5,
+          "kLog": -228.6
+        },
+        "solution": "10logB=67;C/N17,6dB"
+      }
+    ],
+    "repairs": [
+      {
+        "topic": "SNR",
+        "response": "C",
+        "answer": "C",
+        "values": {
+          "Ps_mW": 15,
+          "Pn_mW": 0.015
+        },
+        "solution": "30dB"
+      },
+      {
+        "topic": "SNR",
+        "response": "D",
+        "answer": "D",
+        "values": {
+          "Ps_mW": 2,
+          "Pn_uW": 20
+        },
+        "solution": "20dB"
+      },
+      {
+        "topic": "QAM/gráfico",
+        "response": "C",
+        "answer": "B",
+        "values": {
+          "M0": 16,
+          "increasePercent": 50,
+          "TEB": "1e−3"
+        },
+        "solution": "4→6bits→64QAM→15dB"
+      },
+      {
+        "topic": "QAM/gráfico",
+        "response": "C",
+        "answer": "C",
+        "values": {
+          "M0": 64,
+          "increasePercent": "33 1/3",
+          "TEB": "1e−4"
+        },
+        "solution": "6→8bits→256QAM→21dB"
+      },
+      {
+        "topic": "CRC/polinômioIEEE802.16",
+        "response": "A",
+        "answer": "A",
+        "solution": "x8+x2+x+1"
+      },
+      {
+        "topic": "CRC/grau/função",
+        "response": "D",
+        "answer": "D",
+        "values": {
+          "g": "x5+x2+1"
+        },
+        "solution": "5bits/detecção; gerador100101 (6coeficientes), resto5bits;10011 só pode serexemplo de resto semdados"
+      },
+      {
+        "topic": "QAM/bits",
+        "response": "C",
+        "answer": "C",
+        "values": {
+          "M0": 64,
+          "increasePercent": 50
+        },
+        "solution": "9bits/512QAM"
+      },
+      {
+        "topic": "QAM/bits",
+        "response": "D",
+        "answer": "D",
+        "values": {
+          "M0": 16,
+          "increasePercent": 25
+        },
+        "solution": "5bits/32QAM"
+      },
+      {
+        "topic": "QAM/bits",
+        "response": "A",
+        "answer": "A",
+        "values": {
+          "M0": 256,
+          "increasePercent": 50
+        },
+        "solution": "12bits/4096QAM"
+      },
+      {
+        "topic": "QAM/gráfico final",
+        "response": "C",
+        "answer": "D",
+        "values": {
+          "M0": 64,
+          "increasePercent": 50,
+          "TEB": "1e−4"
+        },
+        "solution": "9bits/512QAM→24dB",
+        "userStatement": "eu errei, mas já sei fazer",
+        "stopImmediateRepair": true
+      }
+    ]
+  },
+  "sourceManifests": {
+    "item2_adaptadas_transpetro_2012_2018_2023_20261011.json": {
+      "scope": "TRANSPETRO_ONLY_ITEM_2_DIRECT",
+      "mode": "SOURCE_STRUCTURAL_ADAPTATIONS_REQUESTED_BY_USER",
+      "count": 5,
+      "inventory": {
+        "2012": [],
+        "2018": [],
+        "2023": [
+          44,
+          49,
+          55,
+          67,
+          70
+        ]
+      },
+      "questions": [
+        {
+          "position": 1,
+          "year": 2023,
+          "original": 44,
+          "changes": "triangle peak 2->3, slope magnitude 4/T->6/T",
+          "answer": "E",
+          "optionRepair": "B uses an!=0 for even n to remove two-answer ambiguity in original",
+          "formula": "3-6t/T for 0<=t<=T/2;3+6t/T for -T/2<=t<=0"
+        },
+        {
+          "position": 2,
+          "year": 2023,
+          "original": 49,
+          "x": {
+            "0": 2,
+            "1": 3,
+            "2": -2
+          },
+          "h": {
+            "0": 3,
+            "1": -1,
+            "-1": 2
+          },
+          "ask": "y(0)",
+          "options": [
+            4,
+            6,
+            9,
+            12,
+            15
+          ],
+          "answer": "D"
+        },
+        {
+          "position": 3,
+          "year": 2023,
+          "original": 55,
+          "x1": "cos(2 pi f0 t)",
+          "X2": "(2+j2 pi f)^(-1)",
+          "answer": "E",
+          "correct": "0.5[(2+j2pi(f-f0))^-1+(2+j2pi(f+f0))^-1]"
+        },
+        {
+          "position": 4,
+          "year": 2023,
+          "original": 67,
+          "graph": "descending sawtooth 6V->0, period2s, jumps at0,2,4,6",
+          "options": [
+            "3",
+            "3sqrt(3)",
+            "2sqrt(3)",
+            "sqrt(3)",
+            "sqrt(2)/2"
+          ],
+          "answer": "C"
+        },
+        {
+          "position": 5,
+          "year": 2023,
+          "original": 70,
+          "graph": "-3 on(-8,0),+3 on(0,8),0 elsewhere",
+          "answer": "E",
+          "options": [
+            "48Sa(4w)",
+            "24Sa(4w)+j6sin(4w)",
+            "-j96Sa(4w)",
+            "j48Sa(4w)cos(4w)",
+            "-j48Sa(4w)sin(4w)"
+          ]
+        }
+      ]
+    },
+    "item1_adaptadas_2012_2018_2023_20261011.json": {
+      "date": "2026-10-11",
+      "mode": "SOURCE_STRUCTURAL_ADAPTATIONS_REQUESTED_BY_USER",
+      "total": 9,
+      "transpetro2012DirectQuestions": 0,
+      "questions": [
+        {
+          "position": 1,
+          "source": "Petrobras 2012",
+          "originalQuestion": 39,
+          "topic": "Poisson — taxa e intervalo",
+          "values": {
+            "ratePerHour": 18,
+            "intervalMinutes": 10,
+            "count": 2
+          },
+          "answer": "D",
+          "solution": "lambda=3; P(N=2)=9*exp(-3)/2",
+          "options": [
+            "3*exp(-3)",
+            "9*exp(-2)/2",
+            "3*exp(-3)/2",
+            "9*exp(-3)/2",
+            "9*exp(-3)"
+          ]
+        },
+        {
+          "position": 2,
+          "source": "Petrobras 2012",
+          "originalQuestion": 40,
+          "topic": "Cadeia de Markov — distribuição estacionária",
+          "values": {
+            "p01": "2/3",
+            "p10": "1/4"
+          },
+          "answer": "B",
+          "solution": [
+            "3/11",
+            "8/11"
+          ],
+          "options": [
+            [
+              "2/5",
+              "3/5"
+            ],
+            [
+              "3/11",
+              "8/11"
+            ],
+            [
+              "8/11",
+              "3/11"
+            ],
+            [
+              "1/4",
+              "3/4"
+            ],
+            [
+              "2/3",
+              "1/3"
+            ]
+          ]
+        },
+        {
+          "position": 3,
+          "source": "Transpetro 2018",
+          "originalQuestion": 62,
+          "topic": "Identificação da distribuição binomial",
+          "values": {
+            "busyProbability": 0.4,
+            "calls": 12,
+            "busyCalls": 4
+          },
+          "answer": "C",
+          "options": [
+            "Bernoulli",
+            "geométrica",
+            "binomial",
+            "hipergeométrica",
+            "uniforme"
+          ]
+        },
+        {
+          "position": 4,
+          "source": "Transpetro 2018",
+          "originalQuestion": 63,
+          "topic": "Normal — percentil",
+          "values": {
+            "mean": 68,
+            "std": 4,
+            "topPercent": 10,
+            "z90": 1.28
+          },
+          "answer": "D",
+          "solution": 73.12,
+          "options": [
+            62.9,
+            66.7,
+            68,
+            73.1,
+            78.2
+          ]
+        },
+        {
+          "position": 5,
+          "source": "Transpetro 2018",
+          "originalQuestion": 64,
+          "topic": "Poisson — extensão da rodovia",
+          "values": {
+            "meanDeathsPer5km": 2.5,
+            "lengthKm": 15,
+            "count": 6
+          },
+          "answer": "A",
+          "solution": "exp(-7.5)*7.5**6/6!",
+          "options": [
+            "exp(-7.5)*7.5**6/6!",
+            "exp(-2.5)*2.5**6/6!",
+            "exp(-15)*15**6/6!",
+            "exp(-6)*6**6/6!",
+            "exp(-7.5)*7.5**15/15!"
+          ]
+        },
+        {
+          "position": 6,
+          "source": "Transpetro 2018",
+          "originalQuestion": 65,
+          "topic": "Densidade contínua — normalização",
+          "values": {
+            "density": "a*x^2*(1-x)",
+            "support": [
+              0,
+              1
+            ]
+          },
+          "answer": "E",
+          "solution": 12,
+          "options": [
+            -1,
+            0,
+            1,
+            "1/12",
+            12
+          ]
+        },
+        {
+          "position": 7,
+          "source": "Transpetro 2023",
+          "originalQuestion": 43,
+          "topic": "Sorteio sem reposição — combinatória e hipergeométrica",
+          "values": {
+            "total": 20,
+            "marked": 7,
+            "drawn": 4
+          },
+          "answer": "C",
+          "solution": "7/969",
+          "options": [
+            "1/4845",
+            "7/20",
+            "7/969",
+            "35/160000",
+            "1/969"
+          ]
+        },
+        {
+          "position": 8,
+          "source": "Transpetro 2023",
+          "originalQuestion": 48,
+          "topic": "Soma de gaussianas independentes — densidade",
+          "values": {
+            "mean1": 2,
+            "std1": 2,
+            "mean2": 3,
+            "std2": 3
+          },
+          "answer": "B",
+          "solution": {
+            "mean": 5,
+            "variance": 13
+          },
+          "options": [
+            {
+              "mean": 5,
+              "variance": 25
+            },
+            {
+              "mean": 5,
+              "variance": 13
+            },
+            {
+              "mean": 2,
+              "variance": 13
+            },
+            {
+              "mean": 5,
+              "variance": 5
+            },
+            {
+              "mean": 5,
+              "variance": 8
+            }
+          ]
+        },
+        {
+          "position": 9,
+          "source": "Transpetro 2023",
+          "originalQuestion": 54,
+          "topic": "Probabilidade conjunta",
+          "values": {
+            "machine1Units": 3000,
+            "machine2Units": 7000,
+            "approvalGivenMachine1": 0.8
+          },
+          "answer": "A",
+          "solution": 0.24,
+          "options": [
+            0.24,
+            0.3,
+            0.56,
+            0.8,
+            0.08
+          ]
+        }
+      ]
+    }
+  },
+  "formulasAndClarifications": {
+    "probability": [
+      "P(A|B)=P(A∩B)/P(B)",
+      "Poisson: λ=taxa×intervalo; P(N=k)=e^(−λ)λ^k/k!",
+      "Gaussianas independentes: somar médias e variâncias",
+      "Gaussiano conjunto: covariância zero implica independência"
+    ],
+    "signals": [
+      "s=jω; ω vem da frequência angular da entrada",
+      "y=x*h; h[n−k] permite índices negativos",
+      "Entrada impulso versus degrau: Laplace1 versus1/s",
+      "n=t/T",
+      "Polos estáveis: Re(s)<0; no discreto|z|<1",
+      "Bode:−20dB/década por unidade de grau relativo",
+      "H=A/(z−0,5)+B/(z−0,5)^2; A=1,B=0,25",
+      "O quadrado está no denominador, não no coeficienteB",
+      "Inversa1/(z−a)=a^(n−1)u[n−1]",
+      "Inversa1/(z−a)^2=(n−1)a^(n−2)u[n−2]"
+    ],
+    "telecom": [
+      "Rc=Rb/r; Rs=Rc/log2M",
+      "PCM:fs=2fmax;Rb=nfs;L=2^n",
+      "SNRdB=10log10(Ps/Pn), com potências na mesma unidade",
+      "TEB=bits errados/bits recebidos",
+      "η=Rútil/B; para filtro cosseno levantadoη=rlog2M/(1+α)",
+      "AM:m=(Vmax−Vmin)/(Vmax+Vmin); sobremodulação m>1",
+      "Carson:B≈2(Δf+fmax)",
+      "C/N=EIRP+G/T−Ltot−k_dB−10log10B;B emHz",
+      "Aumento percentual é aplicado a log2M nas condiçõesmantidas;50%→×1,5;25%→×1,25",
+      "FEC corrige dentrodacapacidade semretransmissão;ARQ usa detecção/retransmissão;fonte reduz redundância"
+    ],
+    "crc": [
+      "IEEE802.16 HCS:g=x8+x2+x+1",
+      "Grau r do gerador→r bits deCRC;gerador temr+1coeficientes",
+      "g=x5+x2+1→100101;6coeficientes,CRC5bits"
+    ]
+  },
+  "questionCount": {
+    "confirmedAnsweredMinimum": 95,
+    "additionalHistoricalItem2Presented": 5,
+    "additionalHistoricalItem2AnswersRecovered": false,
+    "note": "Contagem de exposições respondidas recuperadas, incluindo retestes/repetições; não são95questões inéditas. Algumas etapasiniciais têm apenas placar agregado; o registro não constitui transcrição literalcompleta."
+  },
+  "inventory4_2": {
+    "direct": {
+      "2012": [
+        51,
+        55,
+        56
+      ],
+      "2018": [
+        31
+      ],
+      "2023": [
+        47,
+        50
+      ]
+    },
+    "related": {
+      "2012": [
+        32,
+        52,
+        61
+      ],
+      "2018": [
+        54
+      ],
+      "2023": [
+        53
+      ]
+    },
+    "total": 11
+  },
+  "decisions": [
+    "Uma questão porvez, cinco alternativas, teoria breve antesdenovotema",
+    "Valor numérico alterado preserva família da questão; repetir autorizado explicitamente paraeste treino",
+    "Manter parâmetros normativos e constantes físicas;não trocar polinômio deum padrão apenas para alterar valores",
+    "Não confundirposição derótulo comcruzamento nacurva",
+    "Erros declarados de marcação preservados como tais; não inferir falta de compreensão",
+    "Usuário pediu interromper reforço imediato deQAM às20:54:38; declarou quejá sabe fazer",
+    "Sessão deTelecom não contém resposta dePortuguês/Inglês. Relatório dePortuguês FenômenoUrbano9/10 foi encontrado emoutra frente doGitHub e preservado; não somado à contagem desta sessão nemà estimativa de tempo, cujo corte é20:55:41."
+  ],
+  "nextAction": "Retomar em2026-10-12 pelo item5 Telefonia eVideoconferência, iniciando5.1. Não prolongar reforço imediato deQAM.",
+  "diagnosticValidity": "TREINO_GUIADO_COM_EXPOSICOES_REPETIDAS; NÃO_TRATAR_COMO_SIMULADO_LONGITUDINAL",
+  "nextSession": {
+    "studyDateLocal": "2026-10-12",
+    "editalItem": "5",
+    "unitId": "5.1",
+    "topic": "Centrais, comutação de circuitos/pacotes, tráfego e ErlangB/C",
+    "userExplicitlySelected": true
+  },
+  "otherRepositoryRecords": [
+    {
+      "sourceFile": "qti/QTI10_Portugues_FenomenoUrbano_resultado_2026-10-11.json",
+      "score": "9/10",
+      "measuredTimeSec": 372,
+      "includedInThisSessionTotals": false,
+      "note": "Resultado separado já salvo poroutrafrente; occurredAt aponta23:04:46local, além docorte20:55:41 desta sessão. Timestamp não foi corrigido nem usado na estimativa."
+    }
+  ]
+}

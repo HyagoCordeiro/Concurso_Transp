@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-11",
   "prioridadeFontes": [
     "CESGRANRIO — Transpetro Telecom",
     "CESGRANRIO — Petrobras Telecom",
@@ -94,16 +94,54 @@
       "editalItem": "1",
       "topic": "Probabilidade conjunta",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-11",
       "lastResult": "CORRETA",
-      "cooldownDays": 3,
-      "nextEligibleAt": "2026-10-05",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
       "note": "Questão correta: não repetir antes de nextEligibleAt.",
       "lastAssignedAt": "2026-10-10",
       "assignedSessionId": "QTI30-20261010-MISTO-13ITENS",
       "assignedStatus": "ASSIGNED_NOT_ANSWERED",
-      "assignedMode": "SPACED_RETEST"
+      "assignedMode": "SPACED_RETEST",
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Probabilidade conjunta",
+          "response": "A",
+          "answer": "A",
+          "result": "CORRETA",
+          "values": {
+            "machine1Units": 3000,
+            "machine2Units": 7000,
+            "approvalGivenMachine1": 0.8
+          },
+          "solution": 0.24,
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "machine1Units": 3000,
+          "machine2Units": 7000,
+          "approvalGivenMachine1": 0.8
+        },
+        "response": "A",
+        "answer": "A",
+        "solution": 0.24
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "QTI30-20261002-Q04",
@@ -221,16 +259,46 @@
       "editalItem": "4",
       "topic": "PCM — quantização",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-11",
       "lastResult": "CORRETA",
-      "cooldownDays": 5,
-      "nextEligibleAt": "2026-10-07",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
       "note": "Questão correta: não repetir antes de nextEligibleAt.",
       "lastAssignedAt": "2026-10-10",
       "assignedSessionId": "QTI30-20261010-MISTO-13ITENS",
       "assignedStatus": "ASSIGNED_NOT_ANSWERED",
-      "assignedMode": "SPACED_RETEST"
+      "assignedMode": "SPACED_RETEST",
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Quantização",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {},
+          "solution": "Arredondar amplitudes para níveis disponíveis",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.2"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {},
+        "response": "C",
+        "answer": "C",
+        "solution": "Arredondar amplitudes para níveis disponíveis"
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "QTI30-20261002-Q11",
@@ -281,12 +349,98 @@
       "editalItem": "3",
       "topic": "Convolução discreta",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-11",
       "lastResult": "CORRETA",
-      "cooldownDays": 5,
-      "nextEligibleAt": "2026-10-07",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
-      "note": "Questão correta: não repetir antes de nextEligibleAt."
+      "note": "Questão correta: não repetir antes de nextEligibleAt.",
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Item2 histórico",
+          "response": null,
+          "answer": "D",
+          "result": "NOT_RECOVERED",
+          "values": {
+            "position": 2,
+            "year": 2023,
+            "original": 49,
+            "x": {
+              "0": 2,
+              "1": 3,
+              "2": -2
+            },
+            "h": {
+              "0": 3,
+              "1": -1,
+              "-1": 2
+            },
+            "ask": "y(0)",
+            "options": [
+              4,
+              6,
+              9,
+              12,
+              15
+            ],
+            "answer": "D"
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Convolução discreta",
+          "response": "E",
+          "answer": "E",
+          "result": "CORRETA",
+          "values": {
+            "x": [
+              3,
+              -2,
+              1
+            ],
+            "h": {
+              "0": 2,
+              "1": 3,
+              "-1": -1
+            }
+          },
+          "solution": "y0=8",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "2.3",
+        "3.3"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "x": [
+            3,
+            -2,
+            1
+          ],
+          "h": {
+            "0": 2,
+            "1": 3,
+            "-1": -1
+          }
+        },
+        "response": "E",
+        "answer": "E",
+        "solution": "y0=8"
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "QTI30-20261002-Q15",
@@ -407,12 +561,42 @@
       "editalItem": "4",
       "topic": "Eficiência espectral",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
-      "lastResult": "CORRETA_BAIXA_CONFIANCA",
-      "cooldownDays": 3,
-      "nextEligibleAt": "2026-10-05",
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
-      "note": "Questão correta: não repetir antes de nextEligibleAt."
+      "note": "Questão correta: não repetir antes de nextEligibleAt.",
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA_BAIXA_CONFIANCA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Eficiência/roll-off/código",
+          "response": "E",
+          "answer": "E",
+          "result": "CORRETA",
+          "values": {},
+          "solution": "I eIII; η=rlog2M/(1+α) nas condições de filtragem adotadas",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.2"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {},
+        "response": "E",
+        "answer": "E",
+        "solution": "I eIII; η=rlog2M/(1+α) nas condições de filtragem adotadas"
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "TEC-184",
@@ -488,12 +672,46 @@
       "editalItem": "3",
       "topic": "Resposta ao degrau / valor final",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-11",
       "lastResult": "CORRETA",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-09",
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
-      "note": "Questão correta: não repetir antes de nextEligibleAt."
+      "note": "Questão correta: não repetir antes de nextEligibleAt.",
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Valor final de degrau",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "equation": "y''+9y'+20y=30x+6x'"
+          },
+          "solution": "polos−4,−5; y∞=30/20=1,5",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.1"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "equation": "y''+9y'+20y=30x+6x'"
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "polos−4,−5; y∞=30/20=1,5"
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "QTI30-20261002-Q28",
@@ -834,16 +1052,54 @@
       "status": "COOLDOWN",
       "assignedTo": "QTI20-2026-10-02",
       "assignedAt": "2026-10-02",
-      "lastSeenAt": "2026-10-02",
-      "lastResult": "CORRETA",
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "INCORRETA",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-09",
+      "nextEligibleAt": "2026-10-18",
       "eligibleNow": false,
       "note": "Acerto no QTI-20; bloqueado por 7 dias.",
       "responseTimeSec": 1,
       "selected": "A",
       "correctAnswer": "A",
-      "confidence": null
+      "confidence": null,
+      "exposureHistory": [
+        {
+          "lastSeenAt": "2026-10-02",
+          "lastResult": "CORRETA",
+          "legacySnapshot": true
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Z e tempo/índice",
+          "response": "D",
+          "answer": "B",
+          "result": "INCORRETA",
+          "values": {
+            "H": "(z−0,4)/(z²−1,3z+0,4)",
+            "Tsec": 0.5,
+            "tSec": 2
+          },
+          "solution": "n=4; y4=0,641",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.5"
+      ],
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "H": "(z−0,4)/(z²−1,3z+0,4)",
+          "Tsec": 0.5,
+          "tSec": 2
+        },
+        "response": "D",
+        "answer": "B",
+        "solution": "n=4; y4=0,641"
+      },
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "QTI20-20261002-Q07",
@@ -2732,7 +2988,36 @@
       "assignedSessionId": "QTI30-20261010-MISTO-13ITENS",
       "assignedStatus": "ASSIGNED_NOT_ANSWERED",
       "assignedMode": "NEW",
-      "eligibleNow": false
+      "eligibleNow": false,
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Compressão/fonte versus canal",
+          "response": "B",
+          "answer": "B",
+          "result": "CORRETA",
+          "values": {},
+          "solution": "H.261,G.711,G.728; Viterbi é algoritmo de decodificação, Reed-Solomon/BCH/Hamming são códigos de canal",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {},
+        "response": "B",
+        "answer": "B",
+        "solution": "H.261,G.711,G.728; Viterbi é algoritmo de decodificação, Reed-Solomon/BCH/Hamming são códigos de canal"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "userAuthorizedStructuralRepetition": true
     },
     {
       "id": "AUTORAL-QTI30-20261010-19",
@@ -3125,6 +3410,1229 @@
       "nextEligibleAt": "2026-10-13",
       "eligibleNow": false,
       "note": "Cooldown D3 definido no fechamento; acerto não deve ser repetido antes da data."
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q44",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q44",
+      "unitId": "2.3",
+      "topic": "Item2 histórico",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q44",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Item2 histórico",
+          "response": null,
+          "answer": "E",
+          "result": "NOT_RECOVERED",
+          "values": {
+            "position": 1,
+            "year": 2023,
+            "original": 44,
+            "changes": "triangle peak 2->3, slope magnitude 4/T->6/T",
+            "answer": "E",
+            "optionRepair": "B uses an!=0 for even n to remove two-answer ambiguity in original",
+            "formula": "3-6t/T for 0<=t<=T/2;3+6t/T for -T/2<=t<=0"
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "2.3"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "NOT_RECOVERED",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "position": 1,
+          "year": 2023,
+          "original": 44,
+          "changes": "triangle peak 2->3, slope magnitude 4/T->6/T",
+          "answer": "E",
+          "optionRepair": "B uses an!=0 for even n to remove two-answer ambiguity in original",
+          "formula": "3-6t/T for 0<=t<=T/2;3+6t/T for -T/2<=t<=0"
+        },
+        "response": null,
+        "answer": "E"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q55",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q55",
+      "unitId": "2.3",
+      "topic": "Item2 histórico",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q55",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Item2 histórico",
+          "response": null,
+          "answer": "E",
+          "result": "NOT_RECOVERED",
+          "values": {
+            "position": 3,
+            "year": 2023,
+            "original": 55,
+            "x1": "cos(2 pi f0 t)",
+            "X2": "(2+j2 pi f)^(-1)",
+            "answer": "E",
+            "correct": "0.5[(2+j2pi(f-f0))^-1+(2+j2pi(f+f0))^-1]"
+          },
+          "solution": "0.5[(2+j2pi(f-f0))^-1+(2+j2pi(f+f0))^-1]",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Modulação por cosseno/Fourier",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "X2": "(3+j2πf)^−1"
+          },
+          "solution": "(1/2)[X2(f−f0)+X2(f+f0)]",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "2.3",
+        "3.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "X2": "(3+j2πf)^−1"
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "(1/2)[X2(f−f0)+X2(f+f0)]"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q67",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q67",
+      "unitId": "2.3",
+      "topic": "Item2 histórico",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q67",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Item2 histórico",
+          "response": null,
+          "answer": "C",
+          "result": "NOT_RECOVERED",
+          "values": {
+            "position": 4,
+            "year": 2023,
+            "original": 67,
+            "graph": "descending sawtooth 6V->0, period2s, jumps at0,2,4,6",
+            "options": [
+              "3",
+              "3sqrt(3)",
+              "2sqrt(3)",
+              "sqrt(3)",
+              "sqrt(2)/2"
+            ],
+            "answer": "C"
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "2.3"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "NOT_RECOVERED",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "position": 4,
+          "year": 2023,
+          "original": 67,
+          "graph": "descending sawtooth 6V->0, period2s, jumps at0,2,4,6",
+          "options": [
+            "3",
+            "3sqrt(3)",
+            "2sqrt(3)",
+            "sqrt(3)",
+            "sqrt(2)/2"
+          ],
+          "answer": "C"
+        },
+        "response": null,
+        "answer": "C"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q70",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q70",
+      "unitId": "2.3",
+      "topic": "Item2 histórico",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q70",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Item2 histórico",
+          "response": null,
+          "answer": "E",
+          "result": "NOT_RECOVERED",
+          "values": {
+            "position": 5,
+            "year": 2023,
+            "original": 70,
+            "graph": "-3 on(-8,0),+3 on(0,8),0 elsewhere",
+            "answer": "E",
+            "options": [
+              "48Sa(4w)",
+              "24Sa(4w)+j6sin(4w)",
+              "-j96Sa(4w)",
+              "j48Sa(4w)cos(4w)",
+              "-j48Sa(4w)sin(4w)"
+            ]
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Fourier/pulsos",
+          "response": "E",
+          "answer": "E",
+          "result": "CORRETA",
+          "values": {
+            "negativePulse": "−2 em[−6,0]",
+            "positivePulse": "+2 em[0,6]"
+          },
+          "solution": "G=−j24Sa(3ω)sen(3ω)",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "2.3",
+        "3.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "negativePulse": "−2 em[−6,0]",
+          "positivePulse": "+2 em[0,6]"
+        },
+        "response": "E",
+        "answer": "E",
+        "solution": "G=−j24Sa(3ω)sen(3ω)"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-PETROBRAS-2012-Q39",
+      "canonicalId": "CESGRANRIO-PETROBRAS-2012-Q39",
+      "unitId": "1.2",
+      "topic": "Poisson — taxa e intervalo",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Petrobras 2012 — Telecom, Q39",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Poisson — taxa e intervalo",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "ratePerHour": 18,
+            "intervalMinutes": 10,
+            "count": 2
+          },
+          "solution": "lambda=3; P(N=2)=9*exp(-3)/2",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "ratePerHour": 18,
+          "intervalMinutes": 10,
+          "count": 2
+        },
+        "response": "D",
+        "answer": "D",
+        "solution": "lambda=3; P(N=2)=9*exp(-3)/2"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-PETROBRAS-2012-Q40",
+      "canonicalId": "CESGRANRIO-PETROBRAS-2012-Q40",
+      "unitId": "1.3",
+      "topic": "Cadeia de Markov — distribuição estacionária",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Petrobras 2012 — Telecom, Q40",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Cadeia de Markov — distribuição estacionária",
+          "response": "B",
+          "answer": "B",
+          "result": "CORRETA",
+          "values": {
+            "p01": "2/3",
+            "p10": "1/4"
+          },
+          "solution": [
+            "3/11",
+            "8/11"
+          ],
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.3"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "p01": "2/3",
+          "p10": "1/4"
+        },
+        "response": "B",
+        "answer": "B",
+        "solution": [
+          "3/11",
+          "8/11"
+        ]
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q62",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q62",
+      "unitId": "1.2",
+      "topic": "Identificação da distribuição binomial",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q62",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Identificação da distribuição binomial",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "busyProbability": 0.4,
+            "calls": 12,
+            "busyCalls": 4
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "busyProbability": 0.4,
+          "calls": 12,
+          "busyCalls": 4
+        },
+        "response": "C",
+        "answer": "C"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q63",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q63",
+      "unitId": "1.2",
+      "topic": "Normal — percentil",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q63",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Normal — percentil",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "mean": 68,
+            "std": 4,
+            "topPercent": 10,
+            "z90": 1.28
+          },
+          "solution": 73.12,
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "mean": 68,
+          "std": 4,
+          "topPercent": 10,
+          "z90": 1.28
+        },
+        "response": "D",
+        "answer": "D",
+        "solution": 73.12
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q64",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q64",
+      "unitId": "1.2",
+      "topic": "Poisson — extensão da rodovia",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q64",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Poisson — extensão da rodovia",
+          "response": "A",
+          "answer": "A",
+          "result": "CORRETA",
+          "values": {
+            "meanDeathsPer5km": 2.5,
+            "lengthKm": 15,
+            "count": 6
+          },
+          "solution": "exp(-7.5)*7.5**6/6!",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "meanDeathsPer5km": 2.5,
+          "lengthKm": 15,
+          "count": 6
+        },
+        "response": "A",
+        "answer": "A",
+        "solution": "exp(-7.5)*7.5**6/6!"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q65",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q65",
+      "unitId": "1.2",
+      "topic": "Densidade contínua — normalização",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q65",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Densidade contínua — normalização",
+          "response": "E",
+          "answer": "E",
+          "result": "CORRETA",
+          "values": {
+            "density": "a*x^2*(1-x)",
+            "support": [
+              0,
+              1
+            ]
+          },
+          "solution": 12,
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "density": "a*x^2*(1-x)",
+          "support": [
+            0,
+            1
+          ]
+        },
+        "response": "E",
+        "answer": "E",
+        "solution": 12
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q43",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q43",
+      "unitId": "1.2",
+      "topic": "Sorteio sem reposição — combinatória e hipergeométrica",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q43",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Sorteio sem reposição — combinatória e hipergeométrica",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "total": 20,
+            "marked": 7,
+            "drawn": 4
+          },
+          "solution": "7/969",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "total": 20,
+          "marked": 7,
+          "drawn": 4
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "7/969"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q48",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q48",
+      "unitId": "1.2",
+      "topic": "Soma de gaussianas independentes — densidade",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q48",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Soma de gaussianas independentes — densidade",
+          "response": "B",
+          "answer": "B",
+          "result": "CORRETA",
+          "values": {
+            "mean1": 2,
+            "std1": 2,
+            "mean2": 3,
+            "std2": 3
+          },
+          "solution": {
+            "mean": 5,
+            "variance": 13
+          },
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "1.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "mean1": 2,
+          "std1": 2,
+          "mean2": 3,
+          "std2": 3
+        },
+        "response": "B",
+        "answer": "B",
+        "solution": {
+          "mean": 5,
+          "variance": 13
+        }
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q55",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q55",
+      "unitId": "3.5",
+      "topic": "PCM/Nyquist",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q55",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "PCM/Nyquist",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "bandKHz": 6,
+            "bitsPerSample": 12
+          },
+          "solution": "fs=12kHz; Rb=144kbps",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        },
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "PCM",
+          "response": "A",
+          "answer": "A",
+          "result": "CORRETA",
+          "values": {
+            "bandKHz": 4,
+            "bitsPerSample": 9,
+            "optionsKbps": [
+              72,
+              36,
+              64,
+              80,
+              144
+            ]
+          },
+          "solution": "8kamostras/s×9=72kbps",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.5",
+        "4.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "bandKHz": 4,
+          "bitsPerSample": 9,
+          "optionsKbps": [
+            72,
+            36,
+            64,
+            80,
+            144
+          ]
+        },
+        "response": "A",
+        "answer": "A",
+        "solution": "8kamostras/s×9=72kbps"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q42",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q42",
+      "unitId": "3.1",
+      "topic": "Laplace/resposta temporal",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q42",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Laplace/resposta temporal",
+          "response": "B",
+          "answer": "B",
+          "result": "CORRETA",
+          "values": {
+            "inputDC": 18,
+            "H": "3s/(s²+6s+13)"
+          },
+          "solution": "y(t)=27e^(−3t)sen(2t)",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.1"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "inputDC": 18,
+          "H": "3s/(s²+6s+13)"
+        },
+        "response": "B",
+        "answer": "B",
+        "solution": "y(t)=27e^(−3t)sen(2t)"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q45",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q45",
+      "unitId": "3.2",
+      "topic": "Bode/grau relativo",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q45",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Bode/grau relativo",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "highFrequencySlopeDbPerDecade": -20
+          },
+          "solution": "grau relativo1",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "highFrequencySlopeDbPerDecade": -20
+        },
+        "response": "D",
+        "answer": "D",
+        "solution": "grau relativo1"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q68",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q68",
+      "unitId": "3.5",
+      "topic": "Equação de diferenças/Z",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q68",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Equação de diferenças/Z",
+          "response": "B",
+          "answer": "B",
+          "result": "CORRETA",
+          "values": {
+            "equation": "y[n]−5y[n−1]+6y[n−2]=x[n]−4x[n−1]"
+          },
+          "solution": "H=(z²−4z)/(z²−5z+6)",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "3.5"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "equation": "y[n]−5y[n−1]+6y[n−2]=x[n]−4x[n−1]"
+        },
+        "response": "B",
+        "answer": "B",
+        "solution": "H=(z²−4z)/(z²−5z+6)"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q58",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q58",
+      "unitId": "7.2",
+      "topic": "Canal variante e seletivo",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q58",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Canal variante e seletivo",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "condition": "λ>2T",
+            "h": "a(t)δ(t)+b(t)δ(t+λ)"
+          },
+          "solution": "variante no tempo e seletivo em frequência; adicional relacionada",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "7.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "condition": "λ>2T",
+          "h": "a(t)δ(t)+b(t)δ(t+λ)"
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "variante no tempo e seletivo em frequência; adicional relacionada"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q47",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q47",
+      "unitId": "4.2",
+      "topic": "QAM/TEB/EbN0",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q47",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "QAM/TEB/EbN0",
+          "response": "D",
+          "answer": "C",
+          "result": "INCORRETA",
+          "values": {
+            "initialModulation": 16,
+            "initialEbN0Db": 10,
+            "efficiencyIncreasePercent": 100,
+            "optionsDb": [
+              10,
+              15,
+              19,
+              22,
+              25
+            ]
+          },
+          "solution": "4→8bits;256QAM; interseção na TEB inicial≈19dB. Original13,2dB→22,4dB (B); gráfico mantido, ponto inicialalterado.",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "INCORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "initialModulation": 16,
+          "initialEbN0Db": 10,
+          "efficiencyIncreasePercent": 100,
+          "optionsDb": [
+            10,
+            15,
+            19,
+            22,
+            25
+          ]
+        },
+        "response": "D",
+        "answer": "C",
+        "solution": "4→8bits;256QAM; interseção na TEB inicial≈19dB. Original13,2dB→22,4dB (B); gráfico mantido, ponto inicialalterado."
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true,
+      "userReportedUnderstanding": true,
+      "immediateRepairStoppedAtUserRequest": true,
+      "note": "Treino de bits posterior3/3; última marcação emgráfico incorreta. Usuário declara quejá sabe e pedeparar reforço imediato. Revisão espaçada pode confirmar retenção."
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q50",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q50",
+      "unitId": "4.1",
+      "topic": "Fonte/canal/QAM/banda",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q50",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Fonte/canal/QAM/banda",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "RbMbps": 18,
+            "codeRate": "3/4",
+            "M": 64,
+            "bandMultiplier": 1.25
+          },
+          "solution": "Rc24Mbps;6bits/símbolo;Rs4Mbaud;B5MHz",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.1"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "RbMbps": 18,
+          "codeRate": "3/4",
+          "M": 64,
+          "bandMultiplier": 1.25
+        },
+        "response": "D",
+        "answer": "D",
+        "solution": "Rc24Mbps;6bits/símbolo;Rs4Mbaud;B5MHz"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q32",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q32",
+      "unitId": "4.2",
+      "topic": "CRC do IEEE802.16",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q32",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "CRC do IEEE802.16",
+          "response": "C",
+          "answer": "D",
+          "result": "INCORRETA",
+          "values": {},
+          "solution": "g=x8+x2+x+1; HCS8bits; parâmetro normativo não alterado",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "4.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA_APOS_REPAIR",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {},
+        "response": "C",
+        "answer": "D",
+        "solution": "g=x8+x2+x+1; HCS8bits; parâmetro normativo não alterado"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true,
+      "repairEvidence": "CRC2/2 no reforço do dia; polinômio padrão reconhecido e grau/função corretos."
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q52",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q52",
+      "unitId": "5.2",
+      "topic": "PCM/TDM",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q52",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "PCM/TDM",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "totalSlots": 24,
+            "voiceSlots": 22,
+            "controlSlots": 2,
+            "channelKbps": 80,
+            "bitsPerSample": 10
+          },
+          "solution": "Taxa de voz=22×80=1760kbps; enunciadoadaptadoexplicitou exclusão docontrole",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "5.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "totalSlots": 24,
+          "voiceSlots": 22,
+          "controlSlots": 2,
+          "channelKbps": 80,
+          "bitsPerSample": 10
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "Taxa de voz=22×80=1760kbps; enunciadoadaptadoexplicitou exclusão docontrole"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q61",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q61",
+      "unitId": "12.2",
+      "topic": "Eficiência/banda/distância",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q61",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "Eficiência/banda/distância",
+          "response": "D",
+          "answer": "D",
+          "result": "CORRETA",
+          "values": {
+            "channels": 25,
+            "channelKbps": 80,
+            "bandDistanceMHzKm": 600,
+            "efficiency": 0.2
+          },
+          "solution": "Rb2Mbps;B10MHz;L60km; A corrigida paraD antesdafeedback",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "12.2"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "channels": 25,
+          "channelKbps": 80,
+          "bandDistanceMHzKm": 600,
+          "efficiency": 0.2
+        },
+        "response": "D",
+        "answer": "D",
+        "solution": "Rb2Mbps;B10MHz;L60km; A corrigida paraD antesdafeedback"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q54",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q54",
+      "unitId": "8.3",
+      "topic": "SNR/enlace satélite",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q54",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "SNR/enlace satélite",
+          "response": "E",
+          "answer": "E",
+          "result": "CORRETA",
+          "values": {
+            "EIRPdBW": 48,
+            "GTdBK": 18,
+            "spaceLossDb": 205,
+            "atmosphericLossDb": 5,
+            "bandMHz": 20,
+            "kLog": -228.6
+          },
+          "solution": "10logB=73;C/N11,6dB; EIRP do mapa foi apresentado numericamente",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "8.3"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "EIRPdBW": 48,
+          "GTdBK": 18,
+          "spaceLossDb": 205,
+          "atmosphericLossDb": 5,
+          "bandMHz": 20,
+          "kLog": -228.6
+        },
+        "response": "E",
+        "answer": "E",
+        "solution": "10logB=73;C/N11,6dB; EIRP do mapa foi apresentado numericamente"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q53",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
+      "unitId": "8.3",
+      "topic": "C/N/enlace satélite",
+      "sourceType": "CESGRANRIO_ADAPTADA",
+      "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q53",
+      "exposureHistory": [
+        {
+          "studyDateLocal": "2026-10-11",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "topic": "C/N/enlace satélite",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "EIRPdBW": 49,
+            "GTdBK": 9,
+            "spaceLossDb": 202,
+            "bandMHz": 5,
+            "kLog": -228.6
+          },
+          "solution": "10logB=67;C/N17,6dB",
+          "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        }
+      ],
+      "alsoStudiedUnitIds": [
+        "8.3"
+      ],
+      "lastSeenAt": "2026-10-11",
+      "lastResult": "CORRETA",
+      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "lastVariant": {
+        "values": {
+          "EIRPdBW": 49,
+          "GTdBK": 9,
+          "spaceLossDb": 202,
+          "bandMHz": 5,
+          "kLog": -228.6
+        },
+        "response": "C",
+        "answer": "C",
+        "solution": "10logB=67;C/N17,6dB"
+      },
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-18",
+      "eligibleNow": false,
+      "userAuthorizedStructuralRepetition": true
     }
   ],
   "portuguesePolicy": {
@@ -3340,6 +4848,344 @@
       "correctCooldownDays": 3,
       "correctNextEligibleAt": "2026-10-13",
       "wrongRetestEligibleAt": null
+    },
+    {
+      "sessionId": "ESTUDO-PROB-CONCEITO-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.1",
+      "topic": "Conceito de probabilidade",
+      "questionsAnswered": 1,
+      "correct": 1,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROB-CONJUNTA-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.1",
+      "topic": "Probabilidades conjuntas",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROB-CONDICIONAL-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.1",
+      "topic": "Probabilidade condicional",
+      "questionsAnswered": 3,
+      "correct": 2,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROB-COND-REPAIR-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.1",
+      "topic": "Reforço de probabilidade condicional",
+      "questionsAnswered": 2,
+      "correct": 1,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROB-INDEPENDENCIA-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.1",
+      "topic": "Independência estatística",
+      "questionsAnswered": 1,
+      "correct": 1,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROB-VARIAVEIS-TLC-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.2",
+      "topic": "Variáveis, distribuições, médias e TLC",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-PROCESSOS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "1.3",
+      "topic": "Processos estocásticos, autocorrelação, DEP e gaussianos",
+      "questionsAnswered": 3,
+      "correct": 2,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-COMPLEXOS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "2.1",
+      "topic": "Números complexos",
+      "questionsAnswered": 2,
+      "correct": 1,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-FUNCOES-TEMPORAIS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "2.2",
+      "topic": "Impulso, degrau, exponenciais e período",
+      "questionsAnswered": 3,
+      "correct": 1,
+      "wrong": 2,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-FOURIER-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "2.3",
+      "topic": "Série e Transformada de Fourier",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-CONVOLUCAO-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "2.4",
+      "topic": "Convolução contínua/discreta",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-ITEM2-HISTORICAS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "2.3",
+      "topic": "Item2 — 5 questões Transpetro2023 adaptadas",
+      "questionsAnswered": null,
+      "correct": null,
+      "wrong": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-LIT-LAPLACE-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.1",
+      "topic": "LIT, Laplace, impulso e degrau",
+      "questionsAnswered": 3,
+      "correct": 1,
+      "wrong": 2,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-DOMINIO-FREQUENCIA-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.2",
+      "topic": "Sinais no domínio da frequência",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-DOMINIO-FREQUENCIA-REPAIR-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.2",
+      "topic": "Fixação adicional em frequência",
+      "questionsAnswered": 1,
+      "correct": 1,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-SAIDA-CONVOLUCAO-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.3",
+      "topic": "Convolução para saída de LIT",
+      "questionsAnswered": 3,
+      "correct": 2,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-CONVOLUCAO-REPAIR-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.3",
+      "topic": "Reforço de convolução com degrau",
+      "questionsAnswered": 2,
+      "correct": 2,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-RESPOSTA-FREQUENCIA-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.4",
+      "topic": "Resposta em frequência",
+      "questionsAnswered": 3,
+      "correct": 2,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-AMOSTRAGEM-Z-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.5",
+      "topic": "Amostragem e Transformada Z",
+      "questionsAnswered": 3,
+      "correct": 1,
+      "wrong": 2,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-ITEM3-HISTORICAS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "3.1",
+      "topic": "Item3 — 9 principais e1 relacionada",
+      "questionsAnswered": 10,
+      "correct": 9,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-ITEM4-1-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.1",
+      "topic": "Blocos de transmissão e modulação",
+      "questionsAnswered": 5,
+      "correct": 5,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-ITEM4-2-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.2",
+      "topic": "A/D, SNR, TEB, eficiência e fonte/canal",
+      "questionsAnswered": 5,
+      "correct": 4,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-SNR-REPAIR-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.2",
+      "topic": "Reforço de SNR",
+      "questionsAnswered": 2,
+      "correct": 2,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-QAM-CRC-REPAIR-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.2",
+      "topic": "Duas questões por erro — QAM e CRC",
+      "questionsAnswered": 4,
+      "correct": 3,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-QAM-BITS-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.2",
+      "topic": "Bits por símbolo e percentuais",
+      "questionsAnswered": 3,
+      "correct": 3,
+      "wrong": 0,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
+    },
+    {
+      "sessionId": "ESTUDO-QAM-GRAFICO-20261011",
+      "studyDateLocal": "2026-10-11",
+      "unitId": "4.2",
+      "topic": "Transferência para gráfico QAM",
+      "questionsAnswered": 1,
+      "correct": 0,
+      "wrong": 1,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "questionIdsRecovered": false,
+      "correctNextEligibleAt": "2026-10-18",
+      "rule": "Consultar registro do dia; dados apenas agregados ou famíliasautorais de treino. Não assumir ineditismo; não repetir antes docooldown salvo REPAIR/RETEST explicitamente solicitado."
     }
   ]
 }

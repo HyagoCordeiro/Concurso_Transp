@@ -59,3 +59,15 @@ Pedido explícito do usuário: voltar ao método anterior, mais rápido. Não ex
 - Preservar QTI em HTML, prioridade CESGRANRIO/TecConcursos e anti-repetição.
 
 [Fechamento e evidências do dia](../qti/RESULTADOS_DIA_2026-10-10.md).
+
+
+## Ajustes observados — 11/10/2026
+
+- Revisão textual: uma questão porvez, cincoalternativas; númerosalterados em exercícios históricos quando solicitado. Não considerar a troca de valores comoquestão inédita.
+- Contagem de questões refere-se aexposições; separar retestes e repetições autorizadas das evidências de diagnóstico limpo.
+- Gráficos: destacar visualmente ponto inicial e linha horizontal da TEB quandoalterar os dados; posição dorótulo não éposição dainterseção.
+- Respeitardeclarações de cálculo correto/marcação errada. Uma marcação errada isolada nãoprova incompreensão.
+- Às20:54de11/10, usuário disse quejá sabe resolverQAM. Encerrar reparo imediato; confirmar retenção só posteriormente.
+- Horas pela conversa sãoestimativas descontandopausas explicitamente registradas, não tempos medidos porcronômetro.
+
+[Processo do dia](../qti/RESULTADOS_DIA_2026-10-11.md).

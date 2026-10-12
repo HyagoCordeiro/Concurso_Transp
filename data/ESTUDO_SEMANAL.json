@@ -97,9 +97,23 @@
       "liquidMinutes": null,
       "sourceFile": "qti/QTI10_Ingles_DigitalTwins_resultado_2026-10-10.json",
       "note": "Resultado por captura; tempo não informado."
+    },
+    {
+      "sessionId": "FECHAMENTO-20261011",
+      "date": "2026-10-11",
+      "type": "Treino textual — itens1 a4, históricos e reforços",
+      "questionsAnswered": 95,
+      "score": null,
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "estimatedActiveTime": "06:14:43",
+      "estimatedActiveMinutes": 374.71666666666664,
+      "timeMeasurementStatus": "ESTIMATED_FROM_ACTIVE_INTERVALS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+      "note": "95respostas recuperadas como mínimo, incluindo exposições repetidas/retreinos. Tempo estimado de intervalos menos pausas explícitas; não somar aos tempos cronometricamente medidos como se fosse medido."
     }
   ],
   "weeklyClosures": [],
-  "updatedAt": "2026-10-10",
-  "dataCompletenessNote": "10/10: adicionadas 48 respostas confirmadas e 344 segundos medidos em Português. Os demais tempos do dia e registros de outros dias não foram reconstruídos integralmente neste fechamento; não tratar soma de knownSessions como total semanal completo."
+  "updatedAt": "2026-10-11",
+  "dataCompletenessNote": "10/10: adicionadas 48 respostas confirmadas e 344 segundos medidos em Português. Os demais tempos do dia e registros de outros dias não foram reconstruídos integralmente neste fechamento; não tratar soma de knownSessions como total semanal completo. 11/10: registro de95exposições respondidas recuperadas; outras5históricas item2 comrespostasnão recuperadas. Tempoestimado6h15, separado dos tempos medidos."
 }

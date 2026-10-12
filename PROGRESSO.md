@@ -264,3 +264,19 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Método vigente:** pedido do usuário em 10/10 para voltar ao jeito anterior, mais rápido; abandonar exigência fixa de 1 diagnóstica + 3 fixações por subtópico. Preferir blocos mistos e reparo localizado; miniaula sob demanda. QTI continua HTML.
 - **QTI-30 dos 13 itens:** [HTML](qti/QTI-30_Telecom_2026-10-10.html) e [manifesto](qti/ASSIGNED_QTI30_MISTO_13ITENS_2026-10-10.json) registrados. **ASSIGNED_NOT_ANSWERED**, sem nota ou tempo. 17 originais + 1 adaptada + 12 autorais; 21 NEW + 7 RETEST + 2 SPACED_RETEST. Questões reservadas no banco; excluídas das 48 respondidas.
 - **Próximo passo:** receber o JSON real do QTI-30, consolidar erros/confiança/tempo e manter reparos dirigidos de Probabilidade e hífen. Revisões anteriores sem reteste confirmado continuam pendentes.
+
+
+## Evidências — 11/10/2026
+
+[Registro completo do processo](qti/RESULTADOS_DIA_2026-10-11.md) e[versão estruturada](qti/RESULTADOS_DIA_2026-10-11.json).
+
+- **Probabilidade:** treino de eventos/condicional/independência; processos estocásticos2/3; bloco histórico adaptado9/9. Retomar denominador da condicional e gaussianidade conjunta.
+- **Item2:** complexos, funções temporais, Fourier e convolução. Reconstrução parcial dos blocos iniciais; manifesto de5 históricas preservado seminventar a nota.
+- **Item3:** subitens3.1–3.5 revisados;9/10 no conjunto histórico (8/9 principais+adicionalcorreta). Erro emn=t/T; esclarecidas Laplace/degrau, s=jω, fase, Bode e frações parciais deZ.
+- **4.1:**5/5. **4.2 inicial:**4/5; SNR reparado2/2.
+- **11 históricas de4.2 eaplicações:**9/11; erros em QAM/gráfico eCRC IEEE 802.16.
+- **Reforços:** QAM/CRC3/4; bits/símbolo3/3; transferência final para gráfico incorreta. Usuário declarou quejá sabe fazer; encerrar reforço imediato seminferir incompreensão.
+- **Tempo:** cerca de 6h15 estimadas, pausas explícitas excluídas. Não étempo cronometricamente medido.
+- **Contagem:**95 exposições respondidas recuperadas, incluindo reaplicações e reparos. Não são95 questõesinéditas nemsimulado longitudinal limpo.
+- **Método:** uma questão porvez, texto, cincoalternativas; preservar histórico real e alterar valores quando solicitado, mantendo parâmetros normativos.
+- **Próximo passo:** amanhã,12/10, iniciar item 5 pelo subitem 5.1; revisão espaçadaD7/D21, comretomadaD3 para tempo/índice eZ.

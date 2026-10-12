@@ -15,6 +15,60 @@
           "origemResultado": "REVISAO-PROB-1.1-20261010",
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
           "nota": "Complemento da união; Denominador da probabilidade condicional; Independência versus exclusividade"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/1 (100%)",
+          "origemResultado": "ESTUDO-PROB-CONCEITO-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D=0,40; questão repetida do QTI-30 de 10/10, repetição identificada pelo usuário.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-PROB-CONJUNTA-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Marcações B,C,A recuperadas.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "2/3 (66.7%)",
+          "origemResultado": "ESTUDO-PROB-CONDICIONAL-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Erro C; correta A=0,75. Restringir o denominador à condição.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "1/2 (50%)",
+          "origemResultado": "ESTUDO-PROB-COND-REPAIR-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Primeira B, correta E=1/3; segunda C=0,25 correta.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/1 (100%)",
+          "origemResultado": "ESTUDO-PROB-INDEPENDENCIA-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B correta.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/9 (100%)",
+          "origemResultado": "ESTUDO-PROB-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D,B,C,D,A,E,C,B,A; inclui Markov/Petrobras2012Q40. Manifesto preservado; treinamento solicitado com valores alterados.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -25,7 +79,7 @@
           "reviewId": "REV-PROB-1.1-20261010"
         }
       ],
-      "ultimaEvidencia": "2026-10-10"
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "1.2",
@@ -57,6 +111,24 @@
           "origemResultado": "REVISAO-GEOMETRICA-20261010",
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-10.json",
           "nota": "Retestar distribuição geométrica; detalhes dos erros não recuperados"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-PROB-VARIAVEIS-TLC-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D=1,8; E=20; B: normal, média50ms e DP2ms.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/9 (100%)",
+          "origemResultado": "ESTUDO-PROB-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D,B,C,D,A,E,C,B,A; inclui Markov/Petrobras2012Q40. Manifesto preservado; treinamento solicitado com valores alterados.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -79,7 +151,7 @@
           "reviewId": "REV-GEOMETRICA-20261010"
         }
       ],
-      "ultimaEvidencia": "2026-10-10",
+      "ultimaEvidencia": "2026-10-11",
       "coberturaNota": "Bernoulli/Binomial, Poisson e geométrica praticados; hipergeométrica e uniforme apenas propostas. Não considerar o item inteiro consolidado."
     },
     {
@@ -87,9 +159,29 @@
       "nome": "Processo Estocástico; Definição; Momentos; Função Autocorrelação; Estacionariedade; Densidade Espectral de Potência; Teorema de Wiener-Khinchin; Processo Gaussiano",
       "item": "1",
       "materia": "Probabilidade e Processos Estocásticos",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "2/3 (66.7%)",
+          "origemResultado": "ESTUDO-PROCESSOS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C: estacionário, E[X²]=13 e variância4; D: R(0)=12, área da DEP; E incorreta, correta A. Covariância zero implica independência sob normalidade conjunta.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/9 (100%)",
+          "origemResultado": "ESTUDO-PROB-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D,B,C,D,A,E,C,B,A; inclui Markov/Petrobras2012Q40. Manifesto preservado; treinamento solicitado com valores alterados.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "2.1",
@@ -109,6 +201,15 @@
           "tipo": "QTI-10 Fourier",
           "resultado": "9/10 (90%)",
           "nota": "Único erro classificado pelo QTI como Euler; relatório detalhado indisponível por falha de visualização."
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/2 (50%)",
+          "origemResultado": "ESTUDO-COMPLEXOS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Fechamento parcial recuperado:1/2; erro na exponencial complexa; módulo4 multiplica as partes real e imaginária. Usuário relatou confusão trigonométrica/cansaço.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -117,16 +218,37 @@
           "status": "PENDENTE",
           "motivo": "Reteste de Euler, argumento e forma exponencial"
         }
-      ]
+      ],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "2.2",
       "nome": "Aplicações e propriedades de funções temporais: exponenciais, trigonométricas, impulso e degrau",
       "item": "2",
       "materia": "Matemática Aplicada a Sinais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/3 (33.3%)",
+          "origemResultado": "ESTUDO-FUNCOES-TEMPORAIS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Placar1/3 recuperado; discutidos decaimento exponencial e período fundamental. Detalhes individuais e eventual reparo extra não recuperados com segurança.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "TREINO_COM_RESPOSTAS_NAO_RECUPERADAS",
+          "origemResultado": "ESTUDO-ITEM2-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Manifesto comQ44,Q49,Q55,Q67,Q70 preservado. Marcações individuais/placar não recuperados suficientemente; não transformar gabarito planejado em resultado do usuário.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "2.3",
@@ -152,6 +274,24 @@
           "tipo": "QTI-10",
           "resultado": "9/10 (90%)",
           "nota": "Fixação de Fourier; diagnóstico final indica reforçar Euler e realizar spaced retest."
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-FOURIER-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Fechamento3/3 recuperado; atenção ao fator1/(2j) na modulação por seno.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "TREINO_COM_RESPOSTAS_NAO_RECUPERADAS",
+          "origemResultado": "ESTUDO-ITEM2-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Manifesto comQ44,Q49,Q55,Q67,Q70 preservado. Marcações individuais/placar não recuperados suficientemente; não transformar gabarito planejado em resultado do usuário.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -160,7 +300,8 @@
           "status": "PENDENTE",
           "motivo": "Reteste espaçado após reparo de Fourier/deslocamento"
         }
-      ]
+      ],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "2.4",
@@ -175,6 +316,24 @@
           "resultado": "ERRO",
           "questionId": "QTI13-02",
           "nota": "Único erro do QTI-13; placar geral 12/13."
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-CONVOLUCAO-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Placar3/3 recuperado. Recuperação também citou reforço2/3 e reparo2/2, mas atribuição entre2.4 e3.3 ficou incerta: não somados novamente.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "TREINO_COM_RESPOSTAS_NAO_RECUPERADAS",
+          "origemResultado": "ESTUDO-ITEM2-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Manifesto comQ44,Q49,Q55,Q67,Q70 preservado. Marcações individuais/placar não recuperados suficientemente; não transformar gabarito planejado em resultado do usuário.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -183,70 +342,265 @@
           "status": "PENDENTE",
           "motivo": "Erro em convolução no QTI-13"
         }
-      ]
+      ],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "3.1",
       "nome": "Sistemas LIT; Laplace; respostas temporais e transitórias; impulso e degrau",
       "item": "3",
       "materia": "Conceitos Básicos de Sinais e Sistemas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/3 (33.3%)",
+          "origemResultado": "ESTUDO-LIT-LAPLACE-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Erro na invariância de x(2t); impulso6/(s+3) correto; degrau8/(s+4) confundido com exponencial isolada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "3.2",
       "nome": "Sinais no domínio da frequência",
       "item": "3",
       "materia": "Conceitos Básicos de Sinais e Sistemas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-DOMINIO-FREQUENCIA-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "H=10/(s+10), entrada4cos(10t): amplitude2√2 e fase−π/4. Explicado s=jω e ω=10 extraído do cosseno; Bode−40dB/década→grau relativo2; valor final.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "1/1 (100%)",
+          "origemResultado": "ESTUDO-DOMINIO-FREQUENCIA-REPAIR-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Questão adicional solicitada após explicação de s=jω.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "3.3",
       "nome": "Convolução na determinação da saída de sistema LIT",
       "item": "3",
       "materia": "Conceitos Básicos de Sinais e Sistemas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "2/3 (66.7%)",
+          "origemResultado": "ESTUDO-SAIDA-CONVOLUCAO-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Erro no degrau: h=4e^(−2t),x=3u→y=6(1−e^(−2t)), não12e^(−2t).",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-CONVOLUCAO-REPAIR-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C: h=6e^(−3t),x=2u→4(1−e^(−3t)); B: h=10e^(−5t),x=4u→valor final8.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "3.4",
       "nome": "Resposta em frequência de sistemas lineares",
       "item": "3",
       "materia": "Conceitos Básicos de Sinais e Sistemas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "2/3 (66.7%)",
+          "origemResultado": "ESTUDO-RESPOSTA-FREQUENCIA-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Erro de fase no passa-altas s/(s+4) emω=4: +π/4. Acertos no passa-baixas12/(s+4), ganhoDC3, e Bode−60dB/década→grau3.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "3.5",
       "nome": "Amostragem; sinais e sistemas discretos; Transformada Z",
       "item": "3",
       "materia": "Conceitos Básicos de Sinais e Sistemas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "1/3 (33.3%)",
+          "origemResultado": "ESTUDO-AMOSTRAGEM-Z-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "PCM4kHz/8bits→64kbps correto. Erro ao eliminar z^−1. Na saída do polo repetido, usuário afirmou ter calculado certo e marcado errado: preservar como erro de marcação declarado, sem inferir falta de compreensão.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "4.1",
       "nome": "Blocos de sistemas analógicos e digitais de transmissão; modulação analógica e digital",
       "item": "4",
       "materia": "Princípios de Telecomunicações",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-ITEM4-1-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "D,C,A,B,E; canal16QAM/banda9MHz; quantização; AMm0,60; Carson100kHz;8PSK8Mbaud.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/11 (81.8%)",
+          "origemResultado": "ESTUDO-ITEM4-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "4.2",
       "nome": "Conversão A/D; SNR; BER; eficiência espectral; codificação de fonte e canal; ARQ e FEC",
       "item": "4",
       "materia": "Princípios de Telecomunicações",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "4/5 (80%)",
+          "origemResultado": "ESTUDO-ITEM4-2-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C,D,A,E,D; erro SNR: razão linear100 corresponde20dB, não100dB. Demais acertosPCM84kbps, TEB2e−5, eficiênciaI/III e fonte/FEC/ARQ.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-SNR-REPAIR-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C:15mW/0,015mW→30dB; D:2mW/20µW→20dB.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/11 (81.8%)",
+          "origemResultado": "ESTUDO-ITEM4-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "3/4 (75%)",
+          "origemResultado": "ESTUDO-QAM-CRC-REPAIR-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C(errada,B15dB),C(correta21dB),A(gCRCcorreto),D(grau5/detecção). QAM1/2 eCRC2/2. Esclarecido10011 pode ser exemplo deCRC5bits; representação do gerador x5+x2+1 é100101.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "REPAIR",
+          "resultado": "3/3 (100%)",
+          "origemResultado": "ESTUDO-QAM-BITS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C:64QAM+50%→9bits/512;D:16QAM+25%→5bits/32;A:256QAM+50%→12bits/4096.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-11",
+          "tipo": "RETEST",
+          "resultado": "0/1 (0%)",
+          "origemResultado": "ESTUDO-QAM-GRAFICO-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "C21dB marcada; corretaD24dB para512QAM eTEB1e−4. Usuário declarou 'eu errei, mas já sei fazer'; não continuar reforços imediatos automaticamente.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "5.1",
@@ -262,9 +616,20 @@
       "nome": "Voz e vídeo; TDM, FDM e CDM; CAS, R2, Q-SIG, DPNSS",
       "item": "5",
       "materia": "Telefonia e Videoconferência",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/11 (81.8%)",
+          "origemResultado": "ESTUDO-ITEM4-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "5.3",
@@ -316,9 +681,20 @@
       "nome": "Equação de enlace; dimensionamento e características de transmissão e recepção digital",
       "item": "7",
       "materia": "Radiopropagação",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/10 (90%)",
+          "origemResultado": "ESTUDO-ITEM3-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "8.1",
@@ -343,9 +719,20 @@
       "nome": "Serviços; fatores de degradação; equação de enlace; razão portadora-ruído",
       "item": "8",
       "materia": "Sistemas de Transmissão via Satélite",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/11 (81.8%)",
+          "origemResultado": "ESTUDO-ITEM4-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "9.1",
@@ -451,9 +838,20 @@
       "nome": "Sistemas de comunicação ópticos",
       "item": "12",
       "materia": "Sistemas Ópticos",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-11",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "9/11 (81.8%)",
+          "origemResultado": "ESTUDO-ITEM4-HISTORICAS-20261011",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
+          "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-11"
     },
     {
       "id": "12.3",
@@ -557,5 +955,5 @@
       "ultimaEvidencia": "2026-10-10"
     }
   ],
-  "updatedAt": "2026-10-10"
+  "updatedAt": "2026-10-11"
 }
