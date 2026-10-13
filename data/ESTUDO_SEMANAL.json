@@ -123,9 +123,21 @@
       "liquidMinutes": null,
       "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
       "note": "Inclui reaplicações e3respostas comnota desconhecida; não somar questões apenas atribuídas ou reforços cuja identidade ficou conflituosa."
+    },
+    {
+      "sessionId": "FECHAMENTO-20261013",
+      "date": "2026-10-13",
+      "type": "Itens8e9 — blocos, históricos e reforços",
+      "questionsAnswered": 56,
+      "score": "51/56",
+      "questionsCountStatus": "CONFIRMED_VISIBLE_CONVERSATION_EXPOSURES",
+      "liquidTime": null,
+      "liquidMinutes": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "note": "56 exposições respondidas até16:26:55; inclui reaplicações. Item8=28/32;item9=23/24. Tempo líquido não medido; não somar o intervalo09:29–16:26como estudo contínuo."
     }
   ],
   "weeklyClosures": [],
-  "updatedAt": "2026-10-12",
-  "dataCompletenessNote": "10/10: adicionadas 48 respostas confirmadas e 344 segundos medidos em Português. Os demais tempos do dia e registros de outros dias não foram reconstruídos integralmente neste fechamento; não tratar soma de knownSessions como total semanal completo. 11/10: registro de95exposições respondidas recuperadas; outras5históricas item2 comrespostasnão recuperadas. Tempoestimado6h15, separado dos tempos medidos. 12/10: mínimo78respostas recuperadas; tempo líquido desconhecido."
+  "updatedAt": "2026-10-13",
+  "dataCompletenessNote": "10/10: adicionadas 48 respostas confirmadas e 344 segundos medidos em Português. Os demais tempos do dia e registros de outros dias não foram reconstruídos integralmente neste fechamento; não tratar soma de knownSessions como total semanal completo. 11/10: registro de95exposições respondidas recuperadas; outras5históricas item2 comrespostasnão recuperadas. Tempoestimado6h15, separado dos tempos medidos. 12/10: mínimo78respostas recuperadas; tempo líquido desconhecido. 13/10: adicionadas56exposições confirmadas até16:26:55,51acertos;tempo líquido desconhecido."
 }
