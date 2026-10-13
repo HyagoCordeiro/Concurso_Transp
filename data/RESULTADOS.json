@@ -2628,7 +2628,510 @@
       "observacao": "C21dB marcada; corretaD24dB para512QAM eTEB1e−4. Usuário declarou 'eu errei, mas já sei fazer'; não continuar reforços imediatos automaticamente.",
       "userReportedUnderstanding": true,
       "immediateRepairStoppedAtUserRequest": true
+    },
+    {
+      "id": "ESTUDO-5-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "5.1 — Centrais, comutação, tráfego, Erlang B/C",
+      "unitId": "5.1",
+      "unitIds": [
+        "5.1"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Placar 3/5 recuperado; erros relatados em canais E1 e expansão do somatório Erlang B. Gabarito individual não certificado: recuperações divergem entre D,C,A,E,B e D,C,B,E,B; o segundo não reproduz o placar. Preservar o placar histórico sem inventar o gabarito."
+    },
+    {
+      "id": "ESTUDO-5-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "5.2 — Voz/vídeo, multiplexação e sinalização",
+      "unitId": "5.2",
+      "unitIds": [
+        "5.2"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito D,E,A,B,C; erro G.711/H.264.",
+      "gabarito": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "ESTUDO-5-2-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço G.711/H.264",
+      "unitId": "5.2",
+      "unitIds": [
+        "5.2"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-5-HISTORICAS-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 5 — 15 históricas adaptadas",
+      "unitId": "5.1",
+      "unitIds": [
+        "5.1",
+        "5.2",
+        "5.3"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 15,
+      "acertos": 13,
+      "erros": 2,
+      "percentual": 86.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "C",
+        "B",
+        "E",
+        "A",
+        "C",
+        "B",
+        "D",
+        "B",
+        "E",
+        "B",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erros Q9 (B; correta A) e Q11 (B; correta C/UDP). Q13 H.323 correta B: Q.931, H.245, RTCP. Fontes/números originais/enunciados completos não recuperados."
+    },
+    {
+      "id": "ESTUDO-6-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.1 — Fundamentos e parâmetros de antenas",
+      "unitId": "6.1",
+      "unitIds": [
+        "6.1"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "",
+      "gabarito": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.2 — Dipolos, plano de terra e monopolos",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "A",
+        "D",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito C,A,E,D,B. Erros Q3 e Q5.",
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-3-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.3 — Conjuntos e tipos de antenas",
+      "unitId": "6.3",
+      "unitIds": [
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "B",
+        "E",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito D,B,E,A,C. Erros Q1 e Q4.",
+      "gabarito": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-REPAIR-PARCIAL-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Item 6 — respostas adicionais C,E,D",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2",
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 3,
+      "acertos": null,
+      "erros": null,
+      "percentual": null,
+      "status": "ANSWERED_SCORE_NOT_RECOVERED",
+      "respostas": [
+        "C",
+        "E",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Sequência visível no histórico do projeto. A correção recuperada menciona 4/4 C,E,B,A em horário anterior aos blocos 6; atribuição inconsistente. Não inferir nota deste bloco nem reatribuir as 4 respostas."
+    },
+    {
+      "id": "ESTUDO-6-HISTORICAS-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 6 — 7 históricas adaptadas",
+      "unitId": "6.1",
+      "unitIds": [
+        "6.1",
+        "6.2",
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 7,
+      "acertos": 6,
+      "erros": 1,
+      "percentual": 85.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "E",
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro apenas na Q5 sobre LC. Enunciados/valores alterados não recuperados integralmente."
+    },
+    {
+      "id": "ESTUDO-6-LC-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "LC — dois reforços",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-6-LC-ADICIONAL-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "LC — cálculo adicional",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Resposta B correta; resultado 250 MHz recuperado. Valores L/C do enunciado não recuperados."
+    },
+    {
+      "id": "ESTUDO-7-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "7.1 — Propagação, Fresnel, radiovisibilidade e perdas",
+      "unitId": "7.1",
+      "unitIds": [
+        "7.1"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E",
+        "A",
+        "D",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-7-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "7.2 — Equação e dimensionamento de enlace",
+      "unitId": "7.2",
+      "unitIds": [
+        "7.2"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro inicial em Eb/N0. Reforço 2/2 separado; 6/7 é soma deste bloco e do reforço, não outro bloco."
+    },
+    {
+      "id": "ESTUDO-7-2-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Eb/N0 — reforço",
+      "unitId": "7.2",
+      "unitIds": [
+        "7.2"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "11 originais Transpetro 2012/2018/2023",
+      "unitId": "7.1",
+      "unitIds": [
+        "7.1",
+        "7.2",
+        "4.2",
+        "8.2",
+        "8.3"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 11,
+      "acertos": 11,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "E",
+        "C",
+        "D",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito.",
+      "gabarito": [
+        "E",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "E",
+        "C",
+        "D",
+        "B",
+        "C"
+      ]
     }
   ],
-  "updatedAt": "2026-10-11"
+  "updatedAt": "2026-10-12"
 }
