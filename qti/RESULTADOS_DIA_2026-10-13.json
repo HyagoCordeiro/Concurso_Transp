@@ -1,0 +1,2014 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-10-13",
+  "timezone": "America/Sao_Paulo",
+  "cutoff": "2026-10-13T16:26:55-03:00",
+  "recordType": "FECHAMENTO_PARCIAL_DE_EVOLUCAO",
+  "evidenceCompleteness": "VISIBLE_CURRENT_CONVERSATION_COMPLETE_RESULTS_QUESTION_TEXT_SUMMARIZED",
+  "blocks": [
+    {
+      "id": "ESTUDO-8-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.1 — Órbitas e transmissão via satélite",
+      "unitId": "8.1",
+      "unitIds": [
+        "8.1"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-1-20261013-Q01",
+        "ESTUDO-8-1-20261013-Q02",
+        "ESTUDO-8-1-20261013-Q03",
+        "ESTUDO-8-1-20261013-Q04",
+        "ESTUDO-8-1-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.2 — Bandas e características de transmissão",
+      "unitId": "8.2",
+      "unitIds": [
+        "8.2"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "B",
+        "B",
+        "E",
+        "D"
+      ],
+      "gabarito": [
+        "A",
+        "C",
+        "B",
+        "E",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-2-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Diâmetro × frequência com ganho constante",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-2-20261013-Q01",
+        "ESTUDO-8-2-20261013-Q02",
+        "ESTUDO-8-2-20261013-Q03",
+        "ESTUDO-8-2-20261013-Q04",
+        "ESTUDO-8-2-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-2-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — diâmetro e frequência",
+      "unitId": "8.2",
+      "unitIds": [
+        "8.2"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-2-REPAIR-20261013-Q01",
+        "ESTUDO-8-2-REPAIR-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-3-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.3 — Serviços, degradação e C/N",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B",
+        "B",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-3-20261013-Q03",
+          "questionNumber": 3,
+          "topico": "Banda,C/N e C/N0",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-3-20261013-Q01",
+        "ESTUDO-8-3-20261013-Q02",
+        "ESTUDO-8-3-20261013-Q03",
+        "ESTUDO-8-3-20261013-Q04",
+        "ESTUDO-8-3-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-3-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — C/N versus C/N0",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-3-REPAIR-20261013-Q01",
+        "ESTUDO-8-3-REPAIR-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item8 — nove originais Transpetro",
+      "unitId": "8.1",
+      "unitIds": [
+        "8.1",
+        "8.2",
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 9,
+      "acertos": 8,
+      "erros": 1,
+      "percentual": 88.9,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "E",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-HISTORICAS-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Topologia VSAT",
+          "respostaEscolhida": "E",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-HISTORICAS-20261013-Q01",
+        "ESTUDO-8-HISTORICAS-20261013-Q02",
+        "ESTUDO-8-HISTORICAS-20261013-Q03",
+        "ESTUDO-8-HISTORICAS-20261013-Q04",
+        "ESTUDO-8-HISTORICAS-20261013-Q05",
+        "ESTUDO-8-HISTORICAS-20261013-Q06",
+        "ESTUDO-8-HISTORICAS-20261013-Q07",
+        "ESTUDO-8-HISTORICAS-20261013-Q08",
+        "ESTUDO-8-HISTORICAS-20261013-Q09"
+      ],
+      "observacao": "7 questões específicas de satélites +2 complementares:2018Q56(item7) eQ58(item13). Transpetro2012 sem questão especificamente satelital. Reaplicação histórica solicitada."
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "VSAT — primeiro reforço",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "A"
+      ],
+      "gabarito": [
+        "B",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-VSAT-REPAIR1-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Terminal-terminal sem hub:malha",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-VSAT-REPAIR1-20261013-Q01",
+        "ESTUDO-8-VSAT-REPAIR1-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "VSAT — distinção anel/malha",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-VSAT-REPAIR2-20261013-Q01",
+        "ESTUDO-8-VSAT-REPAIR2-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "9.1 — Fundamentos e evolução até5G",
+      "unitId": "9.1",
+      "unitIds": [
+        "9.1"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "E",
+        "D",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-1-20261013-Q01",
+        "ESTUDO-9-1-20261013-Q02",
+        "ESTUDO-9-1-20261013-Q03",
+        "ESTUDO-9-1-20261013-Q04",
+        "ESTUDO-9-1-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "9.2 — Células,acesso,tecnologias e canal móvel",
+      "unitId": "9.2",
+      "unitIds": [
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-2-20261013-Q01",
+        "ESTUDO-9-2-20261013-Q02",
+        "ESTUDO-9-2-20261013-Q03",
+        "ESTUDO-9-2-20261013-Q04",
+        "ESTUDO-9-2-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item9 — doze adaptações históricas",
+      "unitId": "9.1",
+      "unitIds": [
+        "9.1",
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 12,
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "B",
+        "D",
+        "E"
+      ],
+      "gabarito": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D",
+        "E",
+        "A",
+        "C",
+        "D",
+        "B",
+        "D",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-9-HISTORICAS-20261013-Q07",
+          "questionNumber": 7,
+          "topico": "WiMAX MAC eQoS",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-9-HISTORICAS-20261013-Q01",
+        "ESTUDO-9-HISTORICAS-20261013-Q02",
+        "ESTUDO-9-HISTORICAS-20261013-Q03",
+        "ESTUDO-9-HISTORICAS-20261013-Q04",
+        "ESTUDO-9-HISTORICAS-20261013-Q05",
+        "ESTUDO-9-HISTORICAS-20261013-Q06",
+        "ESTUDO-9-HISTORICAS-20261013-Q07",
+        "ESTUDO-9-HISTORICAS-20261013-Q08",
+        "ESTUDO-9-HISTORICAS-20261013-Q09",
+        "ESTUDO-9-HISTORICAS-20261013-Q10",
+        "ESTUDO-9-HISTORICAS-20261013-Q11",
+        "ESTUDO-9-HISTORICAS-20261013-Q12"
+      ],
+      "observacao": "Conteúdo central celular e complementos históricos deWiMAX,espectro e canal. Não tratar todas as12como questões exclusivamente do item9; não incluiOSI/CRC802.16 deoutrositens. Retesteadaptado explicitamente solicitado."
+    },
+    {
+      "id": "ESTUDO-9-MAC-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — WiMAX MAC/QoS",
+      "unitId": "9.2",
+      "unitIds": [
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-MAC-REPAIR-20261013-Q01",
+        "ESTUDO-9-MAC-REPAIR-20261013-Q02"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ESTUDO-8-1-20261013-Q01",
+      "blockId": "ESTUDO-8-1-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "Condições de órbita GEO",
+      "promptSummary": "Condições de órbita GEO",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "GEO: circular, equatorial, mesmo sentido da Terra, período de dia sideral.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-1-20261013-Q02",
+      "blockId": "ESTUDO-8-1-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "GEO × LEO/Doppler",
+      "promptSummary": "GEO × LEO/Doppler",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Doppler desprezível no modelo GEO ideal.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q51",
+        "year": 2023,
+        "originalQuestionNumber": 51,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-1-20261013-Q03",
+      "blockId": "ESTUDO-8-1-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "Classificação MEO",
+      "promptSummary": "Classificação MEO",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Altitude intermediária: MEO.",
+      "parameters": {
+        "altitudeKm": 20200
+      },
+      "source": {
+        "type": "ADAPTADA_TEMA_PETROBRAS_2012_Q62",
+        "contest": "Petrobras",
+        "year": 2012,
+        "originalQuestionNumber": 62
+      }
+    },
+    {
+      "id": "ESTUDO-8-1-20261013-Q04",
+      "blockId": "ESTUDO-8-1-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "LEO polar e troca de satélites",
+      "promptSummary": "LEO polar e troca de satélites",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Visibilidade limitada por satélite: trocas na constelação.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-1-20261013-Q05",
+      "blockId": "ESTUDO-8-1-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "Atraso Terra-satélite-Terra",
+      "promptSummary": "Atraso Terra-satélite-Terra",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "72000/300000=0,24s=240ms; distância já inclui Terra-satélite-Terra.",
+      "parameters": {
+        "distanceKm": 72000,
+        "cKmSec": 300000,
+        "resultMs": 240
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-20261013-Q01",
+      "blockId": "ESTUDO-8-2-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Pares uplink/downlink C,Ku,Ka",
+      "promptSummary": "Pares uplink/downlink C,Ku,Ka",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Pares convencionais aproximados uplink/downlink:6/4,14/12,30/20GHz; não limites completos das bandas.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-20261013-Q02",
+      "blockId": "ESTUDO-8-2-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Diâmetro × frequência com ganho constante",
+      "promptSummary": "Diâmetro × frequência com ganho constante",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "explanation": "Mesmo ganho/eficiência: Df constante; D2=1,2×6/12=0,6m. Marcou0,3m.",
+      "parameters": {
+        "D1m": 1.2,
+        "f1GHz": 6,
+        "f2GHz": 12,
+        "D2m": 0.6
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-20261013-Q03",
+      "blockId": "ESTUDO-8-2-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Perda de espaço livre × frequência",
+      "promptSummary": "Perda de espaço livre × frequência",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "20log10(12/6)=6dB.",
+      "parameters": {
+        "f1GHz": 6,
+        "f2GHz": 12,
+        "lossIncreaseDb": 6
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-20261013-Q04",
+      "blockId": "ESTUDO-8-2-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Banda L e serviços móveis",
+      "promptSummary": "Banda L e serviços móveis",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "L é utilizada em serviços móveis e tem menor sensibilidade à chuva que Ku/Ka.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-20261013-Q05",
+      "blockId": "ESTUDO-8-2-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "ACM e atenuação por chuva",
+      "promptSummary": "ACM e atenuação por chuva",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "ACM adota combinação mais robusta, podendo reduzir a taxa.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-REPAIR-20261013-Q01",
+      "blockId": "ESTUDO-8-2-REPAIR-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Frequência triplicada, mesmo ganho",
+      "promptSummary": "Frequência triplicada, mesmo ganho",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "1,8×5/15=0,6m.",
+      "parameters": {
+        "D1m": 1.8,
+        "f1GHz": 5,
+        "f2GHz": 15,
+        "D2m": 0.6
+      },
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-2-REPAIR-20261013-Q02",
+      "blockId": "ESTUDO-8-2-REPAIR-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Frequência reduzida à metade, mesmo ganho",
+      "promptSummary": "Frequência reduzida à metade, mesmo ganho",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "0,75×10/5=1,5m.",
+      "parameters": {
+        "D1m": 0.75,
+        "f1GHz": 10,
+        "f2GHz": 5,
+        "D2m": 1.5
+      },
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-20261013-Q01",
+      "blockId": "ESTUDO-8-3-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "FSS,MSS,BSS",
+      "promptSummary": "FSS,MSS,BSS",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Estações em posições determinadas:FSS; móveis:MSS; recepção direta pelo público:BSS.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-20261013-Q02",
+      "blockId": "ESTUDO-8-3-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Erro de apontamento",
+      "promptSummary": "Erro de apontamento",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Desalinhamento reduz a portadora recebida por perda de apontamento.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-20261013-Q03",
+      "blockId": "ESTUDO-8-3-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Banda,C/N e C/N0",
+      "promptSummary": "Banda,C/N e C/N0",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "explanation": "Banda dobra: N dobra, C/N cai3dB; C/N0 permanece igual. Marcou que ambos caíam.",
+      "parameters": {
+        "CNinitialDb": 18,
+        "B1Hz": 2000000,
+        "B2Hz": 4000000,
+        "CNfinalDb": 15
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-20261013-Q04",
+      "blockId": "ESTUDO-8-3-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "C/N do downlink",
+      "promptSummary": "C/N do downlink",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "49−205−2+15+228,6−73=12,6dB.",
+      "parameters": {
+        "EIRPdBW": 49,
+        "LfsDb": 205,
+        "LotherDb": 2,
+        "GTdBK": 15,
+        "BHz": 20000000,
+        "CNDb": 12.6
+      },
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
+        "year": 2023,
+        "originalQuestionNumber": 53,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-20261013-Q05",
+      "blockId": "ESTUDO-8-3-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "EIRP mínima",
+      "promptSummary": "EIRP mínima",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "EIRP=14+206−10−228,6+67=48,4dBW.",
+      "parameters": {
+        "CNrequiredDb": 14,
+        "LtotalDb": 206,
+        "GTdBK": 10,
+        "BHz": 5000000,
+        "EIRPminimumdBW": 48.4
+      },
+      "source": {
+        "type": "AUTORAL_DIMENSIONAMENTO"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-REPAIR-20261013-Q01",
+      "blockId": "ESTUDO-8-3-REPAIR-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Dobrar banda mantendo C e N0",
+      "promptSummary": "Dobrar banda mantendo C e N0",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "12−3=9dB.",
+      "parameters": {
+        "CNinitialDb": 12,
+        "B1Hz": 1000000,
+        "B2Hz": 2000000,
+        "CNfinalDb": 9
+      },
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-3-REPAIR-20261013-Q02",
+      "blockId": "ESTUDO-8-3-REPAIR-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Converter C/N0 para C/N",
+      "promptSummary": "Converter C/N0 para C/N",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "10log10(5×10^6)=67;77−67=10dB.",
+      "parameters": {
+        "CN0dBHz": 77,
+        "BHz": 5000000,
+        "CNDb": 10
+      },
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q01",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.2",
+        "8.3"
+      ],
+      "topic": "Ku:chuva/cintilação",
+      "promptSummary": "Ku:chuva/cintilação",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Chuva e cintilação troposférica.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q52",
+        "year": 2018,
+        "originalQuestionNumber": 52,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q02",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Topologia VSAT",
+      "promptSummary": "Topologia VSAT",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "explanation": "Topologia convencional mais empregada:estrela; usuário marcou hierárquica.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q53",
+        "year": 2018,
+        "originalQuestionNumber": 53,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q03",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "C/N com footprint",
+      "promptSummary": "C/N com footprint",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "52−207−6,5+19,4+228,6−70=16,5dB.",
+      "parameters": {
+        "EIRPfromFootprintdBW": 52,
+        "LfsDb": 207,
+        "LatmDb": 6.5,
+        "GTdBK": 19.4,
+        "BHz": 10000000,
+        "CNDb": 16.5
+      },
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q54",
+        "year": 2018,
+        "originalQuestionNumber": 54,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      },
+      "figureRepositoryPath": "qti/assets/2026-10-12/Q54_Transpetro_2018_mapa.svg"
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q04",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "FDMA/TDMA e MCPC em VSAT",
+      "promptSummary": "FDMA/TDMA e MCPC em VSAT",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "FDMA-TDMA inbound / FDMA-MCPC outbound.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q59",
+        "year": 2018,
+        "originalQuestionNumber": 59,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q05",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "8.1"
+      ],
+      "topic": "GEO × LEO",
+      "promptSummary": "GEO × LEO",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Doppler desprezível no modelo GEO ideal.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q51",
+        "year": 2023,
+        "originalQuestionNumber": 51,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q06",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 6,
+      "unitIds": [
+        "8.2"
+      ],
+      "topic": "Vantagem Ka",
+      "promptSummary": "Vantagem Ka",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Disponibilidade de maior largura espectral.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q52",
+        "year": 2023,
+        "originalQuestionNumber": 52,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q07",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 7,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "C/N do downlink",
+      "promptSummary": "C/N do downlink",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "50+5−204+228,6−70=9,6dB.",
+      "parameters": {
+        "EIRPdBW": 50,
+        "GTdBK": 5,
+        "LfsDb": 204,
+        "BHz": 10000000,
+        "CNDb": 9.6
+      },
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
+        "year": 2023,
+        "originalQuestionNumber": 53,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q08",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 8,
+      "unitIds": [
+        "7.2",
+        "8.3"
+      ],
+      "topic": "Desvanecimento",
+      "promptSummary": "Desvanecimento",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Variação aleatória de fase, polarização e/ou intensidade.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q56",
+        "year": 2018,
+        "originalQuestionNumber": 56,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013-Q09",
+      "blockId": "ESTUDO-8-HISTORICAS-20261013",
+      "blockQuestionNumber": 9,
+      "unitIds": [
+        "13.1"
+      ],
+      "topic": "Legislação satélites de2018",
+      "promptSummary": "Legislação satélites de2018",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Gabarito histórico2018 B: representante de satélite estrangeiro constituído segundo leis brasileiras, com sede/administração no País. Não registrar como validação integral da legislação atual.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q58",
+        "year": 2018,
+        "originalQuestionNumber": 58,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR1-20261013-Q01",
+      "blockId": "ESTUDO-8-VSAT-REPAIR1-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Hub central:estrela",
+      "promptSummary": "Hub central:estrela",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Hub central corresponde a estrela.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR1-20261013-Q02",
+      "blockId": "ESTUDO-8-VSAT-REPAIR1-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Terminal-terminal sem hub:malha",
+      "promptSummary": "Terminal-terminal sem hub:malha",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "explanation": "Comunicação direta via satélite sem hub corresponde a malha; marcou anel.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR2-20261013-Q01",
+      "blockId": "ESTUDO-8-VSAT-REPAIR2-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Dois vizinhos,circuito fechado:anel",
+      "promptSummary": "Dois vizinhos,circuito fechado:anel",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Circuito fechado entre vizinhos:anel.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR2-20261013-Q02",
+      "blockId": "ESTUDO-8-VSAT-REPAIR2-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "8.3"
+      ],
+      "topic": "Direto entre terminais via satélite:malha",
+      "promptSummary": "Direto entre terminais via satélite:malha",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Direto entre terminais via satélite sem hub:malha.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-9-1-20261013-Q01",
+      "blockId": "ESTUDO-9-1-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "AMPS,GSM,UMTS,LTE,NR",
+      "promptSummary": "AMPS,GSM,UMTS,LTE,NR",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "AMPS1G;GSM2G;UMTS3G;LTE4G;NR5G.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-1-20261013-Q02",
+      "blockId": "ESTUDO-9-1-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "eMBB,URLLC,mMTC",
+      "promptSummary": "eMBB,URLLC,mMTC",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Vídeo:eMBB;controle crítico:URLLC;sensores massivos:mMTC.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-1-20261013-Q03",
+      "blockId": "ESTUDO-9-1-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "OFDM na geração4G",
+      "promptSummary": "OFDM na geração4G",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Resposta histórica da Q40/2023:4G.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ORIGINAL",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q40",
+        "year": 2023,
+        "originalQuestionNumber": 40,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true
+      }
+    },
+    {
+      "id": "ESTUDO-9-1-20261013-Q04",
+      "blockId": "ESTUDO-9-1-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "NSA e âncora LTE/EPC",
+      "promptSummary": "NSA e âncora LTE/EPC",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "NR com âncora LTE e núcleo EPC caracteriza NSA.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-1-20261013-Q05",
+      "blockId": "ESTUDO-9-1-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "Faixas abaixo6GHz e milimétricas",
+      "promptSummary": "Faixas abaixo6GHz e milimétricas",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "5G pode operar em diferentes faixas; não exige mmWave em todas as implantações.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-2-20261013-Q01",
+      "blockId": "ESTUDO-9-2-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Reúso e canais FDD",
+      "promptSummary": "Reúso e canais FDD",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "D=2√21≈9,2km;42MHz/(2×25kHz×7)=120.",
+      "parameters": {
+        "N": 7,
+        "Rkm": 2,
+        "BtotalHz": 42000000,
+        "bSimplexHz": 25000,
+        "reuseDistanceKm": 9.16515138991168,
+        "duplexChannelsPerCell": 120
+      },
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q22",
+        "year": 2023,
+        "originalQuestionNumber": 22,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-2-20261013-Q02",
+      "blockId": "ESTUDO-9-2-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "GSM,UMTS,LTE acesso",
+      "promptSummary": "GSM,UMTS,LTE acesso",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "GSM FDMA/TDMA;UMTS W-CDMA;LTE OFDMA downlink eSC-FDMA uplink.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-2-20261013-Q03",
+      "blockId": "ESTUDO-9-2-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "FDMA versus FDD",
+      "promptSummary": "FDMA versus FDD",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "FDMA separa usuários por frequência;FDD separa direções por frequência.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-2-20261013-Q04",
+      "blockId": "ESTUDO-9-2-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Doppler máximo",
+      "promptSummary": "Doppler máximo",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "30×2×10^9/(3×10^8)=200Hz.",
+      "parameters": {
+        "vMps": 30,
+        "fcHz": 2000000000,
+        "cMps": 300000000,
+        "DopplerMaxHz": 200
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-2-20261013-Q05",
+      "blockId": "ESTUDO-9-2-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Multipercurso e seletividade",
+      "promptSummary": "Multipercurso e seletividade",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Atraso maior que símbolo favorece seletividade em frequência/ISI.",
+      "parameters": {
+        "delayDifferenceUs": 5,
+        "symbolDurationUs": 1
+      },
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q01",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Reúso e capacidade",
+      "promptSummary": "Reúso e capacidade",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "D=1,5√12≈5,2km;32MHz/(2×25kHz×4)=160.",
+      "parameters": {
+        "N": 4,
+        "Rkm": 1.5,
+        "BtotalHz": 32000000,
+        "bSimplexHz": 25000,
+        "reuseDistanceKm": 5.196152422706632,
+        "duplexChannelsPerCell": 160
+      },
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q22",
+        "year": 2023,
+        "originalQuestionNumber": 22,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q02",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "5G pequenas células/MassiveMIMO",
+      "promptSummary": "5G pequenas células/MassiveMIMO",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Pequenas células complementam cobertura;MassiveMIMO/beamforming ajudam nas altas frequências.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q23",
+        "year": 2023,
+        "originalQuestionNumber": 23,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q03",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "9.1"
+      ],
+      "topic": "OFDM4G",
+      "promptSummary": "OFDM4G",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Geração4G na referência CESGRANRIO.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q40",
+        "year": 2023,
+        "originalQuestionNumber": 40,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q04",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "9.2",
+        "13.2"
+      ],
+      "topic": "Faixa700MHz/leilão2014",
+      "promptSummary": "Faixa700MHz/leilão2014",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Limites externos das subfaixas licitadas2014:708–803MHz; parâmetros históricos preservados.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q60",
+        "year": 2018,
+        "originalQuestionNumber": 60,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q05",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "OFDMA",
+      "promptSummary": "OFDMA",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Grupos de subportadoras ortogonais para usuários simultâneos:OFDMA.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q32",
+        "year": 2018,
+        "originalQuestionNumber": 32,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q06",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 6,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "802.16-2004fixo/e móvel",
+      "promptSummary": "802.16-2004fixo/e móvel",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "802.16-2004(fixo);802.16e(acrescenta mobilidade).",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q27",
+        "year": 2018,
+        "originalQuestionNumber": 27,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q07",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 7,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "WiMAX MAC eQoS",
+      "promptSummary": "WiMAX MAC eQoS",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "A",
+      "result": "INCORRETA",
+      "explanation": "I/II verdadeiras:MAC orientada a conexão eQoS para taxa constante. III falsa:CSMA/CA obrigatório é associação indevida comWi-Fi. MarcouD(III), corretaA(I/II).",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q22",
+        "year": 2012,
+        "originalQuestionNumber": 22,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q08",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 8,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "FDD/TDD",
+      "promptSummary": "FDD/TDD",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Faixas separadas:FDD;mesma faixa,tempos distintos:TDD.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q33",
+        "year": 2012,
+        "originalQuestionNumber": 33,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q09",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 9,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "802.16a2–11GHz/NLOS",
+      "promptSummary": "802.16a2–11GHz/NLOS",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "802.16a especificou2–11GHz e permite cenários NLOS.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q21",
+        "year": 2012,
+        "originalQuestionNumber": 21,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q10",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 10,
+      "unitIds": [
+        "9.2",
+        "7.2"
+      ],
+      "topic": "Desvanecimento",
+      "promptSummary": "Desvanecimento",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Variação de intensidade/fase:desvanecimento.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q56",
+        "year": 2018,
+        "originalQuestionNumber": 56,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q11",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 11,
+      "unitIds": [
+        "9.2",
+        "7.2"
+      ],
+      "topic": "Canal variante,seletivo",
+      "promptSummary": "Canal variante,seletivo",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "a(t),b(t)variáveis e atraso6µs>T2µs:variante temporal e seletivo em frequência. Notação explicitada h(t,τ).",
+      "parameters": {
+        "delayDifferenceUs": 6,
+        "symbolDurationUs": 2,
+        "timeVaryingCoefficients": true
+      },
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q58",
+        "year": 2012,
+        "originalQuestionNumber": 58,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013-Q12",
+      "blockId": "ESTUDO-9-HISTORICAS-20261013",
+      "blockQuestionNumber": 12,
+      "unitIds": [
+        "9.2",
+        "7.1"
+      ],
+      "topic": "Difração",
+      "promptSummary": "Difração",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Energia contorna bordas e alcança sombra: difração.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q57",
+        "year": 2012,
+        "originalQuestionNumber": 57,
+        "contest": "Transpetro",
+        "userRequestedReapplication": true,
+        "note": "Valores/redação/alternativas alterados; não confundir a letra desta versão com o gabarito original."
+      }
+    },
+    {
+      "id": "ESTUDO-9-MAC-REPAIR-20261013-Q01",
+      "blockId": "ESTUDO-9-MAC-REPAIR-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Conexões lógicas e taxa constante",
+      "promptSummary": "Conexões lógicas e taxa constante",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "I/II corretas;III falso:WiMAX não é obrigatoriamente apenas melhor esforço.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-9-MAC-REPAIR-20261013-Q02",
+      "blockId": "ESTUDO-9-MAC-REPAIR-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "9.2"
+      ],
+      "topic": "Wi-Fi CSMA/CA × WiMAX alocação",
+      "promptSummary": "Wi-Fi CSMA/CA × WiMAX alocação",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Wi-Fi convencional CSMA/CA;WiMAX com controle da alocação pela estação-base.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    }
+  ],
+  "totals": {
+    "questionsAnswered": 56,
+    "correct": 51,
+    "incorrect": 5,
+    "accuracy": 91.1,
+    "item8": {
+      "total": 32,
+      "correct": 28,
+      "accuracy": 87.5
+    },
+    "item9": {
+      "total": 24,
+      "correct": 23,
+      "accuracy": 95.8
+    },
+    "initialBlocks": {
+      "answered": 25,
+      "correct": 23
+    },
+    "historicalBlocks": {
+      "answered": 21,
+      "correct": 19
+    },
+    "repairs": {
+      "answered": 10,
+      "correct": 9
+    },
+    "countingNote": "Contagem de exposições respondidas,incluindo retestes e reforços; não56questões inéditas."
+  },
+  "time": {
+    "status": "NOT_MEASURED",
+    "liquidSeconds": null,
+    "comment": "Não inferir estudo contínuo entre horários de mensagens; lacunas de várias horas não são tempo líquido medido."
+  },
+  "recoveries": [
+    {
+      "topic": "Diâmetro × frequência",
+      "initial": "8.2Q2:B→C",
+      "repair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE"
+    },
+    {
+      "topic": "C/N × C/N0 e banda",
+      "initial": "8.3Q3:B→D",
+      "repair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE"
+    },
+    {
+      "topic": "VSAT estrela/malha/anel",
+      "initial": "histórico8Q2:E→C",
+      "firstRepair": "1/2;R2:A→D",
+      "secondRepair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE_APOS_SEGUNDO_REFORCO"
+    },
+    {
+      "topic": "MAC/QoS WiMAX",
+      "initial": "histórico9Q7:D→A",
+      "repair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE"
+    }
+  ],
+  "coverage": {
+    "item8": "3subitens revisados;confronto7satélites+2complementares nas3provas fornecidas.",
+    "item9": "2subitens revisados;confronto12adaptações do conteúdo celular e complementos nas3provas fornecidas.",
+    "proofsUsed": [
+      "TranspetroTelecom2012",
+      "TranspetroTelecom2018",
+      "TranspetroTelecom2023"
+    ],
+    "limits": "Conclusão do ciclo atual; não declarar domínio permanente nem cobertura de todas as provas CESGRANRIO existentes."
+  },
+  "formulas": [
+    "G=η(πDf/c)^2;mesmoG/η→Dfconstante.",
+    "ΔLfs=20log10(f2/f1).",
+    "C/N0=EIRP−Ltotal+G/T+228,6;C/N=C/N0−10log10(BHz).",
+    "N=N0B;dobrarBmantendoC,N0reduzC/Nem3dB e mantémC/N0.",
+    "D=R√(3N);canaisFDD/célula=Btotal/(2bsimplexN).",
+    "fD,max=(v/c)fc."
+  ],
+  "decisions": [
+    "Parâmetros normativos e históricos mantidos; valores de cálculos alterados quando solicitado.",
+    "Reforço2questões por erro;segundo reparo VSAT após erropersistente.",
+    "Registros mistos/reaplicações não usados como diagnóstico longitudinal limpo.",
+    "Próximo item10,RedesLocais,começando10.1;nenhumaquestão doitem10apresentada/respondida neste fechamento."
+  ],
+  "nextAction": {
+    "editalItem": "10",
+    "unitId": "10.1",
+    "topic": "Wi-Fi IEEE802.11 a/b/g/n/ac/ax eQoS802.11e",
+    "status": "NOT_STARTED_TODAY"
+  },
+  "basics": {
+    "Portuguese": "Sematividade nova confirmada neste recorte.",
+    "English": "Sematividade nova confirmada neste recorte."
+  },
+  "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+  "sourceReferences": [
+    {
+      "title": "Prova Transpetro Telecom2012",
+      "libraryFileId": "libfile_2ff4441a078c81918682855968f386a1"
+    },
+    {
+      "title": "Prova Transpetro Telecom2018",
+      "libraryFileId": "libfile_80631d76be54819188e29f8b10e0dd71"
+    },
+    {
+      "title": "Prova Transpetro Telecom2023",
+      "libraryFileId": "libfile_b9a7b14b2b5881918a711817c2a20e96"
+    },
+    {
+      "title": "3GPP NSA/SA Release15",
+      "url": "https://www.3gpp.org/news-events/3gpp-news/nr-verticals"
+    },
+    {
+      "title": "IEEE802.16a",
+      "url": "https://www.ieee802.org/16/tga/"
+    },
+    {
+      "title": "Anatel leilão700MHz2014",
+      "url": "https://www.gov.br/anatel/pt-br/regulado/outorga/licitacao-de-radiofrequencias-rascunho/licitacao-2014"
+    }
+  ]
+}
