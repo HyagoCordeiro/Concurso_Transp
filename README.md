@@ -138,3 +138,16 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 - Erros recuperados: diâmetro/frequência, C/N versus C/N0, topologias VSAT e MAC/QoS WiMAX. Preservado o erro intermediário anel/malha antes da recuperação final.
 - Ciclos dos itens8e9 concluídos nas3provas fornecidas; mantidos EM_REVISAO para retenção. D3:16/10; D7:20/10; D21:03/11.
 - **Próximo ponto:10.1 — Wi-Fi IEEE802.11 a/b/g/n/ac/ax eQoS802.11e.** Nenhumaquestão doitem10respondida neste fechamento.
+
+
+## Fechamento atualizado — 13/10/2026, até 20:04 (America/Sao_Paulo)
+
+[Registro do dia](qti/RESULTADOS_DIA_2026-10-13.md) · [Dados estruturados](qti/RESULTADOS_DIA_2026-10-13.json).
+
+- **Item 8:28/32 (87,5%). Item 9:23/24 (95,8%). Item 10:43/47 (91,5%).**
+- **Total do dia:94/103 (91,3%)**, incluindo adaptações históricas e reforços; treino guiado, não simulado independente. Tempo líquido não medido.
+- Item10:10.1=5/5;10.2=5/5;10.3=5/5;24 históricas adaptadas=21/24;reforço RSTP/VID/SMI=5/6;reforço final RSTP=2/2.
+- Recuperados: estados RSTP (incluindo learning/discarding), 4096 combinações versus4094 VLANs comuns e SMI versusMIB. Mantido o erro intermediário em learning.
+- Item10 em **EM_REVISAO**. D3 dos erros:16/10;D7:20/10;D21:03/11.
+- **Próxima retomada sequencial sugerida:11.1 — IP multicast;DiffServ;CBWFQ;LLQ.**
+- Sem novos resultados de Português/Inglês confirmados neste fechamento.

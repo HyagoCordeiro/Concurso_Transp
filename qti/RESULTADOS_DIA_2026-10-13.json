@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "studyDateLocal": "2026-10-13",
   "timezone": "America/Sao_Paulo",
-  "cutoff": "2026-10-13T16:26:55-03:00",
-  "recordType": "FECHAMENTO_PARCIAL_DE_EVOLUCAO",
+  "cutoff": "2026-10-13T20:04:35-03:00",
+  "recordType": "FECHAMENTO_DE_EVOLUCAO",
   "evidenceCompleteness": "VISIBLE_CURRENT_CONVERSATION_COMPLETE_RESULTS_QUESTION_TEXT_SUMMARIZED",
   "blocks": [
     {
@@ -581,6 +581,371 @@
         "ESTUDO-9-MAC-REPAIR-20261013-Q01",
         "ESTUDO-9-MAC-REPAIR-20261013-Q02"
       ]
+    },
+    {
+      "id": "ESTUDO-10-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.1 — Wi-Fi e QoS",
+      "unitId": "10.1",
+      "unitIds": [
+        "10.1"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-1-20261013-Q01",
+        "ESTUDO-10-1-20261013-Q02",
+        "ESTUDO-10-1-20261013-Q03",
+        "ESTUDO-10-1-20261013-Q04",
+        "ESTUDO-10-1-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.2 — Switches L2/L3",
+      "unitId": "10.2",
+      "unitIds": [
+        "10.2"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-2-20261013-Q01",
+        "ESTUDO-10-2-20261013-Q02",
+        "ESTUDO-10-2-20261013-Q03",
+        "ESTUDO-10-2-20261013-Q04",
+        "ESTUDO-10-2-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-3-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.3 — IEEE, RMON, SNMP e PoE",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-3-20261013-Q01",
+        "ESTUDO-10-3-20261013-Q02",
+        "ESTUDO-10-3-20261013-Q03",
+        "ESTUDO-10-3-20261013-Q04",
+        "ESTUDO-10-3-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 10 — 24 adaptações históricas",
+      "unitId": "10.1",
+      "unitIds": [
+        "10.1",
+        "10.2",
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 24,
+      "acertos": 21,
+      "erros": 3,
+      "percentual": 87.5,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E",
+        "A",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "C",
+        "B",
+        "D",
+        "A",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "A",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "C",
+        "A",
+        "E",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q13",
+          "questionNumber": 13,
+          "topico": "Estados RSTP",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        },
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q14",
+          "questionNumber": 14,
+          "topico": "Todas combinações VID12bits",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        },
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q15",
+          "questionNumber": 15,
+          "topico": "SMI versus MIB",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-10-HISTORICAS-20261013-Q01",
+        "ESTUDO-10-HISTORICAS-20261013-Q02",
+        "ESTUDO-10-HISTORICAS-20261013-Q03",
+        "ESTUDO-10-HISTORICAS-20261013-Q04",
+        "ESTUDO-10-HISTORICAS-20261013-Q05",
+        "ESTUDO-10-HISTORICAS-20261013-Q06",
+        "ESTUDO-10-HISTORICAS-20261013-Q07",
+        "ESTUDO-10-HISTORICAS-20261013-Q08",
+        "ESTUDO-10-HISTORICAS-20261013-Q09",
+        "ESTUDO-10-HISTORICAS-20261013-Q10",
+        "ESTUDO-10-HISTORICAS-20261013-Q11",
+        "ESTUDO-10-HISTORICAS-20261013-Q12",
+        "ESTUDO-10-HISTORICAS-20261013-Q13",
+        "ESTUDO-10-HISTORICAS-20261013-Q14",
+        "ESTUDO-10-HISTORICAS-20261013-Q15",
+        "ESTUDO-10-HISTORICAS-20261013-Q16",
+        "ESTUDO-10-HISTORICAS-20261013-Q17",
+        "ESTUDO-10-HISTORICAS-20261013-Q18",
+        "ESTUDO-10-HISTORICAS-20261013-Q19",
+        "ESTUDO-10-HISTORICAS-20261013-Q20",
+        "ESTUDO-10-HISTORICAS-20261013-Q21",
+        "ESTUDO-10-HISTORICAS-20261013-Q22",
+        "ESTUDO-10-HISTORICAS-20261013-Q23",
+        "ESTUDO-10-HISTORICAS-20261013-Q24"
+      ],
+      "observacao": "Adaptações históricas solicitadas; referências preservadas conforme levantamento apresentado na conversa."
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — RSTP, VID e SMI/MIB",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 6,
+      "acertos": 5,
+      "erros": 1,
+      "percentual": 83.3,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-10-REPAIR1-20261013-Q01",
+          "questionNumber": 1,
+          "topico": "RSTP aprende MAC sem encaminhar",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-10-REPAIR1-20261013-Q01",
+        "ESTUDO-10-REPAIR1-20261013-Q02",
+        "ESTUDO-10-REPAIR1-20261013-Q03",
+        "ESTUDO-10-REPAIR1-20261013-Q04",
+        "ESTUDO-10-REPAIR1-20261013-Q05",
+        "ESTUDO-10-REPAIR1-20261013-Q06"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-RSTP-REPAIR2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço final — estados RSTP",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-RSTP-REPAIR2-20261013-Q01",
+        "ESTUDO-10-RSTP-REPAIR2-20261013-Q02"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
     }
   ],
   "questions": [
@@ -1887,13 +2252,1050 @@
       "source": {
         "type": "AUTORAL_REPAIR"
       }
+    },
+    {
+      "id": "ESTUDO-10-1-20261013-Q01",
+      "blockId": "ESTUDO-10-1-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Faixas e taxas 802.11a/b/g",
+      "promptSummary": "Faixas e taxas 802.11a/b/g",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "a:5GHz/54Mb/s;b:2,4GHz/11Mb/s;g:2,4GHz/54Mb/s.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-1-20261013-Q02",
+      "blockId": "ESTUDO-10-1-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "802.11n: MIMO e faixas",
+      "promptSummary": "802.11n: MIMO e faixas",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "802.11n utiliza MIMO em 2,4 e 5GHz.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-1-20261013-Q03",
+      "blockId": "ESTUDO-10-1-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "OFDMA no 802.11ax",
+      "promptSummary": "OFDMA no 802.11ax",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "OFDMA distribui grupos de subportadoras entre usuários.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-1-20261013-Q04",
+      "blockId": "ESTUDO-10-1-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Prioridade WMM",
+      "promptSummary": "Prioridade WMM",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Voz, vídeo, melhor esforço, tráfego de fundo.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-1-20261013-Q05",
+      "blockId": "ESTUDO-10-1-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "EDCA: AIFS e CW",
+      "promptSummary": "EDCA: AIFS e CW",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Menores AIFS e CW favorecem acesso antecipado; prioridade probabilística.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-2-20261013-Q01",
+      "blockId": "ESTUDO-10-2-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Camadas e endereçamento L2/L3",
+      "promptSummary": "Camadas e endereçamento L2/L3",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "L2:enlace/MAC;L3:rede/IP.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-2-20261013-Q02",
+      "blockId": "ESTUDO-10-2-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Aprendizado e encaminhamento MAC",
+      "promptSummary": "Aprendizado e encaminhamento MAC",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Aprende MAC de origem na porta4; consulta MAC de destino e encaminha pela7.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-2-20261013-Q03",
+      "blockId": "ESTUDO-10-2-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Roteamento inter-VLAN",
+      "promptSummary": "Roteamento inter-VLAN",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "SVIs, roteamento habilitado e gateways corretos.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-2-20261013-Q04",
+      "blockId": "ESTUDO-10-2-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Broadcast por VLAN",
+      "promptSummary": "Broadcast por VLAN",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Broadcast restrito às demais portas aptas da VLAN30.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-2-20261013-Q05",
+      "blockId": "ESTUDO-10-2-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "STP e redundância",
+      "promptSummary": "STP e redundância",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "STP estabelece topologia lógica sem loops.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-3-20261013-Q01",
+      "blockId": "ESTUDO-10-3-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "STP/RSTP/MSTP e padrões",
+      "promptSummary": "STP/RSTP/MSTP e padrões",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "802.1d:STP;802.1w:RSTP;802.1s:MSTP.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-3-20261013-Q02",
+      "blockId": "ESTUDO-10-3-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "PCP e VLANs comuns",
+      "promptSummary": "PCP e VLANs comuns",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "PCP:8 valores; VID:4094 identificadores comuns.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-3-20261013-Q03",
+      "blockId": "ESTUDO-10-3-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "RMON II e camadas superiores",
+      "promptSummary": "RMON II e camadas superiores",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "RMON II amplia monitoramento até aplicação.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-3-20261013-Q04",
+      "blockId": "ESTUDO-10-3-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "GetBulk, SET e authPriv",
+      "promptSummary": "GetBulk, SET e authPriv",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "GetBulk não no v1; SET altera; authPriv autentica e criptografa.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-3-20261013-Q05",
+      "blockId": "ESTUDO-10-3-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Orçamento PoE 200W",
+      "promptSummary": "Orçamento PoE 200W",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "12×15,4=184,8W;13×15,4=200,2W excede 200W;2 pares.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_ESTILO_CESGRANRIO"
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q01",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Inter-VLAN e domínios de broadcast",
+      "promptSummary": "Inter-VLAN e domínios de broadcast",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Roteamento entre sub-redes preserva domínios de broadcast.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 23,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q23",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q02",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Arquitetura IEEE802.11",
+      "promptSummary": "Arquitetura IEEE802.11",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "IEEE802.11: física/enlace;MAC e LLC no enlace.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 24,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q24",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q03",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Perda em 2,4GHz versus5GHz",
+      "promptSummary": "Perda em 2,4GHz versus5GHz",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Mesmo d/Pt/ganhos:2,4GHz menor perda de espaço livre.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 25,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q25",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q04",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Planejamento canais1–11/canal6",
+      "promptSummary": "Planejamento canais1–11/canal6",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Critério diferença≥5: canais1 e11 em relação ao6.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 26,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q26",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q05",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "OSPF como função L3",
+      "promptSummary": "OSPF como função L3",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "OSPF/encaminhamento IP requer roteamento.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 27,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q27",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q06",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 6,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Tag IEEE802.1Q",
+      "promptSummary": "Tag IEEE802.1Q",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Tag contém VID.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 28,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q28",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q07",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 7,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Identificar802.11b/a",
+      "promptSummary": "Identificar802.11b/a",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "I:802.11b;II:802.11a.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 29,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q29",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q08",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 8,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Infraestrutura versus ad hoc",
+      "promptSummary": "Infraestrutura versus ad hoc",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "AP:infraestrutura;IBSS:ad hoc.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 30,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q30",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q09",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 9,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "L2 e MAC de destino",
+      "promptSummary": "L2 e MAC de destino",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Enlace/MAC de destino.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 34,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q34",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q10",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 10,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Objetivo do STP",
+      "promptSummary": "Objetivo do STP",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "STP evita loops L2.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 35,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q35",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q11",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 11,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Switch L3 com ASICs e Ethernet",
+      "promptSummary": "Switch L3 com ASICs e Ethernet",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Sim/hardware/não segundo especificação explícita do enunciado.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 36,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q36",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q12",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 12,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Switch/injetor/splitter/AP",
+      "promptSummary": "Switch/injetor/splitter/AP",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Switch,injetor,splitter,AP.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 37,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q37",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q13",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 13,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Estados RSTP",
+      "promptSummary": "Estados RSTP",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "A",
+      "result": "INCORRETA",
+      "explanation": "Discarding,learning,forwarding.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 38,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q38",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q14",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 14,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Todas combinações VID12bits",
+      "promptSummary": "Todas combinações VID12bits",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "explanation": "2^12=4096 incluindo reservados;4094 VLANs comuns.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 39,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q39",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q15",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 15,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "SMI versus MIB",
+      "promptSummary": "SMI versus MIB",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "explanation": "SMI:regras de tipos/nomeação;MIB:definições de objetos.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2012,
+        "questionNumber": 40,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q40",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q16",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 16,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Beamforming",
+      "promptSummary": "Beamforming",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Fases/amplitudes orientam energia:beamforming.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 25,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q25",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q17",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 17,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "Suporte e integridade do serviço",
+      "promptSummary": "Suporte e integridade do serviço",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Suporte ao serviço/integridade do serviço.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 26,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q26",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q18",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 18,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "Encaminhamento L3 em hardware",
+      "promptSummary": "Encaminhamento L3 em hardware",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Circuitos especializados:encaminhamento em hardware.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 28,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q28",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q19",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 19,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Injetor versus splitter",
+      "promptSummary": "Injetor versus splitter",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Injetor adiciona energia;splitter separa energia/dados.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 29,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q29",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q20",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 20,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "WPA2 AES-CCMP",
+      "promptSummary": "WPA2 AES-CCMP",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "WPA2 AES-CCMP.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 30,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q30",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q21",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 21,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "SNMP SetRequest",
+      "promptSummary": "SNMP SetRequest",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "SET altera objeto gravável autorizado.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2018,
+        "questionNumber": 46,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q46",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q22",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 22,
+      "unitIds": [
+        "10.1"
+      ],
+      "topic": "802.11ax OFDMA",
+      "promptSummary": "802.11ax OFDMA",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "OFDMA distribui unidades de recursos.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2023,
+        "questionNumber": 61,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q61",
+        "unitId": "10.1",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q23",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 23,
+      "unitIds": [
+        "10.2"
+      ],
+      "topic": "L2/L3 e OSI",
+      "promptSummary": "L2/L3 e OSI",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "L2:enlace;L3:rede.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2023,
+        "questionNumber": 62,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q62",
+        "unitId": "10.2",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013-Q24",
+      "blockId": "ESTUDO-10-HISTORICAS-20261013",
+      "blockQuestionNumber": 24,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Seis portas PoE15,4W",
+      "promptSummary": "Seis portas PoE15,4W",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "6×15,4=92,4W;2 pares por conexão.",
+      "parameters": null,
+      "source": {
+        "type": "CESGRANRIO_ADAPTADA",
+        "exam": "TRANSPETRO",
+        "year": 2023,
+        "questionNumber": 64,
+        "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q64",
+        "unitId": "10.3",
+        "attributionEvidence": "Referência informada no levantamento da conversa; preservada no registro."
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q01",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "RSTP aprende MAC sem encaminhar",
+      "promptSummary": "RSTP aprende MAC sem encaminhar",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "explanation": "Aprende MAC e não encaminha:learning (C), não discarding (A).",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q02",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Três estados RSTP",
+      "promptSummary": "Três estados RSTP",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Discarding,learning,forwarding.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q03",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 3,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Todas combinações VID",
+      "promptSummary": "Todas combinações VID",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "4096 combinações.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q04",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 4,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "VLANs de uso comum",
+      "promptSummary": "VLANs de uso comum",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "4096−2=4094.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q05",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 5,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "SMI:regras de objetos",
+      "promptSummary": "SMI:regras de objetos",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "SMI define regras de nomeação,tipos e representação.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013-Q06",
+      "blockId": "ESTUDO-10-REPAIR1-20261013",
+      "blockQuestionNumber": 6,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "MIB:organização dos objetos",
+      "promptSummary": "MIB:organização dos objetos",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "MIB organiza as definições de objetos.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-RSTP-REPAIR2-20261013-Q01",
+      "blockId": "ESTUDO-10-RSTP-REPAIR2-20261013",
+      "blockQuestionNumber": 1,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Learning:aprende sem encaminhar",
+      "promptSummary": "Learning:aprende sem encaminhar",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Aprende MAC sem encaminhar dados:learning.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
+    },
+    {
+      "id": "ESTUDO-10-RSTP-REPAIR2-20261013-Q02",
+      "blockId": "ESTUDO-10-RSTP-REPAIR2-20261013",
+      "blockQuestionNumber": 2,
+      "unitIds": [
+        "10.3"
+      ],
+      "topic": "Discarding:caminho alternativo",
+      "promptSummary": "Discarding:caminho alternativo",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "Caminho alternativo sem aprender/encaminhar dados:discarding.",
+      "parameters": null,
+      "source": {
+        "type": "AUTORAL_REPAIR"
+      }
     }
   ],
   "totals": {
-    "questionsAnswered": 56,
-    "correct": 51,
-    "incorrect": 5,
-    "accuracy": 91.1,
+    "questionsAnswered": 103,
+    "correct": 94,
+    "incorrect": 9,
+    "accuracy": 91.3,
     "item8": {
       "total": 32,
       "correct": 28,
@@ -1905,18 +3307,23 @@
       "accuracy": 95.8
     },
     "initialBlocks": {
-      "answered": 25,
-      "correct": 23
+      "answered": 40,
+      "correct": 38
     },
     "historicalBlocks": {
-      "answered": 21,
-      "correct": 19
+      "answered": 45,
+      "correct": 40
     },
     "repairs": {
-      "answered": 10,
-      "correct": 9
+      "answered": 18,
+      "correct": 16
     },
-    "countingNote": "Contagem de exposições respondidas,incluindo retestes e reforços; não56questões inéditas."
+    "countingNote": "103 exposições respondidas, incluindo adaptações históricas e reforços. Sequências incompletas ou substituídas antes da correção não contam como tentativas adicionais.",
+    "item10": {
+      "total": 47,
+      "correct": 43,
+      "accuracy": 91.5
+    }
   },
   "time": {
     "status": "NOT_MEASURED",
@@ -1948,6 +3355,24 @@
       "initial": "histórico9Q7:D→A",
       "repair": "2/2",
       "status": "RECUPERADO_IMEDIATAMENTE"
+    },
+    {
+      "topic": "RSTP:três estados e learning/discarding",
+      "initial": "histórico10Q13:B→A;reforçoR1:A→C",
+      "repair": "5/6 no primeiro reforço;2/2 no reforço final",
+      "status": "RECUPERADO_IMEDIATAMENTE"
+    },
+    {
+      "topic": "VID:4096 combinações versus4094 VLANs comuns",
+      "initial": "histórico10Q14:D→E",
+      "repair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE"
+    },
+    {
+      "topic": "SMI versus MIB",
+      "initial": "histórico10Q15:A→D",
+      "repair": "2/2",
+      "status": "RECUPERADO_IMEDIATAMENTE"
     }
   ],
   "coverage": {
@@ -1958,7 +3383,8 @@
       "TranspetroTelecom2018",
       "TranspetroTelecom2023"
     ],
-    "limits": "Conclusão do ciclo atual; não declarar domínio permanente nem cobertura de todas as provas CESGRANRIO existentes."
+    "limits": "Conclusão do ciclo atual; não declarar domínio permanente nem cobertura de todas as provas CESGRANRIO existentes.",
+    "item10": "10.1–10.3:15/15 iniciais;24 adaptações históricas:21/24;reforços7/8. Referências históricas preservadas conforme levantamento apresentado na conversa."
   },
   "formulas": [
     "G=η(πDf/c)^2;mesmoG/η→Dfconstante.",
@@ -1972,13 +3398,16 @@
     "Parâmetros normativos e históricos mantidos; valores de cálculos alterados quando solicitado.",
     "Reforço2questões por erro;segundo reparo VSAT após erropersistente.",
     "Registros mistos/reaplicações não usados como diagnóstico longitudinal limpo.",
-    "Próximo item10,RedesLocais,começando10.1;nenhumaquestão doitem10apresentada/respondida neste fechamento."
+    "Item10 concluído no ciclo atual:43/47. Manter EM_REVISAO para confirmar retenção.",
+    "Próxima retomada sequencial sugerida:11.1 — IP multicast,DiffServ,CBWFQ,LLQ.",
+    "Primeiro reforço:sequência final AEBDAC; descartadas sequências incompletas/substituídas, sem criar tentativas extras."
   ],
   "nextAction": {
-    "editalItem": "10",
-    "unitId": "10.1",
-    "topic": "Wi-Fi IEEE802.11 a/b/g/n/ac/ax eQoS802.11e",
-    "status": "NOT_STARTED_TODAY"
+    "editalItem": "11",
+    "unitId": "11.1",
+    "topic": "IP multicast; DiffServ; CBWFQ; LLQ",
+    "status": "NEXT_NOT_STARTED",
+    "basis": "Próximo subitem sequencial após o item10; sugestão de continuidade."
   },
   "basics": {
     "Portuguese": "Sematividade nova confirmada neste recorte.",

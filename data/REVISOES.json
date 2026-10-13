@@ -1080,6 +1080,84 @@
       "createdFromStudyDate": "2026-10-13",
       "plano": "Verificar retenção em reteste curto. Erro já recuperado no reforço imediato; não registrar consolidação permanente.",
       "schedulingBasis": "Regra adaptativa D1/D3 para erros; agenda registrada, não lembrete automático."
+    },
+    {
+      "id": "REV-10.1-D7-20261013",
+      "unitId": "10.1",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.1-D21-20261013",
+      "unitId": "10.1",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.2-D7-20261013",
+      "unitId": "10.2",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.2-D21-20261013",
+      "unitId": "10.2",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.3-D7-20261013",
+      "unitId": "10.3",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.3-D21-20261013",
+      "unitId": "10.3",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve para retenção; respeitar banco anti-repetição.",
+      "schedulingBasis": "D7/D21 previstos no projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-10.3-ERROS-D3-20261013",
+      "unitId": "10.3",
+      "topico": "RSTP learning/discarding;4096/4094;SMI/MIB",
+      "origemResultado": "FECHAMENTO-20261013-ITEM10",
+      "agendadaPara": "2026-10-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste curto dos erros recuperados imediatamente; preservar o erro intermediário em learning.",
+      "schedulingBasis": "D3 para erros; agenda registrada, não lembrete automático."
     }
   ],
   "updatedAt": "2026-10-13"

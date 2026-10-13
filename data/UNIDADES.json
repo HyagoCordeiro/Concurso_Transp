@@ -1404,27 +1404,150 @@
       "nome": "Wi-Fi IEEE 802.11 a, b, g, n, ac e ax; QoS IEEE 802.11e",
       "item": "10",
       "materia": "Redes Locais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-10-1-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Resultado confirmado; treino guiado.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "21/24 (87.5%)",
+          "origemResultado": "ESTUDO-10-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Placar global do bloco histórico misto do item10; não é nota exclusiva do subitem.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.1-D7-20261013"
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.1-D21-20261013"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "10.2",
       "nome": "Redes cabeadas com switches L2/L3; roteamento e comutação",
       "item": "10",
       "materia": "Redes Locais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-10-2-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Resultado confirmado; treino guiado.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "21/24 (87.5%)",
+          "origemResultado": "ESTUDO-10-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Placar global do bloco histórico misto do item10; não é nota exclusiva do subitem.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.2-D7-20261013"
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.2-D21-20261013"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "10.3",
       "nome": "IEEE 802.1d, 802.1p, 802.1q, 802.1s, 802.1w; RMON I/II; SNMPv1/v2/v3; PoE IEEE 802.3af",
       "item": "10",
       "materia": "Redes Locais",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-10-3-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Resultado confirmado; treino guiado.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "21/24 (87.5%)",
+          "origemResultado": "ESTUDO-10-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Placar global do bloco histórico misto do item10; não é nota exclusiva do subitem.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "5/6 (83.3%)",
+          "origemResultado": "ESTUDO-10-REPAIR1-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Resultado confirmado; treino guiado.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-10-RSTP-REPAIR2-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Resultado confirmado; treino guiado.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.3-D7-20261013"
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "motivo": "Ciclo do item10 concluído; confirmar retenção.",
+          "reviewId": "REV-10.3-D21-20261013"
+        },
+        {
+          "data": "2026-10-16",
+          "status": "PENDENTE",
+          "motivo": "Verificar retenção dos erros recuperados.",
+          "reviewId": "REV-10.3-ERROS-D3-20261013"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "11.1",

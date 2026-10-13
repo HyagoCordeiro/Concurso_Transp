@@ -1,6 +1,6 @@
 # Evolução de estudo — 13/10/2026
 
-**Projeto:** CESGRANRIO/Transpetro — Engenharia de Telecomunicações. **Fuso:** America/Sao_Paulo. **Corte:** 16:26:55. Registro parcial do dia, solicitado após concluir o ciclo dos itens 8 e 9.
+**Projeto:** CESGRANRIO/Transpetro — Engenharia de Telecomunicações. **Fuso:** America/Sao_Paulo. **Corte:** 20:04:35. Registro do dia atualizado após concluir o ciclo dos itens 8, 9 e 10.
 
 ## Resultado confirmado
 
@@ -8,9 +8,10 @@
 |---|---:|---:|---:|
 | 8 — Sistemas de transmissão via satélite | 28 | 32 | 87,5% |
 | 9 — Comunicações celulares | 23 | 24 | 95,8% |
-| **Total** | **51** | **56** | **91,1%** |
+| 10 — Redes locais | 43 | 47 | 91,5% |
+| **Total** | **94** | **103** | **91,3%** |
 
-São **56 exposições efetivamente respondidas**, incluindo reaplicações históricas e reforços. Esses percentuais descrevem o treino realizado; não representam um simulado independente nem domínio permanente do edital. Tempo líquido **não medido**; não inferir estudo contínuo entre horários das mensagens.
+São **103 exposições efetivamente respondidas**, incluindo reaplicações históricas e reforços. Esses percentuais descrevem o treino realizado; não representam um simulado independente nem domínio permanente do edital. Tempo líquido **não medido**; não inferir estudo contínuo entre horários das mensagens.
 
 [Registro estruturado, com respostas e correções por questão](RESULTADOS_DIA_2026-10-13.json).
 
@@ -93,11 +94,11 @@ WiMAX e espectro foram explicitamente classificados como complementos histórico
 - **D7 — 20/10/2026:** subitens 8.1, 8.2, 8.3, 9.1 e 9.2.
 - **D21 — 03/11/2026:** os mesmos subitens.
 - Datas registradas em data/REVISOES.json; são agenda de estudo, não lembretes automáticos.
-- **Retomar no item 10, subitem 10.1 — Wi-Fi IEEE 802.11 a/b/g/n/ac/ax e QoS IEEE 802.11e.** Item 10 ainda não iniciado neste recorte.
+- **Próxima retomada sequencial sugerida: item11, subitem11.1 — IP multicast;DiffServ;CBWFQ;LLQ.** Item10 concluído no ciclo atual, mantido EM_REVISAO.
 - Ciclos de revisão dos itens 8 e 9 concluídos nas três provas fornecidas; estado mantido **EM_REVISAO**, sem promover retenção imediata a domínio definitivo.
 - Sem resultados novos de Português ou Inglês nesta sessão.
 
-## Registro individual das 56 respostas
+## Registro individual das 56 respostas dos itens 8 e 9
 
 Os enunciados estão resumidos no JSON, sem alegação de transcrição integral. Esta tabela preserva cada marcação, a correção da versão apresentada e sua fonte.
 
@@ -159,3 +160,72 @@ Os enunciados estão resumidos no JSON, sem alegação de transcrição integral
 | 54 | Item9 — doze adaptações históricas / Q12 | Difração | E | E | CORRETA | CESGRANRIO-TRANSPETRO-2012-Q57 |
 | 55 | Reforço — WiMAX MAC/QoS / Q1 | Conexões lógicas e taxa constante | E | E | CORRETA | AUTORAL_REPAIR |
 | 56 | Reforço — WiMAX MAC/QoS / Q2 | Wi-Fi CSMA/CA × WiMAX alocação | B | B | CORRETA | AUTORAL_REPAIR |
+
+## Item 10 — Redes locais: fechamento noturno
+
+| Bloco | Respostas | Gabarito da versão | Placar |
+|---|---|---|---:|
+| 10.1 — Wi-Fi e QoS | C, A, E, B, D | C, A, E, B, D | 5/5 |
+| 10.2 — Switches L2/L3 | E, D, A, C, B | E, D, A, C, B | 5/5 |
+| 10.3 — IEEE, RMON, SNMP e PoE | D, B, E, A, C | D, B, E, A, C | 5/5 |
+| Item 10 — 24 adaptações históricas | C, E, A, B, D, B, C, A, E, B, D, C, B, D, A, A, C, E, B, D, A, D, E, C | C, E, A, B, D, B, C, A, E, B, D, C, A, E, D, A, C, E, B, D, A, D, E, C | 21/24 |
+| Reforço — RSTP, VID e SMI/MIB | A, E, B, D, A, C | C, E, B, D, A, C | 5/6 |
+| Reforço final — estados RSTP | D, A | D, A | 2/2 |
+
+**Item10:43/47 (91,5%).** Wi-Fi/QoS, switches L2/L3, IEEE/STP/VLAN, RMON, SNMP e PoE revisados. Históricas:2012 Q23–30 e Q34–40;2018 Q25,26,28,29,30,46;2023 Q61,62,64. Referências preservadas conforme levantamento apresentado na conversa. As letras correspondem às adaptações.
+
+Erros na bateria:Q13 B→A (estados RSTP);Q14 D→E (4096 combinações incluindo reservados);Q15 A→D (SMI/MIB). Primeiro reforço:AEBDAC,5/6;erro emR1 A→C:learning aprende MAC e não encaminha dados. Último reforço:DA,2/2. Sequências incompletas ou substituídas não foram contadas novamente.
+
+Revisões do item10:D3 dos erros16/10;D7 20/10;D21 03/11. São datas de estudo registradas, não lembretes automáticos. Manter EM_REVISAO para retenção. Próximo subitem sequencial sugerido:11.1.
+
+### Registro das 47 respostas do item10
+
+| Nº | Bloco/Q | Tema | Marcada | Correta | Resultado |
+|---:|---|---|---|---|---|
+| 57 | ESTUDO-10-1-20261013/Q1 | Faixas e taxas 802.11a/b/g | C | C | CORRETA |
+| 58 | ESTUDO-10-1-20261013/Q2 | 802.11n: MIMO e faixas | A | A | CORRETA |
+| 59 | ESTUDO-10-1-20261013/Q3 | OFDMA no 802.11ax | E | E | CORRETA |
+| 60 | ESTUDO-10-1-20261013/Q4 | Prioridade WMM | B | B | CORRETA |
+| 61 | ESTUDO-10-1-20261013/Q5 | EDCA: AIFS e CW | D | D | CORRETA |
+| 62 | ESTUDO-10-2-20261013/Q1 | Camadas e endereçamento L2/L3 | E | E | CORRETA |
+| 63 | ESTUDO-10-2-20261013/Q2 | Aprendizado e encaminhamento MAC | D | D | CORRETA |
+| 64 | ESTUDO-10-2-20261013/Q3 | Roteamento inter-VLAN | A | A | CORRETA |
+| 65 | ESTUDO-10-2-20261013/Q4 | Broadcast por VLAN | C | C | CORRETA |
+| 66 | ESTUDO-10-2-20261013/Q5 | STP e redundância | B | B | CORRETA |
+| 67 | ESTUDO-10-3-20261013/Q1 | STP/RSTP/MSTP e padrões | D | D | CORRETA |
+| 68 | ESTUDO-10-3-20261013/Q2 | PCP e VLANs comuns | B | B | CORRETA |
+| 69 | ESTUDO-10-3-20261013/Q3 | RMON II e camadas superiores | E | E | CORRETA |
+| 70 | ESTUDO-10-3-20261013/Q4 | GetBulk, SET e authPriv | A | A | CORRETA |
+| 71 | ESTUDO-10-3-20261013/Q5 | Orçamento PoE 200W | C | C | CORRETA |
+| 72 | ESTUDO-10-HISTORICAS-20261013/Q1 | Inter-VLAN e domínios de broadcast | C | C | CORRETA |
+| 73 | ESTUDO-10-HISTORICAS-20261013/Q2 | Arquitetura IEEE802.11 | E | E | CORRETA |
+| 74 | ESTUDO-10-HISTORICAS-20261013/Q3 | Perda em 2,4GHz versus5GHz | A | A | CORRETA |
+| 75 | ESTUDO-10-HISTORICAS-20261013/Q4 | Planejamento canais1–11/canal6 | B | B | CORRETA |
+| 76 | ESTUDO-10-HISTORICAS-20261013/Q5 | OSPF como função L3 | D | D | CORRETA |
+| 77 | ESTUDO-10-HISTORICAS-20261013/Q6 | Tag IEEE802.1Q | B | B | CORRETA |
+| 78 | ESTUDO-10-HISTORICAS-20261013/Q7 | Identificar802.11b/a | C | C | CORRETA |
+| 79 | ESTUDO-10-HISTORICAS-20261013/Q8 | Infraestrutura versus ad hoc | A | A | CORRETA |
+| 80 | ESTUDO-10-HISTORICAS-20261013/Q9 | L2 e MAC de destino | E | E | CORRETA |
+| 81 | ESTUDO-10-HISTORICAS-20261013/Q10 | Objetivo do STP | B | B | CORRETA |
+| 82 | ESTUDO-10-HISTORICAS-20261013/Q11 | Switch L3 com ASICs e Ethernet | D | D | CORRETA |
+| 83 | ESTUDO-10-HISTORICAS-20261013/Q12 | Switch/injetor/splitter/AP | C | C | CORRETA |
+| 84 | ESTUDO-10-HISTORICAS-20261013/Q13 | Estados RSTP | B | A | INCORRETA |
+| 85 | ESTUDO-10-HISTORICAS-20261013/Q14 | Todas combinações VID12bits | D | E | INCORRETA |
+| 86 | ESTUDO-10-HISTORICAS-20261013/Q15 | SMI versus MIB | A | D | INCORRETA |
+| 87 | ESTUDO-10-HISTORICAS-20261013/Q16 | Beamforming | A | A | CORRETA |
+| 88 | ESTUDO-10-HISTORICAS-20261013/Q17 | Suporte e integridade do serviço | C | C | CORRETA |
+| 89 | ESTUDO-10-HISTORICAS-20261013/Q18 | Encaminhamento L3 em hardware | E | E | CORRETA |
+| 90 | ESTUDO-10-HISTORICAS-20261013/Q19 | Injetor versus splitter | B | B | CORRETA |
+| 91 | ESTUDO-10-HISTORICAS-20261013/Q20 | WPA2 AES-CCMP | D | D | CORRETA |
+| 92 | ESTUDO-10-HISTORICAS-20261013/Q21 | SNMP SetRequest | A | A | CORRETA |
+| 93 | ESTUDO-10-HISTORICAS-20261013/Q22 | 802.11ax OFDMA | D | D | CORRETA |
+| 94 | ESTUDO-10-HISTORICAS-20261013/Q23 | L2/L3 e OSI | E | E | CORRETA |
+| 95 | ESTUDO-10-HISTORICAS-20261013/Q24 | Seis portas PoE15,4W | C | C | CORRETA |
+| 96 | ESTUDO-10-REPAIR1-20261013/Q1 | RSTP aprende MAC sem encaminhar | A | C | INCORRETA |
+| 97 | ESTUDO-10-REPAIR1-20261013/Q2 | Três estados RSTP | E | E | CORRETA |
+| 98 | ESTUDO-10-REPAIR1-20261013/Q3 | Todas combinações VID | B | B | CORRETA |
+| 99 | ESTUDO-10-REPAIR1-20261013/Q4 | VLANs de uso comum | D | D | CORRETA |
+| 100 | ESTUDO-10-REPAIR1-20261013/Q5 | SMI:regras de objetos | A | A | CORRETA |
+| 101 | ESTUDO-10-REPAIR1-20261013/Q6 | MIB:organização dos objetos | C | C | CORRETA |
+| 102 | ESTUDO-10-RSTP-REPAIR2-20261013/Q1 | Learning:aprende sem encaminhar | D | D | CORRETA |
+| 103 | ESTUDO-10-RSTP-REPAIR2-20261013/Q2 | Discarding:caminho alternativo | A | A | CORRETA |

@@ -3707,6 +3707,371 @@
         "ESTUDO-9-MAC-REPAIR-20261013-Q01",
         "ESTUDO-9-MAC-REPAIR-20261013-Q02"
       ]
+    },
+    {
+      "id": "ESTUDO-10-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.1 — Wi-Fi e QoS",
+      "unitId": "10.1",
+      "unitIds": [
+        "10.1"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-1-20261013-Q01",
+        "ESTUDO-10-1-20261013-Q02",
+        "ESTUDO-10-1-20261013-Q03",
+        "ESTUDO-10-1-20261013-Q04",
+        "ESTUDO-10-1-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.2 — Switches L2/L3",
+      "unitId": "10.2",
+      "unitIds": [
+        "10.2"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-2-20261013-Q01",
+        "ESTUDO-10-2-20261013-Q02",
+        "ESTUDO-10-2-20261013-Q03",
+        "ESTUDO-10-2-20261013-Q04",
+        "ESTUDO-10-2-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-3-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "10.3 — IEEE, RMON, SNMP e PoE",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-3-20261013-Q01",
+        "ESTUDO-10-3-20261013-Q02",
+        "ESTUDO-10-3-20261013-Q03",
+        "ESTUDO-10-3-20261013-Q04",
+        "ESTUDO-10-3-20261013-Q05"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 10 — 24 adaptações históricas",
+      "unitId": "10.1",
+      "unitIds": [
+        "10.1",
+        "10.2",
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 24,
+      "acertos": 21,
+      "erros": 3,
+      "percentual": 87.5,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E",
+        "A",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "C",
+        "B",
+        "D",
+        "A",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "A",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "C",
+        "A",
+        "E",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q13",
+          "questionNumber": 13,
+          "topico": "Estados RSTP",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        },
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q14",
+          "questionNumber": 14,
+          "topico": "Todas combinações VID12bits",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        },
+        {
+          "questionId": "ESTUDO-10-HISTORICAS-20261013-Q15",
+          "questionNumber": 15,
+          "topico": "SMI versus MIB",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-10-HISTORICAS-20261013-Q01",
+        "ESTUDO-10-HISTORICAS-20261013-Q02",
+        "ESTUDO-10-HISTORICAS-20261013-Q03",
+        "ESTUDO-10-HISTORICAS-20261013-Q04",
+        "ESTUDO-10-HISTORICAS-20261013-Q05",
+        "ESTUDO-10-HISTORICAS-20261013-Q06",
+        "ESTUDO-10-HISTORICAS-20261013-Q07",
+        "ESTUDO-10-HISTORICAS-20261013-Q08",
+        "ESTUDO-10-HISTORICAS-20261013-Q09",
+        "ESTUDO-10-HISTORICAS-20261013-Q10",
+        "ESTUDO-10-HISTORICAS-20261013-Q11",
+        "ESTUDO-10-HISTORICAS-20261013-Q12",
+        "ESTUDO-10-HISTORICAS-20261013-Q13",
+        "ESTUDO-10-HISTORICAS-20261013-Q14",
+        "ESTUDO-10-HISTORICAS-20261013-Q15",
+        "ESTUDO-10-HISTORICAS-20261013-Q16",
+        "ESTUDO-10-HISTORICAS-20261013-Q17",
+        "ESTUDO-10-HISTORICAS-20261013-Q18",
+        "ESTUDO-10-HISTORICAS-20261013-Q19",
+        "ESTUDO-10-HISTORICAS-20261013-Q20",
+        "ESTUDO-10-HISTORICAS-20261013-Q21",
+        "ESTUDO-10-HISTORICAS-20261013-Q22",
+        "ESTUDO-10-HISTORICAS-20261013-Q23",
+        "ESTUDO-10-HISTORICAS-20261013-Q24"
+      ],
+      "observacao": "Adaptações históricas solicitadas; referências preservadas conforme levantamento apresentado na conversa."
+    },
+    {
+      "id": "ESTUDO-10-REPAIR1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — RSTP, VID e SMI/MIB",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 6,
+      "acertos": 5,
+      "erros": 1,
+      "percentual": 83.3,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-10-REPAIR1-20261013-Q01",
+          "questionNumber": 1,
+          "topico": "RSTP aprende MAC sem encaminhar",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-10-REPAIR1-20261013-Q01",
+        "ESTUDO-10-REPAIR1-20261013-Q02",
+        "ESTUDO-10-REPAIR1-20261013-Q03",
+        "ESTUDO-10-REPAIR1-20261013-Q04",
+        "ESTUDO-10-REPAIR1-20261013-Q05",
+        "ESTUDO-10-REPAIR1-20261013-Q06"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "ESTUDO-10-RSTP-REPAIR2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço final — estados RSTP",
+      "unitId": "10.3",
+      "unitIds": [
+        "10.3"
+      ],
+      "editalItem": "10",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa de estudo de 13/10/2026; sequência final confirmada pelo usuário",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-10-RSTP-REPAIR2-20261013-Q01",
+        "ESTUDO-10-RSTP-REPAIR2-20261013-Q02"
+      ],
+      "observacao": "Treino guiado, não medida independente de domínio."
     }
   ],
   "updatedAt": "2026-10-13"
