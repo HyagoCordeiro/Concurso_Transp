@@ -3131,7 +3131,583 @@
         "B",
         "C"
       ]
+    },
+    {
+      "id": "ESTUDO-8-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.1 — Órbitas e transmissão via satélite",
+      "unitId": "8.1",
+      "unitIds": [
+        "8.1"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-1-20261013-Q01",
+        "ESTUDO-8-1-20261013-Q02",
+        "ESTUDO-8-1-20261013-Q03",
+        "ESTUDO-8-1-20261013-Q04",
+        "ESTUDO-8-1-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.2 — Bandas e características de transmissão",
+      "unitId": "8.2",
+      "unitIds": [
+        "8.2"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "B",
+        "B",
+        "E",
+        "D"
+      ],
+      "gabarito": [
+        "A",
+        "C",
+        "B",
+        "E",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-2-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Diâmetro × frequência com ganho constante",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-2-20261013-Q01",
+        "ESTUDO-8-2-20261013-Q02",
+        "ESTUDO-8-2-20261013-Q03",
+        "ESTUDO-8-2-20261013-Q04",
+        "ESTUDO-8-2-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-2-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — diâmetro e frequência",
+      "unitId": "8.2",
+      "unitIds": [
+        "8.2"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-2-REPAIR-20261013-Q01",
+        "ESTUDO-8-2-REPAIR-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-3-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "8.3 — Serviços, degradação e C/N",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B",
+        "B",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-3-20261013-Q03",
+          "questionNumber": 3,
+          "topico": "Banda,C/N e C/N0",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-3-20261013-Q01",
+        "ESTUDO-8-3-20261013-Q02",
+        "ESTUDO-8-3-20261013-Q03",
+        "ESTUDO-8-3-20261013-Q04",
+        "ESTUDO-8-3-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-3-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — C/N versus C/N0",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-3-REPAIR-20261013-Q01",
+        "ESTUDO-8-3-REPAIR-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item8 — nove originais Transpetro",
+      "unitId": "8.1",
+      "unitIds": [
+        "8.1",
+        "8.2",
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 9,
+      "acertos": 8,
+      "erros": 1,
+      "percentual": 88.9,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "E",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-HISTORICAS-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Topologia VSAT",
+          "respostaEscolhida": "E",
+          "gabarito": "C",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-HISTORICAS-20261013-Q01",
+        "ESTUDO-8-HISTORICAS-20261013-Q02",
+        "ESTUDO-8-HISTORICAS-20261013-Q03",
+        "ESTUDO-8-HISTORICAS-20261013-Q04",
+        "ESTUDO-8-HISTORICAS-20261013-Q05",
+        "ESTUDO-8-HISTORICAS-20261013-Q06",
+        "ESTUDO-8-HISTORICAS-20261013-Q07",
+        "ESTUDO-8-HISTORICAS-20261013-Q08",
+        "ESTUDO-8-HISTORICAS-20261013-Q09"
+      ],
+      "observacao": "7 questões específicas de satélites +2 complementares:2018Q56(item7) eQ58(item13). Transpetro2012 sem questão especificamente satelital. Reaplicação histórica solicitada."
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "VSAT — primeiro reforço",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "A"
+      ],
+      "gabarito": [
+        "B",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-8-VSAT-REPAIR1-20261013-Q02",
+          "questionNumber": 2,
+          "topico": "Terminal-terminal sem hub:malha",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-8-VSAT-REPAIR1-20261013-Q01",
+        "ESTUDO-8-VSAT-REPAIR1-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-8-VSAT-REPAIR2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "VSAT — distinção anel/malha",
+      "unitId": "8.3",
+      "unitIds": [
+        "8.3"
+      ],
+      "editalItem": "8",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-8-VSAT-REPAIR2-20261013-Q01",
+        "ESTUDO-8-VSAT-REPAIR2-20261013-Q02"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-1-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "9.1 — Fundamentos e evolução até5G",
+      "unitId": "9.1",
+      "unitIds": [
+        "9.1"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "E",
+        "D",
+        "A",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "D",
+        "A",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-1-20261013-Q01",
+        "ESTUDO-9-1-20261013-Q02",
+        "ESTUDO-9-1-20261013-Q03",
+        "ESTUDO-9-1-20261013-Q04",
+        "ESTUDO-9-1-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-2-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "9.2 — Células,acesso,tecnologias e canal móvel",
+      "unitId": "9.2",
+      "unitIds": [
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-2-20261013-Q01",
+        "ESTUDO-9-2-20261013-Q02",
+        "ESTUDO-9-2-20261013-Q03",
+        "ESTUDO-9-2-20261013-Q04",
+        "ESTUDO-9-2-20261013-Q05"
+      ]
+    },
+    {
+      "id": "ESTUDO-9-HISTORICAS-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item9 — doze adaptações históricas",
+      "unitId": "9.1",
+      "unitIds": [
+        "9.1",
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 12,
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "B",
+        "D",
+        "E"
+      ],
+      "gabarito": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D",
+        "E",
+        "A",
+        "C",
+        "D",
+        "B",
+        "D",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [
+        {
+          "questionId": "ESTUDO-9-HISTORICAS-20261013-Q07",
+          "questionNumber": 7,
+          "topico": "WiMAX MAC eQoS",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "errorType": "CONCEITO",
+          "confidence": null,
+          "responseTimeSec": null
+        }
+      ],
+      "questionIds": [
+        "ESTUDO-9-HISTORICAS-20261013-Q01",
+        "ESTUDO-9-HISTORICAS-20261013-Q02",
+        "ESTUDO-9-HISTORICAS-20261013-Q03",
+        "ESTUDO-9-HISTORICAS-20261013-Q04",
+        "ESTUDO-9-HISTORICAS-20261013-Q05",
+        "ESTUDO-9-HISTORICAS-20261013-Q06",
+        "ESTUDO-9-HISTORICAS-20261013-Q07",
+        "ESTUDO-9-HISTORICAS-20261013-Q08",
+        "ESTUDO-9-HISTORICAS-20261013-Q09",
+        "ESTUDO-9-HISTORICAS-20261013-Q10",
+        "ESTUDO-9-HISTORICAS-20261013-Q11",
+        "ESTUDO-9-HISTORICAS-20261013-Q12"
+      ],
+      "observacao": "Conteúdo central celular e complementos históricos deWiMAX,espectro e canal. Não tratar todas as12como questões exclusivamente do item9; não incluiOSI/CRC802.16 deoutrositens. Retesteadaptado explicitamente solicitado."
+    },
+    {
+      "id": "ESTUDO-9-MAC-REPAIR-20261013",
+      "data": "2026-10-13",
+      "studyDateLocal": "2026-10-13",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço — WiMAX MAC/QoS",
+      "unitId": "9.2",
+      "unitIds": [
+        "9.2"
+      ],
+      "editalItem": "9",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+      "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL",
+      "origem": "conversa integral de estudo em 13/10/2026",
+      "itensErrados": [],
+      "questionIds": [
+        "ESTUDO-9-MAC-REPAIR-20261013-Q01",
+        "ESTUDO-9-MAC-REPAIR-20261013-Q02"
+      ]
     }
   ],
-  "updatedAt": "2026-10-12"
+  "updatedAt": "2026-10-13"
 }
