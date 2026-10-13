@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-10-12",
+  "timezone": "America/Sao_Paulo",
+  "cutoff": "2026-10-12T21:59:32-03:00",
+  "recordType": "FECHAMENTO_TREINO_TEXTUAL",
+  "evidenceCompleteness": "CURRENT_CONVERSATION_COMPLETE_EARLIER_SESSIONS_PARTIAL_RECOVERY",
+  "blocks": [
+    {
+      "id": "ESTUDO-5-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "5.1 — Centrais, comutação, tráfego, Erlang B/C",
+      "unitId": "5.1",
+      "unitIds": [
+        "5.1"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "C",
+        "A",
+        "B",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Placar 3/5 recuperado; erros relatados em canais E1 e expansão do somatório Erlang B. Gabarito individual não certificado: recuperações divergem entre D,C,A,E,B e D,C,B,E,B; o segundo não reproduz o placar. Preservar o placar histórico sem inventar o gabarito."
+    },
+    {
+      "id": "ESTUDO-5-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "5.2 — Voz/vídeo, multiplexação e sinalização",
+      "unitId": "5.2",
+      "unitIds": [
+        "5.2"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito D,E,A,B,C; erro G.711/H.264.",
+      "gabarito": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "ESTUDO-5-2-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reforço G.711/H.264",
+      "unitId": "5.2",
+      "unitIds": [
+        "5.2"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-5-HISTORICAS-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 5 — 15 históricas adaptadas",
+      "unitId": "5.1",
+      "unitIds": [
+        "5.1",
+        "5.2",
+        "5.3"
+      ],
+      "editalItem": "5",
+      "totalQuestoes": 15,
+      "acertos": 13,
+      "erros": 2,
+      "percentual": 86.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "C",
+        "B",
+        "E",
+        "A",
+        "C",
+        "B",
+        "D",
+        "B",
+        "E",
+        "B",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erros Q9 (B; correta A) e Q11 (B; correta C/UDP). Q13 H.323 correta B: Q.931, H.245, RTCP. Fontes/números originais/enunciados completos não recuperados."
+    },
+    {
+      "id": "ESTUDO-6-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.1 — Fundamentos e parâmetros de antenas",
+      "unitId": "6.1",
+      "unitIds": [
+        "6.1"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "",
+      "gabarito": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.2 — Dipolos, plano de terra e monopolos",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "A",
+        "D",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito C,A,E,D,B. Erros Q3 e Q5.",
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-3-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "6.3 — Conjuntos e tipos de antenas",
+      "unitId": "6.3",
+      "unitIds": [
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "B",
+        "E",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Gabarito D,B,E,A,C. Erros Q1 e Q4.",
+      "gabarito": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "ESTUDO-6-REPAIR-PARCIAL-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Item 6 — respostas adicionais C,E,D",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2",
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 3,
+      "acertos": null,
+      "erros": null,
+      "percentual": null,
+      "status": "ANSWERED_SCORE_NOT_RECOVERED",
+      "respostas": [
+        "C",
+        "E",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Sequência visível no histórico do projeto. A correção recuperada menciona 4/4 C,E,B,A em horário anterior aos blocos 6; atribuição inconsistente. Não inferir nota deste bloco nem reatribuir as 4 respostas."
+    },
+    {
+      "id": "ESTUDO-6-HISTORICAS-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "Item 6 — 7 históricas adaptadas",
+      "unitId": "6.1",
+      "unitIds": [
+        "6.1",
+        "6.2",
+        "6.3"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 7,
+      "acertos": 6,
+      "erros": 1,
+      "percentual": 85.7,
+      "status": "COMPLETED",
+      "respostas": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "E",
+        "D",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro apenas na Q5 sobre LC. Enunciados/valores alterados não recuperados integralmente."
+    },
+    {
+      "id": "ESTUDO-6-LC-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "LC — dois reforços",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "A",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-6-LC-ADICIONAL-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "LC — cálculo adicional",
+      "unitId": "6.2",
+      "unitIds": [
+        "6.2"
+      ],
+      "editalItem": "6",
+      "totalQuestoes": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Resposta B correta; resultado 250 MHz recuperado. Valores L/C do enunciado não recuperados."
+    },
+    {
+      "id": "ESTUDO-7-1-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "7.1 — Propagação, Fresnel, radiovisibilidade e perdas",
+      "unitId": "7.1",
+      "unitIds": [
+        "7.1"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E",
+        "A",
+        "D",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-7-2-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "TREINO_TEXTUAL_GUIADO",
+      "titulo": "7.2 — Equação e dimensionamento de enlace",
+      "unitId": "7.2",
+      "unitIds": [
+        "7.2"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Erro inicial em Eb/N0. Reforço 2/2 separado; 6/7 é soma deste bloco e do reforço, não outro bloco."
+    },
+    {
+      "id": "ESTUDO-7-2-REPAIR-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Eb/N0 — reforço",
+      "unitId": "7.2",
+      "unitIds": [
+        "7.2"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": ""
+    },
+    {
+      "id": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+      "data": "2026-10-12",
+      "studyDateLocal": "2026-10-12",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "RETEST",
+      "titulo": "11 originais Transpetro 2012/2018/2023",
+      "unitId": "7.1",
+      "unitIds": [
+        "7.1",
+        "7.2",
+        "4.2",
+        "8.2",
+        "8.3"
+      ],
+      "editalItem": "7",
+      "totalQuestoes": 11,
+      "acertos": 11,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "respostas": [
+        "E",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "E",
+        "C",
+        "D",
+        "B",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+      "origem": "conversa atual e recuperação contextual de sessões de 12/10/2026",
+      "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+      "observacao": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito.",
+      "gabarito": [
+        "E",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "E",
+        "C",
+        "D",
+        "B",
+        "C"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "year": 2012,
+      "number": 56,
+      "sourcePdf": "05-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2012.pdf",
+      "sourcePage": 18,
+      "originalExtractedText": "56\nSobre a eficiência espectral (expressa em termos de bps/Hz) da camada física de um sistema de transmissão, considere \nas afirmações a seguir.\nI  -  Essa eficiência aumenta com o aumento da quantidade de pontos da constelação da modulação digital.\nII  -  Essa eficiência aumenta com o aumento do fator de roll-off do ﬁ ltro cosseno levantado.\nIII  -  Essa eficiência aumenta com o aumento da taxa do código corretor de erro.\nÉ correto APENAS o que se afirma em\n(A) I\n(B) II\n(C) III\n(D) I e II\n(E) I e III",
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q56",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q56",
+      "sessionNumber": 1,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "4.2"
+      ],
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "I e III verdadeiras; aumento de roll-off aumenta banda e reduz eficiência.",
+      "sourceLibraryFileId": "libfile_2ff4441a078c81918682855968f386a1"
+    },
+    {
+      "year": 2012,
+      "number": 57,
+      "sourcePdf": "05-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2012.pdf",
+      "sourcePage": 18,
+      "originalExtractedText": "57\nCom relação aos mecanismos básicos de propagação das comunicações em canais sem fio (wireless), sabe-se que a\n(A) difração é o mecanismo mais importante em sistemas de comunicações em visada direta (modelo de dois raios).\n(B) difração permite que sinais de rádio se propaguem ao redor da superfície curva da terra (comunicações além do \nhorizonte) e por trás de obstruções.\n(C) reflexão é fundamental para a realização de transmissão ionosférica na banda de HF. \n(D) dispersão ionosférica é o principal mecanismo de propagação na faixa VLF.\n(E) dispersão ocorre quando uma onda de radiofrequência se choca com uma superfície lisa.",
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q57",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q57",
+      "sessionNumber": 2,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.1"
+      ],
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Difração contorna obstáculos e permite propagação além do horizonte.",
+      "sourceLibraryFileId": "libfile_2ff4441a078c81918682855968f386a1"
+    },
+    {
+      "year": 2012,
+      "number": 58,
+      "sourcePdf": "05-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2012.pdf",
+      "sourcePage": 18,
+      "originalExtractedText": "58\nSeja h(t)=a(t)δ(t)+b(t)δ(t+λ) a resposta ao impulso de um canal de comunicação sem fio. \nSabendo-se que λ > T, em que T é a duração do símbolo do sistema de transmissão, então esse canal é caracterizado \npelo efeito de desvanecimento\n(A) plano\n(B) seletivo em frequência\n(C) variante no tempo e seletivo em frequência\n(D) de Rice\n(E) de Rayleigh",
+      "id": "CESGRANRIO-TRANSPETRO-2012-Q58",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q58",
+      "sessionNumber": 3,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.2"
+      ],
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Resposta C confirmada no gabarito definitivo de 2012. Interpretação da banca: variante no tempo e seletivo em frequência.",
+      "sourceLibraryFileId": "libfile_2ff4441a078c81918682855968f386a1"
+    },
+    {
+      "year": 2018,
+      "number": 52,
+      "sourcePdf": "04-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2018.pdf",
+      "sourcePage": 11,
+      "originalExtractedText": "52\nEm uma comunicação via satélite utilizando a banda Ku, \nalém da perda por propagação no espaço livre, o sinal \ntransmitido sofre atenuação significativa devido aos se-\nguintes fatores:\n(A) absorção pelo vapor d’água não condensado e chuva\n(B) cintilação troposférica e chuva\n(C) absorção pelo vapor d’água não condensado e rota-\nção de Faraday da polarização linear\n(D) cintilação ionosférica e chuva\n(E) cintilação ionosférica e cintilação troposférica",
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q52",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q52",
+      "sessionNumber": 4,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "8.2",
+        "8.3"
+      ],
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Chuva e cintilação troposférica.",
+      "sourceLibraryFileId": "libfile_80631d76be54819188e29f8b10e0dd71"
+    },
+    {
+      "year": 2018,
+      "number": 54,
+      "sourcePdf": "04-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2018.pdf",
+      "sourcePage": 12,
+      "originalExtractedText": "54\nPara o cálculo do enlace de descida (downlink) de um satélite transmitindo na banda Ku, com uma largura de faixa do \nsinal de 10 MHz, utiliza-se o mapa (footprint) de EIRP (em dBW), mostrado na Figura abaixo, no qual está assinalada a \nlocalidade da estação terrena. \nAlém disso, foram obtidos os seguintes dados: perda de propagação no espaço livre = 207 dB; perdas atmosféricas = 6,5 dB; \nFigura de Mérito da estação terrena (G/T) = 19,4 dB/K; e constante de Boltzmann = −228,6 dBW/Hz/K. \nA razão entre a potência do sinal e a potência do ruído, na estação terrena para esse enlace, em dB, é igual a: \n(A) 16,5\n(B) 17,3\n(C) 17,9\n(D) 18,5\n(E) 19,3",
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q54",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q54",
+      "sessionNumber": 5,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.2",
+        "8.3"
+      ],
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "EIRP lida no mapa:52dBW; C/N=52−207−6,5+19,4+228,6−70=16,5dB.",
+      "sourceLibraryFileId": "libfile_80631d76be54819188e29f8b10e0dd71",
+      "figure": "qti/assets/2026-10-12/Q54_Transpetro_2018_mapa.svg"
+    },
+    {
+      "year": 2018,
+      "number": 55,
+      "sourcePdf": "04-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2018.pdf",
+      "sourcePage": 12,
+      "originalExtractedText": "55\nUm enlace em rádio deve ser projetado entre 2 pontos que distam 8 Km entre si, com frequência de transmissão de \n1,5 GHz e utilizando antenas de 70 metros de altura em relação ao nível da rua. Na região entre as antenas, será constru-\nído um prédio equidistante das antenas, conforme mostrado na Figura abaixo.\n8 km\nh\n70 m\nConsiderando aplicável ao problema a teoria de zonas de Fresnel, a máxima altura h desse prédio, em metros, para que \nse possam considerar desprezíveis os efeitos da obstrução à propagação do sinal, é\n(A) 70\n(B) 65\n(C) 60\n(D) 58\n(E) 50",
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q55",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q55",
+      "sessionNumber": 6,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.1"
+      ],
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "λ=0,2m; R1=√(λ d1 d2/(d1+d2))=20m; liberação0,6R1=12m; h=70−12=58m.",
+      "sourceLibraryFileId": "libfile_80631d76be54819188e29f8b10e0dd71"
+    },
+    {
+      "year": 2018,
+      "number": 56,
+      "sourcePdf": "04-Co-pia-de-Prova-Engenharia-Telecomunicac-o-es-2018.pdf",
+      "sourcePage": 13,
+      "originalExtractedText": "56\nO fenômeno de desvanecimento em um sistema de trans-\nmissão via rádio apresenta, como efeito imediato, o(a)\n(A) aumento da potência de ruído no receptor\n(B) aumento do raio da primeira zona de Fresnel\n(C) redução da taxa de transmissão do sinal digital\n(D) redução do ganho da antena de recepção\n(E) variação aleatória de parâmetros (fase, polarização e/\nou intensidade) do sinal no receptor",
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q56",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q56",
+      "sessionNumber": 7,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.2"
+      ],
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Banda Ku/propagação: desvanecimento varia fase, polarização e intensidade.",
+      "sourceLibraryFileId": "libfile_80631d76be54819188e29f8b10e0dd71"
+    },
+    {
+      "year": 2023,
+      "number": 29,
+      "sourcePdf": "03-Engenharia-de-Telecomunicac-o-es.pdf",
+      "sourcePage": 7,
+      "originalExtractedText": "29\nUm radiofarol de navegação marítima, via ondas rádio \nna faixa de LF, foi instalado na costa brasileira para guiar \nnavios. O farol encontra-se em uma cota de 12 metros \nde elevação, bem próximo da costa, e transmite um si\nnal com polarização vertical. Considere que as antenas \nde navegação dos navios possuem uma altura média de \n5 metros. \nSabendo-se que a permissividade relativa do ar é 1, e a \nda água é 81, qual é o valor, em m, mais aproximado da \ndistância que um navio deve estar do farol, para que a \nonda rádio refletida no mar não interfira com a onda di\nreta?\n(A) 45 \n(B) 63 \n(C) 153 \n(D) 612 \n(E) 1.377",
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q29",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q29",
+      "sessionNumber": 8,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.1"
+      ],
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Brewster com polarização vertical: d=(12+5)√(81/1)=153m.",
+      "sourceLibraryFileId": "libfile_b9a7b14b2b5881918a711817c2a20e96"
+    },
+    {
+      "year": 2023,
+      "number": 30,
+      "sourcePdf": "03-Engenharia-de-Telecomunicac-o-es.pdf",
+      "sourcePage": 8,
+      "originalExtractedText": "30\nPara um enlace rádio ser considerado sobre Terra Plana, \na distância para o Horizonte Rádio deve ser calculada. É \nnecessária a instalação de uma antena no alto de uma \ntorre de 2,9 metros, que será instalada em uma elevação \nde 19,6 metros, sem nenhum obstáculo ao redor que blo-\nqueie o Horizonte Rádio. \nConsiderando-se que o raio equivalente da Terra no local \nescolhido é de 8.450 km, qual é o valor, em km, que mais \nse aproxima da distância para o Horizonte Rádio dessa \nantena?\n(A) 4,1 \n(B) 7,0 \n(C) 18,2\n(D) 19,5 \n(E) 31,0",
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q30",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q30",
+      "sessionNumber": 9,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.1"
+      ],
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "h=2,9+19,6=22,5m=0,0225km; d=√(2×8450×0,0225)=19,5km.",
+      "sourceLibraryFileId": "libfile_b9a7b14b2b5881918a711817c2a20e96"
+    },
+    {
+      "year": 2023,
+      "number": 47,
+      "sourcePdf": "03-Engenharia-de-Telecomunicac-o-es.pdf",
+      "sourcePage": 11,
+      "originalExtractedText": "47\nEm uma transmissão digital, é possível empregar apenas modulação M QAM, M ∈ {16, 64, 256, 512, 1024}, que apresenta \ndesempenho em termos de TEB (taxa de erro de bit) versus razão Eb / N0 (Eb – energia por bit; N0 – amplitude da densi\ndade espectral de potência do ruído), mostrado na Figura abaixo. \nEm uma implementação inicial do sistema, a modulação utilizada é a 16 QAM, e a razão Eb / N0  conseguida no enlace \né de 13,2 dB. Em uma segunda fase do projeto, deseja-se dobrar a eficiência espectral da transmissão pelo uso de uma \noutra modulação, mantendo-se a mesma TEB.\nQual deve ser, aproximadamente, o valor da razão Eb / N0, em dB, para atender a essa condição?\n(A)\t17,7\n(B)\t22,4\n(C)\t25,1\n(D)\t27,5\n(E)\t28,5",
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q47",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q47",
+      "sessionNumber": 10,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "4.2",
+        "7.2"
+      ],
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "16QAM=4bits/símbolo; dobrar→8bits/símbolo→256QAM; mesma TEB→22,4dB pelo gráfico.",
+      "sourceLibraryFileId": "libfile_b9a7b14b2b5881918a711817c2a20e96",
+      "figure": "qti/assets/2026-10-11/Q47_Transpetro_2023_grafico.png"
+    },
+    {
+      "year": 2023,
+      "number": 53,
+      "sourcePdf": "03-Engenharia-de-Telecomunicac-o-es.pdf",
+      "sourcePage": 12,
+      "originalExtractedText": "53\nEm um enlace de descida de um sistema de comunicação \nvia satélite, na localidade da estação terrena, tem-se que: \nEIRP = 50 dBW; fator (G/T) = 5 dB/K e perda por propaga\nção no espaço livre Lel  = 204 dB. \nConsiderando-se que a banda alocada para transmissão é \n10 MHz, e desprezando-se as demais perdas de potência, \no valor da razão portadora-ruído no receptor, em dB, é:\n(A) 5,4\n(B) 7,6\n(C) 9,6\n(D) 11,4\n(E) 13,6\nDado\nConstante de Boltzmann = - 228,6 dB W / K / Hz",
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q53",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
+      "sessionNumber": 11,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "unitIds": [
+        "7.2",
+        "8.3"
+      ],
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "C/N=50+5−204+228,6−70=9,6dB.",
+      "sourceLibraryFileId": "libfile_b9a7b14b2b5881918a711817c2a20e96"
+    }
+  ],
+  "questionCount": {
+    "minimumAnsweredRecovered": 78,
+    "includingRepeatedExposures": true,
+    "unknownScoreAnswered": 3,
+    "notAnExactDayTotal": true,
+    "note": "Contagem mínima das sequências recuperadas; eventuais reforços com atribuição conflituosa não somados."
+  },
+  "time": {
+    "status": "NOT_MEASURED",
+    "liquidSeconds": null,
+    "note": "Não estimar horas líquidas sem intervalos confiáveis e pausas. Horários de mensagens não são cronômetro."
+  },
+  "assignedOrUncertain": [
+    {
+      "title": "Bloco inicial 5.3 +5",
+      "status": "ASSIGNED_ANSWERS_NOT_RECOVERED",
+      "numberPresented": 5,
+      "note": "SIP/H.323 foi respondido no bloco histórico de15; as respostas às5 questões iniciais não foram recuperadas."
+    },
+    {
+      "title": "Reforços após 15 históricas do item5",
+      "status": "CONFLICTING_RETRIEVAL_NOT_COUNTED",
+      "reportedScore": "4/4; sequência17/19",
+      "note": "Recuperação atribuiu respostas C,E,B,A a um reforço antes de6.1, mas também associou C,E,D; não há identidade suficiente para contagem."
+    },
+    {
+      "title": "Levantamento histórico item7 ampliado",
+      "reportedPresented": 40,
+      "status": "PRESENTED_NO_FURTHER_ANSWERS_CONFIRMED",
+      "sources": [
+        "Transpetro2012",
+        "Transpetro2018",
+        "Transpetro2023",
+        "Petrobras2012",
+        "Petrobras2011",
+        "Petrobras2010",
+        "Petrobras2006"
+      ],
+      "note": "Quantidade40 recuperada de saída anterior; não auditada aqui como inventário exaustivo.11originais Transpetro foram efetivamente respondidas nesta conversa; demais adaptações sem correção confirmada."
+    }
+  ],
+  "formulasAndClarifications": [
+    "Tráfego A=λ×tempo médio, usando unidades compatíveis.",
+    "E1 em telefonia convencional:30canais de voz por tributário.",
+    "Erlang B: expansão correta do somatório; Erlang C permite espera.",
+    "f0=1/(2π√LC); atenção às conversões nH/pF.",
+    "Primeira Fresnel R1=√(λd1d2/(d1+d2)); usual liberação60%.",
+    "Horizonte rádio d=√(2R_eq h), unidades compatíveis.",
+    "C/N=EIRP−L_total+G/T+228,6−10log10(BHz).",
+    "10MHz→10^7Hz→70dB.",
+    "Eficiência QAM:log2(M); dobrar bits/símbolo leva a Mnovo=M², mantendo demais parâmetros.",
+    "2012Q56 e2023Q47 são eficiência/modulação; satélite tem sobreposição com item8."
+  ],
+  "decisions": [
+    "Preservar cinco alternativas e valores originais no bloco noturno.",
+    "Quando alterar valores nas adaptações, manter figuras coerentes; não trocar parâmetros normativos.",
+    "Treino guiado/reaplicação solicitada: não interpretar100% como fechamento integral do edital.",
+    "Não inventar notas, enunciados alterados nem tempo dos blocos não recuperados."
+  ],
+  "lastStudyPoint": "Item7: bloco noturno11originais concluído11/11; erros imediatos inexistentes.",
+  "nextAction": "Retomar pendências do levantamento histórico do item7 e revisar pontos dos itens5/6; avançar ao8 quando a cobertura restante estiver conferida.",
+  "basics": {
+    "Portuguese": "Nenhum resultado novo de12/10 recuperado.",
+    "English": "Nenhum resultado novo de12/10 recuperado."
+  },
+  "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL"
+}
