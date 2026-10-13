@@ -116,7 +116,7 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 **Retomada combinada:12/10/2026 — item 5, Telefonia e Videoconferência, iniciando pelo5.1.**
 
 
-## Último fechamento — 12/10/2026 (America/Sao_Paulo)
+## Fechamento anterior — 12/10/2026 (America/Sao_Paulo)
 
 [Registro do dia](qti/RESULTADOS_DIA_2026-10-12.md) · [Dados estruturados](qti/RESULTADOS_DIA_2026-10-12.json).
 
@@ -126,3 +126,15 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 - Mínimo **78 respostas recuperadas**, incluindo reaplicações. Tempo líquido desconhecido. Sem novos resultados PT/ING confirmados nesta data.
 - Ponto atual: item 7 após o bloco noturno. Conferir pendências do levantamento histórico ampliado antes de avançar ao 8. Revisões D7 em 19/10 e D21 em 02/11.
 - Registro parcial das sessões anteriores: preservar notas agregadas quando faltarem enunciados/correções individuais; não confundir treino guiado/reaplicações com diagnóstico longitudinal.
+
+
+## Último fechamento parcial — 13/10/2026, até 16:26 (America/Sao_Paulo)
+
+[Resumo da evolução](qti/RESULTADOS_DIA_2026-10-13.md) · [Respostas e correções estruturadas](qti/RESULTADOS_DIA_2026-10-13.json).
+
+- **Item 8:** 8.1=5/5; 8.2=4/5 + reforço2/2; 8.3=4/5 + reforço2/2; histórico8/9; VSAT reforços1/2 e2/2. **28/32** ao todo.
+- **Item 9:** 9.1=5/5; 9.2=5/5; histórico adaptado11/12; MAC/QoS reforço2/2. **23/24** ao todo.
+- **Total:**51/56 (91,1%), incluindo retestes e reforços. Tempo líquido desconhecido; não é simulado independente.
+- Erros recuperados: diâmetro/frequência, C/N versus C/N0, topologias VSAT e MAC/QoS WiMAX. Preservado o erro intermediário anel/malha antes da recuperação final.
+- Ciclos dos itens8e9 concluídos nas3provas fornecidas; mantidos EM_REVISAO para retenção. D3:16/10; D7:20/10; D21:03/11.
+- **Próximo ponto:10.1 — Wi-Fi IEEE802.11 a/b/g/n/ac/ax eQoS802.11e.** Nenhumaquestão doitem10respondida neste fechamento.
