@@ -42,7 +42,7 @@ Trabalhado: diretividade; ganho; polarização; dipolo; monopolo; log-periódica
 ## 7. Radiopropagação
 Já apareceu em revisões: espaço livre; Fresnel; equação de enlace; difração.
 
-**Estado:** PARCIAL — NECESSITA SESSÃO ESTRUTURADA
+**Estado:** ESTUDADO EM SESSÃO ESTRUTURADA / EM REVISÃO — conferir cobertura histórica restante
 
 ## 8. Satélites
 Trabalhado parcialmente: C/N0; noções de enlace; contexto prático de VSAT.
@@ -280,3 +280,15 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Contagem:**95 exposições respondidas recuperadas, incluindo reaplicações e reparos. Não são95 questõesinéditas nemsimulado longitudinal limpo.
 - **Método:** uma questão porvez, texto, cincoalternativas; preservar histórico real e alterar valores quando solicitado, mantendo parâmetros normativos.
 - **Próximo passo:** amanhã,12/10, iniciar item 5 pelo subitem 5.1; revisão espaçadaD7/D21, comretomadaD3 para tempo/índice eZ.
+
+
+## Fechamento — 12/10/2026 (America/Sao_Paulo)
+
+[Registro do dia](qti/RESULTADOS_DIA_2026-10-12.md) · [Dados estruturados](qti/RESULTADOS_DIA_2026-10-12.json).
+
+- Telefonia: 5.1 = 3/5; 5.2 = 4/5 + reforço 2/2; histórico do item 5 = 13/15. SIP/H.323 praticados no histórico; respostas do bloco inicial 5.3 não recuperadas.
+- Antenas: 6.1 = 5/5; 6.2 = 3/5; 6.3 = 3/5; histórico = 6/7; LC reforço 2/2 e adicional correto (250 MHz). Sequência adicional C,E,D preservada sem inventar nota.
+- Radiopropagação: 7.1 = 5/5; 7.2 = 4/5 + reforço 2/2; bloco noturno de 11 originais = **11/11 (100%)**.
+- Mínimo **78 respostas recuperadas**, incluindo reaplicações. Tempo líquido desconhecido. Sem novos resultados PT/ING confirmados nesta data.
+- Ponto atual: item 7 após o bloco noturno. Conferir pendências do levantamento histórico ampliado antes de avançar ao 8. Revisões D7 em 19/10 e D21 em 02/11.
+- Registro parcial das sessões anteriores: preservar notas agregadas quando faltarem enunciados/correções individuais; não confundir treino guiado/reaplicações com diagnóstico longitudinal.
