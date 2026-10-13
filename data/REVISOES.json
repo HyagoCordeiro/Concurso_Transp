@@ -746,7 +746,183 @@
       "prioridade": "alta",
       "status": "PENDENTE",
       "plano": "Reteste curto com novosT e t; preservar distinção entre cálculo errado e marcação errada declarada."
+    },
+    {
+      "id": "REV-5.1-D7-20261012",
+      "unitId": "5.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-5.1-D21-20261012",
+      "unitId": "5.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-5.2-D7-20261012",
+      "unitId": "5.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-5.2-D21-20261012",
+      "unitId": "5.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-5.3-D7-20261012",
+      "unitId": "5.3",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-5.3-D21-20261012",
+      "unitId": "5.3",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.1-D7-20261012",
+      "unitId": "6.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.1-D21-20261012",
+      "unitId": "6.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.2-D7-20261012",
+      "unitId": "6.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.2-D21-20261012",
+      "unitId": "6.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.3-D7-20261012",
+      "unitId": "6.3",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-6.3-D21-20261012",
+      "unitId": "6.3",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-7.1-D7-20261012",
+      "unitId": "7.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-7.1-D21-20261012",
+      "unitId": "7.1",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-7.2-D7-20261012",
+      "unitId": "7.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-10-19",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-7.2-D21-20261012",
+      "unitId": "7.2",
+      "origemResultado": "FECHAMENTO-20261012",
+      "agendadaPara": "2026-11-02",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-12",
+      "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
+      "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
     }
   ],
-  "updatedAt": "2026-10-11"
+  "updatedAt": "2026-10-12"
 }
