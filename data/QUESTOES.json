@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "prioridadeFontes": [
     "CESGRANRIO — Transpetro Telecom",
     "CESGRANRIO — Petrobras Telecom",
@@ -449,12 +449,26 @@
       "editalItem": "7",
       "topic": "Difração",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
-      "cooldownDays": 3,
-      "nextEligibleAt": "2026-10-05",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
-      "note": "Questão correta: não repetir antes de nextEligibleAt."
+      "note": "Questão correta: não repetir antes de nextEligibleAt.",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "B",
+          "correctAnswer": "B",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "57\nCom relação aos mecanismos básicos de propagação das comunicações em canais sem fio (wireless), sabe-se que a\n(A) difração é o mecanismo mais importante em sistemas de comunicações em visada direta (modelo de dois raios).\n(B) difração permite que sinais de rádio se propaguem ao redor da superfície curva da terra (comunicações além do \nhorizonte) e por trás de obstruções.\n(C) reflexão é fundamental para a realização de transmissão ionosférica na banda de HF. \n(D) dispersão ionosférica é o principal mecanismo de propagação na faixa VLF.\n(E) dispersão ocorre quando uma onda de radiofrequência se choca com uma superfície lisa.",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
     },
     {
       "id": "QTI30-20261002-Q16",
@@ -561,10 +575,10 @@
       "editalItem": "4",
       "topic": "Eficiência espectral",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-11",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
       "note": "Questão correta: não repetir antes de nextEligibleAt.",
       "exposureHistory": [
@@ -588,7 +602,7 @@
       "alsoStudiedUnitIds": [
         "4.2"
       ],
-      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
       "lastVariant": {
         "values": {},
@@ -596,7 +610,20 @@
         "answer": "E",
         "solution": "I eIII; η=rlog2M/(1+α) nas condições de filtragem adotadas"
       },
-      "userAuthorizedStructuralRepetition": true
+      "userAuthorizedStructuralRepetition": true,
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "E",
+          "correctAnswer": "E",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "56\nSobre a eficiência espectral (expressa em termos de bps/Hz) da camada física de um sistema de transmissão, considere \nas afirmações a seguir.\nI  -  Essa eficiência aumenta com o aumento da quantidade de pontos da constelação da modulação digital.\nII  -  Essa eficiência aumenta com o aumento do fator de roll-off do ﬁ ltro cosseno levantado.\nIII  -  Essa eficiência aumenta com o aumento da taxa do código corretor de erro.\nÉ correto APENAS o que se afirma em\n(A) I\n(B) II\n(C) III\n(D) I e II\n(E) I e III"
     },
     {
       "id": "TEC-184",
@@ -720,12 +747,26 @@
       "editalItem": "7",
       "topic": "Primeira zona de Fresnel",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "lastSeenAt": "2026-10-02",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
-      "cooldownDays": 5,
-      "nextEligibleAt": "2026-10-07",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
-      "note": "Questão correta: não repetir antes de nextEligibleAt."
+      "note": "Questão correta: não repetir antes de nextEligibleAt.",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "D",
+          "correctAnswer": "D",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "55\nUm enlace em rádio deve ser projetado entre 2 pontos que distam 8 Km entre si, com frequência de transmissão de \n1,5 GHz e utilizando antenas de 70 metros de altura em relação ao nível da rua. Na região entre as antenas, será constru-\nído um prédio equidistante das antenas, conforme mostrado na Figura abaixo.\n8 km\nh\n70 m\nConsiderando aplicável ao problema a teoria de zonas de Fresnel, a máxima altura h desse prédio, em metros, para que \nse possam considerar desprezíveis os efeitos da obstrução à propagação do sinal, é\n(A) 70\n(B) 65\n(C) 60\n(D) 58\n(E) 50",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
     },
     {
       "id": "QTI30-20261002-Q29",
@@ -2860,7 +2901,25 @@
       "assignedSessionId": "QTI30-20261010-MISTO-13ITENS",
       "assignedStatus": "ASSIGNED_NOT_ANSWERED",
       "assignedMode": "NEW",
-      "eligibleNow": false
+      "eligibleNow": false,
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "B",
+          "correctAnswer": "B",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "lastSeenAt": "2026-10-12",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
+      "originalText": "52\nEm uma comunicação via satélite utilizando a banda Ku, \nalém da perda por propagação no espaço livre, o sinal \ntransmitido sofre atenuação significativa devido aos se-\nguintes fatores:\n(A) absorção pelo vapor d’água não condensado e chuva\n(B) cintilação troposférica e chuva\n(C) absorção pelo vapor d’água não condensado e rota-\nção de Faraday da polarização linear\n(D) cintilação ionosférica e chuva\n(E) cintilação ionosférica e cintilação troposférica",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
     },
     {
       "id": "AUTORAL-QTI30-20261010-09",
@@ -4245,7 +4304,7 @@
       "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q58",
       "unitId": "7.2",
       "topic": "Canal variante e seletivo",
-      "sourceType": "CESGRANRIO_ADAPTADA",
+      "sourceType": "CESGRANRIO_ORIGINAL",
       "source": "CESGRANRIO/Transpetro 2012 — Telecom, Q58",
       "exposureHistory": [
         {
@@ -4266,9 +4325,9 @@
       "alsoStudiedUnitIds": [
         "7.2"
       ],
-      "lastSeenAt": "2026-10-11",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
-      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
       "lastVariant": {
         "values": {
@@ -4280,16 +4339,29 @@
         "solution": "variante no tempo e seletivo em frequência; adicional relacionada"
       },
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
-      "userAuthorizedStructuralRepetition": true
+      "userAuthorizedStructuralRepetition": true,
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "C",
+          "correctAnswer": "C",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "58\nSeja h(t)=a(t)δ(t)+b(t)δ(t+λ) a resposta ao impulso de um canal de comunicação sem fio. \nSabendo-se que λ > T, em que T é a duração do símbolo do sistema de transmissão, então esse canal é caracterizado \npelo efeito de desvanecimento\n(A) plano\n(B) seletivo em frequência\n(C) variante no tempo e seletivo em frequência\n(D) de Rice\n(E) de Rayleigh"
     },
     {
       "id": "CESGRANRIO-TRANSPETRO-2023-Q47",
       "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q47",
       "unitId": "4.2",
       "topic": "QAM/TEB/EbN0",
-      "sourceType": "CESGRANRIO_ADAPTADA",
+      "sourceType": "CESGRANRIO_ORIGINAL",
       "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q47",
       "exposureHistory": [
         {
@@ -4318,9 +4390,9 @@
       "alsoStudiedUnitIds": [
         "4.2"
       ],
-      "lastSeenAt": "2026-10-11",
-      "lastResult": "INCORRETA",
-      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSeenAt": "2026-10-12",
+      "lastResult": "CORRETA",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
       "lastVariant": {
         "values": {
@@ -4340,12 +4412,25 @@
         "solution": "4→8bits;256QAM; interseção na TEB inicial≈19dB. Original13,2dB→22,4dB (B); gráfico mantido, ponto inicialalterado."
       },
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
       "userAuthorizedStructuralRepetition": true,
       "userReportedUnderstanding": true,
       "immediateRepairStoppedAtUserRequest": true,
-      "note": "Treino de bits posterior3/3; última marcação emgráfico incorreta. Usuário declara quejá sabe e pedeparar reforço imediato. Revisão espaçada pode confirmar retenção."
+      "note": "Treino de bits posterior3/3; última marcação emgráfico incorreta. Usuário declara quejá sabe e pedeparar reforço imediato. Revisão espaçada pode confirmar retenção.",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "B",
+          "correctAnswer": "B",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "47\nEm uma transmissão digital, é possível empregar apenas modulação M QAM, M ∈ {16, 64, 256, 512, 1024}, que apresenta \ndesempenho em termos de TEB (taxa de erro de bit) versus razão Eb / N0 (Eb – energia por bit; N0 – amplitude da densi\ndade espectral de potência do ruído), mostrado na Figura abaixo. \nEm uma implementação inicial do sistema, a modulação utilizada é a 16 QAM, e a razão Eb / N0  conseguida no enlace \né de 13,2 dB. Em uma segunda fase do projeto, deseja-se dobrar a eficiência espectral da transmissão pelo uso de uma \noutra modulação, mantendo-se a mesma TEB.\nQual deve ser, aproximadamente, o valor da razão Eb / N0, em dB, para atender a essa condição?\n(A)\t17,7\n(B)\t22,4\n(C)\t25,1\n(D)\t27,5\n(E)\t28,5"
     },
     {
       "id": "CESGRANRIO-TRANSPETRO-2023-Q50",
@@ -4537,7 +4622,7 @@
       "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q54",
       "unitId": "8.3",
       "topic": "SNR/enlace satélite",
-      "sourceType": "CESGRANRIO_ADAPTADA",
+      "sourceType": "CESGRANRIO_ORIGINAL",
       "source": "CESGRANRIO/Transpetro 2018 — Telecom, Q54",
       "exposureHistory": [
         {
@@ -4562,9 +4647,9 @@
       "alsoStudiedUnitIds": [
         "8.3"
       ],
-      "lastSeenAt": "2026-10-11",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
-      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
       "lastVariant": {
         "values": {
@@ -4580,16 +4665,29 @@
         "solution": "10logB=73;C/N11,6dB; EIRP do mapa foi apresentado numericamente"
       },
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
-      "userAuthorizedStructuralRepetition": true
+      "userAuthorizedStructuralRepetition": true,
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "A",
+          "correctAnswer": "A",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "54\nPara o cálculo do enlace de descida (downlink) de um satélite transmitindo na banda Ku, com uma largura de faixa do \nsinal de 10 MHz, utiliza-se o mapa (footprint) de EIRP (em dBW), mostrado na Figura abaixo, no qual está assinalada a \nlocalidade da estação terrena. \nAlém disso, foram obtidos os seguintes dados: perda de propagação no espaço livre = 207 dB; perdas atmosféricas = 6,5 dB; \nFigura de Mérito da estação terrena (G/T) = 19,4 dB/K; e constante de Boltzmann = −228,6 dBW/Hz/K. \nA razão entre a potência do sinal e a potência do ruído, na estação terrena para esse enlace, em dB, é igual a: \n(A) 16,5\n(B) 17,3\n(C) 17,9\n(D) 18,5\n(E) 19,3"
     },
     {
       "id": "CESGRANRIO-TRANSPETRO-2023-Q53",
       "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q53",
       "unitId": "8.3",
       "topic": "C/N/enlace satélite",
-      "sourceType": "CESGRANRIO_ADAPTADA",
+      "sourceType": "CESGRANRIO_ORIGINAL",
       "source": "CESGRANRIO/Transpetro 2023 — Telecom, Q53",
       "exposureHistory": [
         {
@@ -4613,9 +4711,9 @@
       "alsoStudiedUnitIds": [
         "8.3"
       ],
-      "lastSeenAt": "2026-10-11",
+      "lastSeenAt": "2026-10-12",
       "lastResult": "CORRETA",
-      "lastSessionId": "FECHAMENTO-20261011",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
       "lastVariant": {
         "values": {
@@ -4630,9 +4728,100 @@
         "solution": "10logB=67;C/N17,6dB"
       },
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "nextEligibleAt": "2026-10-19",
       "eligibleNow": false,
-      "userAuthorizedStructuralRepetition": true
+      "userAuthorizedStructuralRepetition": true,
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "C",
+          "correctAnswer": "C",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "originalText": "53\nEm um enlace de descida de um sistema de comunicação \nvia satélite, na localidade da estação terrena, tem-se que: \nEIRP = 50 dBW; fator (G/T) = 5 dB/K e perda por propaga\nção no espaço livre Lel  = 204 dB. \nConsiderando-se que a banda alocada para transmissão é \n10 MHz, e desprezando-se as demais perdas de potência, \no valor da razão portadora-ruído no receptor, em dB, é:\n(A) 5,4\n(B) 7,6\n(C) 9,6\n(D) 11,4\n(E) 13,6\nDado\nConstante de Boltzmann = - 228,6 dB W / K / Hz"
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2018-Q56",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2018-Q56",
+      "unitId": "7.2",
+      "editalItem": "7",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "E",
+          "correctAnswer": "E",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "lastSeenAt": "2026-10-12",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
+      "eligibleNow": false,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "originalText": "56\nO fenômeno de desvanecimento em um sistema de trans-\nmissão via rádio apresenta, como efeito imediato, o(a)\n(A) aumento da potência de ruído no receptor\n(B) aumento do raio da primeira zona de Fresnel\n(C) redução da taxa de transmissão do sinal digital\n(D) redução do ganho da antena de recepção\n(E) variação aleatória de parâmetros (fase, polarização e/\nou intensidade) do sinal no receptor",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q29",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q29",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "C",
+          "correctAnswer": "C",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "lastSeenAt": "2026-10-12",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
+      "eligibleNow": false,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "originalText": "29\nUm radiofarol de navegação marítima, via ondas rádio \nna faixa de LF, foi instalado na costa brasileira para guiar \nnavios. O farol encontra-se em uma cota de 12 metros \nde elevação, bem próximo da costa, e transmite um si\nnal com polarização vertical. Considere que as antenas \nde navegação dos navios possuem uma altura média de \n5 metros. \nSabendo-se que a permissividade relativa do ar é 1, e a \nda água é 81, qual é o valor, em m, mais aproximado da \ndistância que um navio deve estar do farol, para que a \nonda rádio refletida no mar não interfira com a onda di\nreta?\n(A) 45 \n(B) 63 \n(C) 153 \n(D) 612 \n(E) 1.377",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
+    },
+    {
+      "id": "CESGRANRIO-TRANSPETRO-2023-Q30",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2023-Q30",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "history": [
+        {
+          "studyDateLocal": "2026-10-12",
+          "sessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "selectedAnswer": "D",
+          "correctAnswer": "D",
+          "result": "CORRETA",
+          "questionForm": "ORIGINAL",
+          "diagnosticValidity": "TREINO_GUIADO_COM_REAPLICACOES_SOLICITADAS_NAO_LONGITUDINAL",
+          "userRequestedReapplication": true
+        }
+      ],
+      "lastSeenAt": "2026-10-12",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-10-19",
+      "eligibleNow": false,
+      "sourceType": "CESGRANRIO_ORIGINAL",
+      "originalText": "30\nPara um enlace rádio ser considerado sobre Terra Plana, \na distância para o Horizonte Rádio deve ser calculada. É \nnecessária a instalação de uma antena no alto de uma \ntorre de 2,9 metros, que será instalada em uma elevação \nde 19,6 metros, sem nenhum obstáculo ao redor que blo-\nqueie o Horizonte Rádio. \nConsiderando-se que o raio equivalente da Terra no local \nescolhido é de 8.450 km, qual é o valor, em km, que mais \nse aproxima da distância para o Horizonte Rádio dessa \nantena?\n(A) 4,1 \n(B) 7,0 \n(C) 18,2\n(D) 19,5 \n(E) 31,0",
+      "lastSessionId": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012"
     }
   ],
   "portuguesePolicy": {
