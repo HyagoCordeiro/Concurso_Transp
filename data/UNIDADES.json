@@ -942,6 +942,16 @@
           "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
           "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "1/1",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q12: Difração; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -958,7 +968,7 @@
           "motivo": "Revisão espaçada após treino12/10."
         }
       ],
-      "ultimaEvidencia": "2026-10-12"
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "7.2",
@@ -1003,6 +1013,26 @@
           "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
           "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "1/1",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q8: Desvanecimento; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q10: Desvanecimento; B→B. Q11: Canal variante,seletivo; D→D.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
         }
       ],
       "revisoes": [
@@ -1019,16 +1049,56 @@
           "motivo": "Revisão espaçada após treino12/10."
         }
       ],
-      "ultimaEvidencia": "2026-10-12"
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "8.1",
       "nome": "Satélites; órbitas; características; vantagens e desvantagens",
       "item": "8",
       "materia": "Sistemas de Transmissão via Satélite",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-1-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Condições de órbita GEO; C→C. Q2: GEO × LEO/Doppler; D→D. Q3: Classificação MEO; B→B. Q4: LEO polar e troca de satélites; A→A. Q5: Atraso Terra-satélite-Terra; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "1/1",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q5: GEO × LEO; D→D.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.1-D7-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.1-D21-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13",
+      "cicloAtual": {
+        "concluidoEm": "2026-10-13",
+        "status": "CONCLUIDO_TREINO_E_CONFRONTO_HISTORICO",
+        "limite": "Ciclo nas três provas fornecidas; retenção posterior pendente."
+      }
     },
     {
       "id": "8.2",
@@ -1046,10 +1116,64 @@
           "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
           "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "4/5",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-2-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Pares uplink/downlink C,Ku,Ka; A→A. Q2: Diâmetro × frequência com ganho constante; B→C. Q3: Perda de espaço livre × frequência; B→B. Q4: Banda L e serviços móveis; E→E. Q5: ACM e atenuação por chuva; D→D.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-2-REPAIR-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Frequência triplicada, mesmo ganho; D→D. Q2: Frequência reduzida à metade, mesmo ganho; A→A.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Ku:chuva/cintilação; B→B. Q6: Vantagem Ka; A→A.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
         }
       ],
-      "revisoes": [],
-      "ultimaEvidencia": "2026-10-12"
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.2-D7-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.2-D21-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-10-16",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.2-ANTENA-D3-20261013",
+          "motivo": "Diâmetro × frequência mantendo ganho"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13",
+      "cicloAtual": {
+        "concluidoEm": "2026-10-13",
+        "status": "CONCLUIDO_TREINO_E_CONFRONTO_HISTORICO",
+        "limite": "Ciclo nas três provas fornecidas; retenção posterior pendente."
+      }
     },
     {
       "id": "8.3",
@@ -1076,28 +1200,204 @@
           "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
           "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "4/5",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-3-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: FSS,MSS,BSS; E→E. Q2: Erro de apontamento; B→B. Q3: Banda,C/N e C/N0; B→D. Q4: C/N do downlink; A→A. Q5: EIRP mínima; C→C.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-3-REPAIR-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Dobrar banda mantendo C e N0; C→C. Q2: Converter C/N0 para C/N; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "5/6",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Ku:chuva/cintilação; B→B. Q2: Topologia VSAT; E→C. Q3: C/N com footprint; A→A. Q4: FDMA/TDMA e MCPC em VSAT; D→D. Q7: C/N do downlink; C→C. Q8: Desvanecimento; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "1/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-VSAT-REPAIR1-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Hub central:estrela; B→B. Q2: Terminal-terminal sem hub:malha; A→D.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-VSAT-REPAIR2-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Dois vizinhos,circuito fechado:anel; E→E. Q2: Direto entre terminais via satélite:malha; C→C.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
         }
       ],
-      "revisoes": [],
-      "ultimaEvidencia": "2026-10-12"
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.3-D7-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.3-D21-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-10-16",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.3-CN-D3-20261013",
+          "motivo": "C/N versus C/N0 e largura de banda"
+        },
+        {
+          "data": "2026-10-16",
+          "status": "PENDENTE",
+          "reviewId": "REV-8.3-VSAT-D3-20261013",
+          "motivo": "Estrela, malha e anel"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13",
+      "cicloAtual": {
+        "concluidoEm": "2026-10-13",
+        "status": "CONCLUIDO_TREINO_E_CONFRONTO_HISTORICO",
+        "limite": "Ciclo nas três provas fornecidas; retenção posterior pendente."
+      }
     },
     {
       "id": "9.1",
       "nome": "Fundamentos teóricos; características e evolução até 5G",
       "item": "9",
       "materia": "Sistemas de Comunicações Celulares",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-1-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: AMPS,GSM,UMTS,LTE,NR; B→B. Q2: eMBB,URLLC,mMTC; E→E. Q3: OFDM na geração4G; D→D. Q4: NSA e âncora LTE/EPC; A→A. Q5: Faixas abaixo6GHz e milimétricas; C→C.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q2: 5G pequenas células/MassiveMIMO; C→C. Q3: OFDM4G; A→A.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "reviewId": "REV-9.1-D7-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "reviewId": "REV-9.1-D21-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13",
+      "cicloAtual": {
+        "concluidoEm": "2026-10-13",
+        "status": "CONCLUIDO_TREINO_E_CONFRONTO_HISTORICO",
+        "limite": "Ciclo nas três provas fornecidas; retenção posterior pendente."
+      }
     },
     {
       "id": "9.2",
       "nome": "Células; múltiplo acesso; GSM, UMTS, LTE etc.; canal móvel",
       "item": "9",
       "materia": "Sistemas de Comunicações Celulares",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-2-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Reúso e canais FDD; B→B. Q2: GSM,UMTS,LTE acesso; D→D. Q3: FDMA versus FDD; A→A. Q4: Doppler máximo; E→E. Q5: Multipercurso e seletividade; C→C.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "9/10",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Reúso e capacidade; E→E. Q4: Faixa700MHz/leilão2014; B→B. Q5: OFDMA; D→D. Q6: 802.16-2004fixo/e móvel; E→E. Q7: WiMAX MAC eQoS; D→A. Q8: FDD/TDD; C→C. Q9: 802.16a2–11GHz/NLOS; D→D. Q10: Desvanecimento; B→B. Q11: Canal variante,seletivo; D→D. Q12: Difração; E→E.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "REPAIR",
+          "resultado": "2/2",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-MAC-REPAIR-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q1: Conexões lógicas e taxa constante; E→E. Q2: Wi-Fi CSMA/CA × WiMAX alocação; B→B.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-20",
+          "status": "PENDENTE",
+          "reviewId": "REV-9.2-D7-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-11-03",
+          "status": "PENDENTE",
+          "reviewId": "REV-9.2-D21-20261013",
+          "motivo": "D7/D21 após revisão13/10."
+        },
+        {
+          "data": "2026-10-16",
+          "status": "PENDENTE",
+          "reviewId": "REV-9.2-MAC-D3-20261013",
+          "motivo": "MAC/QoS WiMAX e diferença para CSMA/CA"
+        }
+      ],
+      "ultimaEvidencia": "2026-10-13",
+      "cicloAtual": {
+        "concluidoEm": "2026-10-13",
+        "status": "CONCLUIDO_TREINO_E_CONFRONTO_HISTORICO",
+        "limite": "Ciclo nas três provas fornecidas; retenção posterior pendente."
+      }
     },
     {
       "id": "10.1",
@@ -1224,8 +1524,20 @@
       "item": "13",
       "materia": "Regulamentação das Telecomunicações",
       "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "1/1",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-8-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q9: Legislação satélites de2018; B→B.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "13.2",
@@ -1233,8 +1545,20 @@
       "item": "13",
       "materia": "Regulamentação das Telecomunicações",
       "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "evidencias": [
+        {
+          "data": "2026-10-13",
+          "tipo": "RETEST",
+          "resultado": "1/1",
+          "resultScope": "QUESTOES_DESTA_UNIDADE_NO_BLOCO",
+          "origemResultado": "ESTUDO-9-HISTORICAS-20261013",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-13.json",
+          "nota": "Q4: Faixa700MHz/leilão2014; B→B.",
+          "diagnosticValidity": "TREINO_GUIADO_COM_RETESTES_NAO_DIAGNOSTICO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-13"
     },
     {
       "id": "13.3",
@@ -1302,5 +1626,5 @@
       "ultimaEvidencia": "2026-10-10"
     }
   ],
-  "updatedAt": "2026-10-12"
+  "updatedAt": "2026-10-13"
 }
