@@ -922,7 +922,165 @@
       "createdFromStudyDate": "2026-10-12",
       "plano": "Reteste curto com novas questões ou reteste explicitamente identificado; priorizar erros e respeitar cooldown.",
       "schedulingBasis": "D7/D21 previamente preferidos; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.1-D7-20261013",
+      "unitId": "8.1",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.1-D21-20261013",
+      "unitId": "8.1",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.2-D7-20261013",
+      "unitId": "8.2",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.2-D21-20261013",
+      "unitId": "8.2",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.3-D7-20261013",
+      "unitId": "8.3",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.3-D21-20261013",
+      "unitId": "8.3",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-9.1-D7-20261013",
+      "unitId": "9.1",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-9.1-D21-20261013",
+      "unitId": "9.1",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-9.2-D7-20261013",
+      "unitId": "9.2",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-20",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-9.2-D21-20261013",
+      "unitId": "9.2",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-11-03",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Reteste breve com questões novas ou reteste explicitamente identificado; conferir retenção sem refazer o capítulo inteiro.",
+      "schedulingBasis": "D7/D21 previstos no método do projeto; agenda de estudo, não lembrete automático."
+    },
+    {
+      "id": "REV-8.2-ANTENA-D3-20261013",
+      "unitId": "8.2",
+      "topico": "Diâmetro × frequência mantendo ganho",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Verificar retenção em reteste curto. Erro já recuperado no reforço imediato; não registrar consolidação permanente.",
+      "schedulingBasis": "Regra adaptativa D1/D3 para erros; agenda registrada, não lembrete automático."
+    },
+    {
+      "id": "REV-8.3-CN-D3-20261013",
+      "unitId": "8.3",
+      "topico": "C/N versus C/N0 e largura de banda",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Verificar retenção em reteste curto. Erro já recuperado no reforço imediato; não registrar consolidação permanente.",
+      "schedulingBasis": "Regra adaptativa D1/D3 para erros; agenda registrada, não lembrete automático."
+    },
+    {
+      "id": "REV-8.3-VSAT-D3-20261013",
+      "unitId": "8.3",
+      "topico": "Estrela, malha e anel",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Verificar retenção em reteste curto. Erro já recuperado no reforço imediato; não registrar consolidação permanente.",
+      "schedulingBasis": "Regra adaptativa D1/D3 para erros; agenda registrada, não lembrete automático."
+    },
+    {
+      "id": "REV-9.2-MAC-D3-20261013",
+      "unitId": "9.2",
+      "topico": "MAC/QoS WiMAX e diferença para CSMA/CA",
+      "origemResultado": "FECHAMENTO-20261013",
+      "agendadaPara": "2026-10-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-10-13",
+      "plano": "Verificar retenção em reteste curto. Erro já recuperado no reforço imediato; não registrar consolidação permanente.",
+      "schedulingBasis": "Regra adaptativa D1/D3 para erros; agenda registrada, não lembrete automático."
     }
   ],
-  "updatedAt": "2026-10-12"
+  "updatedAt": "2026-10-13"
 }
