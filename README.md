@@ -109,8 +109,20 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 [Telecom, Português e Inglês — resultados, revisões e próximo passo](qti/RESULTADOS_DIA_2026-10-10.md). **PT 9/10; Inglês 10/10**. Revisão guiada de Probabilidade registrada; QTI-30 dos 13 itens atribuído, ainda sem resultado. O pedido de voltar ao método mais rápido está em [Perfil de Estudo](docs/PERFIL_ESTUDO.md).
 
 
-## Último fechamento — 11/10/2026
+## Fechamento anterior — 11/10/2026
 
 [Processo de estudo: itens1–4, históricos, correções e reforços](qti/RESULTADOS_DIA_2026-10-11.md). Item1histórico9/9; item 3histórico9/10;4.1=5/5;4.2inicial4/5; bloco11 históricas 9/11. Tempo de estudo **estimado em cerca de 6h15**, com pausas explícitas excluídas. Treino guiado comreaplicações solicitadas, não simulado longitudinal. QAM: bits 3/3, última marcação de gráfico errada, masusuário declarou quejá sabe; nenhumreparo imediato extra.
 
 **Retomada combinada:12/10/2026 — item 5, Telefonia e Videoconferência, iniciando pelo5.1.**
+
+
+## Último fechamento — 12/10/2026 (America/Sao_Paulo)
+
+[Registro do dia](qti/RESULTADOS_DIA_2026-10-12.md) · [Dados estruturados](qti/RESULTADOS_DIA_2026-10-12.json).
+
+- Telefonia: 5.1 = 3/5; 5.2 = 4/5 + reforço 2/2; histórico do item 5 = 13/15. SIP/H.323 praticados no histórico; respostas do bloco inicial 5.3 não recuperadas.
+- Antenas: 6.1 = 5/5; 6.2 = 3/5; 6.3 = 3/5; histórico = 6/7; LC reforço 2/2 e adicional correto (250 MHz). Sequência adicional C,E,D preservada sem inventar nota.
+- Radiopropagação: 7.1 = 5/5; 7.2 = 4/5 + reforço 2/2; bloco noturno de 11 originais = **11/11 (100%)**.
+- Mínimo **78 respostas recuperadas**, incluindo reaplicações. Tempo líquido desconhecido. Sem novos resultados PT/ING confirmados nesta data.
+- Ponto atual: item 7 após o bloco noturno. Conferir pendências do levantamento histórico ampliado antes de avançar ao 8. Revisões D7 em 19/10 e D21 em 02/11.
+- Registro parcial das sessões anteriores: preservar notas agregadas quando faltarem enunciados/correções individuais; não confundir treino guiado/reaplicações com diagnóstico longitudinal.
