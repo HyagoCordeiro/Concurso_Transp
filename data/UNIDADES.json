@@ -597,19 +597,63 @@
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
           "nota": "C21dB marcada; corretaD24dB para512QAM eTEB1e−4. Usuário declarou 'eu errei, mas já sei fazer'; não continuar reforços imediatos automaticamente.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "11/11 (100%)",
+          "origemResultado": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
         }
       ],
       "revisoes": [],
-      "ultimaEvidencia": "2026-10-11"
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "5.1",
       "nome": "Centrais; comutação de circuitos/pacotes; tráfego; Erlang B e C",
       "item": "5",
       "materia": "Telefonia e Videoconferência",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/5 (60%)",
+          "origemResultado": "ESTUDO-5-1-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Placar 3/5 recuperado; erros relatados em canais E1 e expansão do somatório Erlang B. Gabarito individual não certificado: recuperações divergem entre D,C,A,E,B e D,C,B,E,B; o segundo não reproduz o placar. Preservar o placar histórico sem inventar o gabarito.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "13/15 (86.7%)",
+          "origemResultado": "ESTUDO-5-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erros Q9 (B; correta A) e Q11 (B; correta C/UDP). Q13 H.323 correta B: Q.931, H.245, RTCP. Fontes/números originais/enunciados completos não recuperados. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.1-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.1-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "5.2",
@@ -626,55 +670,295 @@
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
           "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "4/5 (80%)",
+          "origemResultado": "ESTUDO-5-2-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Gabarito D,E,A,B,C; erro G.711/H.264.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-5-2-REPAIR-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "13/15 (86.7%)",
+          "origemResultado": "ESTUDO-5-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erros Q9 (B; correta A) e Q11 (B; correta C/UDP). Q13 H.323 correta B: Q.931, H.245, RTCP. Fontes/números originais/enunciados completos não recuperados. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
         }
       ],
-      "revisoes": [],
-      "ultimaEvidencia": "2026-10-11"
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.2-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.2-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "5.3",
       "nome": "H.323; SIP; VoIP; QoS para voz e vídeo",
       "item": "5",
       "materia": "Telefonia e Videoconferência",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "13/15 (86.7%)",
+          "origemResultado": "ESTUDO-5-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erros Q9 (B; correta A) e Q11 (B; correta C/UDP). Q13 H.323 correta B: Q.931, H.245, RTCP. Fontes/números originais/enunciados completos não recuperados. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.3-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-5.3-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "6.1",
       "nome": "Tipos; diagramas; ganho; polarização; parâmetros; campo próximo/distante; radiação",
       "item": "6",
       "materia": "Antenas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-6-1-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "6/7 (85.7%)",
+          "origemResultado": "ESTUDO-6-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erro apenas na Q5 sobre LC. Enunciados/valores alterados não recuperados integralmente. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.1-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.1-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "6.2",
       "nome": "Dipolo; influência do plano de terra; monopolos",
       "item": "6",
       "materia": "Antenas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/5 (60%)",
+          "origemResultado": "ESTUDO-6-2-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Gabarito C,A,E,D,B. Erros Q3 e Q5.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "REPAIR",
+          "resultado": "respondido; nota não recuperada",
+          "origemResultado": "ESTUDO-6-REPAIR-PARCIAL-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Sequência visível no histórico do projeto. A correção recuperada menciona 4/4 C,E,B,A em horário anterior aos blocos 6; atribuição inconsistente. Não inferir nota deste bloco nem reatribuir as 4 respostas. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "6/7 (85.7%)",
+          "origemResultado": "ESTUDO-6-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erro apenas na Q5 sobre LC. Enunciados/valores alterados não recuperados integralmente. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-6-LC-REPAIR-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "1/1 (100%)",
+          "origemResultado": "ESTUDO-6-LC-ADICIONAL-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Resposta B correta; resultado 250 MHz recuperado. Valores L/C do enunciado não recuperados.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.2-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.2-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "6.3",
       "nome": "Conjuntos e principais tipos de antenas",
       "item": "6",
       "materia": "Antenas",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "3/5 (60%)",
+          "origemResultado": "ESTUDO-6-3-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Gabarito D,B,E,A,C. Erros Q1 e Q4.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "REPAIR",
+          "resultado": "respondido; nota não recuperada",
+          "origemResultado": "ESTUDO-6-REPAIR-PARCIAL-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Sequência visível no histórico do projeto. A correção recuperada menciona 4/4 C,E,B,A em horário anterior aos blocos 6; atribuição inconsistente. Não inferir nota deste bloco nem reatribuir as 4 respostas. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "6/7 (85.7%)",
+          "origemResultado": "ESTUDO-6-HISTORICAS-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erro apenas na Q5 sobre LC. Enunciados/valores alterados não recuperados integralmente. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.3-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-6.3-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "7.1",
       "nome": "Propagação; radiovisibilidade; Fresnel; atenuação em espaço livre; difração por gume-de-faca",
       "item": "7",
       "materia": "Radiopropagação",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "5/5 (100%)",
+          "origemResultado": "ESTUDO-7-1-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "11/11 (100%)",
+          "origemResultado": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-7.1-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-7.1-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "7.2",
@@ -691,10 +975,51 @@
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
           "nota": "Principais8/9; adicional2012Q58 corretaC. Único erro principal:n=t/T, t2s eT0,5s→n4; y4=0,641. A adicional agrega radiopropagação.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "TREINO_TEXTUAL_GUIADO",
+          "resultado": "4/5 (80%)",
+          "origemResultado": "ESTUDO-7-2-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Erro inicial em Eb/N0. Reforço 2/2 separado; 6/7 é soma deste bloco e do reforço, não outro bloco.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "REPAIR",
+          "resultado": "2/2 (100%)",
+          "origemResultado": "ESTUDO-7-2-REPAIR-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "11/11 (100%)",
+          "origemResultado": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
         }
       ],
-      "revisoes": [],
-      "ultimaEvidencia": "2026-10-11"
+      "revisoes": [
+        {
+          "data": "2026-10-19",
+          "status": "PENDENTE",
+          "reviewId": "REV-7.2-D7-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        },
+        {
+          "data": "2026-11-02",
+          "status": "PENDENTE",
+          "reviewId": "REV-7.2-D21-20261012",
+          "motivo": "Revisão espaçada após treino12/10."
+        }
+      ],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "8.1",
@@ -710,9 +1035,21 @@
       "nome": "Bandas de frequência e características de transmissão",
       "item": "8",
       "materia": "Sistemas de Transmissão via Satélite",
-      "estado": "A_MAPEAR",
-      "evidencias": [],
-      "revisoes": []
+      "estado": "EM_REVISAO",
+      "evidencias": [
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "11/11 (100%)",
+          "origemResultado": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
+        }
+      ],
+      "revisoes": [],
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "8.3",
@@ -729,10 +1066,20 @@
           "sourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
           "nota": "B,D,A,E,C,D,C,C,D,E,C. ErrosQ47 adaptada→C19dB; Q32CRC→D. Q9: marcouA e corrigiu paraD antesda correção; última marcação considerada.",
           "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL"
+        },
+        {
+          "data": "2026-10-12",
+          "tipo": "RETEST",
+          "resultado": "11/11 (100%)",
+          "origemResultado": "ESTUDO-7-HISTORICAS-ORIGINAIS11-20261012",
+          "sourceFile": "qti/RESULTADOS_DIA_2026-10-12.json",
+          "nota": "Enunciados e alternativas originais; resultado integralmente visível na conversa. Reaplicação solicitada pelo usuário; várias famílias já usadas em 11/10, portanto não é diagnóstico longitudinal inédito. Placar do bloco misto: não é nota exclusiva desta unidade.",
+          "diagnosticValidity": "TREINO_GUIADO_NAO_USAR_COMO_SIMULADO_LONGITUDINAL",
+          "resultScope": "BLOCO_MISTO"
         }
       ],
       "revisoes": [],
-      "ultimaEvidencia": "2026-10-11"
+      "ultimaEvidencia": "2026-10-12"
     },
     {
       "id": "9.1",
@@ -955,5 +1302,5 @@
       "ultimaEvidencia": "2026-10-10"
     }
   ],
-  "updatedAt": "2026-10-11"
+  "updatedAt": "2026-10-12"
 }
