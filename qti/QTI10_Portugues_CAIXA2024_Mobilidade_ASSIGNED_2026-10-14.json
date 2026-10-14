@@ -1,0 +1,32 @@
+{
+  "sessionId": "QTI10-PT-20261014-CAIXA2024-MOBILIDADE",
+  "date": "2026-10-14",
+  "status": "ASSIGNED_NOT_ANSWERED",
+  "disciplina": "Português",
+  "qti": "QTI-10",
+  "texto": "Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas",
+  "source": "CESGRANRIO/CAIXA 2024 — QConcursos",
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "focus": [
+    "REPAIR pontuação: sujeito-verbo",
+    "REPAIR pontuação: verbo-complemento",
+    "REPAIR pontuação: oração explicativa",
+    "pontuação com conector",
+    "spaced retest colocação pronominal",
+    "crase",
+    "interpretação"
+  ],
+  "questionCanonicalIds": [
+    "PT-CAIXA2024-MOBILIDADE-Q01",
+    "PT-CAIXA2024-MOBILIDADE-Q02",
+    "PT-CAIXA2024-MOBILIDADE-Q03",
+    "PT-CAIXA2024-MOBILIDADE-Q04",
+    "PT-CAIXA2024-MOBILIDADE-Q05",
+    "PT-CAIXA2024-MOBILIDADE-Q06",
+    "PT-CAIXA2024-MOBILIDADE-Q07",
+    "PT-CAIXA2024-MOBILIDADE-Q08",
+    "PT-CAIXA2024-MOBILIDADE-Q09",
+    "PT-CAIXA2024-MOBILIDADE-Q10"
+  ]
+}
