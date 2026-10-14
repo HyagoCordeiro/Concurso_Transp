@@ -1,0 +1,38 @@
+{
+  "sessionId": "QTI10-PT-20261014B",
+  "status": "ASSIGNED_NOT_ANSWERED",
+  "assignedAt": "2026-10-14",
+  "disciplina": "Português",
+  "texto": "A palavra salário vem mesmo de sal?",
+  "source": "CESGRANRIO/Banco do Brasil 2021 — QConcursos",
+  "total": 10,
+  "focus": [
+    "REPAIR — Pontuação: verbo e complemento",
+    "Interpretação",
+    "Coesão textual",
+    "Conectores/concessão",
+    "Crase",
+    "Colocação pronominal",
+    "Concordância verbal",
+    "Vocabulário contextual",
+    "Síntese"
+  ],
+  "antiRepeatPreflight": true,
+  "antiRepeatViolation": false,
+  "intentionalRetest": [
+    "Q3 — Pontuação: verbo e complemento",
+    "Q4 — Pontuação: verbo e complemento"
+  ],
+  "canonicalIds": [
+    "PT-BB2021-SALARIO-Q01",
+    "PT-BB2021-SALARIO-Q02",
+    "PT-BB2021-SALARIO-Q03",
+    "PT-BB2021-SALARIO-Q04",
+    "PT-BB2021-SALARIO-Q05",
+    "PT-BB2021-SALARIO-Q06",
+    "PT-BB2021-SALARIO-Q07",
+    "PT-BB2021-SALARIO-Q08",
+    "PT-BB2021-SALARIO-Q09",
+    "PT-BB2021-SALARIO-Q10"
+  ]
+}
