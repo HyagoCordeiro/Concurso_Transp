@@ -1,0 +1,41 @@
+{
+  "studyDateLocal": "2026-10-15",
+  "startTimeLocal": "16:57",
+  "qti": "QTI-10",
+  "rodada": "AQUECIMENTO_MISTO",
+  "banca": "CESGRANRIO",
+  "provaAlvo": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "total": 10,
+  "acertos": 9,
+  "erros": 1,
+  "accuracy": 90.0,
+  "answers": ["C","D","B","C","D","C","E","B","C","D"],
+  "errorQuestions": [
+    {
+      "question": 7,
+      "topic": "C/N versus largura de banda",
+      "userAnswer": "E",
+      "correctAnswer": "D",
+      "rule": "Com C e T constantes, dobrar B aumenta N em 3 dB e reduz C/N em 3 dB"
+    }
+  ],
+  "repair": {
+    "total": 2,
+    "acertos": 2,
+    "accuracy": 100.0,
+    "answers": ["B","E"],
+    "status": "RECUPERADO_IMEDIATAMENTE"
+  },
+  "topics": [
+    "Probabilidade binomial",
+    "Nyquist e amostragem",
+    "8-PSK",
+    "Erlang",
+    "EIRP",
+    "Zona de Fresnel",
+    "C/N",
+    "VRRP",
+    "Dispersao modal em fibra",
+    "DWDM x CWDM"
+  ]
+}
