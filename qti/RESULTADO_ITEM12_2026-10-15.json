@@ -1,0 +1,59 @@
+{
+  "studyDateLocal": "2026-10-15",
+  "editalItem": "12",
+  "tema": "Sistemas Opticos",
+  "banca": "CESGRANRIO",
+  "provaAlvo": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "initialBlocks": {
+    "12.1": {"score": 4, "total": 5, "accuracy": 80.0},
+    "12.2": {"score": 5, "total": 5, "accuracy": 100.0},
+    "12.3": {"score": 5, "total": 5, "accuracy": 100.0},
+    "12.4": {"score": 5, "total": 5, "accuracy": 100.0},
+    "score": 19,
+    "total": 20,
+    "accuracy": 95.0
+  },
+  "historicalSweep": {
+    "sources": [
+      "Transpetro Engenharia de Telecomunicacoes 2012",
+      "Transpetro Engenharia de Telecomunicacoes 2018",
+      "Transpetro Engenharia de Telecomunicacoes 2023"
+    ],
+    "total": 24,
+    "score": 22,
+    "errors": 2,
+    "accuracy": 91.7,
+    "answers": ["C","B","C","D","A","E","E","B","E","E","B","C","A","C","D","B","E","A","C","B","D","E","D","B"],
+    "note": "Q11 e Q12 foram digitadas invertidas na mensagem original; usuario informou que os conceitos estavam corretos. Registradas como Q11=B e Q12=C.",
+    "realErrors": [
+      {
+        "question": 7,
+        "topic": "WDM - conversao de espacamento em comprimento de onda para frequencia",
+        "userAnswer": "E",
+        "correctAnswer": "C",
+        "target": "aprox. 84 GHz"
+      },
+      {
+        "question": 9,
+        "topic": "MetroEthernet - UNI, EVC e CoS",
+        "userAnswer": "E",
+        "correctAnswer": "D"
+      }
+    ]
+  },
+  "combined": {
+    "score": 41,
+    "total": 44,
+    "accuracy": 93.2
+  },
+  "status": "FORTE_CONSOLIDADO_HISTORICAMENTE_COM_REPARO_CURTO",
+  "nextAction": [
+    "2 questoes de reforco sobre espacamento WDM nm para GHz",
+    "2 questoes de reforco sobre MetroEthernet UNI EVC CoS",
+    "apos o reparo fechar Item 12 e seguir para Item 13"
+  ],
+  "reviews": {
+    "D7": "2026-10-22",
+    "D21": "2026-11-05"
+  }
+}
