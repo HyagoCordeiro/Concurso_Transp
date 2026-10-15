@@ -1,0 +1,30 @@
+{
+  "id": "QTI10-INGLES-SUBSEAFIBER-2026-10-14",
+  "data": "2026-10-14",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Subsea fiber and the resilience of global communications",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "origem": "captura de tela enviada pelo usuário",
+  "sourceType": "AUTORAL_ADAPTADO_CESGRANRIO_STYLE",
+  "textoBase": {
+    "titulo": "Subsea fiber and the resilience of global communications",
+    "tema": "cabos submarinos de fibra óptica e resiliência de redes"
+  },
+  "itensErrados": [
+    {
+      "questionId": "Q2",
+      "topico": "Inferência — redundância/rotas alternativas",
+      "respostaEscolhida": "D",
+      "gabarito": "B",
+      "observacao": "Rotas alternativas permitem redirecionar o tráfego após uma falha, reduzindo o impacto da indisponibilidade de um enlace."
+    }
+  ],
+  "diagnosticValidity": "VALID",
+  "antiRepeatViolation": false,
+  "nextAction": "MICRO_REPAIR_AND_SPACED_RETEST",
+  "observacao": "Bom desempenho geral: 9/10. Único erro concentrado em inferência textual sobre resiliência e uso de rotas alternativas."
+}
