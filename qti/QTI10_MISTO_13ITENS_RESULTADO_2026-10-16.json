@@ -1,0 +1,42 @@
+{
+  "studyDateLocal": "2026-10-16",
+  "qti": "QTI-10",
+  "rodada": "FECHAMENTO_13_ITENS",
+  "editalItem": "13_ITENS",
+  "tema": "QTI-10 misto CESGRANRIO/Transpetro",
+  "total": 10,
+  "acertos": 10,
+  "erros": 0,
+  "accuracy": 100.0,
+  "sourceType": "CESGRANRIO_TRANSPETRO_HISTORICO_ADAPTADO",
+  "answers": [
+    {"question": 1, "topic": "Probabilidade / Binomial", "answer": "C", "correct": true},
+    {"question": 2, "topic": "Convolucao discreta", "answer": "D", "correct": true},
+    {"question": 3, "topic": "Codificacao + 16-QAM + largura de banda", "answer": "C", "correct": true},
+    {"question": 4, "topic": "Trafego em Erlangs", "answer": "D", "correct": true},
+    {"question": 5, "topic": "Antena monopolo lambda/4", "answer": "B", "correct": true},
+    {"question": 6, "topic": "Primeira Zona de Fresnel", "answer": "E", "correct": true},
+    {"question": 7, "topic": "Enlace via satelite / C/N", "answer": "A", "correct": true},
+    {"question": 8, "topic": "IEEE 802.1Q + DiffServ/DSCP", "answer": "A", "correct": true},
+    {"question": 9, "topic": "Fibra / dispersao modal / NRZ", "answer": "B", "correct": true},
+    {"question": 10, "topic": "LGT / competencia da ANATEL", "answer": "D", "correct": true}
+  ],
+  "daySummary": {
+    "item12Repair": {"correct": 4, "total": 4, "accuracy": 100.0},
+    "item12Extras": {"correct": 1, "total": 2, "accuracy": 50.0},
+    "item13AllAttempts": {"correct": 43, "total": 46, "accuracy": 93.48},
+    "qti10": {"correct": 10, "total": 10, "accuracy": 100.0},
+    "dayTotal": {"correct": 58, "total": 62, "accuracy": 93.55}
+  },
+  "weakPoints": [
+    "Fibra/NRZ: fator 2 em Rb aproximado igual a 1/(2 delta t)",
+    "ANATEL: autarquia especial da Administracao indireta, sem subordinacao hierarquica",
+    "Concentracao economica: CADE por meio do orgao regulador"
+  ],
+  "milestones": [
+    "Item 12 fechado",
+    "Item 13 fechado",
+    "Primeira passagem pelos 13 itens especificos concluida",
+    "QTI-10 misto final com 100%"
+  ]
+}
