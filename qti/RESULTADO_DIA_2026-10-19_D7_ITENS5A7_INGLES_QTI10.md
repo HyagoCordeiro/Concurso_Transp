@@ -211,6 +211,75 @@ A questão de **eficiência espectral**, que apresentou oscilação no aquecimen
 
 ---
 
+## Bloco 8 — QTI-20 misto dos 13 itens
+
+Aplicado em **2 blocos de 10 questões**, com cobertura dos 13 itens do edital e calibração CESGRANRIO/Transpetro.
+
+### QTI-20 — Bloco 1/2
+Respostas do usuário:
+
+`C, E, B, D, C, D, B, C, D, D`
+
+Gabarito:
+
+`C, E, B, D, C, D, B, C, D, D`
+
+**Resultado: 10/10 = 100%**
+
+Conteúdos cobrados:
+- Probabilidade — Poisson;
+- Matemática aplicada — período fundamental;
+- Sinais e Sistemas — estabilidade/ROC em Z;
+- Princípios de Telecom — PCM/Nyquist;
+- Telefonia — Erlang B × Erlang C;
+- Antenas — ganho, diretividade e eficiência;
+- Radiopropagação — perda em espaço livre;
+- Satélite — EIRP;
+- Celular — tamanho de cluster;
+- Redes locais — IEEE 802.1s/MSTP.
+
+### QTI-20 — Bloco 2/2
+Respostas do usuário:
+
+`C, B, C, B, C, B, C, C, B, E`
+
+Gabarito:
+
+`C, B, C, B, C, B, C, C, B, E`
+
+**Resultado: 10/10 = 100%**
+
+Conteúdos cobrados:
+- Redes IP/QoS — LLQ;
+- MPLS — ingress LER;
+- Sistemas ópticos — orçamento de potência;
+- SDH — STM-1;
+- Regulamentação — uso racional/econômico do espectro;
+- Gerenciamento — SMI/SNMP;
+- Eficiência espectral — modulação, taxa de código e roll-off;
+- Radiopropagação — primeira Zona de Fresnel;
+- Redes celulares — reúso de frequências;
+- Redes locais — 802.1Q, 802.1p e 802.3af.
+
+### Resultado consolidado do QTI-20
+
+**20/20 = 100%**
+
+**Sem erros e sem necessidade de reparo.**
+
+### Evidência relevante
+A eficiência espectral voltou a ser cobrada, agora numericamente com:
+
+`η ≈ Rc·log2(M)/(1+α)`
+
+A questão foi acertada, reforçando a consolidação da relação:
+
+- `α ↑ → banda ocupada ↑ → eficiência espectral ↓`;
+- `Rc ↑ → redundância ↓ → eficiência útil ↑`;
+- `M ↑ → bits por símbolo ↑ → eficiência tende a ↑`.
+
+---
+
 # Consolidado do dia
 
 ### Blocos principais de Telecom
@@ -220,10 +289,11 @@ A questão de **eficiência espectral**, que apresentou oscilação no aquecimen
 - Item 7: **10/10**
 - Histórico Itens 5–7: **14/15**
 - QTI-10 final: **10/10**
+- QTI-20 misto dos 13 itens: **20/20**
 
 Total dos blocos principais de Telecom:
 
-**60/65 = 92,3%**
+**80/85 = 94,1%**
 
 ### Inglês
 - Texto novo: **9/10**
@@ -235,7 +305,7 @@ Total dos blocos principais de Telecom:
 - Bloco final: **5/5**
 
 ### Reparos relevantes do dia
-- eficiência espectral: retomada e acertada no QTI final;
+- eficiência espectral: retomada e acertada no QTI-10 e novamente no QTI-20;
 - SIP: reparado;
 - campo distante/parabólica: 4/4;
 - TDM: 2/2;
@@ -246,14 +316,15 @@ Total dos blocos principais de Telecom:
 - Antenas após reparo.
 - Fresnel e orçamento de enlace.
 - Telefonia/VoIP em nível histórico.
-- Z e período fundamental no QTI final.
-- Satélite, LTE, redes, MPLS, óptica e regulamentação no fechamento.
+- Z e período fundamental.
+- Satélite, LTE, redes, MPLS, óptica e regulamentação.
+- QTI-20 cobrindo os 13 itens: **20/20**.
 - Inglês com melhora clara quando aplicado o método Skimming/Scanning em vez de tradução integral.
 
 ### Ponto de atenção para revisão espaçada
-- continuar testando eficiência espectral com redações invertidas;
+- continuar testando eficiência espectral com redações invertidas, mas sem excesso de repetição imediata;
 - manter **rather**, **rather than**, conectores de contraste, causa, consequência e condição em Inglês;
 - preservar a técnica de leitura: Skimming → Scanning → paráfrase.
 
 ## Fechamento
-Dia encerrado com **QTI-10 final 10/10** e todos os erros relevantes tratados por reparo localizado.
+Dia encerrado com **QTI-10 = 10/10** e **QTI-20 = 20/20**, com todos os erros relevantes do período tratados por reparo localizado.
