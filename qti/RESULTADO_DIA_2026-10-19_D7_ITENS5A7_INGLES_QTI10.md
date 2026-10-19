@@ -336,6 +336,108 @@ Este bloco foi considerado mais diagnóstico que o QTI-20 anterior porque o anti
 
 ---
 
+## Bloco 10 — QTI-30 com anti-repetição, em 3 blocos de 10
+
+Aplicado sem reforço entre os blocos, para preservar o valor diagnóstico.
+
+### Bloco 1/3
+Respostas do usuário:
+
+`D, C, D, C, B, C, D, B, C, B`
+
+Gabarito:
+
+`B, C, C, C, B, C, D, B, C, B`
+
+**Resultado: 8/10 = 80%**
+
+Erros:
+- autocorrelação em processo WSS;
+- resposta em frequência de filtro de primeira ordem na frequência de corte.
+
+### Bloco 2/3
+Respostas do usuário:
+
+`B, B, D, B, A, B, D, C, C, B`
+
+Gabarito:
+
+`B, B, C, B, C, B, D, C, C, B`
+
+**Resultado: 8/10 = 80%**
+
+Erros:
+- dispersão cromática em fibra monomodo;
+- Metro Ethernet E-Line.
+
+### Bloco 3/3
+Respostas do usuário:
+
+`D, C, D, D, A, B, C, D, A, B`
+
+Gabarito:
+
+`B, C, D, D, E, B, C, D, A, B`
+
+**Resultado: 8/10 = 80%**
+
+Erros:
+- variância a partir de primeiro e segundo momentos;
+- descasamento de polarização para polarizações lineares ortogonais.
+
+### Resultado consolidado do QTI-30
+
+**24/30 = 80%**
+
+Seis famílias de erro, distribuídas em diferentes itens:
+1. autocorrelação WSS;
+2. frequência de corte de filtro de 1ª ordem;
+3. dispersão cromática;
+4. Metro Ethernet E-Line;
+5. variância;
+6. polarização.
+
+### Reforço — 1 questão por erro
+Primeiro bloco de reparo: **4/6**.
+
+Acertos imediatos:
+- dispersão cromática;
+- E-Line;
+- variância;
+- polarização.
+
+Pendências:
+- autocorrelação;
+- frequência de corte.
+
+### Segundo reteste das duas pendências
+Resultado: **1/2**.
+
+- frequência de corte: **fechada**;
+- autocorrelação: ainda pendente.
+
+### Mini-aula — autocorrelação WSS
+Relações consolidadas:
+
+`R_X(0) = E[X²] = σ² + μ²`
+
+`σ² = R_X(0) - μ²`
+
+Se `μ = 0`, então:
+
+`R_X(0) = σ²`
+
+Além disso:
+
+`|R_X(τ)| ≤ R_X(0)`
+
+### Teste final de autocorrelação
+3 questões após a mini-aula: **3/3 = 100%**.
+
+**Status final dos 6 erros do QTI-30: todos reparados.**
+
+---
+
 # Consolidado do dia
 
 ### Blocos principais de Telecom
@@ -347,13 +449,15 @@ Este bloco foi considerado mais diagnóstico que o QTI-20 anterior porque o anti
 - QTI-10 final: **10/10**
 - QTI-20 misto dos 13 itens: **20/20** (classificar como retenção/consolidação por repetição semântica)
 - QTI-10 anti-repetição: **7/10**
+- QTI-30 anti-repetição: **24/30**
 
 Total base dos blocos principais de Telecom:
 
-**87/95 = 91,6%**
+**111/125 = 88,8%**
 
-### Reparos do QTI anti-repetição
-- 6/6 = **100%**
+### Reparos adicionais
+- QTI-10 anti-repetição: **6/6**
+- QTI-30: primeiro reparo **4/6**, segundo reteste **1/2**, fechamento de autocorrelação **3/3**.
 
 ### Inglês
 - Texto novo: **9/10**
@@ -365,6 +469,12 @@ Total base dos blocos principais de Telecom:
 - Bloco final: **5/5**
 
 ### Pontos de atenção para revisão espaçada
+- autocorrelação WSS: `R_X(0)=σ²+μ²` e `|R_X(τ)|≤R_X(0)`;
+- frequência de corte: `|H|=1/√2` e queda de aproximadamente `-3 dB`;
+- dispersão cromática: diferenças de velocidade de grupo entre componentes espectrais;
+- Metro Ethernet: **E-Line = ponto a ponto**;
+- variância: `σ²=E[X²]-μ²`;
+- polarização: fator de acoplamento `cos²θ`; a 90° o acoplamento ideal é zero;
 - Fourier: paridade e estrutura da série trigonométrica;
 - rotação de Faraday: dependência inversa com `f²`;
 - DWDM: distinguir FWM (não linear) de dispersão cromática (linear);
@@ -382,4 +492,4 @@ Aplicar sempre o **anti-repeat preflight** antes de gerar questões no chat:
 6. manter calibração CESGRANRIO/Transpetro e usar questões históricas para estilo e profundidade.
 
 ## Fechamento atualizado
-O dia termina com forte desempenho geral, mas com uma correção metodológica importante: o QTI-20 de 20/20 foi excelente como retenção, porém pouco diagnóstico devido à repetição. O QTI-10 anti-repetição seguinte marcou **7/10**, revelou três lacunas novas e todas foram fechadas em **6/6 no reparo**.
+O dia fechou com **QTI-30 = 24/30 (80%)**, sem reforço entre os três blocos, revelando seis lacunas distribuídas. Todas foram posteriormente tratadas; a última pendência, autocorrelação WSS, foi consolidada após mini-aula e teste final **3/3**. O protocolo anti-repetição permanece obrigatório para os próximos QTIs.
