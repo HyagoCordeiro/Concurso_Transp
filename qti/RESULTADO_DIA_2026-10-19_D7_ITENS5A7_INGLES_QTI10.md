@@ -267,16 +267,72 @@ Conteúdos cobrados:
 
 **Sem erros e sem necessidade de reparo.**
 
-### Evidência relevante
-A eficiência espectral voltou a ser cobrada, agora numericamente com:
+### Nota metodológica posterior
+O usuário observou corretamente que este QTI-20 apresentou **repetição semântica excessiva** em relação aos blocos imediatamente anteriores. O resultado de 20/20 deve ser interpretado principalmente como **retenção/consolidação**, e não como desempenho em 20 questões genuinamente novas.
 
-`η ≈ Rc·log2(M)/(1+α)`
+A partir desse ponto, os QTIs no chat passam a aplicar o protocolo anti-repetição do QTI estruturado: rotação de família semântica/caminho de solução, bloqueio de simples troca de valores e rotulagem explícita de RETEST/SPACED_RETEST.
 
-A questão foi acertada, reforçando a consolidação da relação:
+---
 
-- `α ↑ → banda ocupada ↑ → eficiência espectral ↓`;
-- `Rc ↑ → redundância ↓ → eficiência útil ↑`;
-- `M ↑ → bits por símbolo ↑ → eficiência tende a ↑`.
+## Bloco 9 — QTI-10 com anti-repetição reforçada
+
+### Preflight
+- objetivo: trazer famílias menos exploradas no histórico recente;
+- modo: **NEW/TRANSFERÊNCIA**, sem reteste intencional;
+- excluídas famílias saturadas no dia (Poisson direto, período fundamental, ROC/polos, eficiência espectral, SIP, campo distante/parabólica, Fresnel, EIRP, GEO×LEO, cluster, RSTP/MSTP, MP-BGP, EDFA, STM-1 e SMI);
+- critério: não considerar nova uma questão que apenas troca valores mantendo o mesmo caminho de solução.
+
+### Conteúdos cobrados
+1. Séries de Fourier — simetria ímpar.
+2. Convolução linear — comprimento da sequência resultante.
+3. Shannon — capacidade de canal.
+4. H.323 — MCU.
+5. Propagação ionosférica — rotação de Faraday.
+6. VSAT — TDMA no acesso compartilhado.
+7. RMON1 — grupo Host.
+8. IPSec — modo túnel.
+9. DWDM — mistura de quatro ondas.
+10. Regulamentação/UIT — Brasil na Região 2.
+
+### Respostas do usuário
+`B, D, C, C, C, C, D, C, B, B`
+
+### Gabarito
+`C, D, C, C, B, C, D, C, D, B`
+
+### Resultado base
+**7/10 = 70%**
+
+### Erros identificados
+1. **Fourier — simetria ímpar**
+   - sinal ímpar: termo médio nulo e somente termos em seno na série trigonométrica (podendo coeficientes específicos serem nulos).
+
+2. **Rotação de Faraday**
+   - `θ ∝ 1/f²`;
+   - dobrar a frequência divide a rotação por 4;
+   - triplicar a frequência divide por 9.
+
+3. **DWDM — efeitos não lineares**
+   - mistura de quatro ondas (FWM) = efeito não linear que pode gerar novas componentes ópticas e interferência entre canais;
+   - dispersão cromática = fenômeno linear associado principalmente ao alargamento temporal de pulsos.
+
+### Reparo dirigido — 6 questões
+Respostas do usuário:
+
+`B, D, B, E, C, B`
+
+Gabarito:
+
+`B, D, B, E, C, B`
+
+**Resultado do reparo: 6/6 = 100%**
+
+### Status
+- Fourier/paridade: **reparado**;
+- Faraday `1/f²`: **reparado**;
+- FWM × dispersão cromática: **reparado**.
+
+Este bloco foi considerado mais diagnóstico que o QTI-20 anterior porque o anti-repeat trouxe famílias pouco trabalhadas e revelou três lacunas reais que não apareceriam em mais uma repetição dos mesmos caminhos de solução.
 
 ---
 
@@ -289,11 +345,15 @@ A questão foi acertada, reforçando a consolidação da relação:
 - Item 7: **10/10**
 - Histórico Itens 5–7: **14/15**
 - QTI-10 final: **10/10**
-- QTI-20 misto dos 13 itens: **20/20**
+- QTI-20 misto dos 13 itens: **20/20** (classificar como retenção/consolidação por repetição semântica)
+- QTI-10 anti-repetição: **7/10**
 
-Total dos blocos principais de Telecom:
+Total base dos blocos principais de Telecom:
 
-**80/85 = 94,1%**
+**87/95 = 91,6%**
+
+### Reparos do QTI anti-repetição
+- 6/6 = **100%**
 
 ### Inglês
 - Texto novo: **9/10**
@@ -304,27 +364,22 @@ Total dos blocos principais de Telecom:
 - Reparo rather × rather than: **2/2**
 - Bloco final: **5/5**
 
-### Reparos relevantes do dia
-- eficiência espectral: retomada e acertada no QTI-10 e novamente no QTI-20;
-- SIP: reparado;
-- campo distante/parabólica: 4/4;
-- TDM: 2/2;
-- rather / rather than: reparado.
+### Pontos de atenção para revisão espaçada
+- Fourier: paridade e estrutura da série trigonométrica;
+- rotação de Faraday: dependência inversa com `f²`;
+- DWDM: distinguir FWM (não linear) de dispersão cromática (linear);
+- eficiência espectral: manter revisão espaçada, sem repetir em excesso;
+- Inglês: manter Skimming → Scanning → paráfrase e conectores.
 
-### Pontos fortes observados
-- Radiopropagação.
-- Antenas após reparo.
-- Fresnel e orçamento de enlace.
-- Telefonia/VoIP em nível histórico.
-- Z e período fundamental.
-- Satélite, LTE, redes, MPLS, óptica e regulamentação.
-- QTI-20 cobrindo os 13 itens: **20/20**.
-- Inglês com melhora clara quando aplicado o método Skimming/Scanning em vez de tradução integral.
+## Regra operacional para próximos QTIs
+Aplicar sempre o **anti-repeat preflight** antes de gerar questões no chat:
 
-### Ponto de atenção para revisão espaçada
-- continuar testando eficiência espectral com redações invertidas, mas sem excesso de repetição imediata;
-- manter **rather**, **rather than**, conectores de contraste, causa, consequência e condição em Inglês;
-- preservar a técnica de leitura: Skimming → Scanning → paráfrase.
+1. bloquear mesma questão/canonicalId quando já usada recentemente;
+2. bloquear mesma família semântica e mesmo caminho de solução quando ainda em cooldown;
+3. simples troca de números **não conta como questão nova**;
+4. RETEST e SPACED_RETEST devem ser declarados explicitamente;
+5. priorizar outro subtópico do item quando uma família estiver saturada;
+6. manter calibração CESGRANRIO/Transpetro e usar questões históricas para estilo e profundidade.
 
-## Fechamento
-Dia encerrado com **QTI-10 = 10/10** e **QTI-20 = 20/20**, com todos os erros relevantes do período tratados por reparo localizado.
+## Fechamento atualizado
+O dia termina com forte desempenho geral, mas com uma correção metodológica importante: o QTI-20 de 20/20 foi excelente como retenção, porém pouco diagnóstico devido à repetição. O QTI-10 anti-repetição seguinte marcou **7/10**, revelou três lacunas novas e todas foram fechadas em **6/6 no reparo**.
