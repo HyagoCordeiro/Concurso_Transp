@@ -1,0 +1,33 @@
+{
+  "studyDateLocal": "2026-10-18",
+  "qti": "QTI-10",
+  "rodada": "FECHAMENTO_13_ITENS",
+  "editalItem": "13_ITENS",
+  "tema": "QTI-10 misto CESGRANRIO/Transpetro",
+  "total": 10,
+  "acertos": 9,
+  "erros": 1,
+  "accuracy": 90.0,
+  "sourceType": "CESGRANRIO_TRANSPETRO_HISTORICO_ADAPTADO",
+  "answers": [
+    {"question": 1, "topic": "Probabilidade / Poisson", "answer": "C", "correct": true},
+    {"question": 2, "topic": "Resposta em frequencia / notch", "answer": "C", "correct": false, "correctAnswer": "A"},
+    {"question": 3, "topic": "Codificacao de canal + 64-QAM + largura de banda", "answer": "C", "correct": true},
+    {"question": 4, "topic": "Trafego em Erlangs", "answer": "B", "correct": true},
+    {"question": 5, "topic": "Dipolo de meia onda", "answer": "B", "correct": true},
+    {"question": 6, "topic": "Primeira Zona de Fresnel", "answer": "C", "correct": true, "note": "Correcao inicial do assistente estava errada; sqrt(50)=7.07 m, portanto C=7.1 m esta correta."},
+    {"question": 7, "topic": "Satelites GEO x LEO", "answer": "D", "correct": true},
+    {"question": 8, "topic": "5G / small cells / mmWave / Massive MIMO", "answer": "B", "correct": true},
+    {"question": 9, "topic": "Switch L2/L3 + SNMP SetRequest-PDU", "answer": "E", "correct": true},
+    {"question": 10, "topic": "Fibra optica + LGT", "answer": "C", "correct": true}
+  ],
+  "repair": {
+    "topic": "Resposta em frequencia / notch",
+    "correct": 2,
+    "total": 2,
+    "accuracy": 100.0,
+    "status": "REPARADO"
+  },
+  "keyRule": "Zero em s = +-j w0 implica rejeicao/notch em w = w0; verificar H(0) e o limite em alta frequencia.",
+  "finalStatus": "QTI final 90% com unico erro real reparado em 2/2. Fresnel foi acertado pelo usuario."
+}
