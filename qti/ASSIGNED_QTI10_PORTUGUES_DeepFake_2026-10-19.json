@@ -1,0 +1,45 @@
+{
+  "status": "ASSIGNED",
+  "assignedAt": "2026-10-19",
+  "qti": "QTI-10",
+  "disciplina": "Português",
+  "texto": "Entenda o que é deep fake e saiba como se proteger",
+  "fonte": "CESGRANRIO / Banco do Brasil 2023 — Prova B — QConcursos",
+  "sourceUrl": "https://arquivos.qconcursos.com/prova/arquivo_prova/95912/cesgranrio-2023-banco-do-brasil-agente-comercial-prova-b-prova.pdf",
+  "basedOnLessons": [
+    "qti/QTI10_Portugues_CESGRANRIO_resultado_2026-09-30.md",
+    "qti/QTI10_Portugues_resultado_2026-10-02.md",
+    "qti/QTI10_Portugues_QuantoMaisDificil_resultado_2026-10-08.md",
+    "qti/QTI10_Portugues_OAnoDaEsperanca_resultado_2026-10-10.md",
+    "qti/QTI10_Portugues_Virgula_ColocacaoPronominal_resultado_2026-10-11.md",
+    "qti/QTI10_Portugues_CAIXA2024_Mobilidade_resultado_2026-10-14.md"
+  ],
+  "focus": [
+    "interpretação e síntese",
+    "vocabulário contextual",
+    "pontuação: verbo + complemento",
+    "pontuação: explicativa x restritiva",
+    "conectores: concessão",
+    "ortografia e hífen",
+    "crase",
+    "colocação pronominal"
+  ],
+  "questionCanonicalIds": [
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q01",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q02",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q03",
+    "RETEST-CESGRANRIO-BB2023-DEEPFAKE-Q04",
+    "RETEST-CESGRANRIO-BB2023-DEEPFAKE-Q05",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q06",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q07",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q08",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q09",
+    "ADAPT-CESGRANRIO-BB2023-DEEPFAKE-Q10"
+  ],
+  "antiRepeatPreflight": {
+    "checked": true,
+    "sources": ["data/QUESTOES.json", "data/RESULTADOS.json", "qti/"],
+    "textPreviouslyFound": false,
+    "note": "Questões Q04 e Q05 são RETEST dirigidos de famílias previamente erradas; demais formulações são novas para este bloco."
+  }
+}
