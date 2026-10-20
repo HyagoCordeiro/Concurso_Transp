@@ -1,0 +1,63 @@
+{
+  "id": "QTI10-PORTUGUES-BB2023-DEEPFAKE-ORIGINAL",
+  "disciplina": "Português",
+  "banca": "CESGRANRIO",
+  "concurso": "Banco do Brasil 2023",
+  "cargo": "Agente Comercial",
+  "prova": "Prova B — Gabarito 1",
+  "texto": "Entenda o que é deep fake e saiba como se proteger",
+  "tipo": "10 questões originais",
+  "respostasUsuario": ["C", "A", "E", "A", "C", "B", "E", "E", "B", "D"],
+  "gabaritoOficial": ["C", "A", "A", "D", "C", "B", "E", "E", "D", "B"],
+  "totalQuestoes": 10,
+  "acertos": 6,
+  "erros": 4,
+  "percentual": 60,
+  "questoesErradas": [
+    {
+      "questao": 3,
+      "respostaUsuario": "E",
+      "gabarito": "A",
+      "topico": "Vocabulário contextual",
+      "regra": "Engendrar = criar, produzir, conceber, arquitetar."
+    },
+    {
+      "questao": 4,
+      "respostaUsuario": "A",
+      "gabarito": "D",
+      "topico": "Relação lógico-semântica / consequência",
+      "regra": "Estruturas do tipo tão/tanto/tamanho... que exprimem consequência."
+    },
+    {
+      "questao": 9,
+      "respostaUsuario": "B",
+      "gabarito": "D",
+      "topico": "Pontuação / vírgula",
+      "regra": "Não separar sujeito e verbo por vírgula; adjunto adverbial deslocado pode ser isolado por vírgula."
+    },
+    {
+      "questao": 10,
+      "respostaUsuario": "D",
+      "gabarito": "B",
+      "topico": "Colocação pronominal",
+      "regra": "Palavra atrativa como 'quando' exige próclise: quando se mantém; infinitivo admite ênclise: aceitá-lo."
+    }
+  ],
+  "pontosFortesNoBloco": [
+    "Interpretação e progressão textual: 2/2",
+    "Concordância: 2/2",
+    "Referenciação: correta",
+    "Crase: correta"
+  ],
+  "diagnostico": {
+    "prioridades": [
+      "Pontuação estrutural — sujeito/verbo e verbo/complemento",
+      "Colocação pronominal com palavra atrativa",
+      "Relações lógico-semânticas — consequência",
+      "Vocabulário contextual"
+    ],
+    "observacao": "Pontuação permanece como ponto prioritário nas lições de Português; colocação pronominal já apresentou melhora em reforços, mas a palavra atrativa ainda requer reteste."
+  },
+  "nextAction": "REPAIR_AND_RETEST",
+  "origem": "Respostas informadas pelo usuário e conferência com o gabarito oficial da Prova B — Gabarito 1."
+}
