@@ -1,0 +1,38 @@
+{
+  "id": "QTI10-INGLES-ZEROTRUST-2026-10-19",
+  "data": "2026-10-19",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Zero Trust OT",
+  "tema": "Zero-trust security in industrial networks",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "origem": "captura de tela enviada pelo usuário",
+  "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO",
+  "diagnosticValidity": "VALID",
+  "antiRepeatViolation": false,
+  "itensErrados": [
+    {
+      "questionId": "Q8",
+      "topico": "Inferência textual",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "observacao": "Visibilidade incompleta pode dificultar a detecção de comportamento suspeito."
+    }
+  ],
+  "pontosFortes": [
+    "ideia central",
+    "informação explícita",
+    "referência textual",
+    "therefore = consequence",
+    "legacy = older/inherited",
+    "could = possibility",
+    "nevertheless = however",
+    "rather = correção/reformulação de sentido",
+    "INCORRECT"
+  ],
+  "nextAction": "MICRO_REPAIR_Q8_AND_SPACED_RETEST",
+  "observacao": "Desempenho forte. Único erro em inferência no parágrafo sobre visibility/monitoring."
+}
