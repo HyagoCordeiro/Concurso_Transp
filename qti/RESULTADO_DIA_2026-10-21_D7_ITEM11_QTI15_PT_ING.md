@@ -227,7 +227,7 @@ Reparo imediato concluído. Retestar sem pares óbvios em sessão futura.
 
 ---
 
-## 9) Resumo numérico
+## 9) Resumo numérico — primeira parte do dia
 
 | Bloco | Resultado |
 |---|---:|
@@ -247,33 +247,232 @@ QTI-10 aquecimento + D7 Item 11 + histórico Item 11 + QTI-15:
 
 **44/45 = 97,8%**
 
-Este valor representa os principais blocos técnicos diagnósticos do dia, antes dos reparos.
+---
+
+# Sessão extra — antecipação do cronograma de 22/10
+
+## 10) QTI-10 aquecimento Telecom extra
+
+**Resultado: 10/10 — 100%**
+
+Famílias cobradas:
+- números complexos;
+- propriedade de deslocamento em Fourier;
+- Nyquist/amostragem;
+- Carson;
+- Erlang C;
+- diretividade de antenas;
+- zona de Fresnel;
+- SNMPv3;
+- handover LTE;
+- dispersão modal em fibra.
+
+### Status
+**Aquecimento perfeito.**
 
 ---
 
-## 10) Pontos para D7/reteste futuro
+## 11) D7 antecipado — Item 12: Sistemas Ópticos
 
-1. **Probabilidade:** traduzir o enunciado antes da fórmula; não inverter `P(A|B)` e `P(B|A)`.
-2. **PCM:** `+1 bit ≈ +6 dB` de SQNR; `L=2^N`.
-3. **Português:** VTI + `se` → índice de indeterminação do sujeito; verbo no singular.
-4. **Inglês:** separar condition, cause e consequence sem depender de tradução mecânica.
+**Resultado: 10/10 — 100%**
+
+Conteúdos:
+- fibra monomodo x multimodo;
+- dispersão modal;
+- atenuação em dB/km;
+- orçamento óptico;
+- EDFA;
+- CWDM x DWDM;
+- espaçamento CWDM;
+- STM-1;
+- E-LAN;
+- transponder;
+- transparência do WDM.
+
+### Status
+**Item 12 forte no D7. Sem reparo necessário.**
 
 ---
 
-## 11) Leitura do desempenho do dia
+## 12) Histórico CESGRANRIO adaptado — Item 12
 
-- Item 11 permaneceu muito forte: **20/20** entre D7 e histórico/adaptado.
-- QTI-15 misto mostrou desempenho alto e estável: **93,3%**.
-- Não houve a mesma queda progressiva de atenção observada no final do dia anterior.
-- Os erros ficaram concentrados em regras pontuais e interpretação de relação lógica, sem indicação de perda ampla de conteúdo técnico.
+Baseado em famílias reais já encontradas no acervo CESGRANRIO/Petrobras/Transpetro, com valores e redação modificados quando necessário.
+
+**Resultado: 10/10 — 100%**
+
+Famílias históricas revisitadas:
+- WDM e transparência de protocolo/taxa;
+- CWDM x DWDM;
+- orçamento óptico;
+- EDFA;
+- STM-4;
+- EVC;
+- E-LAN;
+- transponder;
+- espaçamento CWDM;
+- combinação TDM + WDM.
+
+### Consolidado Item 12
+- D7: 10/10
+- histórico/adaptado: 10/10
+- total: **20/20 — 100%**
 
 ---
 
-## 12) Próximo passo
+## 13) Probabilidade — reteste dirigido
 
-Para 22/10/2026:
+**Resultado: 5/5 — 100%**
 
-- D7 do **Item 12 — Sistemas Ópticos**;
-- questões históricas CESGRANRIO de óptica/Metro Ethernet quando disponíveis;
-- QTI misto anti-repetição;
-- retestes curtos dos quatro pontos anotados acima, sem pistas ou repetição literal.
+Famílias:
+- interpretação de `P(Fibra|Falha)`;
+- Bayes;
+- sem reposição;
+- Poisson;
+- processo WSS.
+
+### Ponto mais importante
+O erro de inversão de condicional ocorrido antes no dia **não se repetiu**.
+
+Regra consolidada:
+
+**“Dado/sabendo que B...” → B fica depois da barra em `P(A|B)`.**
+
+### Status
+**Reteste bem-sucedido. Manter revisão espaçada.**
+
+---
+
+## 14) QTI-15 misto extra — 13 itens
+
+**Resultado: 15/15 — 100%**
+
+Conteúdos:
+- esperança matemática;
+- convolução LTI;
+- estabilidade em z;
+- 16-QAM e baud rate;
+- Erlang;
+- dipolo de meia onda;
+- perda de espaço livre;
+- banda Ka;
+- LTE/OFDMA;
+- STP;
+- Longest Prefix Match;
+- atenuação em fibra;
+- Anatel/espectro;
+- comprimento de convolução;
+- PCM/SQNR.
+
+### Observação
+A questão 12 foi respondida separadamente após o usuário enviar inicialmente 14 respostas. Resposta correta: perda de 6 dB em 30 km a 0,20 dB/km.
+
+### Status
+**QTI perfeito. O erro anterior de SQNR/PCM não se repetiu.**
+
+---
+
+## 15) Português — manutenção extra
+
+### Bloco geral
+**Resultado: 4/5 — 80%**
+
+Acertos:
+- concordância com `haver`;
+- crase/regência;
+- valor do `se`;
+- pontuação.
+
+Erro:
+- emprego dos porquês.
+
+### Diagnóstico de porquês — 5 questões
+**Resultado: 2/5**
+
+Acertos:
+- `por quê` no final da frase;
+- `o porquê` como substantivo.
+
+Dificuldade:
+- distinguir `por que` em perguntas indiretas de `porque` causal.
+
+### Reparo 1 — 3 questões
+**Resultado: 1/3**
+
+### Reparo 2 — contraste apenas `por que` x `porque`
+**Resultado: 3/3 — 100%**
+
+Regra usada:
+- `por que` = por qual motivo;
+- `porque` = pois/causa;
+- `por quê` = final de frase;
+- `porquê` = substantivo, normalmente com artigo.
+
+### Fechamento ampliado — 10 questões
+**Resultado: 10/10 — 100%**
+
+Distribuição incluiu os quatro usos.
+
+### Status
+**Reparo imediato concluído com sucesso. Retestar em D7 sem pistas.**
+
+---
+
+## 16) Inglês — manutenção extra
+
+**Resultado: 5/5 — 100%**
+
+Conectores:
+- `because` = cause;
+- `therefore` = consequence;
+- `although` = concession;
+- `if` = condition;
+- `so that` = purpose.
+
+### Status
+**Conectores sólidos no fechamento do dia.**
+
+---
+
+## 17) Resumo da sessão extra
+
+| Bloco | Resultado |
+|---|---:|
+| QTI-10 aquecimento extra | 10/10 |
+| D7 Item 12 | 10/10 |
+| Histórico/adaptado Item 12 | 10/10 |
+| Probabilidade reteste | 5/5 |
+| QTI-15 misto extra | 15/15 |
+| Português geral | 4/5 |
+| Inglês | 5/5 |
+| Porquês diagnóstico | 2/5 |
+| Porquês reparo 1 | 1/3 |
+| Porquês reparo 2 | 3/3 |
+| Porquês fechamento | 10/10 |
+
+### Indicador técnico da sessão extra
+Aquecimento + D7 Item 12 + histórico Item 12 + Probabilidade + QTI-15:
+
+**50/50 — 100%**
+
+---
+
+## 18) Pontos para revisão futura
+
+1. **Probabilidade:** manter tradução do enunciado em eventos antes da fórmula, especialmente condicionais.
+2. **PCM/SQNR:** erro corrigido; retestar em D7 sem pista.
+3. **Português — `se`:** VTI + `se` → índice de indeterminação do sujeito; verbo no singular.
+4. **Português — porquês:** principal ponto novo do dia; embora tenha fechado 10/10 após reparo, precisa reaparecer em revisão espaçada.
+5. **Inglês:** conectores fecharam em 5/5; apenas manutenção.
+6. **Item 11:** 20/20 no consolidado do dia.
+7. **Item 12:** 20/20 no D7 + histórico.
+
+---
+
+## 19) Leitura final do desempenho
+
+- Houve **desempenho técnico muito alto e estável** ao longo do dia.
+- Item 11 e Item 12 fecharam com domínio forte nas revisões e nos blocos históricos adaptados.
+- A fraqueza mais clara do fechamento foi **Português — porquês**, mas houve evolução de 2/5 e 1/3 para 3/3 e, finalmente, 10/10.
+- O erro de probabilidade condicional foi corrigido no mesmo dia e não reapareceu no reteste.
+- O erro de SQNR/PCM também não reapareceu no QTI extra.
+- Como a sessão já acumulou grande volume e desempenho alto, o próximo passo recomendado é **encerrar o dia e retomar com revisão espaçada**, em vez de acrescentar matéria nova ou mais volume imediato.
