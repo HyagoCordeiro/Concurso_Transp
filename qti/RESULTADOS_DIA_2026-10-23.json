@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-23",
+  "timezone": "America/Sao_Paulo",
+  "target": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "classification": "REVISAO_PRATICA_GUIADA_RETESTE",
+  "global": {
+    "answered": 111,
+    "correct": 101,
+    "accuracy": 91.0,
+    "clean_simulation": false,
+    "note": "Percentual global mistura blocos-base, reforcos e retestes."
+  },
+  "blocks": [
+    {"name":"QTI-10 aquecimento Telecom","correct":8,"total":10,"accuracy":80.0,"errors":["EIRP","C/N em cascata"]},
+    {"name":"Reforco EIRP e C/N","correct":6,"total":6,"accuracy":100.0},
+    {"name":"D7 Item 12 Sistemas Opticos","correct":8,"total":10,"accuracy":80.0,"errors":["WDM canais x intervalos","dBm"]},
+    {"name":"Reforco Item 12","correct":6,"total":6,"accuracy":100.0},
+    {"name":"D21 Wi-Fi + MPLS","correct":6,"total":8,"accuracy":75.0,"details":{"wifi":"2/4","mpls":"4/4"}},
+    {"name":"Reforco Wi-Fi","correct":5,"total":6,"accuracy":83.3,"details":{"802.11g":"2/3","802.11ac_ax":"3/3"}},
+    {"name":"Probabilidade","correct":5,"total":5,"accuracy":100.0,"note":"Houve ajuste conceitual na traducao de 'no maximo 2'."},
+    {"name":"Revisao eficiencia espectral + EIRP","correct":4,"total":4,"accuracy":100.0},
+    {"name":"QTI-20 misto Telecom","correct":20,"total":20,"accuracy":100.0},
+    {"name":"QTI-10 Portugues","correct":8,"total":10,"accuracy":80.0,"errors":["classe de palavras","concordancia verbal"]},
+    {"name":"Reforco Portugues - classes","correct":3,"total":3,"accuracy":100.0},
+    {"name":"Reforco Portugues - concordancia","correct":2,"total":3,"accuracy":66.7},
+    {"name":"QTI-10 Ingles","correct":10,"total":10,"accuracy":100.0},
+    {"name":"Reteste final dos erros","correct":10,"total":10,"accuracy":100.0}
+  ],
+  "priority_next_review": [
+    "Wi-Fi 802.11g/ac/ax",
+    "Concordancia verbal: haver/fazer versus existir/ocorrer",
+    "Probabilidade: traducao do enunciado antes da formula",
+    "WDM: numero de intervalos = canais - 1",
+    "C/N em cascata: converter dB para linear"
+  ]
+}
