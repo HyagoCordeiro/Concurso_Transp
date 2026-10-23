@@ -1,0 +1,41 @@
+{
+  "id": "QTI10-INGLES-PIPELINE-MONITORING-2026-10-22",
+  "data": "2026-10-22",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "titulo": "QTI-10 — Inglês CESGRANRIO — Pipeline Monitoring and Safety",
+  "tema": "Pipeline monitoring, safety and operational risk",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "diagnosticValidity": "VALID",
+  "antiRepeatViolation": false,
+  "respostas": ["C", "D", "B", "B", "A", "D", "A", "B", "C", "D"],
+  "gabarito": ["C", "D", "B", "B", "C", "D", "A", "B", "C", "D"],
+  "itensErrados": [
+    {
+      "questionId": "Q5",
+      "topico": "Conectores — consequência",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "expressao": "therefore",
+      "observacao": "Confundiu consequência com contraste. Therefore = portanto / consequentemente; introduz consequência ou conclusão."
+    }
+  ],
+  "pontosFortes": [
+    "interpretação textual",
+    "although = contraste/concessão",
+    "if = condição",
+    "greatly = significantly",
+    "in order to = propósito",
+    "because of = causa",
+    "however = contraste",
+    "before = anterioridade",
+    "identificação de informação explícita"
+  ],
+  "pontoRevisao": "Diferenciar contraste de consequência: although/however = contraste; therefore = consequência/conclusão.",
+  "nextAction": "MICRO_REPAIR_CONNECTORS_THEREFORE_AND_SPACED_RETEST",
+  "observacao": "Resultado 9/10 (90%). Único erro na questão 5, envolvendo o valor semântico de therefore."
+}
