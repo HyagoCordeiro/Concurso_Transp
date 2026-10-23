@@ -9,10 +9,11 @@ Sessão de consolidação para CESGRANRIO/Transpetro — Engenharia de Telecomun
 - Item 13 — bloco teórico/autoral: **10/10**
 - Probabilidade: **5/5**
 - QTI-15 misto: **14/15**
-- Português: **5/5**
+- Português — bloco curto: **5/5**
 - Inglês: **5/5**
+- QTI-10 Português com texto: **10/10**
 
-**Total válido principal: 49/50 = 98,0%**
+**Total válido principal: 59/60 = 98,3%**
 
 > O bloco histórico adaptado de Item 13 (8/10) não deve ser usado no indicador principal, porque houve adaptação excessiva de uma questão histórica já disponível integralmente no acervo. Regra reafirmada: quando a questão original CESGRANRIO estiver disponível, apresentá-la como original, preservando enunciado e alternativas; só adaptar quando explicitamente rotulada como adaptada.
 
@@ -140,7 +141,7 @@ Demais tópicos do QTI-15 acertados:
 
 ---
 
-## 5. Português
+## 5. Português — bloco curto
 
 Resultado: **5/5**
 
@@ -170,11 +171,57 @@ Desempenho: **100%**.
 
 ---
 
+## 7. QTI-10 — Português com texto
+
+Resultado: **10/10 = 100%**
+
+Texto-base: **“Implantação do código de ética nas empresas” — CESGRANRIO / BANRISUL / 2023**.
+
+Formato:
+- texto completo como base da bateria;
+- 10 questões;
+- uma questão por vez;
+- correção comentada imediata;
+- nível e estilo CESGRANRIO.
+
+Gabarito respondido: **C, D, C, B, B, C, C, C, C, D**.
+
+Todas as respostas foram corretas.
+
+### Habilidades cobradas
+1. **Compreensão global / tese central** — correta.
+2. **Coesão referencial** — identificação do referente de “o qual” — correta.
+3. **Conectores** — valor conclusivo de “portanto” — correta.
+4. **Inferência** — compreensão de que a ética se transforma historicamente — correta.
+5. **Conectores** — valor adversativo de “mas” — correta.
+6. **Interpretação textual** — função do Código de Ética — correta.
+7. **Referência pronominal** — referente de “seu conteúdo” — correta.
+8. **Relação lógica** — valor explicativo/causal de “pois” — correta.
+9. **Semântica contextual** — sentido de “mais humana” — correta.
+10. **Coesão e interpretação** — “portanto” como conclusão do desenvolvimento argumentativo — correta.
+
+### Diagnóstico de Português
+- **Interpretação:** muito consistente.
+- **Inferência:** consistente.
+- **Coesão referencial:** consistente.
+- **Conectores:** domínio seguro de oposição, causa/explicação e conclusão.
+- **Semântica contextual:** consistente.
+- **Erros:** nenhum neste bloco.
+
+Próximo passo recomendado para Português: elevar gradualmente a dificuldade, mantendo texto como base, com maior presença de **reescrita, substituição de conectores, crase, regência e alterações de sentido**, sempre contextualizadas no texto e calibradas ao padrão CESGRANRIO.
+
+---
+
 ## Diagnóstico do dia
 
-Desempenho técnico muito forte, com **98,0%** no conjunto principal válido.
+Desempenho técnico muito forte, com **98,3%** no conjunto principal válido (**59/60**).
 
-Ponto que exigiu reparo:
+### Português no dia
+- bloco curto: **5/5**
+- QTI-10 com texto: **10/10**
+- consolidado de Português: **15/15 = 100%**
+
+Ponto que exigiu reparo na parte técnica:
 - **EIRP e conversão de ganho em dB para fator linear**, especialmente 3 dB ≈ ×2.
 
 Ponto metodológico importante:
@@ -184,4 +231,5 @@ Ponto metodológico importante:
 - continuar consolidação/revisões D7/D21;
 - priorizar questões originais CESGRANRIO de regulamentação e telecom;
 - manter probabilidade com tradução do enunciado antes da fórmula;
+- em Português, manter QTI com texto e subir progressivamente a dificuldade de gramática contextualizada e reescrita;
 - usar QConcursos/TecConcursos como apoio de banco, mantendo prioridade CESGRANRIO e Telecom/áreas afins.
