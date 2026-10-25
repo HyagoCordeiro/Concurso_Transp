@@ -1,0 +1,87 @@
+{
+  "studyDateLocal": "2026-10-25",
+  "targetExam": "Transpetro 2026 - Engenheiro(a) de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "examDate": "2026-11-06",
+  "classification": "revisao + pratica guiada + QTI",
+  "baseQuestions": 64,
+  "baseCorrect": 61,
+  "baseAccuracy": 95.3,
+  "blocks": [
+    {
+      "name": "QTI-30 bloco 3 respondido no chat",
+      "questions": 10,
+      "correct": 7,
+      "accuracy": 70.0,
+      "errors": [
+        "IEEE 802.11e EDCA",
+        "Polarizacao e perda por descasamento",
+        "MPLS-TE RSVP-TE ERO x RRO"
+      ]
+    },
+    {
+      "name": "Revisao tecnica dirigida",
+      "questions": 12,
+      "correct": 12,
+      "accuracy": 100.0,
+      "topics": [
+        "IEEE 802.11e EDCA",
+        "Polarizacao",
+        "MPLS-TE ERO x RRO",
+        "C/N em cascata",
+        "Transformada Z ROC estabilidade"
+      ]
+    },
+    {
+      "name": "QTI-20 Telecom 13 itens",
+      "questions": 20,
+      "correct": 20,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Probabilidade",
+      "questions": 6,
+      "correct": 6,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Sinais e Sistemas",
+      "questions": 6,
+      "correct": 6,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Portugues",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Ingles",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0
+    }
+  ],
+  "consolidatedPoints": [
+    "EDCA: menor AIFS e menor CWmin aumentam prioridade",
+    "Polarizacao linear x circular ideal: perda aproximada de 3 dB",
+    "ERO define caminho desejado; RRO registra caminho percorrido",
+    "Duas relacoes C/N iguais: total aproximadamente 3 dB abaixo",
+    "BIBO estavel em sistema discreto: ROC contem o circulo unitario",
+    "RD diferencia rotas VPNv4; RT controla importacao/exportacao",
+    "Probabilidade: traduzir evento antes da formula",
+    "Therefore = consequencia/conclusao; although/however = contraste"
+  ],
+  "nextPriorities": [
+    "C/N em cascata",
+    "Transformada Z ROC estabilidade",
+    "EDCA em novo contexto",
+    "ERO x RRO em contexto indireto",
+    "QTI misto com novidades reais nos 13 itens",
+    "Probabilidade com traducao do evento",
+    "Portugues concordancia e regencia",
+    "Ingles conectores em texto tecnico"
+  ],
+  "methodologyNote": "Nao tratar o aproveitamento global como simulado independente, pois agrega revisao, reparo e pratica guiada."
+}
