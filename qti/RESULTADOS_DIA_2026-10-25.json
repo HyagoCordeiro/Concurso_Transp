@@ -3,10 +3,10 @@
   "targetExam": "Transpetro 2026 - Engenheiro(a) de Telecomunicacoes",
   "board": "CESGRANRIO",
   "examDate": "2026-11-06",
-  "classification": "revisao + pratica guiada + QTI",
-  "baseQuestions": 64,
-  "baseCorrect": 61,
-  "baseAccuracy": 95.3,
+  "classification": "revisao + pratica guiada + QTI + bateria mista",
+  "baseQuestions": 134,
+  "baseCorrect": 115,
+  "baseAccuracy": 85.8,
   "blocks": [
     {
       "name": "QTI-30 bloco 3 respondido no chat",
@@ -61,6 +61,37 @@
       "questions": 5,
       "correct": 5,
       "accuracy": 100.0
+    },
+    {
+      "name": "Bateria final 70 questoes - 7 blocos",
+      "questions": 70,
+      "correct": 54,
+      "accuracy": 77.1,
+      "distribution": {
+        "telecom": {"questions": 50, "correct": 39, "accuracy": 78.0},
+        "portugues": {"questions": 10, "correct": 8, "accuracy": 80.0},
+        "ingles": {"questions": 10, "correct": 7, "accuracy": 70.0}
+      },
+      "blockScores": ["7/10", "8/10", "9/10", "6/10", "8/10", "10/10", "6/10"],
+      "errors": [
+        "Gaussianas conjuntas: covariancia nula e independencia",
+        "Polos complexos e resposta natural",
+        "Concordancia verbal com haver",
+        "Deslocamento temporal em Fourier",
+        "provided that = condicao",
+        "Duracao/suporte da convolucao",
+        "Probabilidade condicional",
+        "Distancia de Hamming e deteccao",
+        "Ressonancia de antena: parte reativa nula",
+        "Concordancia verbal existir/ocorrer/haver",
+        "Autocorrelacao WSS real e funcao par",
+        "so that = finalidade",
+        "Media e variancia binomial",
+        "Entropia de fonte binaria equiprovavel",
+        "Polarizacao circular",
+        "due to = causa"
+      ],
+      "reinforcementDeferredByUser": true
     }
   ],
   "consolidatedPoints": [
@@ -74,14 +105,14 @@
     "Therefore = consequencia/conclusao; although/however = contraste"
   ],
   "nextPriorities": [
+    "Consultar primeiro o GitHub no inicio de cada dia",
+    "Revisar os 16 erros da bateria de 70 apenas se o usuario solicitar",
     "C/N em cascata",
     "Transformada Z ROC estabilidade",
-    "EDCA em novo contexto",
-    "ERO x RRO em contexto indireto",
     "QTI misto com novidades reais nos 13 itens",
     "Probabilidade com traducao do evento",
     "Portugues concordancia e regencia",
     "Ingles conectores em texto tecnico"
   ],
-  "methodologyNote": "Nao tratar o aproveitamento global como simulado independente, pois agrega revisao, reparo e pratica guiada."
+  "methodologyNote": "Nao tratar o aproveitamento global acumulado do dia como simulado independente. A bateria final de 70 questoes deve ser acompanhada separadamente como 54/70 (77,1%)."
 }
