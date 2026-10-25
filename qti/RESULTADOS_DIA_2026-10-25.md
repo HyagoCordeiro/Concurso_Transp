@@ -8,9 +8,9 @@
 
 ## Resumo executivo
 
-- **Questões-base contabilizadas no chat de hoje:** 64
-- **Acertos-base:** 61
-- **Aproveitamento-base:** **95,3%**
+- **Questões-base contabilizadas no chat de hoje:** 134
+- **Acertos-base:** 115
+- **Aproveitamento-base acumulado do dia:** **85,8%**
 - **Revisão técnica dirigida:** **12/12 (100%)**
 - **QTI-20 Telecom:** **20/20 (100%)**
 - **Probabilidade:** **6/6 (100%)**
@@ -18,6 +18,7 @@
 - **Português:** **5/5 (100%)**
 - **Inglês:** **5/5 (100%)**
 - **QTI-30 — bloco 3 respondido no chat antes do cronograma:** **7/10 (70%)**
+- **Bateria final de 70 questões:** **54/70 (77,1%)**
 
 > Observação: o QTI-30 anterior teve os dois primeiros blocos apresentados em formato interativo, mas esse formato foi abandonado por prejudicar a leitura das fórmulas. Apenas o bloco 3, respondido normalmente no chat, entra neste fechamento.
 
@@ -163,16 +164,52 @@ Vocabulário/conectores consolidados:
 - before = relação temporal;
 - essential = essencial/indispensável.
 
+## 8. Bateria final — 70 questões em 7 blocos
+
+**Resultado:** **54/70 (77,1%)**.
+
+Distribuição:
+- **Telecom / conhecimentos específicos:** 39/50 (78%)
+- **Português:** 8/10 (80%)
+- **Inglês técnico:** 7/10 (70%)
+
+Resultados por bloco:
+- Bloco 1: 7/10
+- Bloco 2: 8/10
+- Bloco 3: 9/10
+- Bloco 4: 6/10
+- Bloco 5: 8/10
+- Bloco 6: 10/10
+- Bloco 7: 6/10
+
+Erros-base registrados para eventual reforço posterior, sem reforço nesta etapa por decisão do usuário:
+- variáveis conjuntamente gaussianas: covariância nula e independência;
+- polos complexos e comportamento da resposta natural;
+- concordância verbal com haver;
+- deslocamento temporal na Transformada de Fourier;
+- provided that = condição;
+- duração/suporte da convolução;
+- probabilidade condicional;
+- distância mínima de Hamming e capacidade de detecção;
+- ressonância de antenas: componente reativa nula;
+- concordância verbal com existir/ocorrer/haver;
+- autocorrelação WSS real como função par;
+- so that = finalidade;
+- média e variância da distribuição binomial;
+- entropia de fonte binária equiprovável;
+- polarização circular: componentes ortogonais de mesma amplitude e 90 graus de defasagem;
+- due to = causa.
+
 ## Prioridades para a próxima sessão
 
-1. Manter revisão espaçada de C/N em cascata e Transformada Z/ROC.
-2. Retestar EDCA em contexto diferente, sem repetir a mesma pergunta.
-3. Retestar ERO x RRO de forma indireta e em cenário de sinalização RSVP-TE.
+1. Consultar primeiro o GitHub antes de montar o cronograma ou retomar os estudos.
+2. Revisar os 16 erros da bateria de 70 apenas se o usuário solicitar reforço.
+3. Manter revisão espaçada de C/N em cascata e Transformada Z/ROC.
 4. Continuar QTI misto com novidades reais nos 13 itens, priorizando CESGRANRIO/Petrobras/Transpetro e usando QConcursos/TecConcursos como base de busca.
 5. Probabilidade: manter tradução do evento antes da fórmula.
-6. Português: concordância/regência em textos CESGRANRIO.
-7. Inglês: conectores dentro de textos técnicos, com atenção a therefore x although/however.
+6. Português: concordância e regência em textos CESGRANRIO.
+7. Inglês: conectores dentro de textos técnicos.
 
 ## Observação metodológica
 
-O desempenho de 95,3% agrega blocos de revisão, reparo e prática guiada. O indicador mais relevante para hoje é que, após os reparos do início da sessão, a revisão técnica fechou 12/12 e o QTI-20 seguinte fechou 20/20. Não usar o agregado diário como equivalente a um simulado independente.
+O desempenho acumulado do dia mistura revisão, reparo, prática guiada e bateria mista. A bateria final de 70 questões deve ser acompanhada separadamente como **54/70 (77,1%)**. Não usar o agregado diário de 85,8% como equivalente a um simulado independente.
