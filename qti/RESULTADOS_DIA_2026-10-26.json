@@ -1,0 +1,33 @@
+{
+  "studyDateLocal": "2026-10-26",
+  "targetExam": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "examDate": "2026-12-06",
+  "blocks": [
+    {"name":"Revisao inicial dos erros da bateria de 70","questions":15,"correct":8,"accuracy":53.3},
+    {"name":"Revisao comentada dos 7 erros","questions":7,"correct":6,"accuracy":85.7,"note":"Erro inicial em Hamming; foco em leitura do enunciado."},
+    {"name":"Reforco Hamming","questions":3,"correct":3,"accuracy":100.0},
+    {"name":"QTI-20 Telecom","questions":20,"correct":19,"accuracy":95.0,"errors":["Fourier: x(t)e^{j2pi f0 t} -> X(f-f0)"]},
+    {"name":"Probabilidade","questions":6,"correct":5,"accuracy":83.3,"errors":["Hipergeometrica em amostragem sem reposicao"]},
+    {"name":"Sinais e Fourier","questions":6,"correct":5,"accuracy":83.3,"errors":["Suporte da convolucao"]},
+    {"name":"Reforco suporte da convolucao","questions":2,"correct":2,"accuracy":100.0},
+    {"name":"Bateria mista 30","questions":30,"correct":26,"accuracy":86.7,"contentAdjustedCorrect":27,"contentAdjustedAccuracy":90.0,"note":"Usuario declarou que a questao de Poisson foi erro de marcacao, nao de conteudo.","byArea":{"telecom":{"correct":17,"total":20,"accuracy":85.0},"portugues":{"correct":5,"total":5,"accuracy":100.0},"ingles":{"correct":4,"total":5,"accuracy":80.0}}},
+    {"name":"Reforco Yagi-Uda e IEEE 802.1p PCP","questions":4,"correct":4,"accuracy":100.0},
+    {"name":"Antenas - bloco inedito","questions":5,"correct":5,"accuracy":100.0,"topics":["Fraunhofer","eficiencia de radiacao","abertura efetiva","array broadside","relacao frente-costas"]}
+  ],
+  "consolidatedPoints": [
+    "Hamming: detectar = dmin-1; corrigir = floor((dmin-1)/2)",
+    "Convolucao: [a,b]*[c,d] -> [a+c,b+d]",
+    "Amostragem sem reposicao em populacao finita -> hipergeometrica",
+    "Yagi-Uda: refletor atras, excitado ao centro, diretores a frente",
+    "IEEE 802.1p PCP: 3 bits -> 8 prioridades",
+    "eventually = por fim/finalmente/acabar por",
+    "Data oficial da prova: 2026-12-06"
+  ],
+  "nextPriorities": [
+    "Blocos de 5 questoes ineditas por materia escolhida pelo usuario",
+    "Priorizar CESGRANRIO/Transpetro/Petrobras e QConcursos",
+    "Treinar leitura do enunciado antes da formula",
+    "Respeitar anti-repeticao no mesmo dia"
+  ]
+}
