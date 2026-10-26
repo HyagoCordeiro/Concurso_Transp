@@ -13,7 +13,10 @@
     {"name":"Reforco suporte da convolucao","questions":2,"correct":2,"accuracy":100.0},
     {"name":"Bateria mista 30","questions":30,"correct":26,"accuracy":86.7,"contentAdjustedCorrect":27,"contentAdjustedAccuracy":90.0,"note":"Usuario declarou que a questao de Poisson foi erro de marcacao, nao de conteudo.","byArea":{"telecom":{"correct":17,"total":20,"accuracy":85.0},"portugues":{"correct":5,"total":5,"accuracy":100.0},"ingles":{"correct":4,"total":5,"accuracy":80.0}}},
     {"name":"Reforco Yagi-Uda e IEEE 802.1p PCP","questions":4,"correct":4,"accuracy":100.0},
-    {"name":"Antenas - bloco inedito","questions":5,"correct":5,"accuracy":100.0,"topics":["Fraunhofer","eficiencia de radiacao","abertura efetiva","array broadside","relacao frente-costas"]}
+    {"name":"Antenas - bloco inedito","questions":5,"correct":5,"accuracy":100.0,"topics":["Fraunhofer","eficiencia de radiacao","abertura efetiva","array broadside","relacao frente-costas"]},
+    {"name":"Portugues - uso da virgula","questions":10,"validQuestions":9,"correct":9,"accuracyValid":100.0,"invalidQuestions":1,"note":"Uma questao anulada por ambiguidade na formulacao sobre retirada das virgulas e mudanca explicativa/restritiva."},
+    {"name":"Portugues - texto estilo CESGRANRIO","questions":10,"correct":9,"accuracy":90.0,"errors":["porem intercalado = conjuncao adversativa intercalada, nao aposto explicativo"]},
+    {"name":"Ingles - petroleo, guerra e Estreito de Hormuz","questions":10,"correct":9,"accuracy":90.0,"errors":["eventually = finally/after some time, nao occasionally"]}
   ],
   "consolidatedPoints": [
     "Hamming: detectar = dmin-1; corrigir = floor((dmin-1)/2)",
@@ -21,13 +24,27 @@
     "Amostragem sem reposicao em populacao finita -> hipergeometrica",
     "Yagi-Uda: refletor atras, excitado ao centro, diretores a frente",
     "IEEE 802.1p PCP: 3 bits -> 8 prioridades",
-    "eventually = por fim/finalmente/acabar por",
+    "Adjunto/oracao adverbial deslocados costumam ser isolados por virgula",
+    "Nao separar sujeito e verbo nem verbo e complemento por virgula",
+    "porem intercalado = conjuncao adversativa intercalada",
+    "eventually = por fim/finalmente/com o tempo/acabar por",
+    "occasionally = ocasionalmente/eventualmente",
     "Data oficial da prova: 2026-12-06"
+  ],
+  "activeWeaknesses": [
+    "eventually x occasionally - erro recorrente no mesmo dia",
+    "funcao sintatica/gramatical especifica de elementos isolados por virgula",
+    "Fourier: deslocamento por exponencial complexa",
+    "Hipergeometrica em amostragem sem reposicao",
+    "Leitura precisa de palavras-chave do enunciado"
   ],
   "nextPriorities": [
     "Blocos de 5 questoes ineditas por materia escolhida pelo usuario",
     "Priorizar CESGRANRIO/Transpetro/Petrobras e QConcursos",
     "Treinar leitura do enunciado antes da formula",
-    "Respeitar anti-repeticao no mesmo dia"
+    "Respeitar anti-repeticao no mesmo dia",
+    "Textos de Portugues e Ingles em estilo CESGRANRIO",
+    "Em Ingles priorizar petroleo, energia, tecnologia e geopolitica",
+    "Reforcar eventually x occasionally"
   ]
 }
