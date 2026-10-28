@@ -1,0 +1,80 @@
+{
+  "studyDateLocal": "2026-10-27",
+  "targetExam": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "examDate": "2026-12-06",
+  "classification": "revisao ativa + QTI Telecom + blocos dirigidos + Portugues + Ingles",
+  "aggregate": {
+    "questions": 74,
+    "correct": 69,
+    "accuracy": 93.2,
+    "note": "Agregado de estudo/revisao; nao tratar como simulado independente."
+  },
+  "blocks": [
+    {
+      "name": "Revisao ativa",
+      "questions": 8,
+      "correct": 7,
+      "accuracy": 87.5,
+      "errors": ["Fourier: x(t)e^{j2pi f0 t} -> X(f-f0)"]
+    },
+    {
+      "name": "QTI-20 Telecom",
+      "questions": 20,
+      "correct": 20,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Probabilidade",
+      "questions": 8,
+      "correct": 8,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Sinais e Sistemas",
+      "questions": 8,
+      "correct": 6,
+      "accuracy": 75.0,
+      "errors": [
+        "Deslocamento no tempo: x(t-t0) -> X(f)e^{-j2pi f t0}",
+        "Polos: s^2+4s+13=0 -> s=-2+-j3"
+      ]
+    },
+    {
+      "name": "Satelite + Radiopropagacao + Enlace",
+      "questions": 10,
+      "correct": 9,
+      "accuracy": 90.0,
+      "errors": ["+3 dB em Gt -> +3 dB em Pr, demais termos constantes"]
+    },
+    {
+      "name": "Portugues - texto estilo CESGRANRIO",
+      "questions": 10,
+      "correct": 9,
+      "accuracy": 90.0,
+      "errors": ["Na realidade: correcao de conclusao precipitada, nao confirmacao"]
+    },
+    {
+      "name": "Ingles - energia, petroleo e logistica",
+      "questions": 10,
+      "correct": 10,
+      "accuracy": 100.0,
+      "notes": ["eventually respondido corretamente: after some time / ultimately"]
+    }
+  ],
+  "priorityReview": [
+    "Fourier: deslocamento no tempo",
+    "Fourier: deslocamento em frequencia",
+    "Sinais dos expoentes nas propriedades de Fourier",
+    "Calculo de polos complexos"
+  ],
+  "tomorrow": [
+    "QTI-30 misto: 20 Telecom + 5 Portugues + 5 Ingles",
+    "Correcao direcionada apenas dos erros do QTI-30"
+  ],
+  "studyRules": [
+    "Priorizar CESGRANRIO/Transpetro/Petrobras",
+    "Usar QConcursos como base de consulta",
+    "Respeitar anti-repeticao de familias recentes"
+  ]
+}
