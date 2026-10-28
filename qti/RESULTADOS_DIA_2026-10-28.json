@@ -1,0 +1,100 @@
+{
+  "studyDateLocal": "2026-10-28",
+  "targetExam": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "examDate": "2026-12-06",
+  "status": "partial_snapshot_session_in_progress",
+  "aggregatePrimaryBlocks": {
+    "questions": 65,
+    "correct": 54,
+    "accuracy": 83.1,
+    "note": "Agregado de blocos principais; nao tratar como simulado independente. Repairs registrados separadamente."
+  },
+  "blocks": [
+    {
+      "name": "QTI-30 misto",
+      "questions": 30,
+      "correct": 28,
+      "accuracy": 93.3,
+      "breakdown": {
+        "Telecom": "20/20",
+        "Portugues": "4/5",
+        "Ingles": "4/5"
+      },
+      "errors": [
+        "Portugues: referencia pronominal ambigua",
+        "Ingles: despite = in spite of = concessao"
+      ],
+      "repair": "2/2"
+    },
+    {
+      "name": "Sinais e Fourier",
+      "questions": 10,
+      "correct": 5,
+      "accuracy": 50.0,
+      "errors": [
+        "x(t)e^{+j2pi f0 t} -> X(f-f0)",
+        "x(t-t0) -> X(f)e^{-j2pi f t0}",
+        "t x(t) -> (j/2pi) dX(f)/df",
+        "calculo de polos complexos",
+        "classificacao de estabilidade"
+      ],
+      "fourierRetest": {
+        "questions": 4,
+        "correct": 4,
+        "accuracy": 100.0
+      }
+    },
+    {
+      "name": "Telecom direcionado - Seguranca QoS 802.1X",
+      "questions": 10,
+      "correct": 8,
+      "accuracy": 80.0,
+      "errors": [
+        "ACL padrao IPv4: endereco IP de origem",
+        "802.1X: Authenticator = switch/AP que controla acesso"
+      ]
+    },
+    {
+      "name": "Probabilidade",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Portugues dirigido",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Ingles dirigido",
+      "questions": 5,
+      "correct": 3,
+      "accuracy": 60.0,
+      "errors": [
+        "despite = in spite of = concessao",
+        "provided that = desde que / contanto que = condicao"
+      ]
+    }
+  ],
+  "stabilityRetest": {
+    "questions": 3,
+    "correct": 2,
+    "accuracy": 66.7,
+    "remainingIssue": "Polos complexos no semiplano esquerdo continuam assintoticamente estaveis; parte imaginaria nao define estabilidade."
+  },
+  "priorityReview": [
+    "Fourier: distinguir deslocamento no tempo de deslocamento em frequencia",
+    "Polos e estabilidade: classificar pela parte real",
+    "Ingles: despite e provided that",
+    "ACL padrao IPv4",
+    "IEEE 802.1X: Supplicant, Authenticator e Authentication Server"
+  ],
+  "studyRules": [
+    "Priorizar CESGRANRIO/Transpetro/Petrobras",
+    "Usar QConcursos como base de consulta",
+    "Respeitar anti-repeticao de familias recentes",
+    "Variar posicao das alternativas corretas"
+  ]
+}
