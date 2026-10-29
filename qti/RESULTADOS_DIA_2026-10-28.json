@@ -3,12 +3,12 @@
   "targetExam": "Transpetro 2026 - Engenharia de Telecomunicacoes",
   "board": "CESGRANRIO",
   "examDate": "2026-12-06",
-  "status": "partial_snapshot_session_in_progress",
+  "status": "finalized",
   "aggregatePrimaryBlocks": {
-    "questions": 65,
-    "correct": 54,
-    "accuracy": 83.1,
-    "note": "Agregado de blocos principais; nao tratar como simulado independente. Repairs registrados separadamente."
+    "questions": 80,
+    "correct": 67,
+    "accuracy": 83.8,
+    "note": "Agregado de QTI e blocos dirigidos; nao tratar como simulado independente. Repairs registrados separadamente."
   },
   "blocks": [
     {
@@ -76,6 +76,29 @@
         "despite = in spite of = concessao",
         "provided that = desde que / contanto que = condicao"
       ]
+    },
+    {
+      "name": "Telefonia IP H323 - bloco inicial",
+      "questions": 5,
+      "correct": 4,
+      "accuracy": 80.0,
+      "errors": [
+        "H225 x H245: H245 negocia capacidades e controla canais logicos"
+      ]
+    },
+    {
+      "name": "H323 - bateria inedita apos aula completa",
+      "questions": 10,
+      "correct": 9,
+      "accuracy": 90.0,
+      "errors": [
+        "Q931 x H245: negociacao de codecs e canais logicos pertence ao H245"
+      ],
+      "repair": {
+        "questions": 3,
+        "correct": 3,
+        "accuracy": 100.0
+      }
     }
   ],
   "stabilityRetest": {
@@ -84,16 +107,40 @@
     "accuracy": 66.7,
     "remainingIssue": "Polos complexos no semiplano esquerdo continuam assintoticamente estaveis; parte imaginaria nao define estabilidade."
   },
+  "h323Theory": {
+    "covered": [
+      "Terminal H323",
+      "Gatekeeper",
+      "Gateway",
+      "MCU",
+      "RAS",
+      "H225",
+      "Q931",
+      "H245",
+      "RTP",
+      "RTCP",
+      "G711"
+    ],
+    "mentalModel": "RAS -> Q931 -> H245 -> RTP/RTCP",
+    "mnemonic": [
+      "Q931 CHAMA",
+      "H245 NEGOCIA",
+      "RTP CARREGA",
+      "RTCP CONTROLA"
+    ]
+  },
   "priorityReview": [
     "Fourier: distinguir deslocamento no tempo de deslocamento em frequencia",
     "Polos e estabilidade: classificar pela parte real",
     "Ingles: despite e provided that",
     "ACL padrao IPv4",
-    "IEEE 802.1X: Supplicant, Authenticator e Authentication Server"
+    "IEEE 802.1X: Supplicant, Authenticator e Authentication Server",
+    "H323: reteste futuro Q931 x H245"
   ],
   "studyRules": [
     "Priorizar CESGRANRIO/Transpetro/Petrobras",
     "Usar QConcursos como base de consulta",
+    "Confrontar o edital com questoes historicas",
     "Respeitar anti-repeticao de familias recentes",
     "Variar posicao das alternativas corretas"
   ]
