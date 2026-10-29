@@ -1,0 +1,129 @@
+{
+  "studyDateLocal": "2026-10-29",
+  "targetExam": "Transpetro 2026 - Engenharia de Telecomunicacoes",
+  "board": "CESGRANRIO",
+  "examDate": "2026-12-06",
+  "status": "finalized",
+  "aggregatePrimaryBlocks": {
+    "questions": 71,
+    "correct": 66,
+    "accuracy": 93.0,
+    "note": "Agregado de blocos dirigidos e historicos; nao tratar como simulado independente. Repairs registrados separadamente dentro dos blocos."
+  },
+  "blocks": [
+    {
+      "name": "Aquecimento - Item 10",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["802.11e EDCA", "switching L2", "SNMP manager-agent", "MAC e LLC", "switch L3"]
+    },
+    {
+      "name": "11.1 - IP Multicasting e QoS",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["multicast", "DiffServ", "DSCP", "CBWFQ", "LLQ"]
+    },
+    {
+      "name": "11.2 - Roteamento estatico, OSPF, BGP e MPLS",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["OSPF", "Dijkstra", "BGP", "MPLS", "longest prefix match"]
+    },
+    {
+      "name": "11.3 - MPLS avancado - bateria 1",
+      "questions": 5,
+      "correct": 4,
+      "accuracy": 80.0,
+      "errors": ["MP-BGP em MPLS L3VPN: funcao principal e trocar rotas VPN entre PEs"]
+    },
+    {
+      "name": "11.3 - MPLS avancado - bateria 2",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["OSPF-TE", "RSVP-TE", "MP-BGP", "L2VPN", "L3VPN", "RD", "RT", "bit S MPLS", "atributos BGP"]
+    },
+    {
+      "name": "Repair - MP-BGP x LDP",
+      "questions": 2,
+      "correct": 1,
+      "accuracy": 50.0,
+      "errors": ["Distribuicao de labels/FECs: correto LDP; MP-BGP foi marcado incorretamente"]
+    },
+    {
+      "name": "11.4 - IPSec, SSH e SSL",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["IPSec tunnel", "IPSec transport", "ESP", "AH", "SSH", "SSL-TLS"]
+    },
+    {
+      "name": "11.5 - Firewalls",
+      "questions": 5,
+      "correct": 5,
+      "accuracy": 100.0,
+      "topics": ["packet filtering", "content firewall", "stateful firewall"]
+    },
+    {
+      "name": "Historico CESGRANRIO - Item 11",
+      "questions": 10,
+      "correct": 8,
+      "accuracy": 80.0,
+      "sources": ["Transpetro 2012", "Transpetro 2018", "Transpetro 2023", "QConcursos"],
+      "errors": [
+        "Multicast: arvore compartilhada por grupo",
+        "IGMPv1: Membership Report"
+      ]
+    },
+    {
+      "name": "Repair historico - Multicast e IGMP",
+      "questions": 4,
+      "correct": 4,
+      "accuracy": 100.0
+    },
+    {
+      "name": "Portugues - interpretacao e conectores",
+      "questions": 10,
+      "correct": 9,
+      "accuracy": 90.0,
+      "errors": ["portanto = logo (conclusao); contudo indica oposicao"]
+    },
+    {
+      "name": "Ingles - energia, infraestrutura e conectores",
+      "questions": 10,
+      "correct": 10,
+      "accuracy": 100.0,
+      "topics": ["although", "because", "so that", "however", "if", "rely on", "therefore-thus"]
+    }
+  ],
+  "item11Status": {
+    "status": "theory_and_historical_round_completed",
+    "strongAreas": ["11.1", "11.2", "11.4", "11.5"],
+    "reviewPoint": "MP-BGP x LDP",
+    "mentalRules": [
+      "MP-BGP = rotas VPN entre PEs",
+      "LDP = labels associados a FECs",
+      "RSVP-TE = sinalizacao de LSPs e reserva de recursos",
+      "OSPF-TE = divulgacao de atributos de engenharia de trafego",
+      "IGMP Membership Report = host informa participacao no grupo",
+      "IGMP Membership Query = roteador consulta membros"
+    ]
+  },
+  "priorityReview": [
+    "MP-BGP x LDP",
+    "Portugues: conclusao x oposicao",
+    "Revisao espacada do Item 11: multicast, IGMP e MPLS avancado",
+    "Proximo item: 12.1 - Caracteristicas basicas, propagacao em guias e fibras opticas"
+  ],
+  "studyRules": [
+    "Priorizar CESGRANRIO/Transpetro/Petrobras",
+    "Usar QConcursos como base de consulta",
+    "Confrontar o edital com questoes historicas",
+    "Cobrir todos os topicos do edital",
+    "Variar posicao das alternativas corretas",
+    "Aplicar reforco dirigido apos erros"
+  ]
+}
