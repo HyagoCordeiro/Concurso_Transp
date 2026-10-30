@@ -299,3 +299,104 @@ Fixação:
 2. Revisão curta de verbos: detiverem / mantiverem / reouver / reouverem.
 3. Revisão de conectores em inglês.
 4. Manter o ciclo dos 13 itens agora em modo de revisão, histórico CESGRANRIO e QTI misto.
+
+---
+
+# Revisão ativa — Itens 1 a 5 do edital
+
+Sessão posterior do mesmo dia, realizada em formato de mini-aula + lembrança ativa + bateria curta no estilo CESGRANRIO, cruzando edital, provas históricas do projeto e pontos já registrados no histórico de estudo.
+
+## Item 1 — Probabilidade e Processos Estocásticos
+
+Pontos reativados:
+- probabilidade condicional e independência;
+- complemento;
+- Bernoulli, Binomial, Hipergeométrica, Poisson, Uniforme e Normal;
+- Teorema Central do Limite;
+- processos estocásticos, WSS, autocorrelação, PSD e Wiener-Khinchin.
+
+Pontos que exigiram correção durante a lembrança ativa:
+- diferença fundamental entre **Binomial e Hipergeométrica**: p constante/ensaios independentes x amostragem sem reposição;
+- “pelo menos um” -> **1 - P(X=0)**;
+- WSS: média constante + autocorrelação dependente apenas de tau, não apenas variância constante.
+
+**Bateria de reforço:** **5/5 = 100%**.
+
+## Item 2 — Matemática Aplicada a Sinais
+
+Pontos reativados:
+- números complexos e fasores;
+- Euler;
+- impulso/degrau;
+- Série e Transformada de Fourier;
+- deslocamentos;
+- X(0) como área do sinal;
+- convolução contínua/discreta.
+
+**Lembrança ativa:** **6/6 = 100%**.
+
+**Bateria estilo CESGRANRIO:** **5/5 = 100%**.
+
+## Item 3 — Conceitos Básicos de Sinais e Sistemas
+
+Pontos reativados:
+- LIT, Laplace e função de transferência;
+- polos/zeros e estabilidade;
+- resposta ao impulso e ao degrau;
+- Teorema do Valor Final;
+- resposta em frequência;
+- convolução;
+- Nyquist/aliasing;
+- Transformada Z e estabilidade no círculo unitário.
+
+Pontos que exigiram correção durante a lembrança ativa:
+- confusão entre **Teorema Central do Limite** e **Teorema do Valor Final**;
+- unidade em período de amostragem: **microsegundo x milissegundo**;
+- atraso y[n-2] -> z^-2 Y(z).
+
+**Bateria final estilo CESGRANRIO:** **5/5 = 100%**.
+
+## Item 4 — Princípios de Telecomunicações
+
+Pontos reativados:
+- AM e sobremodulação;
+- FM e Regra de Carson;
+- M-QAM e bits por símbolo;
+- eficiência espectral x exigência de Eb/N0;
+- PCM: amostragem, quantização e codificação;
+- SNR, BER/TEB;
+- codificação de fonte x canal;
+- FEC x ARQ;
+- interleaving para erros em rajada.
+
+Ponto reforçado:
+- aumentar a ordem da QAM aumenta a eficiência espectral, mas também aumenta a exigência de Eb/N0 para manter a mesma BER.
+
+**Bateria estilo CESGRANRIO:** **5/5 = 100%**.
+
+## Item 5 — Telefonia e Videoconferência
+
+Pontos reativados:
+- comutação de circuitos x pacotes;
+- tráfego em Erlang;
+- Erlang B x Erlang C;
+- TDM, FDM e CDM;
+- CAS, R2 Digital, Q-SIG e DPNSS;
+- H.323: Gatekeeper, Gateway e MCU;
+- SIP, SDP e RTP;
+- Registrar SIP;
+- QoS para voz/vídeo;
+- delay, jitter e jitter buffer.
+
+Ponto que exigiu correção durante a lembrança ativa:
+- **delay = atraso**;
+- **jitter = variação do atraso**.
+
+**Bateria final estilo CESGRANRIO:** **5/5 = 100%**.
+
+## Síntese da revisão ativa 1–5
+
+- Itens **2, 4 e 5** apresentaram retenção muito forte nas baterias finais.
+- Item **3** recuperou corretamente Teorema do Valor Final, unidades de amostragem e Transformada Z após correção.
+- Item **1** permanece como o item que merece mais atenção conceitual, especialmente interpretação e identificação da distribuição adequada.
+- Próxima retomada combinada: iniciar pelo **Item 6 — Antenas**, mantendo o mesmo formato de revisão ativa e confronto com questões CESGRANRIO.
