@@ -1,0 +1,29 @@
+{
+  "id": "QTI10-INGLES-HTML-2026-10-31",
+  "data": "2026-10-31",
+  "tipo": "QTI-10",
+  "disciplina": "Inglês",
+  "formato": "HTML interativo estilo GitHub",
+  "titulo": "QTI-10 — Inglês CESGRANRIO / Transpetro",
+  "totalQuestoes": 10,
+  "acertos": 10,
+  "erros": 0,
+  "percentual": 100,
+  "resultado": "10/10",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "status": "CONCLUIDO",
+  "observacao": "Resultado comprovado por captura de tela enviada pelo usuário. Melhor resultado salvo no HTML: 10/10.",
+  "conteudos": [
+    "interpretação textual",
+    "although = contraste/concessão",
+    "if = condição",
+    "greatly = significantly",
+    "however = contraste",
+    "cannot = negação",
+    "passive voice",
+    "in order to = propósito",
+    "also = adição",
+    "ideia central do texto"
+  ],
+  "nextAction": "MANTER_REVISAO_ESPACADA_INGLES"
+}
