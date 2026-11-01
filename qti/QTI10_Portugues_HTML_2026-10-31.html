@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>QTI-10 Português — CESGRANRIO / Transpetro</title>
+<style>
+:root{--bg:#0b1020;--card:#121a2f;--card2:#0f1730;--text:#edf2ff;--muted:#aab5d6;--accent:#7c9cff;--ok:#55d68b;--bad:#ff6b81;--line:#26345e}
+*{box-sizing:border-box} body{margin:0;background:linear-gradient(180deg,#0a0f1f,#0d1428);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.wrap{max-width:920px;margin:auto;padding:24px 16px 50px}.head{display:flex;gap:14px;align-items:center;justify-content:space-between;margin-bottom:16px}
+h1{font-size:clamp(24px,4vw,38px);margin:0}.badge{font-size:13px;color:#dce4ff;background:#18244a;border:1px solid #2f437e;border-radius:999px;padding:7px 10px;white-space:nowrap}
+.card{background:rgba(18,26,47,.96);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:0 18px 50px rgba(0,0,0,.25);margin:14px 0}
+.texto{line-height:1.7;color:#e8edff}.texto h2{margin-top:0}.texto p{margin:.7em 0}.meta{color:var(--muted);font-size:14px}
+.progress{height:10px;background:#18213c;border-radius:99px;overflow:hidden;margin-top:10px}.bar{height:100%;width:10%;background:var(--accent);transition:.25s}
+.qnum{color:var(--muted);font-size:14px;margin-bottom:8px}.question{font-size:20px;line-height:1.45;margin:0 0 16px}
+.opts{display:grid;gap:10px}.opt{display:flex;gap:12px;align-items:flex-start;border:1px solid #2b3a67;background:#101830;border-radius:14px;padding:13px;cursor:pointer;transition:.15s}
+.opt:hover{border-color:#5772c8;transform:translateY(-1px)}.opt input{margin-top:4px;accent-color:var(--accent)}.opt.sel{border-color:var(--accent);background:#17224a}
+.actions{display:flex;gap:10px;justify-content:space-between;margin-top:18px;flex-wrap:wrap}
+button{appearance:none;border:0;border-radius:12px;padding:12px 16px;font-weight:700;cursor:pointer;background:#26345e;color:white}
+button.primary{background:var(--accent);color:#081127}button:disabled{opacity:.45;cursor:not-allowed}.hidden{display:none!important}
+.result h2{margin-top:0}.score{font-size:48px;font-weight:800;margin:6px 0}.good{color:var(--ok)}.bad{color:var(--bad)}
+.review{margin-top:16px;display:grid;gap:12px}.rev{border:1px solid var(--line);border-radius:14px;padding:14px;background:#0f1730}.rev strong{display:block;margin-bottom:6px}
+.small{font-size:13px;color:var(--muted)}.footer{margin-top:20px;color:var(--muted);font-size:13px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">
+    <div>
+      <h1>QTI-10 • Português</h1>
+      <div class="meta">CESGRANRIO / Transpetro • 10 questões • nível de prova</div>
+    </div>
+    <div class="badge">Texto + gramática aplicada</div>
+  </div>
+
+  <section class="card texto" id="texto">
+    <h2>Conectados, mas atentos</h2>
+    <p>À medida que serviços públicos, operações industriais e relações pessoais migram para ambientes digitais, cresce a expectativa de que a tecnologia torne tudo mais rápido, previsível e eficiente. Essa expectativa, embora compreensível, costuma ocultar um aspecto menos vistoso da transformação digital: quanto maior a dependência de sistemas conectados, maior também a necessidade de planejamento, redundância e capacidade de resposta.</p>
+    <p>Uma rede pode funcionar perfeitamente durante meses e, ainda assim, revelar sua fragilidade em poucos minutos. Basta que um enlace falhe, que um equipamento deixe de responder ou que uma configuração inadequada transforme uma ocorrência simples em indisponibilidade prolongada. Por isso, organizações maduras não tratam a continuidade como um detalhe técnico, mas como parte do próprio serviço que entregam.</p>
+    <p>Esse cuidado não significa rejeitar a inovação. Ao contrário: significa adotá-la de maneira responsável. Automatizar tarefas, integrar sistemas e ampliar a conectividade pode reduzir custos e melhorar processos; contudo, esses ganhos só se sustentam quando há monitoramento, procedimentos claros e equipes capazes de agir antes que pequenos sinais se tornem grandes incidentes.</p>
+    <p>Em tecnologia, portanto, eficiência não é apenas fazer mais com menos. É também reconhecer riscos, preparar alternativas e compreender que a confiança do usuário depende tanto do que funciona no dia a dia quanto da forma como a organização reage quando algo deixa de funcionar.</p>
+    <div class="small">Texto original elaborado para treino, com foco nos padrões de cobrança da CESGRANRIO.</div>
+  </section>
+
+  <section class="card" id="quiz">
+    <div class="qnum" id="qnum"></div>
+    <div class="progress"><div class="bar" id="bar"></div></div>
+    <h2 class="question" id="question"></h2>
+    <div class="opts" id="opts"></div>
+    <div class="actions">
+      <button id="prev">← Anterior</button>
+      <button class="primary" id="next">Próxima →</button>
+    </div>
+  </section>
+
+  <section class="card result hidden" id="result"></section>
+  <div class="footer">QTI-10 Português • preparação CESGRANRIO / Transpetro 2026</div>
+</div>
+
+<script>
+const qs = [
+{
+q:"A ideia central do texto é a de que",
+o:[
+"a ampliação da conectividade elimina a necessidade de intervenção humana.",
+"a transformação digital só produz resultados positivos quando dispensa sistemas redundantes.",
+"a eficiência tecnológica depende não apenas de inovação, mas também de prevenção e capacidade de resposta.",
+"falhas em redes conectadas são inevitavelmente causadas por configurações inadequadas.",
+"a continuidade operacional é menos importante que a redução imediata de custos."
+],a:2,e:"O texto contrapõe a expectativa de eficiência automática à necessidade de planejamento, redundância, monitoramento e reação a incidentes."
+},
+{
+q:"No primeiro parágrafo, a expressão “embora compreensível” estabelece, em relação à oração principal, valor de",
+o:["causa.","concessão.","conclusão.","condição.","explicação."],a:1,e:"“Embora” introduz oração subordinada adverbial concessiva: admite-se a expectativa, mas ela não impede a ressalva apresentada em seguida."
+},
+{
+q:"No trecho “Uma rede pode funcionar perfeitamente durante meses e, ainda assim, revelar sua fragilidade em poucos minutos”, a expressão “ainda assim” pode ser substituída, sem alteração relevante de sentido, por",
+o:["por conseguinte.","além disso.","não obstante.","porquanto.","logo."],a:2,e:"“Ainda assim” introduz contraste/concessão. “Não obstante” preserva esse valor semântico no contexto."
+},
+{
+q:"No trecho “Basta que um enlace falhe, que um equipamento deixe de responder ou que uma configuração inadequada transforme...”, as três orações introduzidas por “que”",
+o:[
+"exercem funções sintáticas distintas.",
+"funcionam como termos coordenados que completam o sentido de “basta”.",
+"constituem orações coordenadas adversativas.",
+"têm valor adverbial causal.",
+"são orações adjetivas restritivas."
+],a:1,e:"As três estruturas com “que” estão coordenadas entre si e completam o sentido do verbo “bastar”, formando uma enumeração de possibilidades."
+},
+{
+q:"Assinale a reescritura em que a concordância verbal está de acordo com a norma-padrão.",
+o:[
+"Devem haver procedimentos claros para situações críticas.",
+"Pode existir falhas que só aparecem em condições extremas.",
+"Fazem meses que a rede opera sem interrupções.",
+"Podem ocorrer falhas mesmo em ambientes bem monitorados.",
+"Houveram incidentes que exigiram resposta imediata."
+],a:3,e:"Em “podem ocorrer falhas”, o verbo concorda com o sujeito “falhas”. “Haver” com sentido de existir e “fazer” indicando tempo são impessoais."
+},
+{
+q:"No segmento “equipes capazes de agir antes que pequenos sinais se tornem grandes incidentes”, a locução “antes que” exige, no contexto, verbo no",
+o:["indicativo, por exprimir certeza.","subjuntivo, por introduzir relação temporal prospectiva.","imperativo, por expressar ordem.","infinitivo pessoal, por indicar finalidade.","gerúndio, por marcar simultaneidade."],a:1,e:"A locução temporal “antes que” normalmente introduz oração com verbo no subjuntivo: “antes que ... se tornem”."
+},
+{
+q:"A vírgula está empregada de acordo com a norma-padrão em",
+o:[
+"A confiança do usuário, depende da continuidade do serviço.",
+"Quando ocorre uma falha, a capacidade de resposta torna-se decisiva.",
+"Os sistemas conectados exigem, planejamento e redundância.",
+"As equipes técnicas devem identificar, os sinais de instabilidade.",
+"A continuidade operacional é, parte essencial do serviço."
+],a:1,e:"A oração adverbial temporal deslocada “Quando ocorre uma falha” deve ser separada por vírgula. As demais alternativas separam indevidamente termos da ordem direta."
+},
+{
+q:"Em “organizações maduras não tratam a continuidade como um detalhe técnico, mas como parte do próprio serviço”, o conectivo “mas” introduz ideia de",
+o:["adição.","alternância.","retificação/contraste.","causa.","consequência."],a:2,e:"A estrutura corrige e redefine a primeira caracterização: não como mero detalhe, mas como parte do serviço. É valor adversativo com nuance de retificação."
+},
+{
+q:"Assinale a frase em que o emprego do acento grave indicativo de crase está correto.",
+o:[
+"As equipes devem estar prontas à responder rapidamente.",
+"A organização atribuiu prioridade à continuidade operacional.",
+"O alerta foi enviado à todos os responsáveis.",
+"Os técnicos chegaram à analisar o enlace.",
+"O procedimento se aplica à qualquer situação crítica."
+],a:1,e:"“Atribuir prioridade a” exige preposição “a”, e “continuidade” admite artigo feminino “a”: a + a = à. Não há crase antes de verbo, “todos” ou “qualquer”."
+},
+{
+q:"No último parágrafo, a relação entre “o que funciona no dia a dia” e “a forma como a organização reage quando algo deixa de funcionar” indica que a confiança do usuário",
+o:[
+"decorre exclusivamente da estabilidade cotidiana.",
+"depende apenas da rapidez na solução de falhas.",
+"é construída tanto pela operação normal quanto pela resposta a situações adversas.",
+"é incompatível com a ocorrência de incidentes.",
+"resulta principalmente da redução de custos."
+],a:2,e:"O paralelismo “tanto... quanto...” explicita dois fatores complementares: desempenho cotidiano e reação diante de falhas."
+}
+];
+
+let i=0, ans=Array(qs.length).fill(null);
+const qnum=document.getElementById('qnum'), bar=document.getElementById('bar'), question=document.getElementById('question'),
+opts=document.getElementById('opts'), prev=document.getElementById('prev'), next=document.getElementById('next'),
+quiz=document.getElementById('quiz'), result=document.getElementById('result');
+
+function render(){
+  const x=qs[i]; qnum.textContent=`Questão ${i+1} de ${qs.length}`; bar.style.width=`${(i+1)/qs.length*100}%`; question.textContent=x.q; opts.innerHTML='';
+  x.o.forEach((t,j)=>{
+    const lab=document.createElement('label'); lab.className='opt'+(ans[i]===j?' sel':'');
+    lab.innerHTML=`<input type="radio" name="q" ${ans[i]===j?'checked':''}><span><b>${String.fromCharCode(65+j)})</b> ${t}</span>`;
+    lab.onclick=()=>{ans[i]=j; render();};
+    opts.appendChild(lab);
+  });
+  prev.disabled=i===0; next.textContent=i===qs.length-1?'Finalizar':'Próxima →';
+}
+prev.onclick=()=>{if(i>0){i--;render();window.scrollTo({top:document.getElementById('quiz').offsetTop-10,behavior:'smooth'})}};
+next.onclick=()=>{
+  if(ans[i]===null){alert('Marque uma alternativa antes de continuar.');return}
+  if(i<qs.length-1){i++;render();window.scrollTo({top:document.getElementById('quiz').offsetTop-10,behavior:'smooth'})} else finish();
+};
+function finish(){
+  let score=ans.reduce((s,v,k)=>s+(v===qs[k].a?1:0),0);
+  quiz.classList.add('hidden'); document.getElementById('texto').classList.add('hidden'); result.classList.remove('hidden');
+  let cls=score>=7?'good':'bad';
+  let html=`<h2>Resultado</h2><div class="score ${cls}">${score}/10</div><p>${score>=8?'Excelente desempenho.':score>=6?'Bom desempenho, com pontos claros para revisão.':'Vale revisar os tópicos em que houve erro antes do próximo QTI.'}</p><div class="review">`;
+  qs.forEach((x,k)=>{
+    const ok=ans[k]===x.a;
+    html+=`<div class="rev"><strong class="${ok?'good':'bad'}">Questão ${k+1}: ${ok?'✓ correta':'✗ incorreta'}</strong>
+    <div>Sua resposta: <b>${String.fromCharCode(65+ans[k])}</b> • Gabarito: <b>${String.fromCharCode(65+x.a)}</b></div>
+    <div class="small" style="margin-top:7px">${x.e}</div></div>`;
+  });
+  html+=`</div><div class="actions"><button onclick="location.reload()">Refazer QTI-10</button></div>`;
+  result.innerHTML=html; window.scrollTo({top:0,behavior:'smooth'});
+}
+render();
+</script>
+</body>
+</html>
