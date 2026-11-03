@@ -149,3 +149,65 @@ Texto-base histórico: **energia, petróleo, gás e política energética europe
 ## 8. Observação de diagnóstico
 
 Não usar o resultado bruto do QUI-50 para concluir que Fourier é fraqueza principal. A representação das questões autorais de Fourier naquele bloco diferiu do padrão real de prova e prejudicou a leitura. O desempenho posterior em questões históricas CESGRANRIO reais e em adaptações visualmente fiéis foi superior e mais representativo.
+
+## 9. Português CESGRANRIO — materiais novos e reforço dirigido
+
+### Aquecimento inicial — 10 questões
+
+Bloco construído a partir dos materiais novos de Português, com foco em regência, concordância, conectivos, pontuação e ortografia.
+
+- **Resultado:** 5/10 (**50%**).
+- Erros concentrados em:
+  - regência verbal: `aprovar`, `lembrar-se de`, `afeiçoar-se a`;
+  - concordância nominal: `anexo/anexa`, `dado/dada`, `possível/possíveis`;
+  - construção `é proibido` × `é proibida a`;
+  - pronome relativo com preposição exigida pelo verbo;
+  - verbo `implicar` no sentido de acarretar, usado como transitivo direto.
+
+### Mini-aula e fixação dos erros
+
+Regras consolidadas:
+
+- `aprovar algo` — sem preposição;
+- `afeiçoar-se a algo`;
+- `lembrar-se de algo`;
+- `implicar algo` = acarretar, sem preposição `em`;
+- `anexo`, `dado` e `possível` concordam com o termo a que se referem;
+- sem artigo: `É proibido entrada`; com artigo: `É proibida a entrada`;
+- o pronome relativo mantém a preposição exigida pelo verbo: `de quem gosto`, `de que disponho`, `com quem simpatizo`, `de cujo nome me lembro`.
+
+### Fixação — 10 questões
+
+- **Resultado:** 9/10 (**90%**).
+- Único erro: pronome relativo com preposição — construção `a cuja aplicação nos referimos`.
+
+#### Reforço específico
+
+- 2 questões sobre preposição + pronome relativo.
+- **Resultado:** 2/2 (**100%**).
+
+### Nova rodada do material — 10 questões
+
+Temas: acentuação, pronome `lhe`, conectivos, verbos, sintaxe, pontuação, concordância, regência, ambiguidade e tipologia textual.
+
+- **Resultado:** 7/10 (**70%**).
+- Erros:
+  1. concordância com `se`: VTI + `se` → índice de indeterminação do sujeito, verbo no singular (`precisa-se de`, `necessita-se de`);
+  2. regência: `duvidar de`, `querer bem a`;
+  3. tipologia textual: descrição → adjetivos/caracterização; narração → verbos de ação/acontecimentos.
+
+### Reforço dos 3 erros
+
+Foram aplicadas 6 questões, duas para cada ponto.
+
+- **Resultado:** 6/6 (**100%**).
+
+### Evolução dentro da sessão
+
+- Aquecimento: **5/10 — 50%**.
+- Fixação após mini-aula: **9/10 — 90%**.
+- Reforço do erro restante: **2/2 — 100%**.
+- Nova rodada mista: **7/10 — 70%**.
+- Reforço final: **6/6 — 100%**.
+
+**Diagnóstico:** houve recuperação imediata dos erros trabalhados. Os pontos de maior atenção permanecem regência verbal/pronominal e concordância com `se`, mas os retestes da própria sessão foram fechados sem erro.
