@@ -1,0 +1,52 @@
+{
+  "eventId": "QTI13-20261102-fechamento",
+  "occurredAt": "2026-11-02T21:30:00-03:00",
+  "studyDateLocal": "2026-11-02",
+  "qti": "QTI-13",
+  "rodada": "FECHAMENTO_DO_DIA",
+  "editalItem": "13_ITENS",
+  "tema": "Engenharia de Telecomunicações - 1 questão por item do edital",
+  "total": 13,
+  "totalValid": 13,
+  "acertos": 10,
+  "erros": 3,
+  "accuracy": 76.9,
+  "sourceType": "CESGRANRIO_TRANSPETRO_CALIBRADO_AUTORAL",
+  "status": "COMPLETED",
+  "errosPorItem": [1, 3, 7],
+  "diagnostico": {
+    "pontosFortes": [
+      "Item 2 - Matemática aplicada a sinais / deslocamento temporal em Fourier",
+      "Item 4 - Princípios de Telecomunicações / codificação de canal e 16-QAM",
+      "Item 5 - Telefonia e videoconferência / SIP e RTP",
+      "Item 6 - Antenas / monopolo de quarto de onda",
+      "Item 8 - Satélite / combinação de C/N",
+      "Item 9 - Comunicações celulares / OFDMA e SC-FDMA no LTE",
+      "Item 10 - Redes locais e gerenciamento / SNMPv3",
+      "Item 11 - Redes IP/MPLS / RSVP-TE",
+      "Item 12 - Sistemas ópticos / orçamento de potência",
+      "Item 13 - Regulamentação / espectro como bem público"
+    ],
+    "revisar": [
+      "Item 1 - Soma de variáveis aleatórias independentes: médias e variâncias",
+      "Item 3 - Convolução de exponenciais causais em sistemas LIT discretos",
+      "Item 7 - Perda de espaço livre e dependência do produto frequência x distância"
+    ],
+    "proximaAcao": "Erros ficam elegíveis para reteste em 2026-11-03, conforme regra operacional do estudo."
+  },
+  "questionResults": [
+    {"item": 1, "tema": "Probabilidade", "resultado": "ERRO", "respostaSelecionada": "1 e 25", "respostaCorreta": "1 e 13"},
+    {"item": 2, "tema": "Matemática aplicada a sinais", "resultado": "ACERTO", "respostaSelecionada": "G(ω) = X(ω)e^(−j3ω)", "respostaCorreta": "G(ω) = X(ω)e^(−j3ω)"},
+    {"item": 3, "tema": "Sinais e sistemas", "resultado": "ERRO", "respostaSelecionada": "[2(1/2)^n − 3(1/3)^n]u[n]", "respostaCorreta": "[3(1/2)^n − 2(1/3)^n]u[n]"},
+    {"item": 4, "tema": "Princípios de Telecomunicações", "resultado": "ACERTO", "respostaSelecionada": "5 MHz", "respostaCorreta": "5 MHz"},
+    {"item": 5, "tema": "Telefonia e videoconferência", "resultado": "ACERTO", "respostaSelecionada": "RTP", "respostaCorreta": "RTP"},
+    {"item": 6, "tema": "Antenas", "resultado": "ACERTO", "respostaSelecionada": "0,25 m", "respostaCorreta": "0,25 m"},
+    {"item": 7, "tema": "Radiopropagação", "resultado": "ERRO", "respostaSelecionada": "6 dB maior", "respostaCorreta": "Praticamente igual"},
+    {"item": 8, "tema": "Satélite", "resultado": "ACERTO", "respostaSelecionada": "17 dB", "respostaCorreta": "17 dB"},
+    {"item": 9, "tema": "Comunicações celulares", "resultado": "ACERTO", "respostaSelecionada": "OFDMA e SC-FDMA", "respostaCorreta": "OFDMA e SC-FDMA"},
+    {"item": 10, "tema": "Redes locais e gerenciamento", "resultado": "ACERTO", "respostaSelecionada": "oferecer autenticação, integridade e privacidade às mensagens", "respostaCorreta": "oferecer autenticação, integridade e privacidade às mensagens"},
+    {"item": 11, "tema": "Redes IP/MPLS", "resultado": "ACERTO", "respostaSelecionada": "RSVP-TE", "respostaCorreta": "RSVP-TE"},
+    {"item": 12, "tema": "Sistemas ópticos", "resultado": "ACERTO", "respostaSelecionada": "48 km", "respostaCorreta": "48 km"},
+    {"item": 13, "tema": "Regulamentação", "resultado": "ACERTO", "respostaSelecionada": "um recurso limitado, constituindo-se em bem público, administrado pela Anatel", "respostaCorreta": "um recurso limitado, constituindo-se em bem público, administrado pela Anatel"}
+  ]
+}
