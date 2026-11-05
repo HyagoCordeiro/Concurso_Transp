@@ -19,7 +19,8 @@ Consultar, nesta ordem:
 
 - Concurso-alvo: Transpetro / CESGRANRIO.
 - Cargo: Engenharia de Telecomunicações.
-- Prova-alvo: 29/11/2026.
+- Prova-alvo: **06/12/2026 (domingo)**. Sempre conferir `data/PROVA_ALVO_ATUALIZADA.json`; essa data prevalece sobre referências antigas.
+- Antes de propor cronograma ou assunto novo, consultar as sessões mais recentes em `qti/`, `data/QUESTOES.json` e `data/RESULTADOS.json`, além dos arquivos listados acima. Não confundir a indicação de próximo item em um fechamento antigo com o progresso atual.
 - Não incorporar disciplinas de outros cargos.
 - Usar CESGRANRIO e QConcursos como base de questões.
 - Teoria antes de questões quando o tema for novo.
