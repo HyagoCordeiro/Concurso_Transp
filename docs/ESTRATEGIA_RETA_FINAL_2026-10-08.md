@@ -1,7 +1,7 @@
 # Estratégia da reta final — Transpetro 2026 / Engenharia de Telecomunicações
 
 **Atualização:** 08/10/2026  
-**Prova-alvo:** 29/11/2026  
+**Prova-alvo atualizada:** 06/12/2026 (domingo) — retificação registrada em `data/PROVA_ALVO_ATUALIZADA.json`; data original deste plano: 08/10/2026  
 **Banca:** CESGRANRIO
 
 ## Objetivo operacional
