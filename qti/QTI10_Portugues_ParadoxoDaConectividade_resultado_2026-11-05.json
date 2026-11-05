@@ -1,0 +1,100 @@
+{
+  "id": "QTI10-PORTUGUES-PARADOXO-DA-CONECTIVIDADE-2026-11-05",
+  "data": "2026-11-05",
+  "disciplina": "Língua Portuguesa",
+  "tipo": "QTI-10",
+  "titulo": "QTI-10 — Português CESGRANRIO / Transpetro — O paradoxo da conectividade",
+  "bancaAlvo": "CESGRANRIO",
+  "concursoAlvo": "Transpetro — nível superior",
+  "textoBase": "O paradoxo da conectividade",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "metodo": "10 questões de múltipla escolha (A–E), resolvidas e corrigidas uma a uma no chat",
+  "totalQuestoes": 10,
+  "questoesValidas": 10,
+  "acertos": 10,
+  "erros": 0,
+  "percentual": 100,
+  "resultado": "10/10",
+  "tempoLiquidoSegundos": null,
+  "status": "CONCLUIDO",
+  "questoes": [
+    {
+      "numero": 1,
+      "assunto": "Interpretação textual — ideia central",
+      "respostaUsuario": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 2,
+      "assunto": "Conectivos e semântica — concessão (embora)",
+      "respostaUsuario": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 3,
+      "assunto": "Coesão referencial — pronome lhes",
+      "respostaUsuario": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 4,
+      "assunto": "Pontuação — ponto e vírgula",
+      "respostaUsuario": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 5,
+      "assunto": "Concordância verbal — existir e haver impessoal",
+      "respostaUsuario": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 6,
+      "assunto": "Regência e crase — referir-se às mudanças",
+      "respostaUsuario": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 7,
+      "assunto": "Colocação pronominal — pronome relativo que",
+      "respostaUsuario": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 8,
+      "assunto": "Correlação verbal — condição hipotética",
+      "respostaUsuario": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 9,
+      "assunto": "Sintaxe — pronome relativo que como sujeito",
+      "respostaUsuario": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO"
+    },
+    {
+      "numero": 10,
+      "assunto": "Interpretação e inferência — adição enfática",
+      "respostaUsuario": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO"
+    }
+  ],
+  "diagnostico": "Acerto em todos os temas desta bateria autoral: interpretação, conectivos, coesão, pontuação, concordância, regência e crase, colocação pronominal, correlação verbal e sintaxe. Resultado excelente neste treino, mas não é, isoladamente, estimativa de desempenho em provas oficiais.",
+  "pontosDeAtencao": [
+    "Manter revisão espaçada.",
+    "Elevar a dificuldade da interpretação inferencial e das reescrituras.",
+    "Treinar alternativas semanticamente próximas e questões originais CESGRANRIO."
+  ],
+  "nextAction": "QTI-10 de Português mais difícil, com texto novo, inferência, reescrita e alternativas próximas",
+  "observacao": "Questões elaboradas pelo assistente para o simulado, não transcritas de provas oficiais. Respostas e correções verificadas no histórico do chat em 05/11/2026."
+}
