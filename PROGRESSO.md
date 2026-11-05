@@ -1,6 +1,6 @@
 # Progresso — Transpetro 2026 / Engenharia de Telecomunicações
 
-**Prova-alvo:** 29/11/2026  
+**Prova-alvo:** 06/12/2026 (domingo) — fonte prioritária: `data/PROVA_ALVO_ATUALIZADA.json`  
 **Banca:** CESGRANRIO
 
 > Este arquivo registra evidências de estudo já realizadas. Percentuais só devem ser usados quando houver base objetiva suficiente.
