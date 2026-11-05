@@ -2,7 +2,7 @@
 
 **Projeto:** Transpetro 2026 — Engenharia de Telecomunicações  
 **Banca:** CESGRANRIO  
-**Prova-alvo:** 29/11/2026
+**Prova-alvo:** 06/12/2026 (domingo) — data atualizada em 15/10/2026
 
 ## 1. QUI-50 — 13 itens de Telecom
 
