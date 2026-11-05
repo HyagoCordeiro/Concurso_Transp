@@ -325,3 +325,16 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - Item10 em **EM_REVISAO**. D3 dos erros:16/10;D7:20/10;D21:03/11.
 - **Próxima retomada sequencial sugerida:11.1 — IP multicast;DiffServ;CBWFQ;LLQ.**
 - Sem novos resultados de Português/Inglês confirmados neste fechamento.
+
+
+## Fechamento — 05/11/2026 — QTI-50 + reteste dirigido
+
+[Resumo detalhado](qti/RESULTADOS_DIA_2026-11-05.md) · [JSON estruturado](qti/RESULTADOS_DIA_2026-11-05.json).
+
+- **QTI-50:** 41/49 válidas (**83,7%**), 8 erros e 1 anulada (Q27 Fresnel; ver discussão de suficiência de 5 m). Indicador conservador: 41/50 = 82%.
+- **Blocos:** Q01–10=8/10; Q11–20=10/10; Q21–30=8/9; Q31–40=8/10; Q41–50=7/10.
+- **Erros:** Q02 Wiener-Khinchin (1.3), Q09 Erlang B (5.1), Q22 complexos (2.1), Q31 densidade contínua (1.2), Q32 delta de Dirac (2.2), Q44 ADC (4.2), Q45 broadside/end-fire (6.3), Q49 overhead DWDM (12.4).
+- **REPAIR imediato de 8 questões inéditas:** 7/8 (**87,5%**); recuperados os 7 tópicos exceto **item 6.3**, cuja questão de oposição de fase ainda foi errada.
+- **Pendência prioritária:** 2 questões novas de conjuntos de antenas: uma conceitual, uma de fator de conjunto; diferenciar alimentação em fase × oposição de 180° e direções axiais/transversais.
+- **Revisões planejadas:** D3 = 08/11/2026 (6.3); D7 = 12/11/2026 (8 temas); D21 = 26/11/2026 (retenção mista).
+- **Fonte:** questões autorais inspiradas na CESGRANRIO, **não** 50 questões originais; comparação histórica explícita em registro. Sem tempo líquido aferido e com fórmulas dadas no enunciado — usar como treino, não como prognóstico de prova real.
