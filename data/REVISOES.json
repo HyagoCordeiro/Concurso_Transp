@@ -1158,7 +1158,47 @@
       "createdFromStudyDate": "2026-10-13",
       "plano": "Reteste curto dos erros recuperados imediatamente; preservar o erro intermediário em learning.",
       "schedulingBasis": "D3 para erros; agenda registrada, não lembrete automático."
+    },
+    {
+      "id": "REV-6.3-END-FIRE-D3-20261105",
+      "unitId": "6.3",
+      "editalItem": "6",
+      "materia": "Antenas",
+      "topico": "Fator de conjunto: broadside e end-fire; λ/2, fase 0° versus 180°",
+      "motivo": "QTI50 Q45 errada e REPAIR8 Q07 ainda errada em 05/11",
+      "origemResultado": "REPAIR8-20261105-QTI50",
+      "agendadaPara": "2026-11-08",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-05",
+      "plano": "2 questões inéditas: conceitual e cálculo de fator de conjunto, sem antecipar o gabarito."
+    },
+    {
+      "id": "REV-ERROS-QTI50-D7-20261105",
+      "unitId": "MISTO_1_2_4_5_6_12",
+      "editalItem": "MULTIPLOS",
+      "topico": "Retenção dos oito tópicos errados no QTI-50",
+      "motivo": "Reteste imediato 7/8, verificar retenção real",
+      "origemResultado": "QTI50-20261105-TELECOM",
+      "agendadaPara": "2026-11-12",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-05",
+      "plano": "Reaplicação de transferência inédita sem fórmulas dadas; 1.3,5.1,2.1,1.2,2.2,4.2,6.3,12.4; foco especial 6.3."
+    },
+    {
+      "id": "REV-ERROS-QTI50-D21-20261105",
+      "unitId": "MISTO_1_2_4_5_6_12",
+      "editalItem": "MULTIPLOS",
+      "topico": "Retenção 21 dias dos tópicos recuperados e antenas",
+      "motivo": "Revisão espaçada D21 da sessão de 05/11",
+      "origemResultado": "QTI50-20261105-TELECOM",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-05",
+      "plano": "8 a 12 questões de transferência, no padrão CESGRANRIO, preferir histórico QConcursos e não repetir itens de 05/11."
     }
   ],
-  "updatedAt": "2026-10-13"
+  "updatedAt": "2026-11-05"
 }
