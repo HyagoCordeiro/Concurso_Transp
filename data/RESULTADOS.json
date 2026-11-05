@@ -4072,7 +4072,175 @@
         "ESTUDO-10-RSTP-REPAIR2-20261013-Q02"
       ],
       "observacao": "Treino guiado, não medida independente de domínio."
+    },
+    {
+      "id": "QTI50-20261105-TELECOM",
+      "data": "2026-11-05",
+      "studyDateLocal": "2026-11-05",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "QTI-50",
+      "titulo": "Simulado misto Telecom 13 itens CESGRANRIO estilo autoral",
+      "totalQuestoes": 50,
+      "totalValidas": 49,
+      "acertos": 41,
+      "erros": 8,
+      "anuladas": 1,
+      "percentual": 83.7,
+      "tempoTotalSec": null,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-05.json",
+      "diagnosticValidity": "TREINO_COM_FORMULAS_EXPLICITAS_NAO_EQUIVALENTE_A_PROVA",
+      "questionIds": [
+        "QTI50-20261105-Q01",
+        "QTI50-20261105-Q02",
+        "QTI50-20261105-Q03",
+        "QTI50-20261105-Q04",
+        "QTI50-20261105-Q05",
+        "QTI50-20261105-Q06",
+        "QTI50-20261105-Q07",
+        "QTI50-20261105-Q08",
+        "QTI50-20261105-Q09",
+        "QTI50-20261105-Q10",
+        "QTI50-20261105-Q11",
+        "QTI50-20261105-Q12",
+        "QTI50-20261105-Q13",
+        "QTI50-20261105-Q14",
+        "QTI50-20261105-Q15",
+        "QTI50-20261105-Q16",
+        "QTI50-20261105-Q17",
+        "QTI50-20261105-Q18",
+        "QTI50-20261105-Q19",
+        "QTI50-20261105-Q20",
+        "QTI50-20261105-Q21",
+        "QTI50-20261105-Q22",
+        "QTI50-20261105-Q23",
+        "QTI50-20261105-Q24",
+        "QTI50-20261105-Q25",
+        "QTI50-20261105-Q26",
+        "QTI50-20261105-Q27",
+        "QTI50-20261105-Q28",
+        "QTI50-20261105-Q29",
+        "QTI50-20261105-Q30",
+        "QTI50-20261105-Q31",
+        "QTI50-20261105-Q32",
+        "QTI50-20261105-Q33",
+        "QTI50-20261105-Q34",
+        "QTI50-20261105-Q35",
+        "QTI50-20261105-Q36",
+        "QTI50-20261105-Q37",
+        "QTI50-20261105-Q38",
+        "QTI50-20261105-Q39",
+        "QTI50-20261105-Q40",
+        "QTI50-20261105-Q41",
+        "QTI50-20261105-Q42",
+        "QTI50-20261105-Q43",
+        "QTI50-20261105-Q44",
+        "QTI50-20261105-Q45",
+        "QTI50-20261105-Q46",
+        "QTI50-20261105-Q47",
+        "QTI50-20261105-Q48",
+        "QTI50-20261105-Q49",
+        "QTI50-20261105-Q50"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI50-20261105-Q02",
+          "unitId": "1.3",
+          "topico": "Autocorrelação e Wiener-Khinchin",
+          "respostaEscolhida": "A",
+          "gabarito": "B"
+        },
+        {
+          "questionId": "QTI50-20261105-Q09",
+          "unitId": "5.1",
+          "topico": "Bloqueio Erlang B",
+          "respostaEscolhida": "D",
+          "gabarito": "A"
+        },
+        {
+          "questionId": "QTI50-20261105-Q22",
+          "unitId": "2.1",
+          "topico": "Racionalização de complexos",
+          "respostaEscolhida": "A",
+          "gabarito": "E"
+        },
+        {
+          "questionId": "QTI50-20261105-Q31",
+          "unitId": "1.2",
+          "topico": "Densidade triangular e probabilidade acumulada",
+          "respostaEscolhida": "A",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "QTI50-20261105-Q32",
+          "unitId": "2.2",
+          "topico": "Escala em delta Dirac",
+          "respostaEscolhida": "C",
+          "gabarito": "A"
+        },
+        {
+          "questionId": "QTI50-20261105-Q44",
+          "unitId": "4.2",
+          "topico": "ADC 8 bits e passo de quantização",
+          "respostaEscolhida": "D",
+          "gabarito": "B"
+        },
+        {
+          "questionId": "QTI50-20261105-Q45",
+          "unitId": "6.3",
+          "topico": "Fator de conjunto broadside",
+          "respostaEscolhida": "C",
+          "gabarito": "A"
+        },
+        {
+          "questionId": "QTI50-20261105-Q49",
+          "unitId": "12.4",
+          "topico": "DWDM capacidade útil e overhead",
+          "respostaEscolhida": "D",
+          "gabarito": "A"
+        }
+      ],
+      "observacao": "Q27 de Fresnel anulada; cálculo exato 4,24 m, alternativa 5m poderia ser interpretada como suficiente. Indicador conservador 41/50=82%."
+    },
+    {
+      "id": "REPAIR8-20261105-QTI50",
+      "data": "2026-11-05",
+      "studyDateLocal": "2026-11-05",
+      "timezone": "America/Sao_Paulo",
+      "tipo": "REPAIR",
+      "titulo": "Reparo uma questão por cada erro do QTI-50",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 7,
+      "erros": 1,
+      "percentual": 87.5,
+      "tempoTotalSec": null,
+      "status": "COMPLETED",
+      "sourceType": "REPAIR_AUTORAL",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-05.json",
+      "diagnosticValidity": "RETESTE_DIRIGIDO_NAO_SIMULADO_INDEPENDENTE",
+      "questionIds": [
+        "REPAIR8-20261105-Q01",
+        "REPAIR8-20261105-Q02",
+        "REPAIR8-20261105-Q03",
+        "REPAIR8-20261105-Q04",
+        "REPAIR8-20261105-Q05",
+        "REPAIR8-20261105-Q06",
+        "REPAIR8-20261105-Q07",
+        "REPAIR8-20261105-Q08"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "REPAIR8-20261105-Q07",
+          "unitId": "6.3",
+          "topico": "Broadside versus end-fire (oposição de fase)",
+          "respostaEscolhida": "B",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "Única pendência: fator de conjunto de duas antenas λ/2 defasadas 180°."
     }
   ],
-  "updatedAt": "2026-10-13"
+  "updatedAt": "2026-11-05"
 }
