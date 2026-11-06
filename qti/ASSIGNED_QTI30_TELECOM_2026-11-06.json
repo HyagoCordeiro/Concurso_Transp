@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "eventId": "QTI30-20261106-ENCERRAMENTO",
+  "date": "2026-11-06",
+  "status": "ASSIGNED_NOT_ANSWERED",
+  "total": 30,
+  "mode": "HTML_INTERATIVO",
+  "sourceType": "AUTORAL_INEDITA_CESGRANRIO_STYLE",
+  "antiRepeatPolicy": "Bloquear esses IDs e famílias em novos QTIs até recebimento de resultado. Respostas ainda não foram registradas.",
+  "historicalCalibration": [
+    "CESGRANRIO/Transpetro Telecom 2023 QConcursos",
+    "CESGRANRIO/Transpetro Telecom 2018 e 2012",
+    "Anatel Resolução 789/2026"
+  ],
+  "questions": [
+    {
+      "canonicalId": "QTI30-20261106-Q01",
+      "unitId": "1.1",
+      "topic": "União de eventos independentes",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q02",
+      "unitId": "1.2",
+      "topic": "Distribuição geométrica primeiro sucesso",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q03",
+      "unitId": "1.3",
+      "topic": "Independência conjunta gaussiana",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q04",
+      "unitId": "2.1",
+      "topic": "Produto de complexo por seu conjugado",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q05",
+      "unitId": "2.2",
+      "topic": "Período fundamental de soma senoidal",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q06",
+      "unitId": "2.3",
+      "topic": "Simetria par na Série de Fourier",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q07",
+      "unitId": "2.4",
+      "topic": "Suporte de convolução contínua",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q08",
+      "unitId": "3.1",
+      "topic": "Linearidade e invariância de sistema com atrasos",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q09",
+      "unitId": "3.4",
+      "topic": "Inclinação de Bode de passa-baixas",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q10",
+      "unitId": "3.5",
+      "topic": "Resposta ao impulso de FIR de dois coeficientes",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q11",
+      "unitId": "4.1",
+      "topic": "Largura de banda AM DSB-SC",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q12",
+      "unitId": "4.2",
+      "topic": "Entrelaçamento para erros em rajada",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q13",
+      "unitId": "4.2",
+      "topic": "Rotulagem Gray de constelação",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q14",
+      "unitId": "5.1",
+      "topic": "Tráfego médio em Erlangs sem bloqueio",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q15",
+      "unitId": "5.2",
+      "topic": "Sinalização Q-SIG entre PABX",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q16",
+      "unitId": "5.3",
+      "topic": "Método SIP BYE",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q17",
+      "unitId": "6.1",
+      "topic": "Diretividade vezes eficiência de radiação",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q18",
+      "unitId": "12.2",
+      "topic": "Fotodetector APD versus PIN",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q19",
+      "unitId": "7.1",
+      "topic": "Modelo Rice para multipercurso com LOS",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q20",
+      "unitId": "7.2",
+      "topic": "EIRP com perda no alimentador",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q21",
+      "unitId": "8.3",
+      "topic": "Transponder satélite regenerativo",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q22",
+      "unitId": "12.3",
+      "topic": "Proteção em anel SDH",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q23",
+      "unitId": "9.2",
+      "topic": "Soft handover celular",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q24",
+      "unitId": "9.2",
+      "topic": "Espalhamento Doppler e tempo coerência",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q25",
+      "unitId": "10.1",
+      "topic": "Acesso EDCA 802.11e QoS",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q26",
+      "unitId": "10.3",
+      "topic": "MSTP várias instâncias por VLANs",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q27",
+      "unitId": "11.2",
+      "topic": "Função DR em OSPF broadcast",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q28",
+      "unitId": "11.5",
+      "topic": "Firewall stateful de retorno",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q29",
+      "unitId": "12.1",
+      "topic": "Fibra multimodo índice gradual",
+      "status": "ASSIGNED"
+    },
+    {
+      "canonicalId": "QTI30-20261106-Q30",
+      "unitId": "13.2",
+      "topic": "Definições atribuição destinação PDFF 2026",
+      "status": "ASSIGNED"
+    }
+  ]
+}
