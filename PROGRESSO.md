@@ -338,3 +338,13 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Pendência prioritária:** 2 questões novas de conjuntos de antenas: uma conceitual, uma de fator de conjunto; diferenciar alimentação em fase × oposição de 180° e direções axiais/transversais.
 - **Revisões planejadas:** D3 = 08/11/2026 (6.3); D7 = 12/11/2026 (8 temas); D21 = 26/11/2026 (retenção mista).
 - **Fonte:** questões autorais inspiradas na CESGRANRIO, **não** 50 questões originais; comparação histórica explícita em registro. Sem tempo líquido aferido e com fórmulas dadas no enunciado — usar como treino, não como prognóstico de prova real.
+
+
+## Fechamento — 06/11/2026 — QTI-30 e antenas 6.3
+
+- [Resumo e tabela por item](qti/RESULTADOS_DIA_2026-11-06.md) · [Resultado integral JSON](qti/RESULTADOS_DIA_2026-11-06.json).
+- **QTI-30 (30 questões autorais estilo CESGRANRIO): 26/30 (86,7%), tempo 27min31s**. Erros 1.1, 1.3, 3.1 e 3.4; Q03 gaussianas consumiu 534s (8m54s).
+- **Antenas 6.3: 2/2** em reteste dirigido, broadside e end-fire/fator de conjunto. Revisão de 08/11 mantida.
+- **Atenção ao peso histórico solicitado:** itens 1 e 3 concentraram os erros, mas não devem dominar o planejamento por isso. No banco TecConcursos (456 questões), item 1 tem 13 (2,9%) e item 3 tem 22 (4,8%), comparado a 130 (item 4), 84 (item 12) e 67 (item 5). Esses números não são pesos oficiais de prova; confirmar incidência nas provas reais CESGRANRIO e usar o edital inteiro.
+- **Próximas revisões dos 4 erros:** 09/11 (D3), 13/11 (D7), 27/11 (D21); somente retestes curtos, priorizando os temas historicamente recorrentes no cronograma regular.
+- Tempo líquido dos demais estudos de 06/11 não aferido, não somar estimativas.
