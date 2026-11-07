@@ -4240,7 +4240,111 @@
         }
       ],
       "observacao": "Única pendência: fator de conjunto de duas antenas λ/2 defasadas 180°."
+    },
+    {
+      "id": "QTI30-20261106-ENCERRAMENTO",
+      "data": "2026-11-06",
+      "studyDateLocal": "2026-11-06",
+      "tipo": "QTI-30",
+      "titulo": "Encerramento Telecom CESGRANRIO – 13 itens",
+      "totalQuestoes": 30,
+      "totalValidas": 30,
+      "acertos": 26,
+      "erros": 4,
+      "anuladas": 0,
+      "percentual": 86.7,
+      "tempoTotalSec": 1651,
+      "tempoIndividualTotalSec": 1546,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_INEDITA_CESGRANRIO_STYLE",
+      "diagnosticValidity": "NOVAS_FAMILIAS_AUTORAIS_SEM_REPETICAO_CONHECIDA",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-06.json",
+      "questionIds": [
+        "QTI30-20261106-Q01",
+        "QTI30-20261106-Q02",
+        "QTI30-20261106-Q03",
+        "QTI30-20261106-Q04",
+        "QTI30-20261106-Q05",
+        "QTI30-20261106-Q06",
+        "QTI30-20261106-Q07",
+        "QTI30-20261106-Q08",
+        "QTI30-20261106-Q09",
+        "QTI30-20261106-Q10",
+        "QTI30-20261106-Q11",
+        "QTI30-20261106-Q12",
+        "QTI30-20261106-Q13",
+        "QTI30-20261106-Q14",
+        "QTI30-20261106-Q15",
+        "QTI30-20261106-Q16",
+        "QTI30-20261106-Q17",
+        "QTI30-20261106-Q18",
+        "QTI30-20261106-Q19",
+        "QTI30-20261106-Q20",
+        "QTI30-20261106-Q21",
+        "QTI30-20261106-Q22",
+        "QTI30-20261106-Q23",
+        "QTI30-20261106-Q24",
+        "QTI30-20261106-Q25",
+        "QTI30-20261106-Q26",
+        "QTI30-20261106-Q27",
+        "QTI30-20261106-Q28",
+        "QTI30-20261106-Q29",
+        "QTI30-20261106-Q30"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI30-20261106-Q01",
+          "unitId": "1.1",
+          "topico": "União de eventos independentes",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "responseTimeSec": 91
+        },
+        {
+          "questionId": "QTI30-20261106-Q03",
+          "unitId": "1.3",
+          "topico": "Processo gaussiano e independência",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "responseTimeSec": 534
+        },
+        {
+          "questionId": "QTI30-20261106-Q08",
+          "unitId": "3.1",
+          "topico": "Linearidade e invariância no tempo",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "responseTimeSec": 77
+        },
+        {
+          "questionId": "QTI30-20261106-Q09",
+          "unitId": "3.4",
+          "topico": "Diagrama de Bode de primeira ordem",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "responseTimeSec": 35
+        }
+      ],
+      "nota": "Revisões dos erros dos itens 1 e 3 serão curtas e dirigidas; histórico CESGRANRIO e cobertura do edital prevalecem sobre número de erros deste QTI. Banco TecConcursos possui 13 questões do item 1 e 22 do item 3 num total de 456; isso não é peso oficial da prova."
+    },
+    {
+      "id": "RETEST-ANTENAS63-20261106",
+      "data": "2026-11-06",
+      "tipo": "RETEST",
+      "titulo": "Antenas 6.3 broadside/end-fire e fator de conjunto",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "sourceType": "AUTORAL_RETEST_DIRIGIDO",
+      "diagnosticValidity": "RETESTE_DIRIGIDO_NAO_SIMULADO",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-06.json",
+      "questionIds": [
+        "RETEST-ANTENAS63-20261106-Q01",
+        "RETEST-ANTENAS63-20261106-Q02"
+      ],
+      "observacao": "Acertos D e E; reteste espaçado de 08/11 permanece pendente."
     }
   ],
-  "updatedAt": "2026-11-05"
+  "updatedAt": "2026-11-06"
 }
