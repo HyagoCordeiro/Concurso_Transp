@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "eventId": "CESGRANRIO-PETROBRAS-2006-TELECOM-20261107",
+  "studyDateLocal": "2026-11-07",
+  "timezone": "America/Sao_Paulo",
+  "examDate": "2026-12-06",
+  "prova": "PETROBRAS Engenheiro de Telecomunicações Pleno — maio de 2006; arquivo denominado prova_23_engenheiro_a_de_telecomunicaces_junior_2006.pdf",
+  "origem": "Prova disponibilizada nos arquivos do projeto; questões apresentadas e corrigidas sequencialmente na conversa; Q22 com valores adaptados; demais transcritas/apresentadas como originais na sessão; placar extraído das correções da conversa, não é revisão independente do gabarito oficial.",
+  "sourceType": "CESGRANRIO_PETROBRAS_2006_CHAT_GUIDED",
+  "sessaoTipo": "PROVA_HISTORICA_PRATICA_GUIADA",
+  "totalOriginaisEspecificas": 40,
+  "excluidasPorEscopo": [
+    36,
+    40
+  ],
+  "respondidas": 38,
+  "acertos": 26,
+  "erros": 12,
+  "accuracyPercent": 68.4,
+  "tempoLiquidoSec": null,
+  "tempoNota": "Não houve cronometragem dos tempos líquidos; não inferir tempo pela duração do chat.",
+  "answers": [
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q21",
+      "numero": 21,
+      "subitem": "7.1",
+      "tema": "Desvanecimento seletivo: equalização, OFDM e espalhamento",
+      "resposta": "E",
+      "gabarito": "E",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q22",
+      "numero": 22,
+      "subitem": "7.1",
+      "tema": "Friis: distância dobrada; questão apresentada com valores ajustados",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q23",
+      "numero": 23,
+      "subitem": "8.3",
+      "tema": "Atenuação por chuva; precipitação, frequência, polarização, distância",
+      "resposta": "B",
+      "gabarito": "B",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q24",
+      "numero": 24,
+      "subitem": "6.1",
+      "tema": "Diagrama de antena: feixe e relação frente-costa",
+      "resposta": "C",
+      "gabarito": "C",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q25",
+      "numero": 25,
+      "subitem": "7.1",
+      "tema": "Difração por obstáculo e dependência com frequência",
+      "resposta": "E",
+      "gabarito": "C",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q26",
+      "numero": 26,
+      "subitem": "7.1",
+      "tema": "Modelo de dois raios/Terra Plana: d^-2 e d^-4",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q27",
+      "numero": 27,
+      "subitem": "4.2",
+      "tema": "Ruído térmico kTB e temperatura da antena",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q28",
+      "numero": 28,
+      "subitem": "12.3",
+      "tema": "SDH STM-1 e tempo de quadro",
+      "resposta": "B",
+      "gabarito": "B",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q29",
+      "numero": 29,
+      "subitem": "12.4",
+      "tema": "DWDM: mistura de quatro ondas (FWM)",
+      "resposta": "A",
+      "gabarito": "A",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q30",
+      "numero": 30,
+      "subitem": "12.3",
+      "tema": "STM-N: 9 linhas, 270N colunas, duração fixa",
+      "resposta": "C",
+      "gabarito": "C",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q31",
+      "numero": 31,
+      "subitem": "12.4",
+      "tema": "Multiplexação TDM/WDM e dispersão cromática",
+      "resposta": "E",
+      "gabarito": "E",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q32",
+      "numero": 32,
+      "subitem": "12.4",
+      "tema": "DWDM x CWDM: espaçamento entre portadoras",
+      "resposta": "B",
+      "gabarito": "B",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q33",
+      "numero": 33,
+      "subitem": "12.2",
+      "tema": "Orçamento óptico em dBm: +3 dB -4 dB",
+      "resposta": "A",
+      "gabarito": "A",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q34",
+      "numero": 34,
+      "subitem": "12.3",
+      "tema": "SDH transporta tributários E1 e T1",
+      "resposta": "B",
+      "gabarito": "A",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q35",
+      "numero": 35,
+      "subitem": "10.1",
+      "tema": "PCF versus DCF: PIFS, SIFS, DIFS e polling",
+      "resposta": "E",
+      "gabarito": "D",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q37",
+      "numero": 37,
+      "subitem": "10.1",
+      "tema": "Arquitetura Wi-Fi: BSS, ESS, sistema de distribuição",
+      "resposta": "E",
+      "gabarito": "B",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q38",
+      "numero": 38,
+      "subitem": "10.1",
+      "tema": "Autenticação IEEE 802.11 e PCF infraestrutura",
+      "resposta": "D",
+      "gabarito": "A",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q39",
+      "numero": 39,
+      "subitem": "10.1",
+      "tema": "DCF utiliza CSMA/CA",
+      "resposta": "A",
+      "gabarito": "A",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q41",
+      "numero": 41,
+      "subitem": "10.1",
+      "tema": "Interferência 2,4 GHz e faixas GSM/2G",
+      "resposta": "C",
+      "gabarito": "C",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q42",
+      "numero": 42,
+      "subitem": "10.3",
+      "tema": "SNMP: gerente/agente, GET, SET, TRAP",
+      "resposta": "C",
+      "gabarito": "C",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q43",
+      "numero": 43,
+      "subitem": "10.2",
+      "tema": "Portas de switch: velocidades e domínios de colisão",
+      "resposta": "C",
+      "gabarito": "C",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q44",
+      "numero": 44,
+      "subitem": "11.2",
+      "tema": "Roteamento IPv4 /22 e rota padrão",
+      "resposta": "E",
+      "gabarito": "E",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q45",
+      "numero": 45,
+      "subitem": "10.2",
+      "tema": "LAN x WAN; IEEE 802.3 Ethernet",
+      "resposta": "E",
+      "gabarito": "A",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q46",
+      "numero": 46,
+      "subitem": "10.3",
+      "tema": "PoE 802.3af: potência e dados nos mesmos pares",
+      "resposta": "E",
+      "gabarito": "E",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q47",
+      "numero": 47,
+      "subitem": "10.3",
+      "tema": "SNMPv2 TRAP x INFORM",
+      "resposta": "A",
+      "gabarito": "A",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q48",
+      "numero": 48,
+      "subitem": "5.3",
+      "tema": "SIP: 180 Ringing, 200 OK, ACK",
+      "resposta": "B",
+      "gabarito": "B",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q49",
+      "numero": 49,
+      "subitem": "5.3",
+      "tema": "SIP x H.323: sinalização textual e Q.931/TCP",
+      "resposta": "A",
+      "gabarito": "E",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q50",
+      "numero": 50,
+      "subitem": "5.3",
+      "tema": "QoS áudio/vídeo: interpretação histórica de controle de congestionamento",
+      "resposta": "E",
+      "gabarito": "C",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q51",
+      "numero": 51,
+      "subitem": "5.3",
+      "tema": "QoS em tempo real: jitter, atraso, perdas, banda",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q52",
+      "numero": 52,
+      "subitem": "4.2",
+      "tema": "Companding antes de quantização uniforme",
+      "resposta": "D",
+      "gabarito": "A",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q53",
+      "numero": 53,
+      "subitem": "5.2",
+      "tema": "TDM: slot e intervalo de guarda (10%)",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q54",
+      "numero": 54,
+      "subitem": "5.2",
+      "tema": "Sinalização R2, linha e registrador",
+      "resposta": "B",
+      "gabarito": "B",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q55",
+      "numero": 55,
+      "subitem": "11.4",
+      "tema": "SSH: cliente local conecta ao servidor remoto",
+      "resposta": "A",
+      "gabarito": "D",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q56",
+      "numero": 56,
+      "subitem": "11.5",
+      "tema": "Firewall: filtros por origem, destino, porta e interface",
+      "resposta": "D",
+      "gabarito": "C",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q57",
+      "numero": 57,
+      "subitem": "11.1",
+      "tema": "DiffServ: DSCP, PHB e Behavior Aggregate",
+      "resposta": "B",
+      "gabarito": "E",
+      "acertou": false,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q58",
+      "numero": 58,
+      "subitem": "11.4",
+      "tema": "TCP: triple duplicate ACK ou timeout",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q59",
+      "numero": 59,
+      "subitem": "11.3",
+      "tema": "MPLS, VPN, RSVP-TE",
+      "resposta": "E",
+      "gabarito": "E",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    },
+    {
+      "questionId": "PETROBRAS-CESGRANRIO-2006-Q60",
+      "numero": 60,
+      "subitem": "11.4",
+      "tema": "IPv4: ID, Flags e Fragment Offset",
+      "resposta": "D",
+      "gabarito": "D",
+      "acertou": true,
+      "correcaoFonte": "CORRECAO_APRESENTADA_NO_CHAT_2026-11-07"
+    }
+  ],
+  "byGroup": [
+    {
+      "area": "Antenas e propagação",
+      "total": 6,
+      "acertos": 5,
+      "questoes": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "area": "Comunicações digitais",
+      "total": 2,
+      "acertos": 1,
+      "questoes": [
+        27,
+        52
+      ]
+    },
+    {
+      "area": "Sistemas ópticos",
+      "total": 7,
+      "acertos": 6,
+      "questoes": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "area": "Wi-Fi e redes locais",
+      "total": 10,
+      "acertos": 6,
+      "questoes": [
+        35,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "area": "Telefonia e QoS",
+      "total": 6,
+      "acertos": 4,
+      "questoes": [
+        48,
+        49,
+        50,
+        51,
+        53,
+        54
+      ]
+    },
+    {
+      "area": "Redes IP e segurança",
+      "total": 7,
+      "acertos": 4,
+      "questoes": [
+        44,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    }
+  ],
+  "errosPrioritarios": [
+    {
+      "numero": 25,
+      "subitem": "7.1",
+      "tema": "Difração por obstáculo e dependência com frequência",
+      "resposta": "E",
+      "gabarito": "C"
+    },
+    {
+      "numero": 34,
+      "subitem": "12.3",
+      "tema": "SDH transporta tributários E1 e T1",
+      "resposta": "B",
+      "gabarito": "A"
+    },
+    {
+      "numero": 35,
+      "subitem": "10.1",
+      "tema": "PCF versus DCF: PIFS, SIFS, DIFS e polling",
+      "resposta": "E",
+      "gabarito": "D"
+    },
+    {
+      "numero": 37,
+      "subitem": "10.1",
+      "tema": "Arquitetura Wi-Fi: BSS, ESS, sistema de distribuição",
+      "resposta": "E",
+      "gabarito": "B"
+    },
+    {
+      "numero": 38,
+      "subitem": "10.1",
+      "tema": "Autenticação IEEE 802.11 e PCF infraestrutura",
+      "resposta": "D",
+      "gabarito": "A"
+    },
+    {
+      "numero": 45,
+      "subitem": "10.2",
+      "tema": "LAN x WAN; IEEE 802.3 Ethernet",
+      "resposta": "E",
+      "gabarito": "A"
+    },
+    {
+      "numero": 49,
+      "subitem": "5.3",
+      "tema": "SIP x H.323: sinalização textual e Q.931/TCP",
+      "resposta": "A",
+      "gabarito": "E"
+    },
+    {
+      "numero": 50,
+      "subitem": "5.3",
+      "tema": "QoS áudio/vídeo: interpretação histórica de controle de congestionamento",
+      "resposta": "E",
+      "gabarito": "C"
+    },
+    {
+      "numero": 52,
+      "subitem": "4.2",
+      "tema": "Companding antes de quantização uniforme",
+      "resposta": "D",
+      "gabarito": "A"
+    },
+    {
+      "numero": 55,
+      "subitem": "11.4",
+      "tema": "SSH: cliente local conecta ao servidor remoto",
+      "resposta": "A",
+      "gabarito": "D"
+    },
+    {
+      "numero": 56,
+      "subitem": "11.5",
+      "tema": "Firewall: filtros por origem, destino, porta e interface",
+      "resposta": "D",
+      "gabarito": "C"
+    },
+    {
+      "numero": 57,
+      "subitem": "11.1",
+      "tema": "DiffServ: DSCP, PHB e Behavior Aggregate",
+      "resposta": "B",
+      "gabarito": "E"
+    }
+  ],
+  "nextSession": {
+    "dataSugerida": "2026-11-08",
+    "estado": "PAUSADO_POR_SOLICITACAO_USUARIO",
+    "acao": "Retomar as 12 erradas em questões adaptadas inéditas, preferencialmente uma por vez, sem antecipar resposta; alternar letras corretas. Revisão com cabeça fresca.",
+    "filaReteste": [
+      25,
+      34,
+      35,
+      37,
+      38,
+      45,
+      49,
+      50,
+      52,
+      55,
+      56,
+      57
+    ],
+    "aposReteste": "Fazer Português (8 válidas) e Inglês (10 válidas) da prova filtrada se o usuário desejar.",
+    "obs": "Prova-alvo do concurso é 06/12/2026 conforme data/PROVA_ALVO_ATUALIZADA.json."
+  },
+  "notaQualidade": "Preservar distinção entre resposta e gabarito informados no chat e eventual verificação futura por fonte oficial. Q50: avaliação contextual histórica não equivale a dizer que todo controle de congestionamento moderno é inadequado para tempo real.",
+  "antiRepeticao": {
+    "tratamentoAcertos": "Não repetir imediatamente questões acertadas; respeitar cooldown do projeto.",
+    "tratamentoErros": "Liberadas para reteste dirigido com alterações substantivas, identificado como RETEST/REPAIR; não classificar reaplicações cosméticas como inéditas."
+  }
+}
