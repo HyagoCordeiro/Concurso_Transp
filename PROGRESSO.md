@@ -348,3 +348,15 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Atenção ao peso histórico solicitado:** itens 1 e 3 concentraram os erros, mas não devem dominar o planejamento por isso. No banco TecConcursos (456 questões), item 1 tem 13 (2,9%) e item 3 tem 22 (4,8%), comparado a 130 (item 4), 84 (item 12) e 67 (item 5). Esses números não são pesos oficiais de prova; confirmar incidência nas provas reais CESGRANRIO e usar o edital inteiro.
 - **Próximas revisões dos 4 erros:** 09/11 (D3), 13/11 (D7), 27/11 (D21); somente retestes curtos, priorizando os temas historicamente recorrentes no cronograma regular.
 - Tempo líquido dos demais estudos de 06/11 não aferido, não somar estimativas.
+
+
+## Fechamento — 07/11/2026 — Prova histórica CESGRANRIO/Petrobras 2006
+
+[Resumo detalhado, respostas e fila de erros](qti/RESULTADOS_DIA_2026-11-07.md) · [JSON com 38 respostas individualizadas](qti/RESULTADOS_DIA_2026-11-07.json).
+
+- **38 questões específicas válidas (21–60, excluídas 36 e 40 por WiMAX)** resolvidas, com **26/38 acertos (68,4%)**, **12 erros**; tempo líquido não medido.
+- **Questões erradas e fila para 08/11:** 25 (difração), 34 (SDH E1/T1), 35 (PCF/SIFS/PIFS), 37 (BSS/ESS), 38 (autenticação 802.11), 45 (LAN/WAN), 49 (SIP/H.323), 50 (QoS/controle de congestionamento na abordagem de 2006), 52 (companding), 55 (SSH), 56 (ACL), 57 (DiffServ PHB/BA).
+- **Decisão explícita do usuário:** pausa hoje, **retomar amanhã com as erradas, cabeça fresca**. Produzir questões adaptadas de reteste dirigidas, uma por vez, cinco alternativas e sem antecipar o gabarito; conferir banco anti-repetição. Não reapresentar as corretas de imediato.
+- **Próximo passo:** 12 retestes adaptados prioritários; depois, se solicitado, Português (8 válidas) e Inglês (10 válidas) da mesma prova.
+- **Procedência:** notas/gabaritos correspondem às correções da conversa; Q22 teve valores adaptados e as outras foram apresentadas como históricas. Não é um QTI independente nem cronometrado; manter distinção e eventual reauditoria de alternativas quando necessária.
+- **Prova-alvo: 06/12/2026** conforme atualização oficial já anotada no repositório.
