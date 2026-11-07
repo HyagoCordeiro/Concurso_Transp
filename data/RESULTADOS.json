@@ -4344,6 +4344,64 @@
         "RETEST-ANTENAS63-20261106-Q02"
       ],
       "observacao": "Acertos D e E; reteste espaçado de 08/11 permanece pendente."
+    },
+    {
+      "id": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "eventId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "data": "2026-11-06",
+      "studyDateLocal": "2026-11-06",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 Português — A arte de manter",
+      "textoBase": "A arte de manter",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 6,
+      "erros": 4,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "VALIDO_SEM_REPETICAO_CONHECIDA",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "questionIds": [
+        "QTI10-PT-20261106-Q01",
+        "QTI10-PT-20261106-Q02",
+        "QTI10-PT-20261106-Q03",
+        "QTI10-PT-20261106-Q04",
+        "QTI10-PT-20261106-Q05",
+        "QTI10-PT-20261106-Q06",
+        "QTI10-PT-20261106-Q07",
+        "QTI10-PT-20261106-Q08",
+        "QTI10-PT-20261106-Q09",
+        "QTI10-PT-20261106-Q10"
+      ],
+      "itensErrados": [
+        {
+          "numero": 1,
+          "topico": "Interpretação global — condição suficiente versus contribuição",
+          "resposta": "C",
+          "gabarito": "D"
+        },
+        {
+          "numero": 2,
+          "topico": "Tempos verbais — futuro do pretérito e hipótese",
+          "resposta": "A",
+          "gabarito": "B"
+        },
+        {
+          "numero": 6,
+          "topico": "Conectores — retificação 'não... mas...'",
+          "resposta": "B",
+          "gabarito": "C"
+        },
+        {
+          "numero": 8,
+          "topico": "Relações lógico-semânticas — temporal versus concessiva",
+          "resposta": "D",
+          "gabarito": "B"
+        }
+      ],
+      "observacao": "Resposta final Q10 A (substitui D). 4 erros de interpretação/semântica: Q1, Q2, Q6, Q8. Tempo não medido."
     }
   ],
   "updatedAt": "2026-11-06"
