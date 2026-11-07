@@ -1,0 +1,307 @@
+{
+  "id": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+  "eventId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+  "data": "2026-11-06",
+  "studyDateLocal": "2026-11-06",
+  "timezone": "America/Sao_Paulo",
+  "disciplina": "Língua Portuguesa",
+  "tipo": "QTI-10",
+  "titulo": "QTI-10 Português CESGRANRIO — A arte de manter",
+  "bancaAlvo": "CESGRANRIO",
+  "concursoAlvo": "Transpetro — nível superior",
+  "textoBase": {
+    "titulo": "A arte de manter",
+    "autoria": "Autoral",
+    "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+  },
+  "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+  "formato": "10 questões A–E, uma a uma, correção imediata",
+  "totalQuestoes": 10,
+  "questoesValidas": 10,
+  "acertos": 6,
+  "erros": 4,
+  "percentual": 60,
+  "resultado": "6/10",
+  "tempoLiquidoSegundos": null,
+  "status": "CONCLUIDO",
+  "questionResults": [
+    {
+      "questionId": "QTI10-PT-20261106-Q01",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q01",
+      "topic": "Interpretação global — condição suficiente versus contribuição",
+      "promptSummary": "Perspectiva central do texto 'A arte de manter' sobre manutenção e progresso.",
+      "selected": "C",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": "UNKNOWN",
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q02",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q02",
+      "topic": "Tempos verbais — futuro do pretérito e hipótese",
+      "promptSummary": "Valor de 'dispensaria' em 'passa a impressão enganosa de que dispensaria cuidados'.",
+      "selected": "A",
+      "correctAnswer": "B",
+      "result": "INCORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": "UNKNOWN",
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q03",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q03",
+      "topic": "Coesão referencial — retomada por 'isso'",
+      "promptSummary": "Retomada pronominal de 'isso' em 'É por isso que investimentos preventivos frequentemente enfrentam resistência'.",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q04",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q04",
+      "topic": "Regência e crase — atribuir importância à",
+      "promptSummary": "Alternativa correta quanto à regência e crase em contexto de valorização da manutenção.",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q05",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q05",
+      "topic": "Pontuação — dois-pontos explicativos",
+      "promptSummary": "Função dos dois-pontos em 'enfrentam resistência: seu principal resultado é um problema que não chega a acontecer'.",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q06",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q06",
+      "topic": "Conectores — retificação 'não... mas...'",
+      "promptSummary": "Valor argumentativo de 'não... mas...' em 'não decorre de sua pouca importância, mas do sucesso de seu trabalho'.",
+      "selected": "B",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": "UNKNOWN",
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q07",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q07",
+      "topic": "Reescrita — ausência de garantia versus impossibilidade",
+      "promptSummary": "Reescrita de 'Uma cidade não se torna necessariamente melhor porque instala mais equipamentos'.",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q08",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q08",
+      "topic": "Relações lógico-semânticas — temporal versus concessiva",
+      "promptSummary": "Reescrita de 'Ao valorizar somente o que pode ser fotografado...' preservando sentido.",
+      "selected": "D",
+      "correctAnswer": "B",
+      "result": "INCORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": "UNKNOWN",
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q09",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q09",
+      "topic": "Colocação pronominal — ênclise e fatores de próclise",
+      "promptSummary": "Alternativa com colocação do pronome oblíquo átono conforme a norma-padrão.",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q10",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q10",
+      "topic": "Concordância — existir versus haver impessoal",
+      "promptSummary": "Alternativa com concordância verbal conforme a norma-padrão, com 'existem', 'haver' e 'faz'.",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "responseTimeSec": null,
+      "confidence": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID",
+      "excludeFromMastery": false
+    }
+  ],
+  "questoes": [
+    {
+      "questionId": "QTI10-PT-20261106-Q01",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q01",
+      "numero": 1,
+      "topico": "Interpretação global — condição suficiente versus contribuição",
+      "enunciadoResumo": "Perspectiva central do texto 'A arte de manter' sobre manutenção e progresso.",
+      "respostaUsuario": "C",
+      "gabarito": "D",
+      "resultado": "INCORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q02",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q02",
+      "numero": 2,
+      "topico": "Tempos verbais — futuro do pretérito e hipótese",
+      "enunciadoResumo": "Valor de 'dispensaria' em 'passa a impressão enganosa de que dispensaria cuidados'.",
+      "respostaUsuario": "A",
+      "gabarito": "B",
+      "resultado": "INCORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q03",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q03",
+      "numero": 3,
+      "topico": "Coesão referencial — retomada por 'isso'",
+      "enunciadoResumo": "Retomada pronominal de 'isso' em 'É por isso que investimentos preventivos frequentemente enfrentam resistência'.",
+      "respostaUsuario": "E",
+      "gabarito": "E",
+      "resultado": "CORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q04",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q04",
+      "numero": 4,
+      "topico": "Regência e crase — atribuir importância à",
+      "enunciadoResumo": "Alternativa correta quanto à regência e crase em contexto de valorização da manutenção.",
+      "respostaUsuario": "A",
+      "gabarito": "A",
+      "resultado": "CORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q05",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q05",
+      "numero": 5,
+      "topico": "Pontuação — dois-pontos explicativos",
+      "enunciadoResumo": "Função dos dois-pontos em 'enfrentam resistência: seu principal resultado é um problema que não chega a acontecer'.",
+      "respostaUsuario": "D",
+      "gabarito": "D",
+      "resultado": "CORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q06",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q06",
+      "numero": 6,
+      "topico": "Conectores — retificação 'não... mas...'",
+      "enunciadoResumo": "Valor argumentativo de 'não... mas...' em 'não decorre de sua pouca importância, mas do sucesso de seu trabalho'.",
+      "respostaUsuario": "B",
+      "gabarito": "C",
+      "resultado": "INCORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q07",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q07",
+      "numero": 7,
+      "topico": "Reescrita — ausência de garantia versus impossibilidade",
+      "enunciadoResumo": "Reescrita de 'Uma cidade não se torna necessariamente melhor porque instala mais equipamentos'.",
+      "respostaUsuario": "E",
+      "gabarito": "E",
+      "resultado": "CORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q08",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q08",
+      "numero": 8,
+      "topico": "Relações lógico-semânticas — temporal versus concessiva",
+      "enunciadoResumo": "Reescrita de 'Ao valorizar somente o que pode ser fotografado...' preservando sentido.",
+      "respostaUsuario": "D",
+      "gabarito": "B",
+      "resultado": "INCORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q09",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q09",
+      "numero": 9,
+      "topico": "Colocação pronominal — ênclise e fatores de próclise",
+      "enunciadoResumo": "Alternativa com colocação do pronome oblíquo átono conforme a norma-padrão.",
+      "respostaUsuario": "D",
+      "gabarito": "D",
+      "resultado": "CORRETA"
+    },
+    {
+      "questionId": "QTI10-PT-20261106-Q10",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q10",
+      "numero": 10,
+      "topico": "Concordância — existir versus haver impessoal",
+      "enunciadoResumo": "Alternativa com concordância verbal conforme a norma-padrão, com 'existem', 'haver' e 'faz'.",
+      "respostaUsuario": "A",
+      "gabarito": "A",
+      "resultado": "CORRETA"
+    }
+  ],
+  "itensErrados": [
+    {
+      "numero": 1,
+      "topico": "Interpretação global — condição suficiente versus contribuição",
+      "resposta": "C",
+      "gabarito": "D"
+    },
+    {
+      "numero": 2,
+      "topico": "Tempos verbais — futuro do pretérito e hipótese",
+      "resposta": "A",
+      "gabarito": "B"
+    },
+    {
+      "numero": 6,
+      "topico": "Conectores — retificação 'não... mas...'",
+      "resposta": "B",
+      "gabarito": "C"
+    },
+    {
+      "numero": 8,
+      "topico": "Relações lógico-semânticas — temporal versus concessiva",
+      "resposta": "D",
+      "gabarito": "B"
+    }
+  ],
+  "diagnostico": "Oscilação em interpretação de nuances e relações semânticas. Acertos em coesão, regência/crase, pontuação, reescrita, colocação pronominal e concordância.",
+  "prioridadesRevisao": [
+    "Interpretação — distinguir contribuição, condição necessária e suficiente (Q1)",
+    "Valor hipotético do futuro do pretérito (Q2)",
+    "Retificação 'não... mas...' versus justificação dupla (Q6)",
+    "Tempo/causa versus concessão em 'ao + infinitivo' (Q8)"
+  ],
+  "nextAction": "REPAIR_AND_RETEST em interpretação fina e relações semânticas; reteste em questões inéditas, preferencialmente originais CESGRANRIO",
+  "notaQuestao10": "A resposta inicial D foi substituída explicitamente pela resposta final A antes do fechamento. Computado A, correta; não contabilizar duas tentativas.",
+  "notaQualidade": "Questões autorais no estilo CESGRANRIO; não apresentadas como questões históricas oficiais. Resultado não representa estimativa direta da prova oficial."
+}
