@@ -11131,6 +11131,336 @@
       "latestPromptSummary": "Cálculo fator de conjunto d=λ/4 e fase -π/2; end-fire unidirecional",
       "promptCompleteness": "SUMMARY_NOT_VERBATIM",
       "note": "Reter 08/11 D3 como revisão do conceito, usar nova abordagem, não repetir o mesmo enunciado."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q01",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q01",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Interpretação global — condição suficiente versus contribuição",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "INCORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "D",
+      "selectedAnswer": "C",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q01",
+          "selectedAnswer": "C",
+          "correctAnswer": "D",
+          "result": "INCORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": null,
+      "nextEligibleAt": "2026-11-07",
+      "eligibleNow": false,
+      "latestPromptSummary": "Perspectiva central do texto 'A arte de manter' sobre manutenção e progresso.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Erro — REPAIR/RETEST explícito permitido; não reutilizar no mesmo dia em QTI comum."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q02",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q02",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Tempos verbais — futuro do pretérito e hipótese",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "INCORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "B",
+      "selectedAnswer": "A",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q02",
+          "selectedAnswer": "A",
+          "correctAnswer": "B",
+          "result": "INCORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": null,
+      "nextEligibleAt": "2026-11-07",
+      "eligibleNow": false,
+      "latestPromptSummary": "Valor de 'dispensaria' em 'passa a impressão enganosa de que dispensaria cuidados'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Erro — REPAIR/RETEST explícito permitido; não reutilizar no mesmo dia em QTI comum."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q03",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q03",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Coesão referencial — retomada por 'isso'",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "E",
+      "selectedAnswer": "E",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q03",
+          "selectedAnswer": "E",
+          "correctAnswer": "E",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-09",
+      "eligibleNow": false,
+      "latestPromptSummary": "Retomada pronominal de 'isso' em 'É por isso que investimentos preventivos frequentemente enfrentam resistência'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q04",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q04",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Regência e crase — atribuir importância à",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "A",
+      "selectedAnswer": "A",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q04",
+          "selectedAnswer": "A",
+          "correctAnswer": "A",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-11",
+      "eligibleNow": false,
+      "latestPromptSummary": "Alternativa correta quanto à regência e crase em contexto de valorização da manutenção.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q05",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q05",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Pontuação — dois-pontos explicativos",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "D",
+      "selectedAnswer": "D",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q05",
+          "selectedAnswer": "D",
+          "correctAnswer": "D",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-13",
+      "eligibleNow": false,
+      "latestPromptSummary": "Função dos dois-pontos em 'enfrentam resistência: seu principal resultado é um problema que não chega a acontecer'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q06",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q06",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Conectores — retificação 'não... mas...'",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "INCORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "C",
+      "selectedAnswer": "B",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q06",
+          "selectedAnswer": "B",
+          "correctAnswer": "C",
+          "result": "INCORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": null,
+      "nextEligibleAt": "2026-11-07",
+      "eligibleNow": false,
+      "latestPromptSummary": "Valor argumentativo de 'não... mas...' em 'não decorre de sua pouca importância, mas do sucesso de seu trabalho'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Erro — REPAIR/RETEST explícito permitido; não reutilizar no mesmo dia em QTI comum."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q07",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q07",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Reescrita — ausência de garantia versus impossibilidade",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "E",
+      "selectedAnswer": "E",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q07",
+          "selectedAnswer": "E",
+          "correctAnswer": "E",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-11",
+      "eligibleNow": false,
+      "latestPromptSummary": "Reescrita de 'Uma cidade não se torna necessariamente melhor porque instala mais equipamentos'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q08",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q08",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Relações lógico-semânticas — temporal versus concessiva",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "INCORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "B",
+      "selectedAnswer": "D",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q08",
+          "selectedAnswer": "D",
+          "correctAnswer": "B",
+          "result": "INCORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": null,
+      "nextEligibleAt": "2026-11-07",
+      "eligibleNow": false,
+      "latestPromptSummary": "Reescrita de 'Ao valorizar somente o que pode ser fotografado...' preservando sentido.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Erro — REPAIR/RETEST explícito permitido; não reutilizar no mesmo dia em QTI comum."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q09",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q09",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Colocação pronominal — ênclise e fatores de próclise",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "D",
+      "selectedAnswer": "D",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q09",
+          "selectedAnswer": "D",
+          "correctAnswer": "D",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-09",
+      "eligibleNow": false,
+      "latestPromptSummary": "Alternativa com colocação do pronome oblíquo átono conforme a norma-padrão.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
+    },
+    {
+      "id": "QTI10-PT-20261106-Q10",
+      "canonicalId": "AUTORAL-CESGRANRIO-PORTUGUES-AARTEDEMANTER-20261106-Q10",
+      "unitId": "PT",
+      "editalItem": "CONHECIMENTOS_BASICOS-PORTUGUES",
+      "topic": "Concordância — existir versus haver impessoal",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "source": "QTI-10 Português — A arte de manter; 2026-11-06",
+      "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json",
+      "lastSeenAt": "2026-11-06",
+      "lastResult": "CORRETA",
+      "lastSessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+      "correctAnswer": "A",
+      "selectedAnswer": "A",
+      "history": [
+        {
+          "studyDateLocal": "2026-11-06",
+          "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+          "questionId": "QTI10-PT-20261106-Q10",
+          "selectedAnswer": "A",
+          "correctAnswer": "A",
+          "result": "CORRETA",
+          "questionForm": "AUTORAL_CESGRANRIO_STYLE",
+          "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
+        }
+      ],
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-11",
+      "eligibleNow": false,
+      "latestPromptSummary": "Alternativa com concordância verbal conforme a norma-padrão, com 'existem', 'haver' e 'faz'.",
+      "promptCompleteness": "SUMMARY_NOT_VERBATIM",
+      "note": "Bloqueio de repetição após acerto."
     }
   ],
   "portuguesePolicy": {
@@ -11230,6 +11560,15 @@
         "sessionId": "QTI10-PT-20261009-1791668189945",
         "sourceFile": "qti/QTI10_Portugues_OAnoDaEsperanca_resultado_2026-10-10.json",
         "note": "Usar texto novo em QTI comum. Reutilização somente como reteste explicitamente dirigido e elegível."
+      },
+      {
+        "title": "A arte de manter",
+        "author": "autoral",
+        "source": "QTI-10 Português 2026-11-06",
+        "lastSeenAt": "2026-11-06",
+        "status": "BLOQUEADO_PARA_REPETICAO",
+        "sessionId": "QTI10-PORTUGUES-AARTEDEMANTER-20261106",
+        "sourceFile": "qti/QTI10_Portugues_AArteDeManter_resultado_2026-11-06.json"
       }
     ],
     "preflightChecklist": [
