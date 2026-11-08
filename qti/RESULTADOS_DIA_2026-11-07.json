@@ -594,5 +594,70 @@
   "antiRepeticao": {
     "tratamentoAcertos": "Não repetir imediatamente questões acertadas; respeitar cooldown do projeto.",
     "tratamentoErros": "Liberadas para reteste dirigido com alterações substantivas, identificado como RETEST/REPAIR; não classificar reaplicações cosméticas como inéditas."
+  },
+  "additionalSessions": [
+    {
+      "eventId": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS",
+      "disciplina": "Português",
+      "respondidas": 10,
+      "acertos": 7,
+      "erros": 3,
+      "accuracyPercent": 70,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_HISTORICAL_TEXT",
+      "sourceFile": "qti/portugues/QTI10_PT_2026-11-07_TRANSPETRO2018_BRASCUBAS_resultado.json",
+      "errosDetalhados": [
+        {
+          "n": 2,
+          "topico": "Coesão",
+          "resposta": "B",
+          "gabarito": "E"
+        },
+        {
+          "n": 8,
+          "topico": "Concordância",
+          "resposta": "E",
+          "gabarito": "D"
+        },
+        {
+          "n": 9,
+          "topico": "Regência",
+          "resposta": "A",
+          "gabarito": "C"
+        }
+      ]
+    },
+    {
+      "eventId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "disciplina": "Inglês",
+      "respondidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "accuracyPercent": 80,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "sourceFile": "qti/QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.json",
+      "errosDetalhados": [
+        {
+          "n": 5,
+          "topico": "Inferência sobre tecnologia e humanos",
+          "resposta": "D",
+          "gabarito": "E"
+        },
+        {
+          "n": 6,
+          "topico": "Inferência sobre resiliência e recuperação",
+          "resposta": "C",
+          "gabarito": "E"
+        }
+      ]
+    }
+  ],
+  "dailyTotals": {
+    "sessionCount": 3,
+    "respondidas": 58,
+    "acertos": 41,
+    "erros": 17,
+    "accuracyPercent": 70.7,
+    "measuredTimeSec": null,
+    "nota": "Agregação aritmética de sessões heterogêneas; não representa simulado independente. Raiz do JSON contém somente a atividade Telecom originalmente registrada."
   }
 }
