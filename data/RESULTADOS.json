@@ -4402,6 +4402,58 @@
         }
       ],
       "observacao": "Resposta final Q10 A (substitui D). 4 erros de interpretação/semântica: Q1, Q2, Q6, Q8. Tempo não medido."
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS",
+      "eventId": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS",
+      "data": "2026-11-07",
+      "studyDateLocal": "2026-11-07",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 Português — Memórias Póstumas de Brás Cubas (Transpetro 2018)",
+      "textoBase": "Memórias Póstumas de Brás Cubas",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 7,
+      "erros": 3,
+      "percentual": 70,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_HISTORICAL_TEXT",
+      "sourceFile": "qti/portugues/QTI10_PT_2026-11-07_TRANSPETRO2018_BRASCUBAS_resultado.json",
+      "diagnosticValidity": "RESULTADO_CONFERIDO_PELO_SCREENSHOT",
+      "questionIds": [
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q01",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q02",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q03",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q04",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q05",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q06",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q07",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q08",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q09",
+        "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q10"
+      ],
+      "itensErrados": [
+        {
+          "numero": 2,
+          "topico": "Coesão — referência contextual",
+          "resposta": "B",
+          "gabarito": "E"
+        },
+        {
+          "numero": 8,
+          "topico": "Concordância verbal",
+          "resposta": "E",
+          "gabarito": "D"
+        },
+        {
+          "numero": 9,
+          "topico": "Regência verbal — dois complementos",
+          "resposta": "A",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "Bateria com texto histórico CESGRANRIO/Transpetro 2018, questões autorais inéditas. Tempo não informado. Screenshot com marcações: B B C A D B A E A E; gabarito B E C A D B A D C E."
     }
   ],
   "updatedAt": "2026-11-06"
