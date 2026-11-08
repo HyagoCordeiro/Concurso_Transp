@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "eventId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+  "studyDateLocal": "2026-11-07",
+  "timezone": "America/Sao_Paulo",
+  "examDate": "2026-12-06",
+  "exam": "Transpetro 2026 / Língua Inglesa",
+  "qti": "QTI-10",
+  "disciplina": "Inglês",
+  "title": "QTI-10 — Predictive Maintenance and Resilient Energy Networks",
+  "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+  "sourceNote": "Dois textos e dez questões autorais estilo CESGRANRIO, NÃO retirados de prova histórica.",
+  "format": "CHAT_INTERATIVO_UMA_QUESTAO_POR_VEZ",
+  "formatNote": "Não foi gerado o arquivo HTML-padrão do projeto nesta sessão.",
+  "total": 10,
+  "acertos": 8,
+  "erros": 2,
+  "percentual": 80,
+  "tempoTotalSec": null,
+  "tempoMedioSec": null,
+  "confidenceCaptured": false,
+  "preflightAntesDaAplicacao": "NAO_DOCUMENTADO",
+  "textBases": [
+    {
+      "id": "I",
+      "title": "Why Predictive Maintenance Is Not Just About Sensors",
+      "text": "Oil transport companies increasingly rely on digital sensors to monitor pipelines and pumping stations. These devices collect information about pressure, temperature and vibration, allowing engineers to identify potential problems before equipment fails.\n\nHowever, technology alone cannot guarantee operational safety. A sudden pressure change, for instance, may indicate a leak, but it could also result from a routine operational adjustment. Engineers must therefore interpret the available information carefully.\n\nAlthough automated systems can detect unusual patterns faster than humans, their effectiveness depends on accurate data and appropriate decisions.\n\nCompanies that invest heavily in monitoring equipment but neglect employee training may find that their technological improvements deliver fewer benefits than expected.\n\nUltimately, the purpose of predictive maintenance is not simply to collect more data, but to transform information into timely and reliable decisions."
+    },
+    {
+      "id": "II",
+      "title": "Building More Resilient Energy Networks",
+      "text": "As energy systems become increasingly interconnected, ensuring the reliability of critical infrastructure has become a major challenge. Power grids, telecommunications networks and fuel transportation systems depend on one another to maintain essential services.\n\nIn recent years, companies have invested in backup communication links and more sophisticated monitoring systems. Nevertheless, extreme weather events and cyberattacks continue to threaten operational continuity.\n\nExperts argue that infrastructure resilience should not be measured solely by a system's ability to resist disruptions. Equally important is how quickly it can recover after an incident.\n\nFor instance, a telecommunications network that temporarily loses connectivity but restores its services within minutes may be considered more resilient than one that remains unavailable for several hours.\n\nAlthough investments in redundant infrastructure may increase initial costs, they can significantly reduce financial losses and operational risks in the long term."
+    }
+  ],
+  "questionResults": [
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q01",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q01",
+      "numero": 1,
+      "baseText": "I",
+      "topic": "Ideia central",
+      "statement": "The main purpose of the text is to",
+      "options": {
+        "A": "argue that automated systems should replace engineers in pipeline operations.",
+        "B": "emphasize that effective predictive maintenance requires both technology and human judgment.",
+        "C": "demonstrate that digital sensors are generally unreliable in industrial environments.",
+        "D": "suggest that employee training is more expensive than technological investment.",
+        "E": "explain why pressure variations always indicate serious pipeline failures."
+      },
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Tecnologia e julgamento humano são complementares.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q02",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q02",
+      "numero": 2,
+      "baseText": "I",
+      "topic": "Vocabulário contextual",
+      "statement": "In \"Companies that invest heavily in monitoring equipment ...\", \"heavily\" is closest in meaning to",
+      "options": {
+        "A": "reluctantly.",
+        "B": "occasionally.",
+        "C": "extensively.",
+        "D": "carelessly.",
+        "E": "unexpectedly."
+      },
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "Heavily: intensamente; extensively é a equivalência contextual.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q03",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q03",
+      "numero": 3,
+      "baseText": "I",
+      "topic": "Conectores — concessão",
+      "statement": "In \"Although automated systems can detect unusual patterns faster than humans...\", \"Although\" expresses",
+      "options": {
+        "A": "consequence.",
+        "B": "addition.",
+        "C": "purpose.",
+        "D": "concession.",
+        "E": "cause."
+      },
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Although = embora, ainda que; marca concessão.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q04",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q04",
+      "numero": 4,
+      "baseText": "I",
+      "topic": "Referência pronominal — these devices",
+      "statement": "In \"These devices collect information about pressure...\", \"These devices\" refers to",
+      "options": {
+        "A": "digital sensors used to monitor pipelines and pumping stations.",
+        "B": "engineers responsible for interpreting operational data.",
+        "C": "potential problems affecting industrial equipment.",
+        "D": "pressure variations resulting from operational adjustments.",
+        "E": "technological improvements in employee training."
+      },
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "explanation": "These devices retoma digital sensors da frase anterior.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q05",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q05",
+      "numero": 5,
+      "baseText": "I",
+      "topic": "Inferência textual",
+      "statement": "According to the text, it can be inferred that",
+      "options": {
+        "A": "collecting larger amounts of data automatically guarantees safer operations.",
+        "B": "pressure changes in pipelines are always caused by equipment failures.",
+        "C": "automated monitoring eliminates the need for professional training.",
+        "D": "technological investments are unnecessary when experienced engineers are available.",
+        "E": "the benefits of monitoring technologies depend partly on the ability to interpret their data."
+      },
+      "selected": "D",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "explanation": "Erro por extrapolação: engenheiros experientes não dispensam tecnologia; dados precisam virar decisões.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": "INTERPRETACAO",
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q06",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q06",
+      "numero": 6,
+      "baseText": "II",
+      "topic": "Compreensão e inferência — resiliência",
+      "statement": "According to the text, infrastructure resilience involves",
+      "options": {
+        "A": "preventing all disruptions through the use of sophisticated technology.",
+        "B": "reducing infrastructure investments to minimize initial costs.",
+        "C": "eliminating the dependence between energy and telecommunications systems.",
+        "D": "ensuring that telecommunications networks never experience connectivity failures.",
+        "E": "both resisting disruptions and recovering quickly when failures occur."
+      },
+      "selected": "C",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "explanation": "Resiliência envolve resistência e recuperação, não eliminar a interdependência.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": "INTERPRETACAO",
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q07",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q07",
+      "numero": 7,
+      "baseText": "II",
+      "topic": "Conectores — contraste",
+      "statement": "In \"Nevertheless, extreme weather events and cyberattacks continue to threaten operational continuity\", \"Nevertheless\" could be replaced by",
+      "options": {
+        "A": "Therefore.",
+        "B": "Furthermore.",
+        "C": "Consequently.",
+        "D": "However.",
+        "E": "Likewise."
+      },
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "explanation": "Nevertheless = however = entretanto.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q08",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q08",
+      "numero": 8,
+      "baseText": "II",
+      "topic": "Inferência — investimentos e benefícios",
+      "statement": "From \"Although investments in redundant infrastructure may increase initial costs...\", it can be inferred that",
+      "options": {
+        "A": "redundant infrastructure is financially disadvantageous in every situation.",
+        "B": "higher initial investments may result in long-term economic and operational benefits.",
+        "C": "companies should avoid redundant systems because of their maintenance costs.",
+        "D": "financial losses can only be prevented by eliminating cyberattacks.",
+        "E": "the initial cost of infrastructure is more important than its long-term reliability."
+      },
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "explanation": "Custos iniciais maiores podem gerar ganhos de longo prazo.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q09",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q09",
+      "numero": 9,
+      "baseText": "II",
+      "topic": "Referência pronominal — it",
+      "statement": "In \"Equally important is how quickly it can recover after an incident\", \"it\" refers to",
+      "options": {
+        "A": "an extreme weather event.",
+        "B": "a financial loss.",
+        "C": "a critical infrastructure system.",
+        "D": "an operational incident.",
+        "E": "an initial investment."
+      },
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "explanation": "It retoma a system do período anterior.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    },
+    {
+      "questionId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q10",
+      "canonicalId": "AUTORAL-QTI10-INGLES-PREDICTIVE-RESILIENCE-20261107-Q10",
+      "numero": 10,
+      "baseText": "II",
+      "topic": "Compreensão global",
+      "statement": "Considering the text as a whole, which of the following statements is TRUE?",
+      "options": {
+        "A": "The reliability of energy infrastructure depends exclusively on telecommunications networks.",
+        "B": "Cyberattacks have become less relevant due to advances in monitoring technology.",
+        "C": "A resilient system must remain operational without any interruption under all circumstances.",
+        "D": "Redundant infrastructure always reduces initial investment costs.",
+        "E": "Infrastructure resilience requires planning for both disruption prevention and service recovery."
+      },
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "explanation": "Prevenção e recuperação são os dois eixos da resiliência.",
+      "confidence": null,
+      "responseTimeSec": null,
+      "errorType": null,
+      "diagnosticValidity": "VALID_CHAT_ANSWER",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE"
+    }
+  ],
+  "byText": [
+    {
+      "text": "I",
+      "acertos": 4,
+      "total": 5
+    },
+    {
+      "text": "II",
+      "acertos": 4,
+      "total": 5
+    }
+  ],
+  "bySkill": [
+    {
+      "skill": "Ideia central",
+      "acertos": 1,
+      "total": 1
+    },
+    {
+      "skill": "Vocabulário contextual",
+      "acertos": 1,
+      "total": 1
+    },
+    {
+      "skill": "Conectores",
+      "acertos": 2,
+      "total": 2
+    },
+    {
+      "skill": "Referência pronominal",
+      "acertos": 2,
+      "total": 2
+    },
+    {
+      "skill": "Inferência e compreensão global",
+      "acertos": 2,
+      "total": 4
+    }
+  ],
+  "wrongQuestionNumbers": [
+    5,
+    6
+  ],
+  "diagnosis": [
+    "Q05: extrapolação da tese ao considerar tecnologia desnecessária diante de engenheiros experientes.",
+    "Q06: resiliência inclui resistência e recuperação, não eliminação de interdependência.",
+    "Acerto de 100% em conectores, vocabulário e referência pronominal dentro desta amostra."
+  ],
+  "suggestedReviews": [
+    {
+      "date": "2026-11-08",
+      "kind": "REPAIR"
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "D3"
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "D7"
+    },
+    {
+      "date": "2026-11-28",
+      "kind": "D21"
+    }
+  ]
+}
