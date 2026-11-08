@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "eventId": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS",
+  "studyDateLocal": "2026-11-07",
+  "timezone": "America/Sao_Paulo",
+  "subject": "Língua Portuguesa",
+  "examTarget": "CESGRANRIO/Transpetro 2026 — Engenharia de Telecomunicações",
+  "textBase": "Memórias Póstumas de Brás Cubas",
+  "textAuthor": "Machado de Assis",
+  "textSource": "CESGRANRIO Transpetro/Eng. Jr. Telecom 2018",
+  "questionsSource": "QUESTOES_AUTORAIS_ANTIRREPETICAO_SOBRE_TEXTO_HISTORICO",
+  "sourceQuiz": "qti/portugues/QTI10_PT_2026-11-07_TRANSPETRO2018_BRASCUBAS.html",
+  "evidence": "Captura de tela do resultado final enviada pelo usuário no chat em 07/11/2026",
+  "totalQuestions": 10,
+  "correct": 7,
+  "incorrect": 3,
+  "percent": 70,
+  "elapsedTimeSec": null,
+  "diagnosticValidity": "SIMULADO_NAO_REPETIDO_RESULTADO_AUTODECLARADO_POR_SCREENSHOT",
+  "answers": [
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q01",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q01",
+      "number": 1,
+      "topic": "Interpretação — motivação",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q02",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q02",
+      "number": 2,
+      "topic": "Coesão — referência contextual",
+      "selectedAnswer": "B",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q03",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q03",
+      "number": 3,
+      "topic": "Conectivos — contraste",
+      "selectedAnswer": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q04",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q04",
+      "number": 4,
+      "topic": "Vocabulário contextual",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q05",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q05",
+      "number": 5,
+      "topic": "Metáfora e inferência",
+      "selectedAnswer": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q06",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q06",
+      "number": 6,
+      "topic": "Reescrita — equivalência semântica",
+      "selectedAnswer": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q07",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q07",
+      "number": 7,
+      "topic": "Pontuação — reticências",
+      "selectedAnswer": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q08",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q08",
+      "number": 8,
+      "topic": "Concordância verbal",
+      "selectedAnswer": "E",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q09",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q09",
+      "number": 9,
+      "topic": "Regência verbal — dois complementos",
+      "selectedAnswer": "A",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    },
+    {
+      "id": "QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q10",
+      "canonicalId": "AUTORAL-QTI10-PT-20261107-TRANSPETRO2018-BRASCUBAS-Q10",
+      "number": 10,
+      "topic": "Crase — regência e artigo",
+      "selectedAnswer": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "evidence": "USER_SCREENSHOT",
+      "responseTimeSec": null
+    }
+  ],
+  "recommendedReview": [
+    "Coesão referencial: 'aí' e retomada do trecho anterior (Q02)",
+    "Concordância: haver impessoal / existir pessoal / verbo com se e preposição (Q08)",
+    "Regência: verbo transitivo direto e indireto, 'referir algo a alguém', 'contar algo a alguém' (Q09)"
+  ],
+  "note": "Respostas e gabaritos conferidos visualmente no screenshot. Sem tempo de execução ou confiança por questão."
+}
