@@ -1291,7 +1291,95 @@
       "createdFromStudyDate": "2026-11-06",
       "plano": "Reteste curto (4 questões) em contextos novos, respeitando anti-repetição. Não tomar concentração de erros como indicação de alta incidência histórica dos itens 1 e 3.",
       "regraPriorizacao": "Peso histórico CESGRANRIO + abrangência do edital + recorrência e gravidade do erro. Banco TecConcursos 1=13/456; 3=22/456; não representa probabilidade oficial de cobrança."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261107-REPAIR",
+      "unitId": "INGLES_INTERPRETACAO_INFERENCIA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "topico": "Inferência em textos de manutenção preditiva e resiliência — Q05/Q06",
+      "subitens": [
+        {
+          "unitId": "ING-Q05",
+          "topic": "Inferência: complementaridade tecnologia + decisão humana"
+        },
+        {
+          "unitId": "ING-Q06",
+          "topic": "Conceito de resiliência: resistir + recuperar"
+        }
+      ],
+      "origemResultado": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "agendadaPara": "2026-11-08",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-07",
+      "plano": "Criar 2 questões novas para reparar as inferências, sem repetir os enunciados; priorizar após os 12 retestes de Telecom em 08/11."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261107-D3",
+      "unitId": "INGLES_INTERPRETACAO_INFERENCIA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "topico": "Inferência em textos de manutenção preditiva e resiliência — Q05/Q06",
+      "subitens": [
+        {
+          "unitId": "ING-Q05",
+          "topic": "Inferência: complementaridade tecnologia + decisão humana"
+        },
+        {
+          "unitId": "ING-Q06",
+          "topic": "Conceito de resiliência: resistir + recuperar"
+        }
+      ],
+      "origemResultado": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "agendadaPara": "2026-11-10",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-07",
+      "plano": "2 questões novas de inferência com texto CESGRANRIO genuíno, buscando retenção e transferência; respeitar anti-repetição."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261107-D7",
+      "unitId": "INGLES_INTERPRETACAO_INFERENCIA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "topico": "Inferência em textos de manutenção preditiva e resiliência — Q05/Q06",
+      "subitens": [
+        {
+          "unitId": "ING-Q05",
+          "topic": "Inferência: complementaridade tecnologia + decisão humana"
+        },
+        {
+          "unitId": "ING-Q06",
+          "topic": "Conceito de resiliência: resistir + recuperar"
+        }
+      ],
+      "origemResultado": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-07",
+      "plano": "2 questões novas de inferência com texto CESGRANRIO genuíno, buscando retenção e transferência; respeitar anti-repetição."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261107-D21",
+      "unitId": "INGLES_INTERPRETACAO_INFERENCIA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "topico": "Inferência em textos de manutenção preditiva e resiliência — Q05/Q06",
+      "subitens": [
+        {
+          "unitId": "ING-Q05",
+          "topic": "Inferência: complementaridade tecnologia + decisão humana"
+        },
+        {
+          "unitId": "ING-Q06",
+          "topic": "Conceito de resiliência: resistir + recuperar"
+        }
+      ],
+      "origemResultado": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "agendadaPara": "2026-11-28",
+      "prioridade": "baixa",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-07",
+      "plano": "2 questões novas de inferência com texto CESGRANRIO genuíno, buscando retenção e transferência; respeitar anti-repetição."
     }
   ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-07"
 }
