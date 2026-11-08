@@ -4454,6 +4454,53 @@
         }
       ],
       "observacao": "Bateria com texto histórico CESGRANRIO/Transpetro 2018, questões autorais inéditas. Tempo não informado. Screenshot com marcações: B B C A D B A E A E; gabarito B E C A D B A D C E."
+    },
+    {
+      "id": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "eventId": "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE",
+      "data": "2026-11-07",
+      "studyDateLocal": "2026-11-07",
+      "tipo": "QTI-10",
+      "disciplina": "Inglês",
+      "titulo": "QTI-10 Inglês — Predictive Maintenance e Resiliência",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "sourceFile": "qti/QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.json",
+      "diagnosticValidity": "RESULTADO_CONFERIDO_NA_CONVERSA_SEM_PREFLIGHT_PREVIO",
+      "questionIds": [
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q01",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q02",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q03",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q04",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q05",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q06",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q07",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q08",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q09",
+        "QTI10-INGLES-20261107-PREDICTIVE-RESILIENCE-Q10"
+      ],
+      "itensErrados": [
+        {
+          "numero": 5,
+          "topico": "Inferência: tecnologia e julgamento humano",
+          "resposta": "D",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO"
+        },
+        {
+          "numero": 6,
+          "topico": "Conceito de resiliência: resistir e recuperar",
+          "resposta": "C",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO"
+        }
+      ],
+      "observacao": "Q01–04=4/4, Q05–06=0/2, Q07–10=4/4; dois textos autorais; aplicação via chat, sem tempo e confiança medidos; REPAIR indicado."
     }
   ],
   "updatedAt": "2026-11-06"
