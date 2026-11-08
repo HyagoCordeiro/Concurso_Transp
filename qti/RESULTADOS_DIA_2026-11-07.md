@@ -1,4 +1,4 @@
-# Fechamento de estudo — 07/11/2026 — CESGRANRIO/Petrobras Telecom 2006
+# Fechamento de estudo — 07/11/2026 — Telecomunicações, Português e Inglês
 
 **Estado: PAUSA. Retomar amanhã (08/11) pelas 12 questões erradas, com cabeça fresca.**
 
@@ -96,3 +96,42 @@
 - Fontes orientadoras: edital 2026 e provas CESGRANRIO; QConcursos como referência de catalogação quando necessário.
 - Respeitar o modo de estudo ágil do usuário: **uma questão por vez, cinco alternativas, resposta antes da correção, sem antecipar gabarito**.
 - Notas históricas da sessão anterior: início com **12/13 acertos até a questão 33**; no acumulado total **26/38 (68,4%)**. Comparar apenas com cautela, por diferenças temáticas e prática não cronometrada.
+
+---
+
+## Consolidação global do dia — incluindo Português e Inglês
+
+Os 38 itens de Telecom da prova histórica de 2006 já detalhados acima foram preservados integralmente. Também houve dois QTIs-10 de Conhecimentos Básicos, registrados de forma individual em `data/RESULTADOS.json` e no banco anti-repetição.
+
+| Sessão | Respondidas | Acertos | Erros | Taxa |
+|---|---:|---:|---:|---:|
+| Telecomunicações — Petrobras/CESGRANRIO 2006 | 38 | 26 | 12 | 68,4% |
+| Português — *Memórias Póstumas de Brás Cubas*, texto da Transpetro 2018 | 10 | 7 | 3 | 70,0% |
+| Inglês — manutenção preditiva e redes resilientes (textos autorais) | 10 | 8 | 2 | 80,0% |
+| **Total aritmético — três atividades** | **58** | **41** | **17** | **70,7%** |
+
+**Interpretação:** o total aritmético é um retrato das respostas do dia; não constitui simulado único nem uma estimativa válida da nota final, pois mistura fontes e modalidades diferentes. Tempo líquido geral **não medido**.
+
+### Português — QTI-10 (7/10)
+
+- Texto histórico *Memórias Póstumas de Brás Cubas* utilizado como base; questões autorais no estilo CESGRANRIO.
+- Erros: **Q02**, coesão/referência contextual (**B → E**); **Q08**, concordância verbal (**E → D**); **Q09**, regência verbal, dois complementos (**A → C**).
+- Resultado detalhado: [arquivo da sessão](portugues/QTI10_PT_2026-11-07_TRANSPETRO2018_BRASCUBAS_resultado.json). O registro consta também em `data/RESULTADOS.json`.
+
+### Inglês — QTI-10 (8/10)
+
+- Texto I: *Why Predictive Maintenance Is Not Just About Sensors* — **4/5**.
+- Texto II: *Building More Resilient Energy Networks* — **4/5**.
+- Sequência: **Q01–04 4/4 → Q05–06 0/2 → Q07–10 4/4**; houve recuperação no fim da sessão.
+- **Q05 (D → E):** inferência indevida de que tecnologia seria desnecessária com engenheiros experientes. O texto defende tecnologia + julgamento humano.
+- **Q06 (C → E):** resiliência não equivale a eliminar interdependências; envolve resistir e recuperar-se após falhas.
+- Acertos: ideia central **1/1**, vocabulário **1/1**, conectores **2/2**, referência pronominal **2/2**, inferência/compreensão global **2/4**.
+- Procedência: **dois textos e dez questões autorais**, elaborados no chat, não prova oficial; ausência de cronometragem, confiança e preflight prévio documentado.
+- Relatório: [Markdown](QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.md) · [JSON, incluindo todos os textos e questões](QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.json).
+
+### Continuidade consolidada
+
+1. **08/11:** preservar compromisso já estabelecido de começar pelos **12 erros de Telecom**; após esse bloco, se solicitado, fazer **REPAIR de duas questões novas de inferência em Inglês**.
+2. Português: retestar os 3 erros (coesão, concordância, regência) em questões novas, sem repetição precoce.
+3. Inglês: registrar revisão D3 **10/11**, D7 **14/11** e D21 **28/11**; priorizar textos históricos CESGRANRIO em próximas baterias e alternativas de inferência mais próximas.
+4. Manter os 58 itens individualizados nas fontes de cada sessão; não somar novamente sessões já registradas.
