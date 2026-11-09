@@ -71,3 +71,11 @@ Pedido explícito do usuário: voltar ao método anterior, mais rápido. Não ex
 - Horas pela conversa sãoestimativas descontandopausas explicitamente registradas, não tempos medidos porcronômetro.
 
 [Processo do dia](../qti/RESULTADOS_DIA_2026-10-11.md).
+
+## Preferência de aprendizagem visual — 09/11/2026
+
+- **Declaração:** “quando tem o gráfico eu entendo melhor”. Priorizar gráficos em TODAS as questões de Fourier X(0) que envolvam áreas. Enunciado e gráfico devem ter função, escalas, limites e áreas consistentes.
+- O gráfico deve distinguir regiões acima/abaixo do eixo e não revelar o gabarito antes de o usuário responder.
+- Corrigir com decomposição das áreas positivas e negativas, soma algébrica e, quando útil, integrais definidas por trechos.
+- Últimos quatro treinos com gráficos de Fourier: 3/4, incluindo 2/2 no treino final. Confirmar retenção no reteste espaçado.
+- Não confundir propriedade de valor em frequência zero (área total do sinal) com propriedade de deslocamento temporal (atraso expoente negativo, adiantamento positivo, conforme convenção e^(−jωt)).
