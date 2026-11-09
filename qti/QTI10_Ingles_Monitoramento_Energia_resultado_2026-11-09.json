@@ -1,0 +1,215 @@
+{
+  "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+  "eventId": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+  "data": "2026-11-09",
+  "studyDateLocal": "2026-11-09",
+  "disciplina": "Inglês",
+  "tipo": "QTI-10",
+  "titulo": "QTI-10 — Inglês CESGRANRIO / Transpetro: monitoramento digital e transição energética",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "sourceNote": "Textos e questões inéditos elaborados no chat; não são questões oficiais CESGRANRIO.",
+  "status": "COMPLETED",
+  "totalQuestoes": 10,
+  "totalValidas": 10,
+  "acertos": 10,
+  "erros": 0,
+  "percentual": 100,
+  "tempoTotalSec": null,
+  "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_NO_CHAT_SEM_CRONOMETRAGEM_E_SEM_PREFLIGHT_ANTIREPETICAO_DOCUMENTADO",
+  "antiRepeatPreflightVerified": false,
+  "observacao": "10 respostas sequenciais confirmadas no chat; uma questão por vez; sem medição de tempo. Treino autoral curto, não equivale a previsão de nota oficial.",
+  "textos": [
+    {
+      "id": "I",
+      "title": "Digital Monitoring and Operational Reliability",
+      "content": "For decades, industrial operators relied on scheduled inspections to identify early signs of equipment failure. Today, sensors placed on pumps, pipelines and offshore platforms produce a continuous stream of data. By comparing current measurements with historical patterns, software can alert teams to unusual vibration or temperature before breakdowns occur.\n\nYet more data does not automatically lead to safer operations. A warning may be ignored if it arrives too often, and an algorithm trained on conditions at one facility may perform poorly at another. Engineers therefore need to check the quality of measurements, investigate unexpected alerts and decide when maintenance is truly necessary.\n\nSome companies have introduced remote monitoring centers to support field teams. These centers do not replace technicians; rather, they give them additional information that may help them prioritize inspections. When communication links fail, however, local procedures and experienced personnel remain essential.\n\nUltimately, predictive maintenance works best when digital tools are combined with human judgment, clear responsibilities and regular equipment inspections."
+    },
+    {
+      "id": "II",
+      "title": "Energy Transition and Infrastructure",
+      "content": "The transition toward cleaner energy sources has encouraged companies to invest in renewable technologies. However, replacing existing infrastructure is neither simple nor inexpensive.\n\nAlthough renewable energy can reduce greenhouse gas emissions, its integration into national power systems requires substantial investments in transmission networks, storage facilities and skilled personnel.\n\nExperts argue that a successful energy transition depends not only on technological innovation but also on long-term planning and cooperation between governments and private companies."
+    }
+  ],
+  "questoes": [
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q01",
+      "numero": 1,
+      "textId": "I",
+      "topico": "Interpretação — ideia principal",
+      "enunciado": "According to the text, the main advantage of digital monitoring systems is that they",
+      "alternativas": {
+        "A": "completely eliminate the need for regular equipment inspections.",
+        "B": "improve maintenance decisions when combined with human expertise.",
+        "C": "guarantee that industrial equipment will never experience failures.",
+        "D": "allow the same predictive models to work equally well at every facility.",
+        "E": "transfer all operational responsibilities from technicians to remote centers."
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "CORRETA",
+      "comentario": "Monitoramento apoia as decisões, sem substituir a experiência humana."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q02",
+      "numero": 2,
+      "textId": "I",
+      "topico": "Inferência — fadiga de alertas",
+      "enunciado": "In the second paragraph, the author suggests that an excessive number of alerts may",
+      "alternativas": {
+        "A": "increase the accuracy of every predictive model.",
+        "B": "eliminate the possibility of equipment failure.",
+        "C": "make operators less responsive to important warnings.",
+        "D": "reduce the amount of data collected by sensors.",
+        "E": "make human supervision unnecessary."
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "CORRETA",
+      "comentario": "Avisos excessivamente frequentes podem ser ignorados."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q03",
+      "numero": 3,
+      "textId": "I",
+      "topico": "Conectores — however",
+      "enunciado": "In \"When communication links fail, however, local procedures and experienced personnel remain essential\", however expresses",
+      "alternativas": {
+        "A": "addition.",
+        "B": "cause.",
+        "C": "consequence.",
+        "D": "contrast.",
+        "E": "purpose."
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "CORRETA",
+      "comentario": "However indica contraste/oposição."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q04",
+      "numero": 4,
+      "textId": "I",
+      "topico": "Pronomes — they/them",
+      "enunciado": "In \"These centers do not replace technicians; rather, they give them additional information that may help them prioritize inspections\", the pronouns they and them refer, respectively, to",
+      "alternativas": {
+        "A": "technicians and remote monitoring centers.",
+        "B": "companies and industrial operators.",
+        "C": "sensors and communication links.",
+        "D": "industrial facilities and software systems.",
+        "E": "remote monitoring centers and technicians."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "CORRETA",
+      "comentario": "They retoma centers; them retoma technicians."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q05",
+      "numero": 5,
+      "textId": "I",
+      "topico": "Vocabulário — perform poorly",
+      "enunciado": "In the context of \"An algorithm trained on conditions at one facility may perform poorly at another\", perform poorly means",
+      "alternativas": {
+        "A": "operate with limited effectiveness.",
+        "B": "require less financial investment.",
+        "C": "process information more rapidly.",
+        "D": "achieve better results than expected.",
+        "E": "eliminate unnecessary maintenance procedures."
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "CORRETA",
+      "comentario": "Perform poorly = ter desempenho insatisfatório."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q06",
+      "numero": 6,
+      "textId": "II",
+      "topico": "Interpretação — energia e planejamento",
+      "enunciado": "According to the text, a successful energy transition requires",
+      "alternativas": {
+        "A": "the immediate replacement of all existing energy infrastructure.",
+        "B": "the exclusive participation of private companies in energy projects.",
+        "C": "the elimination of investments in transmission and storage systems.",
+        "D": "technological advances supported by planning and institutional cooperation.",
+        "E": "the reduction of technical personnel involved in renewable energy projects."
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "CORRETA",
+      "comentario": "Inovação tecnológica, planejamento e cooperação interinstitucional."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q07",
+      "numero": 7,
+      "textId": "II",
+      "topico": "Conectores — although/even though",
+      "enunciado": "The conjunction although could be replaced, without changing the essential meaning of the sentence, by",
+      "alternativas": {
+        "A": "because.",
+        "B": "therefore.",
+        "C": "unless.",
+        "D": "since.",
+        "E": "even though."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "CORRETA",
+      "comentario": "Although e even though exprimem concessão."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q08",
+      "numero": 8,
+      "textId": "II",
+      "topico": "Vocabulário — neither/nor",
+      "enunciado": "The expression neither simple nor inexpensive indicates that replacing existing infrastructure is",
+      "alternativas": {
+        "A": "both easy and financially accessible.",
+        "B": "neither necessary nor technically possible.",
+        "C": "difficult and costly.",
+        "D": "relatively simple despite its high cost.",
+        "E": "economically advantageous and technically uncomplicated."
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "CORRETA",
+      "comentario": "Nem simples nem barato: difícil e caro."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q09",
+      "numero": 9,
+      "textId": "II",
+      "topico": "Inferência — integração renováveis",
+      "enunciado": "Based on the information presented in the text, it can be inferred that the adoption of renewable energy technologies",
+      "alternativas": {
+        "A": "requires changes that extend beyond the development of new energy sources.",
+        "B": "will immediately eliminate the need for conventional power systems.",
+        "C": "depends exclusively on decisions made by government authorities.",
+        "D": "makes investments in qualified professionals unnecessary.",
+        "E": "is unlikely to contribute to reducing greenhouse gas emissions."
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "CORRETA",
+      "comentario": "A integração também requer redes de transmissão, armazenamento e pessoal qualificado."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q10",
+      "numero": 10,
+      "textId": "II",
+      "topico": "Gramática — first conditional",
+      "enunciado": "In \"If governments and private companies invest in modern transmission networks, renewable energy integration will become more efficient\", the conditional structure expresses",
+      "alternativas": {
+        "A": "an imaginary situation in the present that is unlikely to occur.",
+        "B": "a past event that cannot be changed.",
+        "C": "a universal scientific truth that always occurs.",
+        "D": "a regret concerning investments that were not made.",
+        "E": "a possible future result dependent on a present condition."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "CORRETA",
+      "comentario": "First conditional: if + present simple, will + infinitivo sem to."
+    }
+  ]
+}
