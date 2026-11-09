@@ -369,3 +369,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Inglês (dois textos e 10 questões autorais estilo CESGRANRIO, aplicação no chat): 8/10 (80%)**. Q01–04=4/4, Q05–06=0/2, Q07–10=4/4. Erros: **Q05 D→E** (inferência indevida sobre dispensabilidade de tecnologia); **Q06 C→E** (resiliência é resistência + recuperação, não eliminação da interdependência). [Relatório detalhado](qti/QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.md) · [JSON completo](qti/QTI10_Ingles_Resiliencia_Manutencao_resultado_2026-11-07.json).
 - **Inglês — pontos fortes observados:** ideia central 1/1, vocabulário 1/1, conectores 2/2, referência 2/2; **inferência/compreensão 2/4**. Sem tempos e confiança medidos, sem preflight prévio documentado; não considerar proficiência consolidada.
 - **Próximo estudo:** manter prioridade estabelecida dos 12 erros da prova histórica de Telecom em 08/11; Inglês REPAIR de 2 questões novas e revisões D3 (10/11), D7 (14/11), D21 (28/11); Português rever os 3 erros. Próximos QTIs de inglês devem priorizar texto real de banca CESGRANRIO e formato HTML padrão do projeto.
+
+
+## Fechamento — 08/11/2026 — Português: três QTI-10 sem texto-base
+
+- [Relatório completo](qti/RESULTADOS_DIA_2026-11-08_PORTUGUES_QTI10_FECHAMENTO.md).
+- **QTI-10 01: 8/10 (80%), confirmado**; erros Q05 (regência verbal: chegar a / aspirar a) e Q08 (oração subordinada substantiva subjetiva versus objeto direto).
+- **QTI-10 02 e 03:** enunciados interativos disponibilizados, mas respostas e notas não aparecem no histórico textual; **não contabilizar como concluídos**.
+- **Revisão prioritária:** regência de chegar, aspirar, assistir, visar, preferir; sintaxe das orações substantivas, especialmente subjetiva / objetiva direta / completiva nominal.
+- Questões autorais no estilo CESGRANRIO, sem texto-base. Tempo líquido não medido. Sessão encerrada a pedido do estudante.
