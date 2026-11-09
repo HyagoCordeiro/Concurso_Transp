@@ -396,3 +396,11 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Preferência expressa:** “quando tem o gráfico eu entendo melhor”. Para Fourier X(0), utilizar sempre gráfico do sinal com regiões positivas e negativas, seguido de explicação geométrica e integral por trechos.
 - Distinguir duas propriedades: X(0) é área algébrica integral do sinal; deslocamento temporal em Fourier faz x(t−a) ↔ e^(−jωa)X(ω) e x(t+a) ↔ e^(+jωa)X(ω) sob a convenção e^(−jωt).
 - Retenção de Fourier X(0) ainda deve ser validada após dias, mesmo com 2/2 no último reforço gráfico. CDM/FDM/TDM teve repetição de erros e posterior acerto no reteste. Manter cobertura dos 13 itens do edital.
+
+## Fechamento final — 09/11/2026: Fourier, 82 questões
+
+- **Total atualizado: 71/82 (86,6%), 11 erros**, sem aferição de tempo; respostas em [JSON](qti/RESULTADOS_DIA_2026-11-09.json).
+- Bateria final de Fourier com **5 propriedades (4/5)**: deslocamento na frequência, inversão temporal, inversão+atraso, inversão+modulação e atraso+modulação. Único erro foi `x(2−t)`: correta `e^(−j2ω)X(−ω)`, não `e^(+j2ω)X(−ω)`.
+- Bateria final **3 questões X(0) sem gráfico (3/3)**: confirma desempenho imediato mesmo sem apoio visual; continuar a priorizar gráficos quando disponíveis, mas testar a autonomia sem eles.
+- Em Fourier, distinguir (a) valor na origem como área algébrica total e (b) inversão, atraso/adiantamento e modulação; revisar em D3/D7 para confirmar retenção.
+- Todas as baterias adicionais foram **questões autorais/adaptadas**, não questões oficiais transcritas.
