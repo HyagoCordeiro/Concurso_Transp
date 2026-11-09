@@ -4645,6 +4645,189 @@
         }
       ],
       "observacao": "Bateria autoral/adaptada no chat, não itens oficiais transcritos. Sem medição de tempo líquido. Registro completo com 40 respostas e cinco erros no arquivo fonte."
+    },
+    {
+      "id": "QTI20-20261109-RODADA2",
+      "eventId": "QTI20-20261109-RODADA2",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "QTI-20",
+      "disciplina": "Telecomunicações",
+      "titulo": "QTI-20 misto — segunda rodada",
+      "totalQuestoes": 20,
+      "totalValidas": 20,
+      "acertos": 18,
+      "erros": 2,
+      "percentual": 90,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "QTI20-20261109-RODADA2-Q01",
+        "QTI20-20261109-RODADA2-Q02",
+        "QTI20-20261109-RODADA2-Q03",
+        "QTI20-20261109-RODADA2-Q04",
+        "QTI20-20261109-RODADA2-Q05",
+        "QTI20-20261109-RODADA2-Q06",
+        "QTI20-20261109-RODADA2-Q07",
+        "QTI20-20261109-RODADA2-Q08",
+        "QTI20-20261109-RODADA2-Q09",
+        "QTI20-20261109-RODADA2-Q10",
+        "QTI20-20261109-RODADA2-Q11",
+        "QTI20-20261109-RODADA2-Q12",
+        "QTI20-20261109-RODADA2-Q13",
+        "QTI20-20261109-RODADA2-Q14",
+        "QTI20-20261109-RODADA2-Q15",
+        "QTI20-20261109-RODADA2-Q16",
+        "QTI20-20261109-RODADA2-Q17",
+        "QTI20-20261109-RODADA2-Q18",
+        "QTI20-20261109-RODADA2-Q19",
+        "QTI20-20261109-RODADA2-Q20"
+      ],
+      "itensErrados": [
+        {
+          "numero": 6,
+          "subitem": "5.2",
+          "topico": "Multiplexação CDM",
+          "resposta": "A",
+          "gabarito": "B"
+        },
+        {
+          "numero": 12,
+          "subitem": "2.3",
+          "topico": "Fourier deslocamento no tempo",
+          "resposta": "A",
+          "gabarito": "B"
+        }
+      ],
+      "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
+    },
+    {
+      "id": "REPARO2-20261109-CDM-FOURIER",
+      "eventId": "REPARO2-20261109-CDM-FOURIER",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "REPARO-2",
+      "disciplina": "Telecomunicações",
+      "titulo": "Reparo CDM e Fourier",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "REPARO2-20261109-CDM-FOURIER-Q01",
+        "REPARO2-20261109-CDM-FOURIER-Q02"
+      ],
+      "itensErrados": [
+        {
+          "numero": 1,
+          "subitem": "5.2",
+          "topico": "CDM e taxa de chips",
+          "resposta": "A",
+          "gabarito": "D"
+        }
+      ],
+      "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
+    },
+    {
+      "id": "RETESTE8-20261109-ERROS",
+      "eventId": "RETESTE8-20261109-ERROS",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "RETESTE-8",
+      "disciplina": "Telecomunicações",
+      "titulo": "Reteste dos oito erros",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 7,
+      "erros": 1,
+      "percentual": 87.5,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "RETESTE8-20261109-ERROS-Q01",
+        "RETESTE8-20261109-ERROS-Q02",
+        "RETESTE8-20261109-ERROS-Q03",
+        "RETESTE8-20261109-ERROS-Q04",
+        "RETESTE8-20261109-ERROS-Q05",
+        "RETESTE8-20261109-ERROS-Q06",
+        "RETESTE8-20261109-ERROS-Q07",
+        "RETESTE8-20261109-ERROS-Q08"
+      ],
+      "itensErrados": [
+        {
+          "numero": 3,
+          "subitem": "2.3",
+          "topico": "Fourier X(0) áreas assinadas",
+          "resposta": "B",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
+    },
+    {
+      "id": "FOURIER-GRAFICOS2A-20261109",
+      "eventId": "FOURIER-GRAFICOS2A-20261109",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "REFORCO-2",
+      "disciplina": "Telecomunicações",
+      "titulo": "Fourier X(0) reforço gráfico I",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "FOURIER-GRAFICOS2A-20261109-Q01",
+        "FOURIER-GRAFICOS2A-20261109-Q02"
+      ],
+      "itensErrados": [
+        {
+          "numero": 2,
+          "subitem": "2.3",
+          "topico": "Fourier X(0) retângulos e triângulo positivo/negativo",
+          "resposta": "C",
+          "gabarito": "D"
+        }
+      ],
+      "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
+    },
+    {
+      "id": "FOURIER-GRAFICOS2B-20261109",
+      "eventId": "FOURIER-GRAFICOS2B-20261109",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "REFORCO-2",
+      "disciplina": "Telecomunicações",
+      "titulo": "Fourier X(0) reforço gráfico II",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "FOURIER-GRAFICOS2B-20261109-Q01",
+        "FOURIER-GRAFICOS2B-20261109-Q02"
+      ],
+      "itensErrados": [],
+      "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
     }
   ],
   "updatedAt": "2026-11-09"
