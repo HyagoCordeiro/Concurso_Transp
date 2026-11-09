@@ -4501,7 +4501,151 @@
         }
       ],
       "observacao": "Q01–04=4/4, Q05–06=0/2, Q07–10=4/4; dois textos autorais; aplicação via chat, sem tempo e confiança medidos; REPAIR indicado."
+    },
+    {
+      "id": "RETESTE12-20261109-PETROBRAS2006",
+      "eventId": "RETESTE12-20261109-PETROBRAS2006",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "RETESTE-12",
+      "disciplina": "Telecomunicações",
+      "titulo": "Reteste de 12 erros Petrobras 2006",
+      "totalQuestoes": 12,
+      "totalValidas": 12,
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_PETROBRAS_2006",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "CONFIRMADO_PELAS_RESPOSTAS_TEXTUAIS_NO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "RETESTE12-20261109-PETROBRAS2006-Q01",
+        "RETESTE12-20261109-PETROBRAS2006-Q02",
+        "RETESTE12-20261109-PETROBRAS2006-Q03",
+        "RETESTE12-20261109-PETROBRAS2006-Q04",
+        "RETESTE12-20261109-PETROBRAS2006-Q05",
+        "RETESTE12-20261109-PETROBRAS2006-Q06",
+        "RETESTE12-20261109-PETROBRAS2006-Q07",
+        "RETESTE12-20261109-PETROBRAS2006-Q08",
+        "RETESTE12-20261109-PETROBRAS2006-Q09",
+        "RETESTE12-20261109-PETROBRAS2006-Q10",
+        "RETESTE12-20261109-PETROBRAS2006-Q11",
+        "RETESTE12-20261109-PETROBRAS2006-Q12"
+      ],
+      "itensErrados": [
+        {
+          "numero": 4,
+          "subitem": "10.1",
+          "topico": "BSS, ESS, BSSID e DS",
+          "resposta": "D",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "Bateria autoral/adaptada no chat, não itens oficiais transcritos. Sem medição de tempo líquido. Registro completo com 40 respostas e cinco erros no arquivo fonte."
+    },
+    {
+      "id": "REVISAO8-20261109-DIRIGIDA",
+      "eventId": "REVISAO8-20261109-DIRIGIDA",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "REVISAO-8",
+      "disciplina": "Telecomunicações",
+      "titulo": "Revisão dirigida D3 e reforços de Fourier/antenas",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 6,
+      "erros": 2,
+      "percentual": 75,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REFERENCIAS_HISTORICAS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "CONFIRMADO_PELAS_RESPOSTAS_TEXTUAIS_NO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "REVISAO8-20261109-DIRIGIDA-Q01",
+        "REVISAO8-20261109-DIRIGIDA-Q02",
+        "REVISAO8-20261109-DIRIGIDA-Q03",
+        "REVISAO8-20261109-DIRIGIDA-Q04",
+        "REVISAO8-20261109-DIRIGIDA-Q05",
+        "REVISAO8-20261109-DIRIGIDA-Q06",
+        "REVISAO8-20261109-DIRIGIDA-Q07",
+        "REVISAO8-20261109-DIRIGIDA-Q08"
+      ],
+      "itensErrados": [
+        {
+          "numero": 3,
+          "subitem": "3.1",
+          "topico": "Linearidade e invariância temporal",
+          "resposta": "B",
+          "gabarito": "D"
+        },
+        {
+          "numero": 5,
+          "subitem": "2.3",
+          "topico": "Fourier X(0) área triangular",
+          "resposta": "D",
+          "gabarito": "A"
+        }
+      ],
+      "observacao": "Bateria autoral/adaptada no chat, não itens oficiais transcritos. Sem medição de tempo líquido. Registro completo com 40 respostas e cinco erros no arquivo fonte."
+    },
+    {
+      "id": "QTI20-20261109-MISTO13ITENS",
+      "eventId": "QTI20-20261109-MISTO13ITENS",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "QTI-20",
+      "disciplina": "Telecomunicações",
+      "titulo": "QTI-20 misto de encerramento: 13 itens do edital",
+      "totalQuestoes": 20,
+      "totalValidas": 20,
+      "acertos": 18,
+      "erros": 2,
+      "percentual": 90,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_2012_2018_2023_QCONCURSOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "CONFIRMADO_PELAS_RESPOSTAS_TEXTUAIS_NO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "QTI20-20261109-MISTO13ITENS-Q01",
+        "QTI20-20261109-MISTO13ITENS-Q02",
+        "QTI20-20261109-MISTO13ITENS-Q03",
+        "QTI20-20261109-MISTO13ITENS-Q04",
+        "QTI20-20261109-MISTO13ITENS-Q05",
+        "QTI20-20261109-MISTO13ITENS-Q06",
+        "QTI20-20261109-MISTO13ITENS-Q07",
+        "QTI20-20261109-MISTO13ITENS-Q08",
+        "QTI20-20261109-MISTO13ITENS-Q09",
+        "QTI20-20261109-MISTO13ITENS-Q10",
+        "QTI20-20261109-MISTO13ITENS-Q11",
+        "QTI20-20261109-MISTO13ITENS-Q12",
+        "QTI20-20261109-MISTO13ITENS-Q13",
+        "QTI20-20261109-MISTO13ITENS-Q14",
+        "QTI20-20261109-MISTO13ITENS-Q15",
+        "QTI20-20261109-MISTO13ITENS-Q16",
+        "QTI20-20261109-MISTO13ITENS-Q17",
+        "QTI20-20261109-MISTO13ITENS-Q18",
+        "QTI20-20261109-MISTO13ITENS-Q19",
+        "QTI20-20261109-MISTO13ITENS-Q20"
+      ],
+      "itensErrados": [
+        {
+          "numero": 1,
+          "subitem": "1.3",
+          "topico": "Autocorrelação e variância",
+          "resposta": "D",
+          "gabarito": "C"
+        },
+        {
+          "numero": 15,
+          "subitem": "11.2",
+          "topico": "OSPF LSA externo tipo 5",
+          "resposta": "A",
+          "gabarito": "D"
+        }
+      ],
+      "observacao": "Bateria autoral/adaptada no chat, não itens oficiais transcritos. Sem medição de tempo líquido. Registro completo com 40 respostas e cinco erros no arquivo fonte."
     }
   ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-09"
 }
