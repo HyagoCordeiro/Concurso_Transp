@@ -378,3 +378,13 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **QTI-10 02 e 03:** enunciados interativos disponibilizados, mas respostas e notas não aparecem no histórico textual; **não contabilizar como concluídos**.
 - **Revisão prioritária:** regência de chegar, aspirar, assistir, visar, preferir; sintaxe das orações substantivas, especialmente subjetiva / objetiva direta / completiva nominal.
 - Questões autorais no estilo CESGRANRIO, sem texto-base. Tempo líquido não medido. Sessão encerrada a pedido do estudante.
+
+## Fechamento — 09/11/2026 — Reteste Petrobras 2006 + revisão D3 + QTI-20
+
+- **Relatório:** [Fechamento de 09/11](qti/RESULTADOS_DIA_2026-11-09.md) · [40 respostas individualizadas (JSON)](qti/RESULTADOS_DIA_2026-11-09.json).
+- **Reteste da prova histórica de 2006:** 11/12 (91,7%). Erro restante: Q04 — redes Wi-Fi: BSS/ESS/BSSID (item 10.1).
+- **Revisão dirigida D3 e reforços:** 6/8 (75%). Erros: Q03 — linearidade e invariância temporal (3.1); Q05 — Fourier em X(0), área triangular (2.3). Q06 e Q07 de Fourier foram respondidas corretamente após o erro.
+- **QTI-20 misto (13/13 itens do edital):** 18/20 (90%); meta de 16/20 atingida. Erros: Q01 — variância e R_X(0) em processo estacionário (1.3); Q15 — OSPF LSA tipo 5 externo (11.2).
+- **Total do dia: 35/40 acertos (87,5%)**, cinco erros; não inclui novamente as questões de 07/11. Todas as 40 questões foram elaboradas/adaptadas ao estilo CESGRANRIO e resolvidas no chat; não são 40 questões oficiais transcritas. **Tempo líquido não aferido.**
+- **Fila de revisão curta:** 10.1 BSSID/ESS; 3.1 linearidade; 2.3 Fourier X(0); 1.3 autocorrelação x variância; 11.2 tipos de LSA. Sugestão D3 12/11, D7 16/11 e D21 30/11, conciliando revisões de outras sessões e a prova-alvo de 06/12.
+- **Estratégia:** manter 13 itens em rotação, com atenção reforçada aos temas de maior incidência observada nas provas Transpetro 2012/2018/2023; não superpriorizar probabilidade e sistemas apenas pelos erros.
