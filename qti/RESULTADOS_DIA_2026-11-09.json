@@ -5,17 +5,19 @@
   "banca": "CESGRANRIO",
   "concurso": "Transpetro 2026",
   "provaAlvo": "2026-12-06",
-  "totalQuestoes": 40,
-  "acertos": 35,
-  "erros": 5,
-  "percentual": 87.5,
+  "totalQuestoes": 74,
+  "acertos": 64,
+  "erros": 10,
+  "percentual": 86.5,
   "tipoRegistro": "PRATICA_GUIADA_NAO_CRONOMETRADA",
   "tempoLiquidoSec": null,
   "notas": [
     "Três sessões de treino guiado, todas com alternativas de questões autorais/adaptadas; não equivalem a 40 questões oficiais nem a simulado independente cronometrado.",
     "Reaplicação de 12 erros identificados em 07/11/2026, seguida de revisão curta e QTI-20 de cobertura dos 13 itens do edital.",
     "QTI-20 apresentado com todas as perguntas de uma vez e usuário respondeu 20 alternativas textualmente.",
-    "Revisar a questão 4 do reteste (BSSID vs SSID/ESS), questão 3 da revisão (linearidade de sistema com constante), questão 5 da revisão (Fourier X(0), área triangular), Q01 QTI-20 (R_X(0)-mu^2) e Q15 QTI-20 (OSPF LSA tipo 5)."
+    "Revisar a questão 4 do reteste (BSSID vs SSID/ESS), questão 3 da revisão (linearidade de sistema com constante), questão 5 da revisão (Fourier X(0), área triangular), Q01 QTI-20 (R_X(0)-mu^2) e Q15 QTI-20 (OSPF LSA tipo 5).",
+    "Complemento 09/11: QTI-20 rodada 2 18/20; reforço CDM e Fourier 1/2; reteste dos 8 erros 7/8; dois reforços gráficos de Fourier 1/2 e 2/2. Resultado total 64/74 (86,5%).",
+    "Preferência didática expressa: 'quando tem o gráfico eu entendo melhor'. Em Fourier X(0), mostrar gráfico com regiões positivas e negativas junto ao enunciado, e na correção áreas e integrais por trechos. A retenção deve ser verificada em outro dia."
   ],
   "sessoes": [
     {
@@ -415,6 +417,377 @@
       "erros": 2,
       "percentual": 90,
       "totalQuestoes": 20,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "QTI20-20261109-RODADA2",
+      "tipo": "QTI-20",
+      "titulo": "QTI-20 misto — segunda rodada",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "QTI20-20261109-RODADA2-Q01",
+          "subitem": "1.2",
+          "tema": "Hipergeométrica",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "QTI20-20261109-RODADA2-Q02",
+          "subitem": "3.5",
+          "tema": "Aliasing",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "QTI20-20261109-RODADA2-Q03",
+          "subitem": "3.1",
+          "tema": "Laplace e valor final",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 4,
+          "id": "QTI20-20261109-RODADA2-Q04",
+          "subitem": "4.1",
+          "tema": "64-QAM taxa de símbolos",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 5,
+          "id": "QTI20-20261109-RODADA2-Q05",
+          "subitem": "4.2",
+          "tema": "SQNR quantização",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 6,
+          "id": "QTI20-20261109-RODADA2-Q06",
+          "subitem": "5.2",
+          "tema": "Multiplexação CDM",
+          "resposta": "A",
+          "gabarito": "B",
+          "correta": false
+        },
+        {
+          "numero": 7,
+          "id": "QTI20-20261109-RODADA2-Q07",
+          "subitem": "5.3",
+          "tema": "RTP e RTCP",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 8,
+          "id": "QTI20-20261109-RODADA2-Q08",
+          "subitem": "6.1",
+          "tema": "Ganho de antena parabólica",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 9,
+          "id": "QTI20-20261109-RODADA2-Q09",
+          "subitem": "7.1",
+          "tema": "Horizonte rádio",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 10,
+          "id": "QTI20-20261109-RODADA2-Q10",
+          "subitem": "7.2",
+          "tema": "Desvanecimento Rice",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 11,
+          "id": "QTI20-20261109-RODADA2-Q11",
+          "subitem": "8.2",
+          "tema": "Banda Ka e chuva",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 12,
+          "id": "QTI20-20261109-RODADA2-Q12",
+          "subitem": "2.3",
+          "tema": "Fourier deslocamento no tempo",
+          "resposta": "A",
+          "gabarito": "B",
+          "correta": false
+        },
+        {
+          "numero": 13,
+          "id": "QTI20-20261109-RODADA2-Q13",
+          "subitem": "9.2",
+          "tema": "Reuso celular",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 14,
+          "id": "QTI20-20261109-RODADA2-Q14",
+          "subitem": "10.3",
+          "tema": "SNMPv3 authPriv",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 15,
+          "id": "QTI20-20261109-RODADA2-Q15",
+          "subitem": "10.3",
+          "tema": "RSTP Alternate Port",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 16,
+          "id": "QTI20-20261109-RODADA2-Q16",
+          "subitem": "11.2",
+          "tema": "BGP LOCAL_PREF",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 17,
+          "id": "QTI20-20261109-RODADA2-Q17",
+          "subitem": "11.3",
+          "tema": "RSVP-TE",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 18,
+          "id": "QTI20-20261109-RODADA2-Q18",
+          "subitem": "12.2",
+          "tema": "OTDR",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 19,
+          "id": "QTI20-20261109-RODADA2-Q19",
+          "subitem": "12.3",
+          "tema": "SDH STM-4",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 20,
+          "id": "QTI20-20261109-RODADA2-Q20",
+          "subitem": "13.1",
+          "tema": "LGT espectro",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        }
+      ],
+      "acertos": 18,
+      "erros": 2,
+      "percentual": 90,
+      "totalQuestoes": 20,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "REPARO2-20261109-CDM-FOURIER",
+      "tipo": "REPARO-2",
+      "titulo": "Reparo CDM e Fourier",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "REPARO2-20261109-CDM-FOURIER-Q01",
+          "subitem": "5.2",
+          "tema": "CDM e taxa de chips",
+          "resposta": "A",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "numero": 2,
+          "id": "REPARO2-20261109-CDM-FOURIER-Q02",
+          "subitem": "2.3",
+          "tema": "Fourier adiantamento e atraso",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        }
+      ],
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "totalQuestoes": 2,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "RETESTE8-20261109-ERROS",
+      "tipo": "RETESTE-8",
+      "titulo": "Reteste dos oito erros",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "RETESTE8-20261109-ERROS-Q01",
+          "subitem": "10.1",
+          "tema": "SSID/BSSID e roaming",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "RETESTE8-20261109-ERROS-Q02",
+          "subitem": "3.1",
+          "tema": "Sistema não linear invariante no tempo",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "RETESTE8-20261109-ERROS-Q03",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) áreas assinadas",
+          "resposta": "B",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "numero": 4,
+          "id": "RETESTE8-20261109-ERROS-Q04",
+          "subitem": "1.3",
+          "tema": "Autocorrelação e variância",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 5,
+          "id": "RETESTE8-20261109-ERROS-Q05",
+          "subitem": "11.2",
+          "tema": "OSPF NSSA LSA tipo 7/5",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 6,
+          "id": "RETESTE8-20261109-ERROS-Q06",
+          "subitem": "5.2",
+          "tema": "FDM TDM CDM",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 7,
+          "id": "RETESTE8-20261109-ERROS-Q07",
+          "subitem": "2.3",
+          "tema": "Fourier adiantamento e atraso",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 8,
+          "id": "RETESTE8-20261109-ERROS-Q08",
+          "subitem": "5.2",
+          "tema": "CDM espalhamento espectral",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        }
+      ],
+      "acertos": 7,
+      "erros": 1,
+      "percentual": 87.5,
+      "totalQuestoes": 8,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "FOURIER-GRAFICOS2A-20261109",
+      "tipo": "REFORCO-2",
+      "titulo": "Fourier X(0) reforço gráfico I",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "FOURIER-GRAFICOS2A-20261109-Q01",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) trapézio positivo/retângulo negativo",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "FOURIER-GRAFICOS2A-20261109-Q02",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) retângulos e triângulo positivo/negativo",
+          "resposta": "C",
+          "gabarito": "D",
+          "correta": false
+        }
+      ],
+      "acertos": 1,
+      "erros": 1,
+      "percentual": 50,
+      "totalQuestoes": 2,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "FOURIER-GRAFICOS2B-20261109",
+      "tipo": "REFORCO-2",
+      "titulo": "Fourier X(0) reforço gráfico II",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "FOURIER-GRAFICOS2B-20261109-Q01",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) retângulo triângulo e área negativa",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "FOURIER-GRAFICOS2B-20261109-Q02",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) triângulo negativo e duas regiões positivas",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        }
+      ],
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "totalQuestoes": 2,
       "tempoLiquidoSec": null
     }
   ]
