@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-11-09",
+  "disciplina": "Engenharia de Telecomunicações",
+  "banca": "CESGRANRIO",
+  "concurso": "Transpetro 2026",
+  "provaAlvo": "2026-12-06",
+  "totalQuestoes": 40,
+  "acertos": 35,
+  "erros": 5,
+  "percentual": 87.5,
+  "tipoRegistro": "PRATICA_GUIADA_NAO_CRONOMETRADA",
+  "tempoLiquidoSec": null,
+  "notas": [
+    "Três sessões de treino guiado, todas com alternativas de questões autorais/adaptadas; não equivalem a 40 questões oficiais nem a simulado independente cronometrado.",
+    "Reaplicação de 12 erros identificados em 07/11/2026, seguida de revisão curta e QTI-20 de cobertura dos 13 itens do edital.",
+    "QTI-20 apresentado com todas as perguntas de uma vez e usuário respondeu 20 alternativas textualmente.",
+    "Revisar a questão 4 do reteste (BSSID vs SSID/ESS), questão 3 da revisão (linearidade de sistema com constante), questão 5 da revisão (Fourier X(0), área triangular), Q01 QTI-20 (R_X(0)-mu^2) e Q15 QTI-20 (OSPF LSA tipo 5)."
+  ],
+  "sessoes": [
+    {
+      "id": "RETESTE12-20261109-PETROBRAS2006",
+      "tipo": "RETESTE-12",
+      "titulo": "Reteste de 12 erros Petrobras 2006",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_PETROBRAS_2006",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q01",
+          "subitem": "7.1",
+          "tema": "Difração por gume-de-faca",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q02",
+          "subitem": "12.3",
+          "tema": "SDH tributários E1/T1",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q03",
+          "subitem": "10.1",
+          "tema": "DCF/PCF e SIFS/PIFS/DIFS",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 4,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q04",
+          "subitem": "10.1",
+          "tema": "BSS, ESS, BSSID e DS",
+          "resposta": "D",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "numero": 5,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q05",
+          "subitem": "10.1",
+          "tema": "Autenticação IEEE 802.11, WEP e PCF",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 6,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q06",
+          "subitem": "10.2",
+          "tema": "IEEE 802.3, LAN e WAN",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 7,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q07",
+          "subitem": "5.3",
+          "tema": "SIP e H.323",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 8,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q08",
+          "subitem": "5.3",
+          "tema": "QoS voz/vídeo e LLQ",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 9,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q09",
+          "subitem": "4.2",
+          "tema": "PCM companding",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 10,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q10",
+          "subitem": "11.4",
+          "tema": "SSH cliente/servidor",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 11,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q11",
+          "subitem": "11.5",
+          "tema": "Firewall e filtros L3/L4",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 12,
+          "id": "RETESTE12-20261109-PETROBRAS2006-Q12",
+          "subitem": "11.1",
+          "tema": "DiffServ DSCP/PHB/BA",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        }
+      ],
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "totalQuestoes": 12,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "REVISAO8-20261109-DIRIGIDA",
+      "tipo": "REVISAO-8",
+      "titulo": "Revisão dirigida D3 e reforços de Fourier/antenas",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REFERENCIAS_HISTORICAS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q01",
+          "subitem": "1.1",
+          "tema": "União de eventos independentes",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q02",
+          "subitem": "1.3",
+          "tema": "Soma de gaussianas independentes",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q03",
+          "subitem": "3.1",
+          "tema": "Linearidade e invariância temporal",
+          "resposta": "B",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "numero": 4,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q04",
+          "subitem": "3.4",
+          "tema": "Diagrama assintótico de Bode",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 5,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q05",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) área triangular",
+          "resposta": "D",
+          "gabarito": "A",
+          "correta": false
+        },
+        {
+          "numero": 6,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q06",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) áreas retangulares",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 7,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q07",
+          "subitem": "2.3",
+          "tema": "Fourier X(0) áreas combinadas",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 8,
+          "id": "REVISAO8-20261109-DIRIGIDA-Q08",
+          "subitem": "6.3",
+          "tema": "Arranjos broadside/end-fire",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        }
+      ],
+      "acertos": 6,
+      "erros": 2,
+      "percentual": 75,
+      "totalQuestoes": 8,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "QTI20-20261109-MISTO13ITENS",
+      "tipo": "QTI-20",
+      "titulo": "QTI-20 misto de encerramento: 13 itens do edital",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_2012_2018_2023_QCONCURSOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "QTI20-20261109-MISTO13ITENS-Q01",
+          "subitem": "1.3",
+          "tema": "Autocorrelação e variância",
+          "resposta": "D",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "numero": 2,
+          "id": "QTI20-20261109-MISTO13ITENS-Q02",
+          "subitem": "2.4",
+          "tema": "Convolução degrau e resposta impulsiva",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "QTI20-20261109-MISTO13ITENS-Q03",
+          "subitem": "3.5",
+          "tema": "Transformada Z causal e estabilidade",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 4,
+          "id": "QTI20-20261109-MISTO13ITENS-Q04",
+          "subitem": "4.1",
+          "tema": "Regra de Carson FM",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 5,
+          "id": "QTI20-20261109-MISTO13ITENS-Q05",
+          "subitem": "4.2",
+          "tema": "FEC e codificação de canal",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 6,
+          "id": "QTI20-20261109-MISTO13ITENS-Q06",
+          "subitem": "5.1",
+          "tema": "Erlang B",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 7,
+          "id": "QTI20-20261109-MISTO13ITENS-Q07",
+          "subitem": "5.2",
+          "tema": "E1 e PCM",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 8,
+          "id": "QTI20-20261109-MISTO13ITENS-Q08",
+          "subitem": "6.1",
+          "tema": "Eficiência e resistência de radiação",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 9,
+          "id": "QTI20-20261109-MISTO13ITENS-Q09",
+          "subitem": "7.1",
+          "tema": "Liberação 60% primeira zona Fresnel",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 10,
+          "id": "QTI20-20261109-MISTO13ITENS-Q10",
+          "subitem": "7.2",
+          "tema": "Orçamento de enlace rádio",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 11,
+          "id": "QTI20-20261109-MISTO13ITENS-Q11",
+          "subitem": "8.1",
+          "tema": "Satélite geoestacionário",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 12,
+          "id": "QTI20-20261109-MISTO13ITENS-Q12",
+          "subitem": "8.3",
+          "tema": "C/N e G/T de enlace satélite",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 13,
+          "id": "QTI20-20261109-MISTO13ITENS-Q13",
+          "subitem": "9.2",
+          "tema": "OFDMA e SC-FDMA no LTE",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 14,
+          "id": "QTI20-20261109-MISTO13ITENS-Q14",
+          "subitem": "10.3",
+          "tema": "IEEE 802.1Q VID",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 15,
+          "id": "QTI20-20261109-MISTO13ITENS-Q15",
+          "subitem": "11.2",
+          "tema": "OSPF LSA externo tipo 5",
+          "resposta": "A",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "numero": 16,
+          "id": "QTI20-20261109-MISTO13ITENS-Q16",
+          "subitem": "11.3",
+          "tema": "MPLS L3VPN RD/RT",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 17,
+          "id": "QTI20-20261109-MISTO13ITENS-Q17",
+          "subitem": "12.2",
+          "tema": "Orçamento óptico dBm",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 18,
+          "id": "QTI20-20261109-MISTO13ITENS-Q18",
+          "subitem": "12.1",
+          "tema": "Dispersão cromática fibra monomodo",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "numero": 19,
+          "id": "QTI20-20261109-MISTO13ITENS-Q19",
+          "subitem": "12.4",
+          "tema": "CWDM 20 nm",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "numero": 20,
+          "id": "QTI20-20261109-MISTO13ITENS-Q20",
+          "subitem": "13.2",
+          "tema": "PDFF destinação de faixas",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        }
+      ],
+      "acertos": 18,
+      "erros": 2,
+      "percentual": 90,
+      "totalQuestoes": 20,
+      "tempoLiquidoSec": null
+    }
+  ]
+}
