@@ -1379,7 +1379,33 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-07",
       "plano": "2 questões novas de inferência com texto CESGRANRIO genuíno, buscando retenção e transferência; respeitar anti-repetição."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261109-DIGITAL-ENERGY-D7",
+      "unitId": "INGLES_INTERPRETACAO_E_GRAMATICA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Interpretação, inferência, conectores, pronomes e First Conditional",
+      "origemResultado": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+      "agendadaPara": "2026-11-16",
+      "prioridade": "baixa",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-09",
+      "plano": "Aplicar 5 questões com textos novos, sem reutilizar os textos/questões do QTI-10; verificar retenção em inferência e conectores."
+    },
+    {
+      "id": "REV-QTI10-INGLES-20261109-DIGITAL-ENERGY-D21",
+      "unitId": "INGLES_INTERPRETACAO_E_GRAMATICA",
+      "editalItem": "CONHECIMENTOS_BASICOS_INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Interpretação, inferência, conectores, pronomes e First Conditional",
+      "origemResultado": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+      "agendadaPara": "2026-11-30",
+      "prioridade": "baixa",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-09",
+      "plano": "Aplicar 5 questões com textos novos, sem reutilizar os textos/questões do QTI-10; verificar retenção em inferência e conectores."
     }
   ],
-  "updatedAt": "2026-11-07"
+  "updatedAt": "2026-11-09"
 }
