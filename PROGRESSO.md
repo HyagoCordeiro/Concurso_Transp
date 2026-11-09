@@ -388,3 +388,11 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Total do dia: 35/40 acertos (87,5%)**, cinco erros; não inclui novamente as questões de 07/11. Todas as 40 questões foram elaboradas/adaptadas ao estilo CESGRANRIO e resolvidas no chat; não são 40 questões oficiais transcritas. **Tempo líquido não aferido.**
 - **Fila de revisão curta:** 10.1 BSSID/ESS; 3.1 linearidade; 2.3 Fourier X(0); 1.3 autocorrelação x variância; 11.2 tipos de LSA. Sugestão D3 12/11, D7 16/11 e D21 30/11, conciliando revisões de outras sessões e a prova-alvo de 06/12.
 - **Estratégia:** manter 13 itens em rotação, com atenção reforçada aos temas de maior incidência observada nas provas Transpetro 2012/2018/2023; não superpriorizar probabilidade e sistemas apenas pelos erros.
+
+## Complemento — 09/11/2026: fechamento de 74 questões e Fourier visual
+
+- [Relatório do dia](qti/RESULTADOS_DIA_2026-11-09.md) · [JSON de 74 respostas](qti/RESULTADOS_DIA_2026-11-09.json).
+- Total: **64/74 (86,5%)**; complementos: QTI-20 segunda rodada 18/20, reparo 1/2, reteste 7/8, Fourier gráfico I 1/2 e gráfico II 2/2. Sessões autorais/adaptadas, sem tempo líquido aferido.
+- **Preferência expressa:** “quando tem o gráfico eu entendo melhor”. Para Fourier X(0), utilizar sempre gráfico do sinal com regiões positivas e negativas, seguido de explicação geométrica e integral por trechos.
+- Distinguir duas propriedades: X(0) é área algébrica integral do sinal; deslocamento temporal em Fourier faz x(t−a) ↔ e^(−jωa)X(ω) e x(t+a) ↔ e^(+jωa)X(ω) sob a convenção e^(−jωt).
+- Retenção de Fourier X(0) ainda deve ser validada após dias, mesmo com 2/2 no último reforço gráfico. CDM/FDM/TDM teve repetição de erros e posterior acerto no reteste. Manter cobertura dos 13 itens do edital.
