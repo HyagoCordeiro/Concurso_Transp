@@ -404,3 +404,11 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - Bateria final **3 questões X(0) sem gráfico (3/3)**: confirma desempenho imediato mesmo sem apoio visual; continuar a priorizar gráficos quando disponíveis, mas testar a autonomia sem eles.
 - Em Fourier, distinguir (a) valor na origem como área algébrica total e (b) inversão, atraso/adiantamento e modulação; revisar em D3/D7 para confirmar retenção.
 - Todas as baterias adicionais foram **questões autorais/adaptadas**, não questões oficiais transcritas.
+
+## Inglês — QTI-10 de 09/11/2026 (QTI10-INGLES-20261109-DIGITAL-ENERGY)
+
+- **Resultado: 10/10 (100%)**, 0 erros, 10 questões autorais estilo CESGRANRIO; tempo não aferido.
+- Textos: **Digital Monitoring and Operational Reliability** e **Energy Transition and Infrastructure**. Conteúdos: interpretação, inferência, conectores, referência pronominal, vocabulário contextual e first conditional.
+- **Gabarito/respostas:** B, C, D, E, A, D, E, C, A, E (todos corretos).
+- [Relatório](qti/QTI10_Ingles_Monitoramento_Energia_resultado_2026-11-09.md) · [JSON completo](qti/QTI10_Ingles_Monitoramento_Energia_resultado_2026-11-09.json).
+- Revisão espaçada D7 (16/11) e D21 (30/11) com textos inéditos, obedecendo a política anti-repetição. Resultado autoral não equivale a prova oficial, nem comprova domínio longitudinal sem reteste.
