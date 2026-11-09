@@ -5,10 +5,10 @@
   "banca": "CESGRANRIO",
   "concurso": "Transpetro 2026",
   "provaAlvo": "2026-12-06",
-  "totalQuestoes": 74,
-  "acertos": 64,
-  "erros": 10,
-  "percentual": 86.5,
+  "totalQuestoes": 82,
+  "acertos": 71,
+  "erros": 11,
+  "percentual": 86.6,
   "tipoRegistro": "PRATICA_GUIADA_NAO_CRONOMETRADA",
   "tempoLiquidoSec": null,
   "notas": [
@@ -17,7 +17,9 @@
     "QTI-20 apresentado com todas as perguntas de uma vez e usuário respondeu 20 alternativas textualmente.",
     "Revisar a questão 4 do reteste (BSSID vs SSID/ESS), questão 3 da revisão (linearidade de sistema com constante), questão 5 da revisão (Fourier X(0), área triangular), Q01 QTI-20 (R_X(0)-mu^2) e Q15 QTI-20 (OSPF LSA tipo 5).",
     "Complemento 09/11: QTI-20 rodada 2 18/20; reforço CDM e Fourier 1/2; reteste dos 8 erros 7/8; dois reforços gráficos de Fourier 1/2 e 2/2. Resultado total 64/74 (86,5%).",
-    "Preferência didática expressa: 'quando tem o gráfico eu entendo melhor'. Em Fourier X(0), mostrar gráfico com regiões positivas e negativas junto ao enunciado, e na correção áreas e integrais por trechos. A retenção deve ser verificada em outro dia."
+    "Preferência didática expressa: 'quando tem o gráfico eu entendo melhor'. Em Fourier X(0), mostrar gráfico com regiões positivas e negativas junto ao enunciado, e na correção áreas e integrais por trechos. A retenção deve ser verificada em outro dia.",
+    "Fechamento adicional: cinco questões de Fourier (deslocamento no tempo/frequência, inversão, modulação) 4/5, único erro na inversão com atraso em x(2-t); três questões de X(0) sem gráfico 3/3. Acumulado 71/82 = 86,6%.",
+    "Após a fase com apoio visual, o estudante resolveu 3/3 questões de Fourier X(0) sem gráfico; há transferência imediata do método, mas confirmar retenção em D3/D7."
   ],
   "sessoes": [
     {
@@ -788,6 +790,104 @@
       "erros": 0,
       "percentual": 100,
       "totalQuestoes": 2,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "FOURIER-PROPRIEDADES5-20261109",
+      "tipo": "FIXACAO-5",
+      "titulo": "Fourier: deslocamento espectral, inversão temporal, atraso e modulação",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_COM_GRAFICOS",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "FOURIER-PROPRIEDADES5-20261109-Q01",
+          "subitem": "2.3",
+          "tema": "Deslocamento na frequência por exponencial e^(j5t)",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "FOURIER-PROPRIEDADES5-20261109-Q02",
+          "subitem": "2.3",
+          "tema": "Inversão temporal x(-t), representação gráfica",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "FOURIER-PROPRIEDADES5-20261109-Q03",
+          "subitem": "2.3",
+          "tema": "Inversão + deslocamento y(t)=x(2-t)",
+          "resposta": "A",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "numero": 4,
+          "id": "FOURIER-PROPRIEDADES5-20261109-Q04",
+          "subitem": "2.3",
+          "tema": "Inversão + modulação y(t)=x(-t)e^(j2t), espectro gráfico",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "numero": 5,
+          "id": "FOURIER-PROPRIEDADES5-20261109-Q05",
+          "subitem": "2.3",
+          "tema": "Atraso + modulação y(t)=x(t-2)e^(-j3t), gráfico",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        }
+      ],
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "totalQuestoes": 5,
+      "tempoLiquidoSec": null
+    },
+    {
+      "id": "FOURIER-X0-SEM-GRAFICO3-20261109",
+      "tipo": "FIXACAO-3",
+      "titulo": "Fourier X(0): três integrais por trechos sem gráfico",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_SEM_GRAFICO",
+      "questions": [
+        {
+          "numero": 1,
+          "id": "FOURIER-X0-SEM-GRAFICO3-20261109-Q01",
+          "subitem": "2.3",
+          "tema": "X(0) x=4 em [0,3), -2 em [3,7), resposta 4",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "numero": 2,
+          "id": "FOURIER-X0-SEM-GRAFICO3-20261109-Q02",
+          "subitem": "2.3",
+          "tema": "X(0) x=t em [0,4), -3 em [4,6), resposta 2",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "numero": 3,
+          "id": "FOURIER-X0-SEM-GRAFICO3-20261109-Q03",
+          "subitem": "2.3",
+          "tema": "X(0) x=-t [0,2), 2(t-2) [2,5), -1 [5,9), resposta 3",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        }
+      ],
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "totalQuestoes": 3,
       "tempoLiquidoSec": null
     }
   ]
