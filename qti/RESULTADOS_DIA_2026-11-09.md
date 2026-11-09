@@ -172,3 +172,31 @@
 - Outras dificuldades revisadas: BSSID/SSID, sistemas lineares, variância/autocorrelação, LSA tipo 5/7 OSPF.
 
 **Registro estruturado de 74 respostas:** [JSON](RESULTADOS_DIA_2026-11-09.json).
+
+## Fechamento final adicional — propriedades de Fourier e X(0) sem gráfico
+
+**Desempenho do dia: 71/82 (86,6%), 11 erros.** Total anterior: 64/74. Foram feitas mais 8 questões, com 7 acertos.
+
+### Bateria de cinco questões — Propriedades de Fourier (4/5)
+| Q | Conteúdo | Marcada | Correta | Resultado |
+|---:|---|:---:|:---:|---|
+| 1 | Deslocamento na frequência por exponencial e^(j5t) | C | C | Acerto |
+| 2 | Inversão temporal x(-t), representação gráfica | C | C | Acerto |
+| 3 | Inversão + deslocamento y(t)=x(2-t) | A | D | **ERRO** |
+| 4 | Inversão + modulação y(t)=x(-t)e^(j2t), espectro gráfico | C | C | Acerto |
+| 5 | Atraso + modulação y(t)=x(t-2)e^(-j3t), gráfico | B | B | Acerto |
+
+**Erro único:** Q03, sinal `y(t)=x(2-t)`. Inverter `x(-t)` e depois atrasar em 2: `Y(ω)=e^(−j2ω)X(−ω)`. O estudante escolheu A (`e^(+j2ω)X(−ω)`), correta D. Revisar o fator de fase e a ordem da composição.
+
+### Bateria de três questões — X(0) sem gráficos (3/3)
+| Q | Conteúdo | Marcada | Correta | Resultado |
+|---:|---|:---:|:---:|---|
+| 1 | X(0) x=4 em [0,3), -2 em [3,7), resposta 4 | D | D | Acerto |
+| 2 | X(0) x=t em [0,4), -3 em [4,6), resposta 2 | B | B | Acerto |
+| 3 | X(0) x=-t [0,2), 2(t-2) [2,5), -1 [5,9), resposta 3 | E | E | Acerto |
+
+**Registro pedagógico:** a preferência por gráficos foi explicitada no início da noite, mas o treino final teve **3/3 sem gráfico**, demonstrando capacidade imediata de calcular a soma algébrica das integrais por trechos. Manter a preferência visual como estratégia didática, porém incluir testes sem figura para verificar autonomia.
+
+**Revisão sugerida:** inversão + atraso em `x(a−t)`, deslocamento temporal combinado à modulação (`G(ω+ω0)` altera também os fatores de fase), e X(0) sem gráfico em D3/D7. Não afirmar domínio definitivo sem repetição espaçada.
+
+[JSON completo de 82 tentativas](RESULTADOS_DIA_2026-11-09.json).
