@@ -4888,6 +4888,38 @@
       ],
       "itensErrados": [],
       "observacao": "Questões autorais estilo CESGRANRIO; 5 questões de propriedades com gráficos e 3 de X(0) sem gráfico; tempo não medido."
+    },
+    {
+      "id": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+      "eventId": "QTI10-INGLES-20261109-DIGITAL-ENERGY",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "disciplina": "Inglês",
+      "tipo": "QTI-10",
+      "titulo": "QTI-10 — Inglês CESGRANRIO / Transpetro: monitoramento digital e transição energética",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI10_Ingles_Monitoramento_Energia_resultado_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_NO_CHAT_SEM_CRONOMETRAGEM_E_SEM_PREFLIGHT_ANTIREPETICAO_DOCUMENTADO",
+      "questionIds": [
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q01",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q02",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q03",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q04",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q05",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q06",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q07",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q08",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q09",
+        "QTI10-INGLES-20261109-DIGITAL-ENERGY-Q10"
+      ],
+      "itensErrados": [],
+      "observacao": "10 respostas sequenciais confirmadas no chat; uma questão por vez; sem medição de tempo. Treino autoral curto, não equivale a previsão de nota oficial."
     }
   ],
   "updatedAt": "2026-11-09"
