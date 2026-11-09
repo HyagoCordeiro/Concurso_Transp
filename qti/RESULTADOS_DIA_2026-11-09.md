@@ -89,3 +89,86 @@
 - O **QTI-20 atingiu a meta de 80%** (18/20 = 90%); sem controle de tempo no chat, não inferir ritmo de prova.
 
 **Registro estruturado de todas as 40 respostas:** [JSON](RESULTADOS_DIA_2026-11-09.json).
+
+## Complemento noturno — rodada 2 e revisão visual de Fourier
+
+**Total do dia confirmado: 64/74 (86,5%) — 10 erros acumulados.** Sessões guiadas e autorais/adaptadas; nenhuma cronometragem.
+
+| Atividade | Resultado |
+|---|---:|
+| QTI-20 misto — segunda rodada | 18/20 (90,0%) |
+| Reparo CDM e Fourier | 1/2 (50,0%) |
+| Reteste dos oito erros | 7/8 (87,5%) |
+| Fourier X(0) reforço gráfico I | 1/2 (50,0%) |
+| Fourier X(0) reforço gráfico II | 2/2 (100,0%) |
+| **Complemento** | **29/34 (85,3%)** |
+
+### Respostas detalhadas
+
+#### QTI-20 misto — segunda rodada
+
+| Q | Subitem | Tema | Resposta | Gabarito | Situação |
+|---:|:---:|---|:---:|:---:|---|
+| 1 | 1.2 | Hipergeométrica | C | C | Acerto |
+| 2 | 3.5 | Aliasing | B | B | Acerto |
+| 3 | 3.1 | Laplace e valor final | A | A | Acerto |
+| 4 | 4.1 | 64-QAM taxa de símbolos | E | E | Acerto |
+| 5 | 4.2 | SQNR quantização | D | D | Acerto |
+| 6 | 5.2 | Multiplexação CDM | A | B | **ERRO** |
+| 7 | 5.3 | RTP e RTCP | A | A | Acerto |
+| 8 | 6.1 | Ganho de antena parabólica | E | E | Acerto |
+| 9 | 7.1 | Horizonte rádio | C | C | Acerto |
+| 10 | 7.2 | Desvanecimento Rice | D | D | Acerto |
+| 11 | 8.2 | Banda Ka e chuva | D | D | Acerto |
+| 12 | 2.3 | Fourier deslocamento no tempo | A | B | **ERRO** |
+| 13 | 9.2 | Reuso celular | C | C | Acerto |
+| 14 | 10.3 | SNMPv3 authPriv | A | A | Acerto |
+| 15 | 10.3 | RSTP Alternate Port | E | E | Acerto |
+| 16 | 11.2 | BGP LOCAL_PREF | C | C | Acerto |
+| 17 | 11.3 | RSVP-TE | B | B | Acerto |
+| 18 | 12.2 | OTDR | D | D | Acerto |
+| 19 | 12.3 | SDH STM-4 | A | A | Acerto |
+| 20 | 13.1 | LGT espectro | E | E | Acerto |
+
+#### Reparo CDM e Fourier
+
+| Q | Subitem | Tema | Resposta | Gabarito | Situação |
+|---:|:---:|---|:---:|:---:|---|
+| 1 | 5.2 | CDM e taxa de chips | A | D | **ERRO** |
+| 2 | 2.3 | Fourier adiantamento e atraso | D | D | Acerto |
+
+#### Reteste dos oito erros
+
+| Q | Subitem | Tema | Resposta | Gabarito | Situação |
+|---:|:---:|---|:---:|:---:|---|
+| 1 | 10.1 | SSID/BSSID e roaming | E | E | Acerto |
+| 2 | 3.1 | Sistema não linear invariante no tempo | B | B | Acerto |
+| 3 | 2.3 | Fourier X(0) áreas assinadas | B | C | **ERRO** |
+| 4 | 1.3 | Autocorrelação e variância | D | D | Acerto |
+| 5 | 11.2 | OSPF NSSA LSA tipo 7/5 | C | C | Acerto |
+| 6 | 5.2 | FDM TDM CDM | E | E | Acerto |
+| 7 | 2.3 | Fourier adiantamento e atraso | D | D | Acerto |
+| 8 | 5.2 | CDM espalhamento espectral | C | C | Acerto |
+
+#### Fourier X(0) reforço gráfico I
+
+| Q | Subitem | Tema | Resposta | Gabarito | Situação |
+|---:|:---:|---|:---:|:---:|---|
+| 1 | 2.3 | Fourier X(0) trapézio positivo/retângulo negativo | C | C | Acerto |
+| 2 | 2.3 | Fourier X(0) retângulos e triângulo positivo/negativo | C | D | **ERRO** |
+
+#### Fourier X(0) reforço gráfico II
+
+| Q | Subitem | Tema | Resposta | Gabarito | Situação |
+|---:|:---:|---|:---:|:---:|---|
+| 1 | 2.3 | Fourier X(0) retângulo triângulo e área negativa | D | D | Acerto |
+| 2 | 2.3 | Fourier X(0) triângulo negativo e duas regiões positivas | B | B | Acerto |
+
+### Diagnóstico após os reforços
+- Multiplexação CDM/FDM/TDM: dois erros no QTI-20 e no reforço, com recuperação nas Q06/Q08 do reteste final.
+- Deslocamento temporal em Fourier: erro no QTI-20 rodada 2, com acerto no reparo e reteste final. Atraso x(t−a) produz expoente e^(−jωa) e adiantamento x(t+a) produz e^(+jωa) (convenção e^(−jωt)).
+- Fourier X(0): principal dificuldade em omitir áreas negativas. Reforço com gráfico 1 obteve 1/2 e reforço gráfico 2 obteve 2/2. Entendimento facilitado por gráfico com regiões, bases e alturas; verificar retenção espaçada.
+- O usuário declarou: “quando tem o gráfico eu entendo melhor”. **Incluir gráfico de x(t) já no enunciado das próximas questões de área/Fourier**, e na correção mostrar soma algébrica das áreas e, se pedido, integração por trechos.
+- Outras dificuldades revisadas: BSSID/SSID, sistemas lineares, variância/autocorrelação, LSA tipo 5/7 OSPF.
+
+**Registro estruturado de 74 respostas:** [JSON](RESULTADOS_DIA_2026-11-09.json).
