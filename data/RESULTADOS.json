@@ -4828,6 +4828,66 @@
       ],
       "itensErrados": [],
       "observacao": "Questões autorais/adaptadas ao estilo CESGRANRIO; partes gráficas de Fourier representadas no chat, sem tempo medido."
+    },
+    {
+      "id": "FOURIER-PROPRIEDADES5-20261109",
+      "eventId": "FOURIER-PROPRIEDADES5-20261109",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "FIXACAO-5",
+      "disciplina": "Telecomunicações",
+      "titulo": "Fourier: deslocamento espectral, inversão temporal, atraso e modulação",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 4,
+      "erros": 1,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_COM_GRAFICOS",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "FOURIER-PROPRIEDADES5-20261109-Q01",
+        "FOURIER-PROPRIEDADES5-20261109-Q02",
+        "FOURIER-PROPRIEDADES5-20261109-Q03",
+        "FOURIER-PROPRIEDADES5-20261109-Q04",
+        "FOURIER-PROPRIEDADES5-20261109-Q05"
+      ],
+      "itensErrados": [
+        {
+          "numero": 3,
+          "subitem": "2.3",
+          "topico": "Inversão + deslocamento y(t)=x(2-t)",
+          "resposta": "A",
+          "gabarito": "D"
+        }
+      ],
+      "observacao": "Questões autorais estilo CESGRANRIO; 5 questões de propriedades com gráficos e 3 de X(0) sem gráfico; tempo não medido."
+    },
+    {
+      "id": "FOURIER-X0-SEM-GRAFICO3-20261109",
+      "eventId": "FOURIER-X0-SEM-GRAFICO3-20261109",
+      "data": "2026-11-09",
+      "studyDateLocal": "2026-11-09",
+      "tipo": "FIXACAO-3",
+      "disciplina": "Telecomunicações",
+      "titulo": "Fourier X(0): três integrais por trechos sem gráfico",
+      "totalQuestoes": 3,
+      "totalValidas": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_SEM_GRAFICO",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-09.json",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "FOURIER-X0-SEM-GRAFICO3-20261109-Q01",
+        "FOURIER-X0-SEM-GRAFICO3-20261109-Q02",
+        "FOURIER-X0-SEM-GRAFICO3-20261109-Q03"
+      ],
+      "itensErrados": [],
+      "observacao": "Questões autorais estilo CESGRANRIO; 5 questões de propriedades com gráficos e 3 de X(0) sem gráfico; tempo não medido."
     }
   ],
   "updatedAt": "2026-11-09"
