@@ -103,13 +103,35 @@
       "unitId": "1.1",
       "editalItem": "1",
       "topic": "Eventos independentes",
-      "questionText": "Probabilidade de exatamente uma falha em dois enlaces independentes (10% e 20%)",
+      "questionText": "Dois enlaces de comunicação apresentam falhas independentes, com probabilidades de 10% e 20%, respectivamente. Qual é a probabilidade de exatamente um dos enlaces falhar?",
       "selected": "D",
       "correctAnswer": "D",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 3,
-      "nextEligibleAt": "2026-11-13"
+      "nextEligibleAt": "2026-11-13",
+      "options": [
+        {
+          "letter": "A",
+          "label": "2%"
+        },
+        {
+          "letter": "B",
+          "label": "8%"
+        },
+        {
+          "letter": "C",
+          "label": "18%"
+        },
+        {
+          "letter": "D",
+          "label": "26%"
+        },
+        {
+          "letter": "E",
+          "label": "72%"
+        }
+      ]
     },
     {
       "number": 2,
@@ -118,13 +140,35 @@
       "unitId": "2.2",
       "editalItem": "2",
       "topic": "Aliasing",
-      "questionText": "Senoide de 700 Hz amostrada em 1000 amostras/s: frequência alias na faixa 0 a 500 Hz",
+      "questionText": "Uma senoide de frequência 700 Hz é amostrada uniformemente a uma taxa de 1.000 amostras/s. Qual é a frequência aparente do sinal amostrado, na banda de 0 a 500 Hz?",
       "selected": "A",
       "correctAnswer": "A",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "300 Hz"
+        },
+        {
+          "letter": "B",
+          "label": "200 Hz"
+        },
+        {
+          "letter": "C",
+          "label": "500 Hz"
+        },
+        {
+          "letter": "D",
+          "label": "700 Hz"
+        },
+        {
+          "letter": "E",
+          "label": "100 Hz"
+        }
+      ]
     },
     {
       "number": 3,
@@ -133,13 +177,35 @@
       "unitId": "3.4",
       "editalItem": "3",
       "topic": "ROC e estabilidade",
-      "questionText": "Sistema com polos de Laplace em -2 e 1: ROC bilateral para estabilidade BIBO",
+      "questionText": "Uma função de transferência bilateral possui polos em s = −2 e s = +1, sem cancelamentos. Qual região de convergência torna a resposta ao impulso absolutamente integrável, garantindo estabilidade BIBO?",
       "selected": "E",
       "correctAnswer": "E",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Re(s) > 1"
+        },
+        {
+          "letter": "B",
+          "label": "Re(s) < −2"
+        },
+        {
+          "letter": "C",
+          "label": "Re(s) > −2"
+        },
+        {
+          "letter": "D",
+          "label": "Re(s) < 1"
+        },
+        {
+          "letter": "E",
+          "label": "−2 < Re(s) < 1"
+        }
+      ]
     },
     {
       "number": 4,
@@ -148,13 +214,35 @@
       "unitId": "4.2",
       "editalItem": "4",
       "topic": "Taxa de símbolos 16-QAM",
-      "questionText": "Transmissor 16-QAM a 12 Mbit/s: taxa de símbolos sem redundância",
+      "questionText": "Um transmissor emprega modulação 16-QAM, transportando uma taxa líquida de 12 Mbit/s, sem considerar redundância de codificação. Qual é a taxa de símbolos?",
       "selected": "B",
       "correctAnswer": "B",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "0,75 MBd"
+        },
+        {
+          "letter": "B",
+          "label": "3 MBd"
+        },
+        {
+          "letter": "C",
+          "label": "6 MBd"
+        },
+        {
+          "letter": "D",
+          "label": "12 MBd"
+        },
+        {
+          "letter": "E",
+          "label": "48 MBd"
+        }
+      ]
     },
     {
       "number": 5,
@@ -163,13 +251,35 @@
       "unitId": "5.1",
       "editalItem": "5",
       "topic": "Erlang C",
-      "questionText": "Modelo de tráfego telefônico com fila de espera e probabilidade de espera",
+      "questionText": "Uma central de atendimento permite que chamadas aguardem em fila quando todos os atendentes estão ocupados. Para calcular a probabilidade de espera nesse modelo, com hipóteses clássicas de chegadas e atendimento, utiliza-se:",
       "selected": "C",
       "correctAnswer": "C",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Fórmula de Erlang B"
+        },
+        {
+          "letter": "B",
+          "label": "Transformada de Hilbert"
+        },
+        {
+          "letter": "C",
+          "label": "Fórmula de Erlang C"
+        },
+        {
+          "letter": "D",
+          "label": "Codificação de Huffman"
+        },
+        {
+          "letter": "E",
+          "label": "Protocolo H.245"
+        }
+      ]
     },
     {
       "number": 6,
@@ -178,13 +288,35 @@
       "unitId": "6.2",
       "editalItem": "6",
       "topic": "Monopolo λ/4",
-      "questionText": "Monopolo de quarto de onda em 150 MHz sobre plano de terra ideal: comprimento",
+      "questionText": "Uma antena monopolo de comprimento elétrico λ/4 opera a 150 MHz, sobre um plano de terra ideal. Desprezando efeitos de extremidade, qual é seu comprimento aproximado?",
       "selected": "D",
       "correctAnswer": "D",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 3,
-      "nextEligibleAt": "2026-11-13"
+      "nextEligibleAt": "2026-11-13",
+      "options": [
+        {
+          "letter": "A",
+          "label": "0,125 m"
+        },
+        {
+          "letter": "B",
+          "label": "0,25 m"
+        },
+        {
+          "letter": "C",
+          "label": "1,0 m"
+        },
+        {
+          "letter": "D",
+          "label": "0,50 m"
+        },
+        {
+          "letter": "E",
+          "label": "2,0 m"
+        }
+      ]
     },
     {
       "number": 7,
@@ -193,13 +325,35 @@
       "unitId": "7.1",
       "editalItem": "7",
       "topic": "Primeira zona de Fresnel",
-      "questionText": "Raio de primeira zona de Fresnel no ponto médio de enlace 8 km a 6 GHz",
+      "questionText": "Um enlace em visada direta, operando a 6 GHz, possui 8 km de extensão. Qual é aproximadamente o raio da primeira zona de Fresnel no ponto médio? Utilize c = 3 × 10⁸ m/s.",
       "selected": "B",
       "correctAnswer": "B",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "5 m"
+        },
+        {
+          "letter": "B",
+          "label": "10 m"
+        },
+        {
+          "letter": "C",
+          "label": "15 m"
+        },
+        {
+          "letter": "D",
+          "label": "20 m"
+        },
+        {
+          "letter": "E",
+          "label": "25 m"
+        }
+      ]
     },
     {
       "number": 8,
@@ -208,13 +362,35 @@
       "unitId": "8.3",
       "editalItem": "8",
       "topic": "EIRP VSAT",
-      "questionText": "Terminal VSAT 10 dBW, antena 30 dBi, perda de alimentação 2 dB: EIRP",
+      "questionText": "Em um terminal VSAT, a potência de transmissão é de 10 dBW, o ganho da antena é de 30 dBi e as perdas de alimentação somam 2 dB. Qual é a EIRP?",
       "selected": "A",
       "correctAnswer": "A",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "38 dBW"
+        },
+        {
+          "letter": "B",
+          "label": "40 dBW"
+        },
+        {
+          "letter": "C",
+          "label": "32 dBW"
+        },
+        {
+          "letter": "D",
+          "label": "18 dBW"
+        },
+        {
+          "letter": "E",
+          "label": "42 dBW"
+        }
+      ]
     },
     {
       "number": 9,
@@ -223,13 +399,35 @@
       "unitId": "9.2",
       "editalItem": "9",
       "topic": "Duplexação TDD",
-      "questionText": "Separação uplink/downlink em duplexação TDD",
+      "questionText": "Em uma interface rádio que utiliza TDD, as transmissões de uplink e downlink são separadas principalmente:",
       "selected": "C",
       "correctAnswer": "C",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 3,
-      "nextEligibleAt": "2026-11-13"
+      "nextEligibleAt": "2026-11-13",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Por frequências distintas utilizadas simultaneamente"
+        },
+        {
+          "letter": "B",
+          "label": "Por códigos fixos de espalhamento em todos os canais"
+        },
+        {
+          "letter": "C",
+          "label": "Por intervalos de tempo diferentes na mesma faixa de frequência"
+        },
+        {
+          "letter": "D",
+          "label": "Por comprimentos de onda ópticos diferentes"
+        },
+        {
+          "letter": "E",
+          "label": "Pelo uso obrigatório de antenas transmissoras separadas"
+        }
+      ]
     },
     {
       "number": 10,
@@ -238,13 +436,35 @@
       "unitId": "10.3",
       "editalItem": "10",
       "topic": "Prioridade IEEE 802.1p",
-      "questionText": "Campo de prioridade PCP de 3 bits IEEE 802.1p: quantidade de valores",
+      "questionText": "Em uma rede Ethernet com priorização IEEE 802.1p, o campo PCP do identificador VLAN possui três bits. Quantos valores distintos de prioridade podem ser representados?",
       "selected": "E",
       "correctAnswer": "E",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "3"
+        },
+        {
+          "letter": "B",
+          "label": "4"
+        },
+        {
+          "letter": "C",
+          "label": "6"
+        },
+        {
+          "letter": "D",
+          "label": "7"
+        },
+        {
+          "letter": "E",
+          "label": "8"
+        }
+      ]
     },
     {
       "number": 11,
@@ -253,13 +473,35 @@
       "unitId": "11.4",
       "editalItem": "11",
       "topic": "Route Target MP-BGP",
-      "questionText": "Atributo estendido BGP para controlar importação/exportação de rotas L3VPN nas VRFs",
+      "questionText": "Em redes MPLS L3VPN, qual atributo estendido do BGP é utilizado pelas VRFs para controlar a importação e exportação de rotas VPN?",
       "selected": "B",
       "correctAnswer": "B",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Route Distinguisher (RD)"
+        },
+        {
+          "letter": "B",
+          "label": "Route Target (RT)"
+        },
+        {
+          "letter": "C",
+          "label": "MPLS TTL"
+        },
+        {
+          "letter": "D",
+          "label": "DSCP"
+        },
+        {
+          "letter": "E",
+          "label": "CRC-32"
+        }
+      ]
     },
     {
       "number": 12,
@@ -268,13 +510,35 @@
       "unitId": "12.1",
       "editalItem": "12",
       "topic": "Orçamento óptico",
-      "questionText": "Potência recebida de fibra de 20 km, 0,3 dB/km, potência transmitida 0 dBm",
+      "questionText": "Uma fibra apresenta atenuação de 0,3 dB/km. Um transmissor óptico de 0 dBm alimenta um enlace de 20 km, sem perdas adicionais. Qual é a potência recebida?",
       "selected": "D",
       "correctAnswer": "D",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 3,
-      "nextEligibleAt": "2026-11-13"
+      "nextEligibleAt": "2026-11-13",
+      "options": [
+        {
+          "letter": "A",
+          "label": "−20 dBm"
+        },
+        {
+          "letter": "B",
+          "label": "−12 dBm"
+        },
+        {
+          "letter": "C",
+          "label": "−3 dBm"
+        },
+        {
+          "letter": "D",
+          "label": "−6 dBm"
+        },
+        {
+          "letter": "E",
+          "label": "+6 dBm"
+        }
+      ]
     },
     {
       "number": 13,
@@ -283,13 +547,35 @@
       "unitId": "13.2",
       "editalItem": "13",
       "topic": "Anatel e espectro",
-      "questionText": "Órgão brasileiro competente para administração do espectro, bem público",
+      "questionText": "Segundo a Lei Geral de Telecomunicações, o espectro de radiofrequências é um recurso limitado e constitui bem público. No Brasil, sua administração compete à:",
       "selected": "A",
       "correctAnswer": "A",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Anatel"
+        },
+        {
+          "letter": "B",
+          "label": "ABNT"
+        },
+        {
+          "letter": "C",
+          "label": "Cada prestadora autorizada, individualmente"
+        },
+        {
+          "letter": "D",
+          "label": "UIT, diretamente no território brasileiro"
+        },
+        {
+          "letter": "E",
+          "label": "Prefeitura de cada município"
+        }
+      ]
     },
     {
       "number": 14,
@@ -298,13 +584,35 @@
       "unitId": "1.1",
       "editalItem": "1",
       "topic": "Bayes: inversão condicional",
-      "questionText": "Alarme detecta 90% falhas e gera 10% falso alarme; prevalência de falhas 20%; probabilidade de falha dado alarme",
+      "questionText": "Um monitor detecta 90% das falhas reais e gera alarme falso em 10% dos períodos sem falha. Se o sistema apresenta falha em 20% dos períodos, qual é aproximadamente a probabilidade de haver uma falha real dado que o alarme disparou?",
       "selected": "D",
       "correctAnswer": "E",
       "result": "INCORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": null,
-      "nextEligibleAt": null
+      "nextEligibleAt": null,
+      "options": [
+        {
+          "letter": "A",
+          "label": "10%"
+        },
+        {
+          "letter": "B",
+          "label": "20%"
+        },
+        {
+          "letter": "C",
+          "label": "35%"
+        },
+        {
+          "letter": "D",
+          "label": "90%"
+        },
+        {
+          "letter": "E",
+          "label": "69%"
+        }
+      ]
     },
     {
       "number": 15,
@@ -313,13 +621,35 @@
       "unitId": "2.4",
       "editalItem": "2",
       "topic": "Convolução de impulsos",
-      "questionText": "x[n]=δ[n]+2δ[n−1] e h[n]=δ[n]+δ[n−1]; coeficiente de δ[n−1] em convolução",
+      "questionText": "Se x[n] = δ[n] + 2δ[n−1] e h[n] = δ[n] + δ[n−1], qual é o coeficiente de δ[n−1] na saída y[n] = x[n] * h[n]?",
       "selected": "B",
       "correctAnswer": "C",
       "result": "INCORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": null,
-      "nextEligibleAt": null
+      "nextEligibleAt": null,
+      "options": [
+        {
+          "letter": "A",
+          "label": "1"
+        },
+        {
+          "letter": "B",
+          "label": "2"
+        },
+        {
+          "letter": "C",
+          "label": "3"
+        },
+        {
+          "letter": "D",
+          "label": "4"
+        },
+        {
+          "letter": "E",
+          "label": "5"
+        }
+      ]
     },
     {
       "number": 16,
@@ -328,13 +658,35 @@
       "unitId": "3.5",
       "editalItem": "3",
       "topic": "Estabilidade discreta",
-      "questionText": "Sistema causal y[n]−1,2y[n−1]=x[n]: teste BIBO de polo",
+      "questionText": "Considere o sistema causal descrito por y[n] − 1,2y[n−1] = x[n], inicialmente em repouso. Sobre sua estabilidade BIBO, conclui-se que o sistema é:",
       "selected": "B",
       "correctAnswer": "B",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "Estável, por ser causal"
+        },
+        {
+          "letter": "B",
+          "label": "Instável, pois possui polo fora do círculo unitário"
+        },
+        {
+          "letter": "C",
+          "label": "Estável, porque o polo é real e positivo"
+        },
+        {
+          "letter": "D",
+          "label": "Estável apenas para entradas senoidais"
+        },
+        {
+          "letter": "E",
+          "label": "Um filtro FIR, necessariamente estável"
+        }
+      ]
     },
     {
       "number": 17,
@@ -343,13 +695,35 @@
       "unitId": "4.2",
       "editalItem": "4",
       "topic": "Taxa PCM",
-      "questionText": "PCM em 8 kHz com 256 níveis de quantização: taxa de bits",
+      "questionText": "Um sinal de voz é amostrado a 8 kHz e quantizado uniformemente em 256 níveis. Sem compressão nem bits adicionais, qual é a taxa PCM resultante?",
       "selected": "A",
       "correctAnswer": "A",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "64 kbit/s"
+        },
+        {
+          "letter": "B",
+          "label": "16 kbit/s"
+        },
+        {
+          "letter": "C",
+          "label": "32 kbit/s"
+        },
+        {
+          "letter": "D",
+          "label": "128 kbit/s"
+        },
+        {
+          "letter": "E",
+          "label": "256 kbit/s"
+        }
+      ]
     },
     {
       "number": 18,
@@ -358,13 +732,35 @@
       "unitId": "10.3",
       "editalItem": "10",
       "topic": "RMON II",
-      "questionText": "Gerência de protocolos acima da camada de enlace por RMON II",
+      "questionText": "Um administrador deseja monitorar estatísticas de tráfego acima da camada de enlace, com visibilidade de protocolos de rede e aplicações. Qual extensão do padrão RMON foi desenvolvida para essa finalidade?",
       "selected": "E",
       "correctAnswer": "E",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 3,
-      "nextEligibleAt": "2026-11-13"
+      "nextEligibleAt": "2026-11-13",
+      "options": [
+        {
+          "letter": "A",
+          "label": "IEEE 802.1p"
+        },
+        {
+          "letter": "B",
+          "label": "RMON I"
+        },
+        {
+          "letter": "C",
+          "label": "IEEE 802.3af"
+        },
+        {
+          "letter": "D",
+          "label": "LLDP"
+        },
+        {
+          "letter": "E",
+          "label": "RMON II"
+        }
+      ]
     },
     {
       "number": 19,
@@ -373,13 +769,35 @@
       "unitId": "11.3",
       "editalItem": "11",
       "topic": "RSVP-TE",
-      "questionText": "Protocolo de sinalização LSP com reserva de recursos para MPLS TE",
+      "questionText": "Em uma rede MPLS com engenharia de tráfego, qual protocolo permite sinalizar caminhos LSP explícitos, com mecanismos de reserva de recursos?",
       "selected": "D",
       "correctAnswer": "D",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 7,
-      "nextEligibleAt": "2026-11-17"
+      "nextEligibleAt": "2026-11-17",
+      "options": [
+        {
+          "letter": "A",
+          "label": "LACP"
+        },
+        {
+          "letter": "B",
+          "label": "STP"
+        },
+        {
+          "letter": "C",
+          "label": "DNS"
+        },
+        {
+          "letter": "D",
+          "label": "RSVP-TE"
+        },
+        {
+          "letter": "E",
+          "label": "DHCP"
+        }
+      ]
     },
     {
       "number": 20,
@@ -388,13 +806,35 @@
       "unitId": "12.1",
       "editalItem": "12",
       "topic": "Dispersão cromática",
-      "questionText": "Dispersão cromática 16 ps/(nm·km), fonte 0,2 nm e enlace 50 km: alargamento temporal",
+      "questionText": "Uma fibra apresenta dispersão cromática de 16 ps/(nm·km). Considerando uma fonte com largura espectral de 0,2 nm e um enlace de 50 km, qual é o alargamento temporal aproximado devido à dispersão cromática?",
       "selected": "C",
       "correctAnswer": "C",
       "result": "CORRETA",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "cooldownDays": 5,
-      "nextEligibleAt": "2026-11-15"
+      "nextEligibleAt": "2026-11-15",
+      "options": [
+        {
+          "letter": "A",
+          "label": "16 ps"
+        },
+        {
+          "letter": "B",
+          "label": "80 ps"
+        },
+        {
+          "letter": "C",
+          "label": "160 ps"
+        },
+        {
+          "letter": "D",
+          "label": "320 ps"
+        },
+        {
+          "letter": "E",
+          "label": "1.600 ps"
+        }
+      ]
     }
   ]
 }
