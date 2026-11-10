@@ -11,7 +11,7 @@
 - **ANTES de responder:** não consultar gabarito oficial nem marcar a questão como já resolvida; apresentar e classificar sua aderência ao edital da Transpetro.
 - **DEPOIS da resposta:** corrigir por conta própria e conferir gabarito oficial definitivo, registrar resposta, acerto/erro, dificuldade, item correlato do edital e elegibilidade D3/D7/D21.
 - **Históricas da FGV:** armazenar IDs canônicos `FGV-NAVBRASIL-2026-ENGTELECOM-T1-Qnn`; não classificá-las como `CESGRANRIO_ORIGINAL`. Uma eventual adaptação de valores não é prova oficial.
-- **STATUS atual:** TRIAGED_NOT_ANSWERED para todas as 30 questões técnicas; os enunciados permanecem no PDF oficial, e o gabarito não é apresentado antes do usuário responder.
+- **STATUS atualizado:** Q41–Q47 foram respondidas pelo usuário no PDF original em 10/11/2026, resultado 3/7, registrado em `nav/RESULTADO_NAV_BRASIL_2026_Q41_Q47_2026-11-10.md`. Q48–Q70 continuam TRIAGED_NOT_ANSWERED. Uma correção equivocada de questões adaptadas foi INVALIDADA; jamais usá-la como evidência.
 - **Regra antirrepetição:** ao responder, adicionar ao `data/QUESTOES.json` com origem, fingerprint, resultado e cooldown quando acertar; não contabilizar essa triagem como exposição respondida.
 - **Caso usuário envie imagem:** apontar número da questão, tema, subitem do edital e grau de utilidade. Questões fora do edital devem ser corrigidas apenas se o usuário desejar, mas excluídas das prioridades de revisão para Transpetro.
 
@@ -68,6 +68,12 @@
 - **Item 4 e 5:** Q41, Q44, Q45 e Q70: modulação, múltiplo acesso e leitura de sinais.
 - **Itens 10–11:** Q58–61 e Q63: redes, VLAN/MPLS, sub-redes e segurança.
 - **Item 1:** Q27 (RLM): probabilidade e independência de eventos.
+
+## Atualização da aplicação em 10/11/2026
+
+- Q41–Q47 corrigidas pela prova original, 3/7 (Q42, Q45 e Q47 corretas). Gabarito definitivo: E, A, E, B, A, B, A.
+- As correções feitas sobre os itens *adaptados* foram invalidadas porque as letras do usuário se referiam ao PDF oficial. O erro metodológico não deve contaminar estatísticas ou revisões.
+- Próximas questões continuam pelo PDF original, sem modificação de valores ou alternativas.
 
 ## Alerta de fonte
 
