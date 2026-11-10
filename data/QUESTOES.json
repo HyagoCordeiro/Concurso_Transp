@@ -13222,7 +13222,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Probabilidade de exatamente uma falha em dois enlaces independentes (10% e 20%)",
+      "questionText": "Dois enlaces de comunicação apresentam falhas independentes, com probabilidades de 10% e 20%, respectivamente. Qual é a probabilidade de exatamente um dos enlaces falhar?",
       "selected": "D",
       "correctAnswer": "D",
       "lastSeenAt": "2026-11-10",
@@ -13230,7 +13230,15 @@
       "cooldownDays": 3,
       "nextEligibleAt": "2026-11-13",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "2933328146",
+      "answerOptions": [
+        "A) 2%",
+        "B) 8%",
+        "C) 18%",
+        "D) 26%",
+        "E) 72%"
+      ]
     },
     {
       "id": "QTI20-20261110-Q02",
@@ -13241,7 +13249,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Senoide de 700 Hz amostrada em 1000 amostras/s: frequência alias na faixa 0 a 500 Hz",
+      "questionText": "Uma senoide de frequência 700 Hz é amostrada uniformemente a uma taxa de 1.000 amostras/s. Qual é a frequência aparente do sinal amostrado, na banda de 0 a 500 Hz?",
       "selected": "A",
       "correctAnswer": "A",
       "lastSeenAt": "2026-11-10",
@@ -13249,7 +13257,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "3129200107",
+      "answerOptions": [
+        "A) 300 Hz",
+        "B) 200 Hz",
+        "C) 500 Hz",
+        "D) 700 Hz",
+        "E) 100 Hz"
+      ]
     },
     {
       "id": "QTI20-20261110-Q03",
@@ -13260,7 +13276,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Sistema com polos de Laplace em -2 e 1: ROC bilateral para estabilidade BIBO",
+      "questionText": "Uma função de transferência bilateral possui polos em s = −2 e s = +1, sem cancelamentos. Qual região de convergência torna a resposta ao impulso absolutamente integrável, garantindo estabilidade BIBO?",
       "selected": "E",
       "correctAnswer": "E",
       "lastSeenAt": "2026-11-10",
@@ -13268,7 +13284,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "2537259962",
+      "answerOptions": [
+        "A) Re(s) > 1",
+        "B) Re(s) < −2",
+        "C) Re(s) > −2",
+        "D) Re(s) < 1",
+        "E) −2 < Re(s) < 1"
+      ]
     },
     {
       "id": "QTI20-20261110-Q04",
@@ -13279,7 +13303,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Transmissor 16-QAM a 12 Mbit/s: taxa de símbolos sem redundância",
+      "questionText": "Um transmissor emprega modulação 16-QAM, transportando uma taxa líquida de 12 Mbit/s, sem considerar redundância de codificação. Qual é a taxa de símbolos?",
       "selected": "B",
       "correctAnswer": "B",
       "lastSeenAt": "2026-11-10",
@@ -13287,7 +13311,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1911718178",
+      "answerOptions": [
+        "A) 0,75 MBd",
+        "B) 3 MBd",
+        "C) 6 MBd",
+        "D) 12 MBd",
+        "E) 48 MBd"
+      ]
     },
     {
       "id": "QTI20-20261110-Q05",
@@ -13298,7 +13330,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Modelo de tráfego telefônico com fila de espera e probabilidade de espera",
+      "questionText": "Uma central de atendimento permite que chamadas aguardem em fila quando todos os atendentes estão ocupados. Para calcular a probabilidade de espera nesse modelo, com hipóteses clássicas de chegadas e atendimento, utiliza-se:",
       "selected": "C",
       "correctAnswer": "C",
       "lastSeenAt": "2026-11-10",
@@ -13306,7 +13338,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1933567319",
+      "answerOptions": [
+        "A) Fórmula de Erlang B",
+        "B) Transformada de Hilbert",
+        "C) Fórmula de Erlang C",
+        "D) Codificação de Huffman",
+        "E) Protocolo H.245"
+      ]
     },
     {
       "id": "QTI20-20261110-Q06",
@@ -13317,7 +13357,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Monopolo de quarto de onda em 150 MHz sobre plano de terra ideal: comprimento",
+      "questionText": "Uma antena monopolo de comprimento elétrico λ/4 opera a 150 MHz, sobre um plano de terra ideal. Desprezando efeitos de extremidade, qual é seu comprimento aproximado?",
       "selected": "D",
       "correctAnswer": "D",
       "lastSeenAt": "2026-11-10",
@@ -13325,7 +13365,15 @@
       "cooldownDays": 3,
       "nextEligibleAt": "2026-11-13",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "3953049170",
+      "answerOptions": [
+        "A) 0,125 m",
+        "B) 0,25 m",
+        "C) 1,0 m",
+        "D) 0,50 m",
+        "E) 2,0 m"
+      ]
     },
     {
       "id": "QTI20-20261110-Q07",
@@ -13336,7 +13384,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Raio de primeira zona de Fresnel no ponto médio de enlace 8 km a 6 GHz",
+      "questionText": "Um enlace em visada direta, operando a 6 GHz, possui 8 km de extensão. Qual é aproximadamente o raio da primeira zona de Fresnel no ponto médio? Utilize c = 3 × 10⁸ m/s.",
       "selected": "B",
       "correctAnswer": "B",
       "lastSeenAt": "2026-11-10",
@@ -13344,7 +13392,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "2710727093",
+      "answerOptions": [
+        "A) 5 m",
+        "B) 10 m",
+        "C) 15 m",
+        "D) 20 m",
+        "E) 25 m"
+      ]
     },
     {
       "id": "QTI20-20261110-Q08",
@@ -13355,7 +13411,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Terminal VSAT 10 dBW, antena 30 dBi, perda de alimentação 2 dB: EIRP",
+      "questionText": "Em um terminal VSAT, a potência de transmissão é de 10 dBW, o ganho da antena é de 30 dBi e as perdas de alimentação somam 2 dB. Qual é a EIRP?",
       "selected": "A",
       "correctAnswer": "A",
       "lastSeenAt": "2026-11-10",
@@ -13363,7 +13419,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1840816790",
+      "answerOptions": [
+        "A) 38 dBW",
+        "B) 40 dBW",
+        "C) 32 dBW",
+        "D) 18 dBW",
+        "E) 42 dBW"
+      ]
     },
     {
       "id": "QTI20-20261110-Q09",
@@ -13374,7 +13438,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Separação uplink/downlink em duplexação TDD",
+      "questionText": "Em uma interface rádio que utiliza TDD, as transmissões de uplink e downlink são separadas principalmente:",
       "selected": "C",
       "correctAnswer": "C",
       "lastSeenAt": "2026-11-10",
@@ -13382,7 +13446,15 @@
       "cooldownDays": 3,
       "nextEligibleAt": "2026-11-13",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1020783190",
+      "answerOptions": [
+        "A) Por frequências distintas utilizadas simultaneamente",
+        "B) Por códigos fixos de espalhamento em todos os canais",
+        "C) Por intervalos de tempo diferentes na mesma faixa de frequência",
+        "D) Por comprimentos de onda ópticos diferentes",
+        "E) Pelo uso obrigatório de antenas transmissoras separadas"
+      ]
     },
     {
       "id": "QTI20-20261110-Q10",
@@ -13393,7 +13465,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Campo de prioridade PCP de 3 bits IEEE 802.1p: quantidade de valores",
+      "questionText": "Em uma rede Ethernet com priorização IEEE 802.1p, o campo PCP do identificador VLAN possui três bits. Quantos valores distintos de prioridade podem ser representados?",
       "selected": "E",
       "correctAnswer": "E",
       "lastSeenAt": "2026-11-10",
@@ -13401,7 +13473,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1461800461",
+      "answerOptions": [
+        "A) 3",
+        "B) 4",
+        "C) 6",
+        "D) 7",
+        "E) 8"
+      ]
     },
     {
       "id": "QTI20-20261110-Q11",
@@ -13412,7 +13492,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Atributo estendido BGP para controlar importação/exportação de rotas L3VPN nas VRFs",
+      "questionText": "Em redes MPLS L3VPN, qual atributo estendido do BGP é utilizado pelas VRFs para controlar a importação e exportação de rotas VPN?",
       "selected": "B",
       "correctAnswer": "B",
       "lastSeenAt": "2026-11-10",
@@ -13420,7 +13500,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "3822679310",
+      "answerOptions": [
+        "A) Route Distinguisher (RD)",
+        "B) Route Target (RT)",
+        "C) MPLS TTL",
+        "D) DSCP",
+        "E) CRC-32"
+      ]
     },
     {
       "id": "QTI20-20261110-Q12",
@@ -13431,7 +13519,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Potência recebida de fibra de 20 km, 0,3 dB/km, potência transmitida 0 dBm",
+      "questionText": "Uma fibra apresenta atenuação de 0,3 dB/km. Um transmissor óptico de 0 dBm alimenta um enlace de 20 km, sem perdas adicionais. Qual é a potência recebida?",
       "selected": "D",
       "correctAnswer": "D",
       "lastSeenAt": "2026-11-10",
@@ -13439,7 +13527,15 @@
       "cooldownDays": 3,
       "nextEligibleAt": "2026-11-13",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "1752541724",
+      "answerOptions": [
+        "A) −20 dBm",
+        "B) −12 dBm",
+        "C) −3 dBm",
+        "D) −6 dBm",
+        "E) +6 dBm"
+      ]
     },
     {
       "id": "QTI20-20261110-Q13",
@@ -13450,7 +13546,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Órgão brasileiro competente para administração do espectro, bem público",
+      "questionText": "Segundo a Lei Geral de Telecomunicações, o espectro de radiofrequências é um recurso limitado e constitui bem público. No Brasil, sua administração compete à:",
       "selected": "A",
       "correctAnswer": "A",
       "lastSeenAt": "2026-11-10",
@@ -13458,7 +13554,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "212967640",
+      "answerOptions": [
+        "A) Anatel",
+        "B) ABNT",
+        "C) Cada prestadora autorizada, individualmente",
+        "D) UIT, diretamente no território brasileiro",
+        "E) Prefeitura de cada município"
+      ]
     },
     {
       "id": "QTI20-20261110-Q14",
@@ -13469,7 +13573,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Alarme detecta 90% falhas e gera 10% falso alarme; prevalência de falhas 20%; probabilidade de falha dado alarme",
+      "questionText": "Um monitor detecta 90% das falhas reais e gera alarme falso em 10% dos períodos sem falha. Se o sistema apresenta falha em 20% dos períodos, qual é aproximadamente a probabilidade de haver uma falha real dado que o alarme disparou?",
       "selected": "D",
       "correctAnswer": "E",
       "lastSeenAt": "2026-11-10",
@@ -13477,7 +13581,15 @@
       "cooldownDays": null,
       "nextEligibleAt": null,
       "eligibleNow": true,
-      "note": "Erro QTI20; reteste dirigido em novo enunciado Bayes/convolução, sem repetir no mesmo QTI."
+      "note": "Erro QTI20; reteste dirigido em novo enunciado Bayes/convolução, sem repetir no mesmo QTI.",
+      "fingerprint": "659647692",
+      "answerOptions": [
+        "A) 10%",
+        "B) 20%",
+        "C) 35%",
+        "D) 90%",
+        "E) 69%"
+      ]
     },
     {
       "id": "QTI20-20261110-Q15",
@@ -13488,7 +13600,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "x[n]=δ[n]+2δ[n−1] e h[n]=δ[n]+δ[n−1]; coeficiente de δ[n−1] em convolução",
+      "questionText": "Se x[n] = δ[n] + 2δ[n−1] e h[n] = δ[n] + δ[n−1], qual é o coeficiente de δ[n−1] na saída y[n] = x[n] * h[n]?",
       "selected": "B",
       "correctAnswer": "C",
       "lastSeenAt": "2026-11-10",
@@ -13496,7 +13608,15 @@
       "cooldownDays": null,
       "nextEligibleAt": null,
       "eligibleNow": true,
-      "note": "Erro QTI20; reteste dirigido em novo enunciado Bayes/convolução, sem repetir no mesmo QTI."
+      "note": "Erro QTI20; reteste dirigido em novo enunciado Bayes/convolução, sem repetir no mesmo QTI.",
+      "fingerprint": "3356298698",
+      "answerOptions": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ]
     },
     {
       "id": "QTI20-20261110-Q16",
@@ -13507,7 +13627,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Sistema causal y[n]−1,2y[n−1]=x[n]: teste BIBO de polo",
+      "questionText": "Considere o sistema causal descrito por y[n] − 1,2y[n−1] = x[n], inicialmente em repouso. Sobre sua estabilidade BIBO, conclui-se que o sistema é:",
       "selected": "B",
       "correctAnswer": "B",
       "lastSeenAt": "2026-11-10",
@@ -13515,7 +13635,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "772335418",
+      "answerOptions": [
+        "A) Estável, por ser causal",
+        "B) Instável, pois possui polo fora do círculo unitário",
+        "C) Estável, porque o polo é real e positivo",
+        "D) Estável apenas para entradas senoidais",
+        "E) Um filtro FIR, necessariamente estável"
+      ]
     },
     {
       "id": "QTI20-20261110-Q17",
@@ -13526,7 +13654,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "PCM em 8 kHz com 256 níveis de quantização: taxa de bits",
+      "questionText": "Um sinal de voz é amostrado a 8 kHz e quantizado uniformemente em 256 níveis. Sem compressão nem bits adicionais, qual é a taxa PCM resultante?",
       "selected": "A",
       "correctAnswer": "A",
       "lastSeenAt": "2026-11-10",
@@ -13534,7 +13662,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "940754864",
+      "answerOptions": [
+        "A) 64 kbit/s",
+        "B) 16 kbit/s",
+        "C) 32 kbit/s",
+        "D) 128 kbit/s",
+        "E) 256 kbit/s"
+      ]
     },
     {
       "id": "QTI20-20261110-Q18",
@@ -13545,7 +13681,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Gerência de protocolos acima da camada de enlace por RMON II",
+      "questionText": "Um administrador deseja monitorar estatísticas de tráfego acima da camada de enlace, com visibilidade de protocolos de rede e aplicações. Qual extensão do padrão RMON foi desenvolvida para essa finalidade?",
       "selected": "E",
       "correctAnswer": "E",
       "lastSeenAt": "2026-11-10",
@@ -13553,7 +13689,15 @@
       "cooldownDays": 3,
       "nextEligibleAt": "2026-11-13",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "393267469",
+      "answerOptions": [
+        "A) IEEE 802.1p",
+        "B) RMON I",
+        "C) IEEE 802.3af",
+        "D) LLDP",
+        "E) RMON II"
+      ]
     },
     {
       "id": "QTI20-20261110-Q19",
@@ -13564,7 +13708,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Protocolo de sinalização LSP com reserva de recursos para MPLS TE",
+      "questionText": "Em uma rede MPLS com engenharia de tráfego, qual protocolo permite sinalizar caminhos LSP explícitos, com mecanismos de reserva de recursos?",
       "selected": "D",
       "correctAnswer": "D",
       "lastSeenAt": "2026-11-10",
@@ -13572,7 +13716,15 @@
       "cooldownDays": 7,
       "nextEligibleAt": "2026-11-17",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "3012879428",
+      "answerOptions": [
+        "A) LACP",
+        "B) STP",
+        "C) DNS",
+        "D) RSVP-TE",
+        "E) DHCP"
+      ]
     },
     {
       "id": "QTI20-20261110-Q20",
@@ -13583,7 +13735,7 @@
       "discipline": "Telecomunicações",
       "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
       "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
-      "questionText": "Dispersão cromática 16 ps/(nm·km), fonte 0,2 nm e enlace 50 km: alargamento temporal",
+      "questionText": "Uma fibra apresenta dispersão cromática de 16 ps/(nm·km). Considerando uma fonte com largura espectral de 0,2 nm e um enlace de 50 km, qual é o alargamento temporal aproximado devido à dispersão cromática?",
       "selected": "C",
       "correctAnswer": "C",
       "lastSeenAt": "2026-11-10",
@@ -13591,7 +13743,15 @@
       "cooldownDays": 5,
       "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "note": "Acerto QTI20; bloqueio até nextEligibleAt."
+      "note": "Acerto QTI20; bloqueio até nextEligibleAt.",
+      "fingerprint": "2023661268",
+      "answerOptions": [
+        "A) 16 ps",
+        "B) 80 ps",
+        "C) 160 ps",
+        "D) 320 ps",
+        "E) 1.600 ps"
+      ]
     }
   ],
   "portuguesePolicy": {
