@@ -5105,40 +5105,6 @@
         "Q15"
       ],
       "observacao": "Autoral de transferência, 13 itens, resultado 18/20"
-    },
-    {
-      "id": "NAV-FGV-20261110-ORIGINAL-Q41-Q47",
-      "eventId": "NAV-FGV-20261110-ORIGINAL-Q41-Q47",
-      "data": "2026-11-10",
-      "studyDateLocal": "2026-11-10",
-      "disciplina": "Telecomunicações",
-      "tipo": "PROVA_ORIGINAL_EXTERNA",
-      "titulo": "NAV Brasil 2026 Eng Telecom, prova original Tipo 1, questões 41-47",
-      "totalQuestoes": 7,
-      "totalValidas": 7,
-      "acertos": 3,
-      "erros": 4,
-      "percentual": 42.9,
-      "status": "COMPLETED",
-      "sourceType": "FGV_NAVBRASIL_2026_ORIGINAL",
-      "sourceFile": "nav/RESULTADO_NAV_BRASIL_2026_Q41_Q47_2026-11-10.md",
-      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT; VERSAO_ADAPTADA_INVALIDADA; CORRECAO_PDF_OFICIAL+GABARITO_DEFINITIVO; TEMPO_NAO_AFERIDO",
-      "questionIds": [
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q41",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q42",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q43",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q44",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q45",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q46",
-        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q47"
-      ],
-      "itensErrados": [
-        "41",
-        "43",
-        "44",
-        "46"
-      ],
-      "observacao": "Registro independente, não incluído nos 72 itens do fechamento anterior em 10/11; quatro erros sobre 4.2, 7.1, 5.2, 7.1."
     }
   ],
   "updatedAt": "2026-11-10"
