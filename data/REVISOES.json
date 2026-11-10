@@ -1444,6 +1444,58 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-10",
       "plano": "Simulado breve priorizando Bayes, convolução discreta, regência, porquês e inferência em Inglês; teste independente dos itens com acerto em revisão reapresentada."
+    },
+    {
+      "id": "REV-NAV-20261110-Q57-D3",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "materia": "Telecomunicações",
+      "topico": "Diferença entre potência recebida, perda total e margem óptica",
+      "origemResultado": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "agendadaPara": "2026-11-13",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Aplicar QUESTÃO CESGRANRIO inédita ou autoral verdadeiramente nova; não repetir a figura/enunciado FGV em cooldown; corrigir apenas se houver erro."
+    },
+    {
+      "id": "REV-NAV-20261110-Q70-D3",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "materia": "Telecomunicações",
+      "topico": "Identificar formas de onda FSK versus PSK e taxa de bits em gráficos",
+      "origemResultado": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "agendadaPara": "2026-11-13",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Aplicar QUESTÃO CESGRANRIO inédita ou autoral verdadeiramente nova; não repetir a figura/enunciado FGV em cooldown; corrigir apenas se houver erro."
+    },
+    {
+      "id": "REV-NAV-20261110-Q57-D7",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "materia": "Telecomunicações",
+      "topico": "Aplicar margem óptica com novos conectores, emendas e sensibilidade",
+      "origemResultado": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Aplicar QUESTÃO CESGRANRIO inédita ou autoral verdadeiramente nova; não repetir a figura/enunciado FGV em cooldown; corrigir apenas se houver erro."
+    },
+    {
+      "id": "REV-NAV-20261110-Q70-D7",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "materia": "Telecomunicações",
+      "topico": "Transferência visual de ASK/FSK/PSK e duração de bit",
+      "origemResultado": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Aplicar QUESTÃO CESGRANRIO inédita ou autoral verdadeiramente nova; não repetir a figura/enunciado FGV em cooldown; corrigir apenas se houver erro."
     }
   ],
   "updatedAt": "2026-11-10"
