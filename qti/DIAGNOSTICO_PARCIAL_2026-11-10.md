@@ -34,3 +34,8 @@
 - **Base regulatória vigente (verificada):** Resolução Anatel nº 789/2026, PDFF; colunas Região 2 e Brasil e SHF 3–30 GHz.
 - **Próxima atividade do cronograma:** Português CESGRANRIO com texto/gramática (cerca de 6 questões), seguido de Inglês com texto, então QTI-20 misto dos 13 itens do edital.
 - **Cautela:** verificar elegibilidade e antirrepetição a cada nova bateria; dados deste diagnóstico parcial ainda não foram migrados ao banco central `data/QUESTOES.json`. Não há tempos líquidos aferidos.
+
+
+### Atualização após o fechamento completo
+
+O diagnóstico acima é um retrato parcial e foi preservado para auditoria. **Em 10/11/2026, o estudo foi concluído e sincronizado** nos arquivos `qti/RESULTADOS_DIA_2026-11-10.md`, `qti/QTI20_MISTO_13_ITENS_2026-11-10.json`, `data/QUESTOES.json`, `data/RESULTADOS.json` e `data/REVISOES.json`. Resultado final do dia: **57/72 (79,2%)**; QTI-20: **18/20 (90%)**. A observação anterior de banco central pendente não se aplica mais.
