@@ -5105,6 +5105,40 @@
         "Q15"
       ],
       "observacao": "Autoral de transferência, 13 itens, resultado 18/20"
+    },
+    {
+      "id": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "eventId": "NAV-FGV-20261110-SELECAO-ORIGINAL-09",
+      "data": "2026-11-10",
+      "studyDateLocal": "2026-11-10",
+      "disciplina": "Telecomunicações",
+      "tipo": "PROVA_ORIGINAL_EXTERNA_COMPLEMENTAR",
+      "titulo": "9 questões originais FGV/NAV 2026 selecionadas a partir de imagens do usuário (Q49,55–61,70)",
+      "totalQuestoes": 9,
+      "totalValidas": 9,
+      "acertos": 7,
+      "erros": 2,
+      "percentual": 77.8,
+      "status": "COMPLETED",
+      "sourceType": "FGV_NAVBRASIL_2026_ORIGINAL",
+      "sourceFile": "nav/NAV_2026_QUESTOES_ORIGINAIS_49_55_61_70_2026-11-10.json",
+      "diagnosticValidity": "QUESTOES_ORIGINAIS_FGV_USUARIO_ENVIOU_POR_IMAGEM; RESPOSTAS_CONFIRMADAS_CHAT; NOVE_QUESTOES_SEPARADAS_DA_SESSAO_57_72; SEM_CRONOMETRAGEM",
+      "questionIds": [
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q49",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q55",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q56",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q57",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q58",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q59",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q60",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q61",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q70"
+      ],
+      "itensErrados": [
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q57",
+        "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q70"
+      ],
+      "observacao": "Inclui somente Q49,55,56,57,58,59,60,61,70. Q41–Q47 permanecem descartadas, sem registros. Não misturar FGV original com CESGRANRIO original."
     }
   ],
   "updatedAt": "2026-11-10"
