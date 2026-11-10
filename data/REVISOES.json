@@ -1405,7 +1405,46 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-09",
       "plano": "Aplicar 5 questões com textos novos, sem reutilizar os textos/questões do QTI-10; verificar retenção em inferência e conectores."
+    },
+    {
+      "id": "REV-ESTUDO-20261110-D3",
+      "unitId": "13_ITENS_E_BASICOS",
+      "editalItem": "13_ITENS_E_BASICOS",
+      "materia": "Telecomunicações / Português / Inglês",
+      "topico": "Bayes e probabilidade condicional com tradução dos eventos; convolução discreta com impulsos diferentes; regência e porquês; inferência contextual de Inglês",
+      "origemResultado": "QTI20-20261110",
+      "agendadaPara": "2026-11-13",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Usar questões diferentes de 10/11, preferir CESGRANRIO/QConcursos em Probabilidade/Português/Inglês. Começar por interpretação do enunciado sem fórmula e verificar distinção P(F|A)/P(A|F)."
+    },
+    {
+      "id": "REV-ESTUDO-20261110-D7",
+      "unitId": "13_ITENS_E_BASICOS",
+      "editalItem": "13_ITENS_E_BASICOS",
+      "materia": "Telecomunicações / Português / Inglês",
+      "topico": "Revisão mista do QTI-20 e dos erros de Português/Inglês e sistemas ópticos",
+      "origemResultado": "QTI20-20261110",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Sem repetir questões corretas ainda em cooldown; 10-15 questões novas, ao menos duas de Bayes e duas de interpretação de texto."
+    },
+    {
+      "id": "REV-ESTUDO-20261110-D21",
+      "unitId": "13_ITENS_E_BASICOS",
+      "editalItem": "13_ITENS_E_BASICOS",
+      "materia": "Telecomunicações / Português / Inglês",
+      "topico": "Consolidação final do estudo de 10/11 para Transpetro Telecom",
+      "origemResultado": "QTI20-20261110",
+      "agendadaPara": "2026-12-01",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Simulado breve priorizando Bayes, convolução discreta, regência, porquês e inferência em Inglês; teste independente dos itens com acerto em revisão reapresentada."
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-10"
 }
