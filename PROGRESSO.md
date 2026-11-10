@@ -412,3 +412,16 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Gabarito/respostas:** B, C, D, E, A, D, E, C, A, E (todos corretos).
 - [Relatório](qti/QTI10_Ingles_Monitoramento_Energia_resultado_2026-11-09.md) · [JSON completo](qti/QTI10_Ingles_Monitoramento_Energia_resultado_2026-11-09.json).
 - Revisão espaçada D7 (16/11) e D21 (30/11) com textos inéditos, obedecendo a política anti-repetição. Resultado autoral não equivale a prova oficial, nem comprova domínio longitudinal sem reteste.
+
+
+## Fechamento de 10/11/2026 — questões CESGRANRIO/Transpetro (historicas e autorais)
+
+**Global: 57/72 (79,2%)**, com questões históricas reapresentadas, adaptações e autorais. **Tempo líquido não aferido.**
+
+- **Telecom antes do QTI: 33/38 (86,8%)** — Sistemas ópticos 11/15, Radiopropagação 4/4, Satélites 5/5, Telefonia (com reforço) 7/8, Celular+Regulamentação 6/6.
+- **Português: 4/9 (44,4%)** — prova histórica 3/6; reforço 1/3. Dificuldades persistentes: regência e uso dos porquês.
+- **Inglês: 2/5 (40%)** — texto histórico Transpetro 2023. Dificuldades: inferência contextual, vocabulário técnico de transmissão e latência, interpretação de *driving down*.
+- **QTI-20 misto autoral: 18/20 (90%)**, acertos em 11 dos 13 itens integralmente e falhas pontuais em Probabilidade (Bayes Q14) e Sinais e Sistemas (convolução discreta Q15).
+- **Prioridade:** reforços com novos enunciados em D3 (13/11), D7 (17/11), D21 (01/12). Não inferir domínio total de itens aferidos por uma única questão.
+
+**Arquivos:** [fechamento diário](qti/RESULTADOS_DIA_2026-11-10.md) · [resultado QTI-20](qti/QTI20_MISTO_13_ITENS_2026-11-10.json) · [diagnóstico parcial](qti/DIAGNOSTICO_PARCIAL_2026-11-10.md). Banco `data/QUESTOES.json` e registros `data/RESULTADOS.json`/`data/REVISOES.json` atualizados com 72 exposições e revisões D3/D7/D21.
