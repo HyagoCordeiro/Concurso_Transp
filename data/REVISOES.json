@@ -1444,32 +1444,6 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-10",
       "plano": "Simulado breve priorizando Bayes, convolução discreta, regência, porquês e inferência em Inglês; teste independente dos itens com acerto em revisão reapresentada."
-    },
-    {
-      "id": "REV-NAV-FGV-20261110-Q41Q43Q44Q46-D3",
-      "unitId": "4.2/5.2/7.1",
-      "editalItem": "4/5/7",
-      "materia": "Telecomunicações",
-      "topico": "Ordem de modulação versus robustez; ponto-multiponto NLOS; eficiência agregada TDMA/FDMA/CDMA; visada geométrica com altura de antenas e obstáculo",
-      "origemResultado": "NAV-FGV-20261110-ORIGINAL-Q41-Q47",
-      "agendadaPara": "2026-11-13",
-      "prioridade": "alta",
-      "status": "PENDENTE",
-      "createdFromStudyDate": "2026-11-10",
-      "plano": "Questões NOVAS com números e contextos diferentes, preferir CESGRANRIO histórica no QConcursos. Não repetir o original FGV enquanto em cooldown; distinguir original de adaptação."
-    },
-    {
-      "id": "REV-NAV-FGV-20261110-Q41Q43Q44Q46-D7",
-      "unitId": "4.2/5.2/7.1",
-      "editalItem": "4/5/7",
-      "materia": "Telecomunicações",
-      "topico": "Ordem de modulação versus robustez; ponto-multiponto NLOS; eficiência agregada TDMA/FDMA/CDMA; visada geométrica com altura de antenas e obstáculo",
-      "origemResultado": "NAV-FGV-20261110-ORIGINAL-Q41-Q47",
-      "agendadaPara": "2026-11-17",
-      "prioridade": "media",
-      "status": "PENDENTE",
-      "createdFromStudyDate": "2026-11-10",
-      "plano": "Questões NOVAS com números e contextos diferentes, preferir CESGRANRIO histórica no QConcursos. Não repetir o original FGV enquanto em cooldown; distinguir original de adaptação."
     }
   ],
   "updatedAt": "2026-11-10"
