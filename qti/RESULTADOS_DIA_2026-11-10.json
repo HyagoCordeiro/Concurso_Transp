@@ -1,0 +1,62 @@
+{
+  "studyDateLocal": "2026-11-10",
+  "banca": "CESGRANRIO",
+  "concurso": "Transpetro Engenharia Telecomunicações",
+  "examDate": "2026-12-06",
+  "total": 72,
+  "acertos": 57,
+  "erros": 15,
+  "accuracy": 79.1667,
+  "tempoLiquido": "NAO_AFERIDO",
+  "blocks": [
+    {
+      "id": "TELECOM-20261110",
+      "disciplina": "Telecomunicações",
+      "total": 38,
+      "acertos": 33,
+      "erros": 5,
+      "sourceFile": "qti/DIAGNOSTICO_PARCIAL_2026-11-10.md"
+    },
+    {
+      "id": "PT-HIST-20261110",
+      "disciplina": "Português",
+      "total": 6,
+      "acertos": 3,
+      "erros": 3,
+      "sourceType": "CESGRANRIO_HISTORICA_ADAPTADA"
+    },
+    {
+      "id": "ING-HIST-20261110",
+      "disciplina": "Inglês",
+      "total": 5,
+      "acertos": 2,
+      "erros": 3,
+      "sourceType": "CESGRANRIO_HISTORICA_2023"
+    },
+    {
+      "id": "PT-REPAIR-20261110",
+      "disciplina": "Português",
+      "total": 3,
+      "acertos": 1,
+      "erros": 2,
+      "sourceType": "AUTORAL_REFORCO"
+    },
+    {
+      "id": "QTI20-20261110",
+      "disciplina": "Telecomunicações",
+      "total": 20,
+      "acertos": 18,
+      "erros": 2,
+      "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json"
+    }
+  ],
+  "importantAreas": [
+    "Probabilidade Bayes",
+    "Convolução discreta",
+    "Português regência",
+    "Português porquês",
+    "Inglês inferência",
+    "Inglês vocabulário contextual"
+  ],
+  "note": "Totais incluem questões históricas reapresentadas e exercícios de reforço; não representam amostra independente de prova. Os resultados detalhados de Telecom constam no diagnóstico parcial."
+}
