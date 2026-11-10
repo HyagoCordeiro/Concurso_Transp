@@ -15,7 +15,47 @@
       "total": 38,
       "acertos": 33,
       "erros": 5,
-      "sourceFile": "qti/DIAGNOSTICO_PARCIAL_2026-11-10.md"
+      "sourceFile": "qti/DIAGNOSTICO_PARCIAL_2026-11-10.md",
+      "questionIds": [
+        "DAY-20261110-O01",
+        "DAY-20261110-O02",
+        "DAY-20261110-O03",
+        "DAY-20261110-O04",
+        "DAY-20261110-O05",
+        "DAY-20261110-O06",
+        "DAY-20261110-O07",
+        "DAY-20261110-O08",
+        "DAY-20261110-O09",
+        "DAY-20261110-O10",
+        "DAY-20261110-O11",
+        "DAY-20261110-OR1",
+        "DAY-20261110-OR2",
+        "DAY-20261110-OR3",
+        "DAY-20261110-OR4",
+        "DAY-20261110-Q12",
+        "DAY-20261110-Q13",
+        "DAY-20261110-Q14",
+        "DAY-20261110-Q15",
+        "DAY-20261110-Q16",
+        "DAY-20261110-Q17",
+        "DAY-20261110-Q18",
+        "DAY-20261110-Q19",
+        "DAY-20261110-Q20",
+        "DAY-20261110-Q21",
+        "DAY-20261110-Q22",
+        "DAY-20261110-Q23",
+        "DAY-20261110-Q24",
+        "DAY-20261110-Q25",
+        "DAY-20261110-Q26",
+        "DAY-20261110-TR1",
+        "DAY-20261110-TR2",
+        "DAY-20261110-Q27",
+        "DAY-20261110-Q28",
+        "DAY-20261110-Q29",
+        "DAY-20261110-Q30",
+        "DAY-20261110-Q31",
+        "DAY-20261110-Q32"
+      ]
     },
     {
       "id": "PT-HIST-20261110",
@@ -23,7 +63,15 @@
       "total": 6,
       "acertos": 3,
       "erros": 3,
-      "sourceType": "CESGRANRIO_HISTORICA_ADAPTADA"
+      "sourceType": "CESGRANRIO_HISTORICA_ADAPTADA",
+      "questionIds": [
+        "DAY-20261110-PT33",
+        "DAY-20261110-PT34",
+        "DAY-20261110-PT35",
+        "DAY-20261110-PT36",
+        "DAY-20261110-PT37",
+        "DAY-20261110-PT38"
+      ]
     },
     {
       "id": "ING-HIST-20261110",
@@ -31,7 +79,14 @@
       "total": 5,
       "acertos": 2,
       "erros": 3,
-      "sourceType": "CESGRANRIO_HISTORICA_2023"
+      "sourceType": "CESGRANRIO_HISTORICA_2023",
+      "questionIds": [
+        "DAY-20261110-EN11",
+        "DAY-20261110-EN12",
+        "DAY-20261110-EN13",
+        "DAY-20261110-EN14",
+        "DAY-20261110-EN15"
+      ]
     },
     {
       "id": "PT-REPAIR-20261110",
@@ -39,7 +94,12 @@
       "total": 3,
       "acertos": 1,
       "erros": 2,
-      "sourceType": "AUTORAL_REFORCO"
+      "sourceType": "AUTORAL_REFORCO",
+      "questionIds": [
+        "DAY-20261110-PTR1",
+        "DAY-20261110-PTR2",
+        "DAY-20261110-PTR3"
+      ]
     },
     {
       "id": "QTI20-20261110",
@@ -47,7 +107,29 @@
       "total": 20,
       "acertos": 18,
       "erros": 2,
-      "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json"
+      "sourceFile": "qti/QTI20_MISTO_13_ITENS_2026-11-10.json",
+      "questionIds": [
+        "QTI20-20261110-Q01",
+        "QTI20-20261110-Q02",
+        "QTI20-20261110-Q03",
+        "QTI20-20261110-Q04",
+        "QTI20-20261110-Q05",
+        "QTI20-20261110-Q06",
+        "QTI20-20261110-Q07",
+        "QTI20-20261110-Q08",
+        "QTI20-20261110-Q09",
+        "QTI20-20261110-Q10",
+        "QTI20-20261110-Q11",
+        "QTI20-20261110-Q12",
+        "QTI20-20261110-Q13",
+        "QTI20-20261110-Q14",
+        "QTI20-20261110-Q15",
+        "QTI20-20261110-Q16",
+        "QTI20-20261110-Q17",
+        "QTI20-20261110-Q18",
+        "QTI20-20261110-Q19",
+        "QTI20-20261110-Q20"
+      ]
     }
   ],
   "importantAreas": [
