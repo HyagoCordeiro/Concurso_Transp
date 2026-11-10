@@ -425,3 +425,12 @@ Não avançar apenas por ordem numérica. Combinar lacunas do edital, revisões 
 - **Prioridade:** reforços com novos enunciados em D3 (13/11), D7 (17/11), D21 (01/12). Não inferir domínio total de itens aferidos por uma única questão.
 
 **Arquivos:** [fechamento diário](qti/RESULTADOS_DIA_2026-11-10.md) · [resultado QTI-20](qti/QTI20_MISTO_13_ITENS_2026-11-10.json) · [diagnóstico parcial](qti/DIAGNOSTICO_PARCIAL_2026-11-10.md). Banco `data/QUESTOES.json` e registros `data/RESULTADOS.json`/`data/REVISOES.json` atualizados com 72 exposições e revisões D3/D7/D21.
+
+
+### Complemento externo NAV/FGV 2026 — sessão separada em 10/11/2026
+
+Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviadas como imagens do caderno original NAV/FGV 2026. **Resultado 7/9 (77,8%), com erros na Q57 (margem óptica) e Q70 (FSK vs PSK)**; nenhuma destas questões é de autoria CESGRANRIO. Este registro é complementar e **não altera o consolidado anterior de 57/72**, que foi calculado sobre as baterias CESGRANRIO/autorais já encerradas.
+
+**Exclusão preservada:** Q41–Q47 e sua correção anterior foram descartadas pelo usuário e não foram reintroduzidas. Correção nova deve usar apenas o PDF original se o usuário solicitar.
+
+[Registro completo no banco NAV](nav/NAV_2026_QUESTOES_ORIGINAIS_49_55_61_70_2026-11-10.json) · [Síntese do desempenho](nav/RESUMO_NAV_FGV_2026_QUESTOES_49_55_61_70.md). Revisões D3 13/11 e D7 17/11, somente para Q57 e Q70. Anti-repetição registrado em `data/QUESTOES.json`.
