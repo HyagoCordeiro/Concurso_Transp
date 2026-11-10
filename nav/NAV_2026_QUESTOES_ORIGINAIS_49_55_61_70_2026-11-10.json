@@ -1,0 +1,334 @@
+{
+  "studyDateLocal": "2026-11-10",
+  "concurso": "NAV Brasil 2026",
+  "banca": "FGV",
+  "cargo": "Engenheiro de Telecomunicações",
+  "caderno": "Tipo 1",
+  "sessionId": "NAV-FGV-20261110-ORIGINAL-SELECAO-09",
+  "sourceType": "FGV_NAVBRASIL_2026_ORIGINAL_ENUNCIADOS_ENVIADOS_PELO_USUARIO",
+  "officialPdf": "https://conhecimento.fgv.br/sites/default/files/concursos/cns310-engenheiro-de-telecomunicacoes-cns310-tipo-1.pdf",
+  "sourcePages": [
+    12,
+    13,
+    14,
+    15,
+    17
+  ],
+  "priorExcludedQuestions": "NAV original Q41-Q47 permanecem explicitamente excluídas a pedido do usuário. Não se incluem na amostra.",
+  "total": 9,
+  "acertos": 7,
+  "erros": 2,
+  "percentual": 77.8,
+  "tempoLiquidoMin": null,
+  "questions": [
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q49",
+      "questionNumber": 49,
+      "officialPdfPage": 12,
+      "unitId": "6.1",
+      "topic": "Diagrama polar; diretividade e HPBW",
+      "questionText": "A figura apresenta o diagrama polar de radiação de uma antena sem perdas, em dBi. No gráfico, a linha circular em traço-ponto indica o nível de 4 dBi, enquanto as retas tracejadas e pontilhadas indicam, respectivamente, os ângulos associados ao feixe de meia potência e às direções de nulo. A diretividade máxima e a largura de feixe de meia potência da antena em questão são, respectivamente:",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "4 dBi e 50°"
+        },
+        {
+          "letter": "B",
+          "text": "4 dBi e 156°"
+        },
+        {
+          "letter": "C",
+          "text": "4 dBi e 78°"
+        },
+        {
+          "letter": "D",
+          "text": "7 dBi e 100°"
+        },
+        {
+          "letter": "E",
+          "text": "7 dBi e 50°"
+        }
+      ],
+      "figureDescription": "Gráfico polar original: máximo 7 dBi, curva pontilhada de 4 dBi, ângulos tracejados ±50° (310°/50°), nulos pontilhados 78°/282°; conferir desenho exato na página 12 do PDF oficial.",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "comment": "Antena sem perdas: diretividade máxima = ganho máximo 7 dBi. HPBW = 50° + 50° = 100°."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q55",
+      "questionNumber": 55,
+      "officialPdfPage": 13,
+      "unitId": "12.1",
+      "topic": "Fibra monomodo e multimodo; janelas ópticas",
+      "questionText": "Na especificação de enlaces ópticos, a escolha entre fibra monomodo e multimodo, bem como da janela de operação, depende dos mecanismos de propagação da luz na fibra e das perdas associadas ao comprimento de onda. A respeito dos princípios de comunicações ópticas, assinale a afirmativa correta.",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "A reflexão interna total ocorre quando o índice de refração do revestimento é maior que o do núcleo, permitindo que a luz seja guiada pela fibra mesmo em ângulos inferiores ao ângulo crítico."
+        },
+        {
+          "letter": "B",
+          "text": "A fibra multimodo é preferida para enlaces longos de alta capacidade, pois a propagação por vários modos elimina a dispersão modal e reduz a atenuação em algumas janelas ópticas."
+        },
+        {
+          "letter": "C",
+          "text": "A fibra monomodo possui núcleo menor que o da fibra multimodo e permite a propagação predominante de um único modo, sendo usualmente empregada em enlaces de maior distância, especialmente nas janelas de 1310 nm e 1550 nm."
+        },
+        {
+          "letter": "D",
+          "text": "A janela de 850 nm é normalmente a mais indicada para enlaces ópticos de longa distância, pois apresenta menor atenuação que as janelas de 1310 nm e 1550 nm."
+        },
+        {
+          "letter": "E",
+          "text": "A propagação em fibras ópticas independe da diferença entre os índices de refração do núcleo e do revestimento, pois o guiamento ocorre exclusivamente por absorção e reemissão da luz no material."
+        }
+      ],
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "comment": "Fibra monomodo típica de longa distância; janelas de 1310/1550 nm; n_núcleo > n_casca."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q56",
+      "questionNumber": 56,
+      "officialPdfPage": 13,
+      "unitId": "12.2",
+      "topic": "LED versus laser; largura espectral e acoplamento",
+      "questionText": "A respeito do uso de LEDs e lasers em sistemas de comunicações ópticas, assinale a afirmativa correta.",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "O LED é a fonte preferencial para enlaces monomodo de longa distância, pois apresenta emissão coerente, elevada potência óptica e largura espectral muito estreita."
+        },
+        {
+          "letter": "B",
+          "text": "O laser apresenta emissão óptica de largura espectral mais ampla que a do LED, sendo por isso mais indicado para enlaces sujeitos à elevada dispersão cromática."
+        },
+        {
+          "letter": "C",
+          "text": "O LED, em geral, apresenta menor potência óptica, emissão incoerente e maior largura espectral, sendo mais comum em enlaces curtos com fibra multimodo; o laser apresenta maior diretividade, menor largura espectral e melhor acoplamento a fibras monomodo."
+        },
+        {
+          "letter": "D",
+          "text": "LEDs e lasers possuem desempenho equivalente em enlaces ópticos, pois ambos apresentam o mesmo mecanismo de emissão, a mesma largura espectral e a mesma eficiência de acoplamento, diferenciando-se apenas nas janelas de operação."
+        },
+        {
+          "letter": "E",
+          "text": "O laser é utilizado apenas como receptor óptico, enquanto o LED é empregado como transmissor em enlaces de alta capacidade e longa distância."
+        }
+      ],
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "comment": "LED: emissão incoerente/mais larga, tipicamente enlaces curtos. Laser: largura estreita, boa direcionalidade e acoplamento a fibra monomodo."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q57",
+      "questionNumber": 57,
+      "officialPdfPage": 14,
+      "unitId": "12.1",
+      "topic": "Orçamento óptico; margem vs perdas totais",
+      "questionText": "Para interligar dois nós de uma rede óptica, deve-se verificar o balanço de potência de um enlace de fibra óptica. O transmissor óptico fornece potência média de saída de 0 dBm, e o receptor possui sensibilidade de −20 dBm. O enlace possui os seguintes elementos: fibra óptica com 12 km de extensão e atenuação de 0,25 dB/km; 4 conectores, cada um com perda de 0,5 dB; 10 emendas, cada uma com perda de 0,1 dB; e um divisor óptico 1:2, com perda de inserção de 3 dB. Desconsiderando outras penalidades, a margem de potência em relação à sensibilidade do receptor é, aproximadamente, de:",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "9 dB"
+        },
+        {
+          "letter": "B",
+          "text": "11 dB"
+        },
+        {
+          "letter": "C",
+          "text": "14 dB"
+        },
+        {
+          "letter": "D",
+          "text": "17 dB"
+        },
+        {
+          "letter": "E",
+          "text": "−9 dB"
+        }
+      ],
+      "selected": "A",
+      "correctAnswer": "B",
+      "result": "INCORRETA",
+      "comment": "Erro em confundir perda total 9 dB com margem 11 dB. P_rx=0-9=−9 dBm, margem = −9−(−20)=11 dB."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q58",
+      "questionNumber": 58,
+      "officialPdfPage": 14,
+      "unitId": "10.2",
+      "topic": "Camadas OSI/TCP-IP; switch L2 e roteador L3",
+      "questionText": "Na análise da arquitetura de uma rede de comunicação de dados, distintas funções são associadas a diferentes camadas dos modelos OSI e TCP/IP. Entre essas funções estão o acesso ao meio físico, o encaminhamento entre redes, o transporte fim a fim entre processos e a execução de serviços de aplicação, como sincronização de tempo, gerenciamento e registro de eventos. Considerando os modelos de referência OSI e TCP/IP, assinale a afirmativa correta.",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "O protocolo IP pertence à camada de transporte do modelo TCP/IP e é responsável por garantir a entrega confiável dos dados entre aplicações."
+        },
+        {
+          "letter": "B",
+          "text": "O protocolo TCP atua na camada de aplicação, sendo utilizado para endereçamento lógico e encaminhamento de pacotes entre redes distintas."
+        },
+        {
+          "letter": "C",
+          "text": "SNMP, NTP e syslog são protocolos da camada de enlace, pois dependem diretamente do endereço MAC para comunicação entre aplicações."
+        },
+        {
+          "letter": "D",
+          "text": "Switches Ethernet operam tipicamente nas camadas física e de enlace, enquanto roteadores utilizam informações da camada de rede para encaminhar pacotes entre sub-redes."
+        },
+        {
+          "letter": "E",
+          "text": "O modelo OSI possui quatro camadas, enquanto o modelo TCP/IP possui sete camadas, sendo ambos equivalentes camada a camada."
+        }
+      ],
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "comment": "Switches Ethernet L2 comutam quadros por MAC; roteadores L3 encaminham pacotes por endereços IP."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q59",
+      "questionNumber": 59,
+      "officialPdfPage": 14,
+      "unitId": "10.2;11.3",
+      "topic": "Ethernet, VLANs, Wi-Fi, MPLS e VPN",
+      "questionText": "A respeito de Ethernet, VLANs, Wi-Fi, MPLS e VPN, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. I. A tecnologia Ethernet é usualmente associada a redes locais, utilizando quadros e endereços MAC para comunicação na camada de enlace. II. As VLANs permitem segmentar logicamente uma infraestrutura de switches, de modo que redes distintas possam compartilhar o mesmo meio físico, mantendo domínios de broadcast separados. III. O Wi-Fi substitui o endereçamento IP por endereçamento exclusivamente de rádio, dispensando protocolos das camadas superiores do modelo TCP/IP. IV. O MPLS utiliza rótulos para encaminhamento de tráfego em redes de operadoras, podendo ser usado na construção de serviços como VPNs corporativas. As afirmativas são, respectivamente:",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "V – V – V – F"
+        },
+        {
+          "letter": "B",
+          "text": "V – V – F – V"
+        },
+        {
+          "letter": "C",
+          "text": "V – F – F – V"
+        },
+        {
+          "letter": "D",
+          "text": "F – V – V – F"
+        },
+        {
+          "letter": "E",
+          "text": "F – F – V – V"
+        }
+      ],
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "comment": "V,V,F,V. Wi-Fi L1/L2 não substitui IP, MPLS encaminha com rótulos."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q60",
+      "questionNumber": 60,
+      "officialPdfPage": 14,
+      "unitId": "11.4",
+      "topic": "IPv4 subnetting /24 em /26; 51 endereços utilizáveis",
+      "questionText": "Uma unidade administrativa recebeu o bloco IPv4 privado 192.168.10.0/24 para segmentar sua rede local em sub-redes de mesmo tamanho. Cada sub-rede deverá atender a, no mínimo, 50 usuários, além de reservar um endereço IPv4 utilizável para o gateway da sub-rede. A menor máscara de sub-rede, em notação CIDR, capaz de atender ao requisito, e a quantidade máxima de sub-redes desse tipo que podem ser obtidas a partir do bloco 192.168.10.0/24 são, respectivamente:",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "/25, com 2 sub-redes."
+        },
+        {
+          "letter": "B",
+          "text": "/26, com 4 sub-redes."
+        },
+        {
+          "letter": "C",
+          "text": "/27, com 8 sub-redes."
+        },
+        {
+          "letter": "D",
+          "text": "/28, com 16 sub-redes."
+        },
+        {
+          "letter": "E",
+          "text": "/29, com 32 sub-redes."
+        }
+      ],
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "comment": "/26 dá 2^6−2=62 endereços utilizáveis e 2^(26−24)=4 sub-redes."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q61",
+      "questionNumber": 61,
+      "officialPdfPage": 15,
+      "unitId": "10.3",
+      "topic": "Syslog; facility e severity; NTP/SNMP",
+      "questionText": "A equipe de operação de um NOC deseja centralizar os registros de eventos gerados por roteadores, switches, servidores e rádios digitais. A solução deve permitir o recebimento de mensagens de falha, alteração de configuração, autenticação, reinicialização e outros eventos operacionais, com classificação por origem e gravidade. A respeito do uso do syslog nesse contexto, assinale a afirmativa correta.",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "O syslog é utilizado para sincronizar o relógio dos equipamentos da rede, garantindo que todos os eventos sejam registrados com o mesmo horário de referência."
+        },
+        {
+          "letter": "B",
+          "text": "O syslog substitui o SNMP na coleta periódica de contadores de interface, uso de CPU, memória e disponibilidade dos equipamentos."
+        },
+        {
+          "letter": "C",
+          "text": "O syslog é um protocolo de roteamento dinâmico usado para atualizar automaticamente as tabelas de rotas dos equipamentos supervisionados."
+        },
+        {
+          "letter": "D",
+          "text": "O syslog garante, por padrão, entrega confiável e criptografada de todas as mensagens de evento, independentemente do transporte utilizado."
+        },
+        {
+          "letter": "E",
+          "text": "O syslog permite o envio centralizado de mensagens de eventos, que podem ser classificadas por facilidade e severidade, auxiliando a correlação e a análise de falhas no NOC."
+        }
+      ],
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "comment": "NTP sincroniza relógios; SNMP contadores; Syslog registro de eventos e facility/severity. Útil correlato, syslog não é explicitamente citado em 10.3."
+    },
+    {
+      "id": "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q70",
+      "questionNumber": 70,
+      "officialPdfPage": 17,
+      "unitId": "4.2",
+      "topic": "Identificar FSK em forma de onda; taxa de bits",
+      "questionText": "A figura apresenta o sinal correspondente à transmissão da sequência binária 1101. Observa-se que a amplitude permanece praticamente constante, enquanto a quantidade de ciclos por intervalo de bit varia conforme o valor transmitido. Com base na forma de onda apresentada, o tipo de modulação empregado e a taxa de bits são, respectivamente:",
+      "alternatives": [
+        {
+          "letter": "A",
+          "text": "FSK e 1000 bit/s."
+        },
+        {
+          "letter": "B",
+          "text": "PSK e 1000 bit/s."
+        },
+        {
+          "letter": "C",
+          "text": "PSK e 250 bit/s."
+        },
+        {
+          "letter": "D",
+          "text": "FSK e 4000 bit/s."
+        },
+        {
+          "letter": "E",
+          "text": "ASK e 1000 bit/s."
+        }
+      ],
+      "figureDescription": "O gráfico do PDF oficial na página 17 tem a sequência 1101 em 4ms, com amplitude senoidal aproximadamente constante e frequência alternando entre muitos ciclos (bit 1) e poucos ciclos (bit 0); consultar figura no PDF para reprodução fiel.",
+      "selected": "B",
+      "correctAnswer": "A",
+      "result": "INCORRETA",
+      "comment": "Erro: PSK em vez de FSK. Varia frequência, amplitude constante; 4 bits em 4 ms = 1000 bit/s."
+    }
+  ],
+  "comment": "O PDF oficial é fonte de referência para diagramas e redação original; versões adaptadas anteriores não foram utilizadas neste registro."
+}
