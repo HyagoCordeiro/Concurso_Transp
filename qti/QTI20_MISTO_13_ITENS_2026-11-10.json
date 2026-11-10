@@ -1,0 +1,400 @@
+{
+  "studyDateLocal": "2026-11-10",
+  "qti": "QTI-20",
+  "editalItem": "13_ITENS",
+  "titulo": "QTI-20 misto dos 13 itens — CESGRANRIO/Transpetro",
+  "total": 20,
+  "totalValid": 20,
+  "acertos": 18,
+  "erros": 2,
+  "invalidos": 0,
+  "accuracy": 90,
+  "tempoTotalSec": null,
+  "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+  "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_SEM_CRONOMETRAGEM_COM_PREFLIGHT_HISTORICO_PARCIAL",
+  "errors": [
+    {
+      "n": 14,
+      "topic": "Bayes, inversão P(F|A) versus P(A|F)",
+      "selected": "D",
+      "correct": "E",
+      "answer": "180/260 ≈ 69,23%"
+    },
+    {
+      "n": 15,
+      "topic": "Convolução discreta de impulsos",
+      "selected": "B",
+      "correct": "C",
+      "answer": "δ[n]+3δ[n−1]+2δ[n−2]"
+    }
+  ],
+  "perItem": [
+    {
+      "item": 1,
+      "total": 2,
+      "acertos": 1
+    },
+    {
+      "item": 2,
+      "total": 2,
+      "acertos": 1
+    },
+    {
+      "item": 3,
+      "total": 2,
+      "acertos": 2
+    },
+    {
+      "item": 4,
+      "total": 2,
+      "acertos": 2
+    },
+    {
+      "item": 5,
+      "total": 1,
+      "acertos": 1
+    },
+    {
+      "item": 6,
+      "total": 1,
+      "acertos": 1
+    },
+    {
+      "item": 7,
+      "total": 1,
+      "acertos": 1
+    },
+    {
+      "item": 8,
+      "total": 1,
+      "acertos": 1
+    },
+    {
+      "item": 9,
+      "total": 1,
+      "acertos": 1
+    },
+    {
+      "item": 10,
+      "total": 2,
+      "acertos": 2
+    },
+    {
+      "item": 11,
+      "total": 2,
+      "acertos": 2
+    },
+    {
+      "item": 12,
+      "total": 2,
+      "acertos": 2
+    },
+    {
+      "item": 13,
+      "total": 1,
+      "acertos": 1
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "id": "QTI20-20261110-Q01",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q01",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "topic": "Eventos independentes",
+      "questionText": "Probabilidade de exatamente uma falha em dois enlaces independentes (10% e 20%)",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-13"
+    },
+    {
+      "number": 2,
+      "id": "QTI20-20261110-Q02",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q02",
+      "unitId": "2.2",
+      "editalItem": "2",
+      "topic": "Aliasing",
+      "questionText": "Senoide de 700 Hz amostrada em 1000 amostras/s: frequência alias na faixa 0 a 500 Hz",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 3,
+      "id": "QTI20-20261110-Q03",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q03",
+      "unitId": "3.4",
+      "editalItem": "3",
+      "topic": "ROC e estabilidade",
+      "questionText": "Sistema com polos de Laplace em -2 e 1: ROC bilateral para estabilidade BIBO",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 4,
+      "id": "QTI20-20261110-Q04",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q04",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "topic": "Taxa de símbolos 16-QAM",
+      "questionText": "Transmissor 16-QAM a 12 Mbit/s: taxa de símbolos sem redundância",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 5,
+      "id": "QTI20-20261110-Q05",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q05",
+      "unitId": "5.1",
+      "editalItem": "5",
+      "topic": "Erlang C",
+      "questionText": "Modelo de tráfego telefônico com fila de espera e probabilidade de espera",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 6,
+      "id": "QTI20-20261110-Q06",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q06",
+      "unitId": "6.2",
+      "editalItem": "6",
+      "topic": "Monopolo λ/4",
+      "questionText": "Monopolo de quarto de onda em 150 MHz sobre plano de terra ideal: comprimento",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-13"
+    },
+    {
+      "number": 7,
+      "id": "QTI20-20261110-Q07",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q07",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "topic": "Primeira zona de Fresnel",
+      "questionText": "Raio de primeira zona de Fresnel no ponto médio de enlace 8 km a 6 GHz",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 8,
+      "id": "QTI20-20261110-Q08",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q08",
+      "unitId": "8.3",
+      "editalItem": "8",
+      "topic": "EIRP VSAT",
+      "questionText": "Terminal VSAT 10 dBW, antena 30 dBi, perda de alimentação 2 dB: EIRP",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 9,
+      "id": "QTI20-20261110-Q09",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q09",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "topic": "Duplexação TDD",
+      "questionText": "Separação uplink/downlink em duplexação TDD",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-13"
+    },
+    {
+      "number": 10,
+      "id": "QTI20-20261110-Q10",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q10",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "topic": "Prioridade IEEE 802.1p",
+      "questionText": "Campo de prioridade PCP de 3 bits IEEE 802.1p: quantidade de valores",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 11,
+      "id": "QTI20-20261110-Q11",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q11",
+      "unitId": "11.4",
+      "editalItem": "11",
+      "topic": "Route Target MP-BGP",
+      "questionText": "Atributo estendido BGP para controlar importação/exportação de rotas L3VPN nas VRFs",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 12,
+      "id": "QTI20-20261110-Q12",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q12",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Orçamento óptico",
+      "questionText": "Potência recebida de fibra de 20 km, 0,3 dB/km, potência transmitida 0 dBm",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-13"
+    },
+    {
+      "number": 13,
+      "id": "QTI20-20261110-Q13",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q13",
+      "unitId": "13.2",
+      "editalItem": "13",
+      "topic": "Anatel e espectro",
+      "questionText": "Órgão brasileiro competente para administração do espectro, bem público",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 14,
+      "id": "QTI20-20261110-Q14",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q14",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "topic": "Bayes: inversão condicional",
+      "questionText": "Alarme detecta 90% falhas e gera 10% falso alarme; prevalência de falhas 20%; probabilidade de falha dado alarme",
+      "selected": "D",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": null,
+      "nextEligibleAt": null
+    },
+    {
+      "number": 15,
+      "id": "QTI20-20261110-Q15",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q15",
+      "unitId": "2.4",
+      "editalItem": "2",
+      "topic": "Convolução de impulsos",
+      "questionText": "x[n]=δ[n]+2δ[n−1] e h[n]=δ[n]+δ[n−1]; coeficiente de δ[n−1] em convolução",
+      "selected": "B",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": null,
+      "nextEligibleAt": null
+    },
+    {
+      "number": 16,
+      "id": "QTI20-20261110-Q16",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q16",
+      "unitId": "3.5",
+      "editalItem": "3",
+      "topic": "Estabilidade discreta",
+      "questionText": "Sistema causal y[n]−1,2y[n−1]=x[n]: teste BIBO de polo",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 17,
+      "id": "QTI20-20261110-Q17",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q17",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "topic": "Taxa PCM",
+      "questionText": "PCM em 8 kHz com 256 níveis de quantização: taxa de bits",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    },
+    {
+      "number": 18,
+      "id": "QTI20-20261110-Q18",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q18",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "topic": "RMON II",
+      "questionText": "Gerência de protocolos acima da camada de enlace por RMON II",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-13"
+    },
+    {
+      "number": 19,
+      "id": "QTI20-20261110-Q19",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q19",
+      "unitId": "11.3",
+      "editalItem": "11",
+      "topic": "RSVP-TE",
+      "questionText": "Protocolo de sinalização LSP com reserva de recursos para MPLS TE",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17"
+    },
+    {
+      "number": 20,
+      "id": "QTI20-20261110-Q20",
+      "canonicalId": "AUTORAL-QTI20-20261110-Q20",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Dispersão cromática",
+      "questionText": "Dispersão cromática 16 ps/(nm·km), fonte 0,2 nm e enlace 50 km: alargamento temporal",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15"
+    }
+  ]
+}
