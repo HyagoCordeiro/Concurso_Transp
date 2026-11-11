@@ -434,3 +434,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 **Exclusão preservada:** Q41–Q47 e sua correção anterior foram descartadas pelo usuário e não foram reintroduzidas. Correção nova deve usar apenas o PDF original se o usuário solicitar.
 
 [Registro completo no banco NAV](nav/NAV_2026_QUESTOES_ORIGINAIS_49_55_61_70_2026-11-10.json) · [Síntese do desempenho](nav/RESUMO_NAV_FGV_2026_QUESTOES_49_55_61_70.md). Revisões D3 13/11 e D7 17/11, somente para Q57 e Q70. Anti-repetição registrado em `data/QUESTOES.json`.
+
+
+### Reforço item 12.1 em 10/11/2026 — NRZ e dispersão
+
+- **3/3** em históricas: Transpetro 2012 Q61 (39 km), exercício Petrobras 2012 de atenuação e banda (4 MHz, com identificação QConcursos a confirmar) e DECEA 2009 Q47 sobre multimodo/monomodo (o gráfico original foi descrito, não reproduzido).
+- **1/1** em reteste explícito da NRZ Transpetro 2012 Q60 (100 ns/km × 5 km → 500 ns → 1 Mbps). Já havia sido errada e recuperada em outra bateria no mesmo dia; não contar como independente.
+- **Marcado como revisão/reteste, fora do consolidado anterior** de 57/72. Próximas revisões: D7 **17/11**, D21 **01/12**, em enunciados diferentes.
+- [Registro e respostas](qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.md) · [JSON completo](qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json).
