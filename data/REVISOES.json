@@ -1603,6 +1603,45 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
       "plano": "Revisão final curta de folga e altura mínima com uma questão adaptada CESGRANRIO e valores novos."
+    },
+    {
+      "id": "REV-PT-20261111-D3",
+      "unitId": "PORTUGUES",
+      "materia": "Português",
+      "topico": "Porque causal; regência com a + pronome relativo; cujo sem artigo",
+      "motivo": "Bloco Português de 11/11 7/9, erros Q1 porquês e Q4 aos quais/cuja",
+      "origemResultado": "PT-20261111-9Q",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "2 questões novas: causal porque vs por que em contextos diferentes, e pronome relativo regido por verbo (a quem / ao qual / de que), sem repetir enunciados."
+    },
+    {
+      "id": "REV-PT-20261111-D7",
+      "unitId": "PORTUGUES",
+      "materia": "Português",
+      "topico": "Porque causal; regência com a + pronome relativo; cujo sem artigo",
+      "motivo": "Bloco Português de 11/11 7/9, erros Q1 porquês e Q4 aos quais/cuja",
+      "origemResultado": "PT-20261111-9Q",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "3 itens inéditos: porquês, regência com cujo e pronomes relativos, inferência em novo texto CESGRANRIO."
+    },
+    {
+      "id": "REV-PT-20261111-D21",
+      "unitId": "PORTUGUES",
+      "materia": "Português",
+      "topico": "Porque causal; regência com a + pronome relativo; cujo sem artigo",
+      "motivo": "Bloco Português de 11/11 7/9, erros Q1 porquês e Q4 aos quais/cuja",
+      "origemResultado": "PT-20261111-9Q",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "2 questões finais inéditas CESGRANRIO estilo nível superior cobrando preposição do relativo e valor causal."
     }
   ],
   "updatedAt": "2026-11-11"
