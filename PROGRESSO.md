@@ -476,3 +476,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Fechamento parcial do dia 17/20 (85%)**: H_LOS 2/3, Português 7/9, Inglês 8/8. Não inclui bateria FSPL anterior equivocadamente identificada como Hloss.
 - **Próximo bloco:** Probabilidade item 1.2, 5 questões, foco Poisson/geométrica/interpretação; primeira adaptada com contexto telecom diferente das históricas já usadas (CESGRANRIO/Petrobras 2012 Q39 e Transpetro 2018 Q64).
 - [Resultado diário completo](qti/RESULTADOS_DIA_2026-11-11.md).
+
+
+### Fechamento Probabilidade e início Multicast/Antenas — 11/11/2026
+
+- **Probabilidade item 1.2: 3/5 (60%)**. Acertos Q1 Poisson, Q3 hipergeométrica, Q4 binomial. Erros Q2 C/A (sucesso exatamente na 4ª versus até 4) e Q5 E/D (exatamente uma perda versus pelo menos uma). D3 14/11, D7 18/11, D21 02/12.
+- **Parcial diária 20/25 (80%)**, não equivale a desempenho em prova oficial inédita. Bloco 5 iniciado com multicast PIM-SM shared tree e source-based tree, seguido de broadside/end-fire (itens 11.1 e 6.3). Atividade anterior indicou erros nesses assuntos em 30/10 e 05/11.
+- [Registro do dia](qti/RESULTADOS_DIA_2026-11-11.md).
