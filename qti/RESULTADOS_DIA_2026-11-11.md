@@ -65,3 +65,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta: **B**; gabarito: **B**; **ACERTO**. O advérbio negativo 'nunca' exige próclise: 'nunca se esqueceram'; a forma 'nunca esqueceram-se' está inadequada.
 - **Placar parcial 5/7 (71,4%)**. Sequência: Q1 C/A, Q2 E/E, Q3 C/C, Q4 C/B, Q5 D/D, Q6 A/A, Q7 B/B.
 - Q8/9: adaptação de regência verbal baseada em CESGRANRIO/Casa da Moeda 2024 Q2403207 (QConcursos). Questão inédita com verbos aderir, obedecer, submeter-se, concordar e recorrer. Resposta pendente.
+
+
+### Português Q8/9 — regência e preposição
+
+- Resposta do estudante **D**, gabarito **D**: ACERTO. O verbo “concordar” exige “com os” nesse contexto. Aderir a, obedecer a, submeter-se a e recorrer a mantêm “aos”.
+- **Placar parcial Português: 6/8 (75%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto), Q4 C/B (erro), Q5 D/D (acerto), Q6 A/A (acerto), Q7 B/B (acerto), Q8 D/D (acerto).
+- **Q9/9 apresentada:** questão autoral inédita de interpretação e inferência com texto curto sobre dados, monitoramento e julgamento humano; adaptada apenas no estilo CESGRANRIO, não questão oficial. Resposta pendente.
