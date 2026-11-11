@@ -4872,12 +4872,26 @@
           },
           "solution": "Rb2Mbps;B10MHz;L60km; A corrigida paraD antesdafeedback",
           "mode": "SOURCE_STRUCTURAL_ADAPTATION_REQUESTED_BY_USER"
+        },
+        {
+          "studyDateLocal": "2026-11-10",
+          "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+          "response": "C",
+          "answer": "C",
+          "result": "CORRETA",
+          "values": {
+            "channels": 20,
+            "channelKbps": 64,
+            "bandDistanceMHzKm": 500,
+            "efficiency": 0.1
+          },
+          "mode": "ORIGINAL_RETEST_DUE_AFTER_COOLDOWN"
         }
       ],
       "alsoStudiedUnitIds": [
         "12.2"
       ],
-      "lastSeenAt": "2026-10-11",
+      "lastSeenAt": "2026-11-10",
       "lastResult": "CORRETA",
       "lastSessionId": "FECHAMENTO-20261011",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-10-11.json",
@@ -4892,10 +4906,11 @@
         "answer": "D",
         "solution": "Rb2Mbps;B10MHz;L60km; A corrigida paraD antesdafeedback"
       },
-      "cooldownDays": 7,
-      "nextEligibleAt": "2026-10-18",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15",
       "eligibleNow": false,
-      "userAuthorizedStructuralRepetition": true
+      "userAuthorizedStructuralRepetition": true,
+      "lastRetestId": "FIBRA-20261110-Q1"
     },
     {
       "id": "CESGRANRIO-TRANSPETRO-2018-Q54",
@@ -12217,9 +12232,13 @@
       "lastSeenAt": "2026-11-10",
       "lastResult": "INCORRETA",
       "cooldownDays": null,
-      "nextEligibleAt": null,
-      "eligibleNow": true,
-      "reviewNote": "Erro; apenas REPAIR/RETEST dirigido, sem repetição dentro de QTI."
+      "nextEligibleAt": "2026-11-17",
+      "eligibleNow": false,
+      "reviewNote": "Erro; apenas REPAIR/RETEST dirigido, sem repetição dentro de QTI.",
+      "lastFamilyRetestAt": "2026-11-10",
+      "lastFamilyRetestId": "FIBRA-20261110-Q-NRZ-RETEST",
+      "lastFamilyRetestResult": "CORRETA",
+      "lastFamilyNextEligibleAt": "2026-11-17"
     },
     {
       "id": "DAY-20261110-O05",
@@ -14033,6 +14052,122 @@
       "nextEligibleAt": null,
       "eligibleNow": true,
       "note": "FGV/NAV original enviada pelo usuário por imagem e corrigida individualmente. Erro: PSK em vez de FSK. Varia frequência, amplitude constante; 4 bits em 4 ms = 1000 bit/s. Erro para reparo dirigido com enunciado diferente. NÃO recuperar as questões NAV 41–47 excluídas a pedido do usuário."
+    },
+    {
+      "id": "FIBRA-20261110-Q-NRZ-RETEST",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q60",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Codificação NRZ e limite de taxa por dispersão modal",
+      "discipline": "Telecomunicações",
+      "sourceType": "RETEST_EXPLICITO_MESMO_DIA",
+      "sourceOriginalLabel": "Transpetro 2012 Q60",
+      "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+      "questionText": "Uma fibra óptica tem dispersão modal de 100 ns/km e comprimento de 5 km, com codificação NRZ. Qual é a taxa máxima em Mbps no modelo da questão?",
+      "answerOptions": [
+        "A) 1 Mbps",
+        "B) 2 Mbps",
+        "C) 3 Mbps",
+        "D) 4 Mbps",
+        "E) 5 Mbps"
+      ],
+      "selected": "A",
+      "correctAnswer": "A",
+      "lastSeenAt": "2026-11-10",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17",
+      "eligibleNow": false,
+      "note": "Esta mesma questão foi respondida incorretamente mais cedo em 10/11 (Q4, marcou C) e recuperada em reforço, e repetida novamente por solicitação explícita do estudante. Contabilizar apenas como reteste, sem pontuação independente de simulado. Solução: Δt=100 ns/km × 5 km = 500 ns. Rmax=1/(2×500 ns)=1 Mbps.",
+      "diagnosticValidity": "RETESTE_OU_HISTORICA_RESUMIDA_NAO_INEDITA",
+      "reviewType": "RETEST_EXPLICITO_MESMO_DIA"
+    },
+    {
+      "id": "FIBRA-20261110-Q1",
+      "canonicalId": "CESGRANRIO-TRANSPETRO-2012-Q61",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Produto banda-distância e eficiência espectral",
+      "discipline": "Telecomunicações",
+      "sourceType": "HISTORICA_ORIGINAL_REAPRESENTADA",
+      "sourceOriginalLabel": "Transpetro 2012 Q61",
+      "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+      "questionText": "Enlace óptico com 20 canais de 64 kbps; eficiência espectral de 0,1 bps/Hz; produto banda-distância de 500 MHz·km. Determinar máxima extensão.",
+      "answerOptions": [
+        "A) 33 km",
+        "B) 36 km",
+        "C) 39 km",
+        "D) 42 km",
+        "E) 45 km"
+      ],
+      "selected": "C",
+      "correctAnswer": "C",
+      "lastSeenAt": "2026-11-10",
+      "lastResult": "CORRETA",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15",
+      "eligibleNow": false,
+      "note": "A família desta questão já fora respondida em 11/10 com valores modificados (25 canais, 80kbps, produto600, eficiência0,2). Aqui são os dados originais, portanto reteste histórico vencido, não inédito. Solução: Rb=20×64 kbps=1,28 Mbps. Banda=1,28/0,1=12,8 MHz. Distância=500/12,8=39,0625 km.",
+      "diagnosticValidity": "RETESTE_OU_HISTORICA_RESUMIDA_NAO_INEDITA",
+      "reviewType": "HISTORICA_ORIGINAL_REAPRESENTADA"
+    },
+    {
+      "id": "FIBRA-20261110-Q2",
+      "canonicalId": "CESGRANRIO-PETROBRAS-2012-QCONCURSOS-Q2914656",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Produto banda-distância e atenuação",
+      "discipline": "Telecomunicações",
+      "sourceType": "HISTORICA_ENUNCIADO_RESUMIDO_ORIGEM_A_VERIFICAR",
+      "sourceOriginalLabel": "Petrobras 2012 QConcursos identificação informada Q2914656",
+      "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+      "questionText": "Fibra óptica com atenuação 0,5 dB/km, produto banda-distância 32 MHz·km e atenuação total 4 dB. Determinar banda passante.",
+      "answerOptions": [
+        "A) 2 MHz",
+        "B) 4 MHz",
+        "C) 6 MHz",
+        "D) 8 MHz",
+        "E) 10 MHz"
+      ],
+      "selected": "B",
+      "correctAnswer": "B",
+      "lastSeenAt": "2026-11-10",
+      "lastResult": "CORRETA",
+      "cooldownDays": 7,
+      "nextEligibleAt": "2026-11-17",
+      "eligibleNow": false,
+      "note": "Enunciado apresentado como resumo, fonte Petrobras 2012 / ID Q2914656 informada na sessão; requer validação de ID original antes de ser considerado transcrição literal CESGRANRIO. Solução: L=4 dB / 0,5 dB/km = 8 km; B =32 MHz·km / 8 km = 4 MHz.",
+      "diagnosticValidity": "RETESTE_OU_HISTORICA_RESUMIDA_NAO_INEDITA",
+      "reviewType": "HISTORICA_ENUNCIADO_RESUMIDO_ORIGEM_A_VERIFICAR"
+    },
+    {
+      "id": "FIBRA-20261110-Q3",
+      "canonicalId": "CESGRANRIO-DECEA-2009-Q47",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Fibra multimodo degrau/gradual/monomodo e dispersão",
+      "discipline": "Telecomunicações",
+      "sourceType": "HISTORICA_RESUMIDA_COM_GRAFICO_DESCRITO",
+      "sourceOriginalLabel": "DECEA 2009 Q47",
+      "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+      "questionText": "Gráfico da prova original compara taxa/distância de fibras I, II, III: classificar I, II, III por limitação modal. Gráfico foi descrito em texto; não reproduzido.",
+      "answerOptions": [
+        "A) Multimodo índice gradual, multimodo índice degrau e monomodo",
+        "B) Multimodo índice degrau, multimodo índice gradual e monomodo",
+        "C) Multimodo índice degrau, monomodo e multimodo índice gradual",
+        "D) Monomodo, multimodo índice degrau e multimodo índice gradual",
+        "E) Monomodo, multimodo índice gradual e multimodo índice degrau"
+      ],
+      "selected": "B",
+      "correctAnswer": "B",
+      "lastSeenAt": "2026-11-10",
+      "lastResult": "CORRETA",
+      "cooldownDays": 5,
+      "nextEligibleAt": "2026-11-15",
+      "eligibleNow": false,
+      "note": "Questão original dependia de gráfico que foi descrito no chat; resultado não comprova interpretação visual independente do gráfico original. Solução: Fibra multimodo índice degrau apresenta mais dispersão modal; gradual reduz; monomodo elimina dispersão intermodal, suportando maiores combinações banda×distância.",
+      "diagnosticValidity": "RETESTE_OU_HISTORICA_RESUMIDA_NAO_INEDITA",
+      "reviewType": "HISTORICA_RESUMIDA_COM_GRAFICO_DESCRITO"
     }
   ],
   "portuguesePolicy": {
