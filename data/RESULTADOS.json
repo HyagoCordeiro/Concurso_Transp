@@ -5507,6 +5507,76 @@
         }
       ],
       "observacao": "Poisson e binomial foram identificadas; dois erros foram de interpretação de eventos ('até', 'pelo menos'), reforçar complementos. Enunciados novos em estilo CESGRANRIO, algumas referências a provas usadas, não originais."
+    },
+    {
+      "id": "BL5-20261111-MULTICAST-ANTENAS",
+      "eventId": "BL5-20261111-MULTICAST-ANTENAS",
+      "data": "2026-11-11",
+      "studyDateLocal": "2026-11-11",
+      "tipo": "TREINO_GUIADO",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Bloco 5 — Multicast PIM-SM/RPF e Conjuntos de Antenas",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "QUESTOES_AUTORAIS_INEDITAS_CALIBRADAS_COM_REFERENCIAS_HISTORICAS_NAO_PROVA_ORIGINAL_SEM_TEMPO_MEDIDO",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "questionIds": [
+        "BL5-20261111-Q01-MULTICAST-SHARED-SPT",
+        "BL5-20261111-Q02-ARRAY-3E-PHASE",
+        "BL5-20261111-Q03-ARRAY-4E-BROADSIDE",
+        "BL5-20261111-Q04-RPF-MULTICAST",
+        "BL5-20261111-Q05-ARRAY-BEAM-STEERING"
+      ],
+      "respostas": [
+        "D",
+        "B",
+        "E",
+        "C",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "E",
+        "C",
+        "B"
+      ],
+      "desempenhoPorTopico": {
+        "Multicast PIM-SM e RPF": {
+          "acertos": 2,
+          "total": 2,
+          "percentual": 100
+        },
+        "Antenas e fator de conjunto": {
+          "acertos": 1,
+          "total": 3,
+          "percentual": 33.3
+        }
+      },
+      "itensErrados": [
+        {
+          "questionId": "BL5-20261111-Q02-ARRAY-3E-PHASE",
+          "topico": "End-fire unidirecional com beta positivo",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "END_FIRE_UNIDIRECIONAL_VS_BIDIRECIONAL",
+          "observacao": "Três elementos d=λ/3, β=+2π/3, máximo único θ=180°; resposta final B, primeira mensagem D foi substituída."
+        },
+        {
+          "questionId": "BL5-20261111-Q05-ARRAY-BEAM-STEERING",
+          "topico": "Feixe orientado por defasagem progressiva, inversão de cosseno",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "ANGULO_COS_SINAL",
+          "observacao": "Cálculo de kd=π correto. β=−π/2; ψ=πcosθ−π/2; máximo ψ=0 dá cosθ=+1/2 e θ=60°, não θ=120° (cos negativo). Última resposta C substituiu E."
+        }
+      ],
+      "observacao": "Multicast 2/2; Antenas 1/3. Revisar sinal de beta e cosseno 60°/120°, máximos AF e broadside/end-fire. Sem tempo cronometrado."
     }
   ],
   "updatedAt": "2026-11-11"
