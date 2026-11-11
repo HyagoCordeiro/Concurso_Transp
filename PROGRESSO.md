@@ -442,3 +442,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **1/1** em reteste explícito da NRZ Transpetro 2012 Q60 (100 ns/km × 5 km → 500 ns → 1 Mbps). Já havia sido errada e recuperada em outra bateria no mesmo dia; não contar como independente.
 - **Marcado como revisão/reteste, fora do consolidado anterior** de 57/72. Próximas revisões: D7 **17/11**, D21 **01/12**, em enunciados diferentes.
 - [Registro e respostas](qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.md) · [JSON completo](qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json).
+
+
+## QTI-10 Português — concordância e conectivos — 10/11/2026
+
+- **9/10 válidas (90%)** — 7 de concordância verbal (**6/7**) e 3 de conectivos (**3/3**). Rodada autoral no estilo CESGRANRIO, não cronometrada.
+- **Erro Q01:** marcou D em vez de C. Revisar concordância com **cada uma** (singular) e voz passiva sintética **registraram-se diferentes causas** (plural).
+- **Questão Q07 original anulada** por admitir A e C; substitutiva Q07 acertada. A original não integra o placar. Na Q03, resposta inicial B foi substituída por D antes do feedback.
+- **Revisões:** D3 **13/11**, D7 **17/11**, D21 **01/12**, com novos enunciados, respeitando anti-repetição.
+- **Não adicionar ao consolidado anterior 57/72** (bateria distinta do mesmo dia).
+- [Relatório](qti/portugues/QTI10_PT_CONCORDANCIA_CONECTIVOS_RESULTADO_2026-11-10.md) · [JSON completo](qti/portugues/QTI10_PT_CONCORDANCIA_CONECTIVOS_RESULTADO_2026-11-10.json).
