@@ -92,3 +92,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Parcial Inglês: 1/1 (100%)**.
 - Vocabulário: could/might = possibilidade; disrupt oil flows = interromper fluxo; shale production = produção de petróleo/gás de folhelho; supply = oferta; demand = demanda; firm prediction = previsão definitiva.
 - Q2/8 atribuída: **inferência nova** sobre eventual aumento da oferta dos EUA e enfraquecimento da demanda chinesa; avaliar efeito *possível*, sem certeza indevida. Resposta pendente.
+
+
+### Inglês Q2/8 — oferta e demanda
+
+- Resposta **D**, gabarito **D**: **ACERTO**. Se o aumento da produção de shale nos EUA elevar a oferta e a procura da China enfraquecer, os preços **podem** ficar pressionados para baixo; fatores políticos ou outros fatores podem atenuar/compensar, sem certeza sobre resultado.
+- **Placar parcial Inglês 2/2 (100%)**. Questões Q1 e Q2 ambas autorais de inferência/ideia central sobre resumo do texto histórico Transpetro 2018. Não confundir com originais da CESGRANRIO.
+- Q3/8 apresentada: inferência nova sobre custos decrescentes de energia renovável e obstáculos à expansão global. Resposta ainda pendente.
