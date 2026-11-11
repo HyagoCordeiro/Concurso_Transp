@@ -1496,6 +1496,32 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-10",
       "plano": "Aplicar QUESTÃO CESGRANRIO inédita ou autoral verdadeiramente nova; não repetir a figura/enunciado FGV em cooldown; corrigir apenas se houver erro."
+    },
+    {
+      "id": "REV-FIBRA-NRZ-BANDA-20261110-D7",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "materia": "Telecomunicações",
+      "topico": "Dispersão modal NRZ; produto banda-distância; fibra monomodo/gradual/degrau",
+      "origemResultado": "FIBRA-20261110-RETEST-NRZ-E-3-HISTORICAS",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "3 questões com novos valores e gráfico original/novo: taxa NRZ com Δt, banda×distância e classificação modal; não repetir os enunciados resolvidos hoje."
+    },
+    {
+      "id": "REV-FIBRA-NRZ-BANDA-20261110-D21",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "materia": "Telecomunicações",
+      "topico": "Revisão final do item 12.1 dispersão e banda-distância",
+      "origemResultado": "FIBRA-20261110-RETEST-NRZ-E-3-HISTORICAS",
+      "agendadaPara": "2026-12-01",
+      "prioridade": "baixa",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "2–3 questões CESGRANRIO inéditas ou vencidas, com distinção entre produto banda-distância, atenuação e dispersão."
     }
   ],
   "updatedAt": "2026-11-10"
