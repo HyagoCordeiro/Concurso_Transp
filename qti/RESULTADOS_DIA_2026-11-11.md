@@ -120,3 +120,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **A**, gabarito **A**: **ACERTO**. O pronome objetivo plural *them* em *expanding them worldwide* retoma *renewable sources*.
 - **Placar parcial Inglês 5/5 (100%)** — Q1 B/B; Q2 D/D; Q3 E/E; Q4 C/C; Q5 A/A; todas questões autorais em texto resumo adaptado da Transpetro 2018.
 - Q6/8: pergunta inédita de interpretação conjunta de *while*, *could* e *might* no trecho sobre crescimento da oferta e mudanças na demanda; resposta ainda pendente.
+
+
+### Inglês Q6/8 — while, could e might
+
+- Resposta **B**, gabarito **B**: **ACERTO**. *While* relaciona eventos em contraste (oferta vs demanda); *could* e *might* expressam possibilidade, e não certeza nem obrigação.
+- **Placar parcial Inglês: 6/6 (100%)**. Questões 1–6 são autorais baseadas no resumo adaptado do texto CESGRANRIO/Transpetro 2018; sem tempo líquido medido.
+- Q7/8 atribuída: inferência nova sobre forças potencialmente opostas na disponibilidade mundial de petróleo (aumento da produção de shale e interrupções do fluxo por tensões políticas), resposta pendente.
