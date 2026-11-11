@@ -5255,6 +5255,103 @@
         }
       ],
       "observacao": "Não incluir bloco FSPL anterior, apresentado por equívoco na interpretação de Hloss. Sem tempo líquido medido."
+    },
+    {
+      "id": "PT-20261111-9Q",
+      "eventId": "PT-20261111-9Q",
+      "data": "2026-11-11",
+      "studyDateLocal": "2026-11-11",
+      "tipo": "TREINO_GUIADO",
+      "disciplina": "Português",
+      "titulo": "Português CESGRANRIO — porquês, regência, interpretação e sintaxe 9 questões",
+      "totalQuestoes": 9,
+      "totalValidas": 9,
+      "acertos": 7,
+      "erros": 2,
+      "percentual": 77.8,
+      "status": "COMPLETED",
+      "sourceType": "MISTO_1_ORIGINAL_CESGRANRIO_3_ADAPTADAS_5_AUTORAIS",
+      "diagnosticValidity": "MISTO_QUESTOES_NAO_CRONOMETRADAS_NAO_PROJECAO_PROVA",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "questionIds": [
+        "PT-20261111-Q01-PORQUES",
+        "PT-20261111-Q02-REGENCIA-CRASE",
+        "PT-20261111-Q03-PORQUES-TRIPLA",
+        "PT-20261111-Q04-RELATIVO-REG",
+        "PT-20261111-Q05-REESCRITA-GERUNDIO",
+        "PT-20261111-Q06-CESGRANRIO-UNEMAT-Q2387797",
+        "PT-20261111-Q07-PRONOMES-AGERIO",
+        "PT-20261111-Q08-REG-VERBAL-PREPOSICAO",
+        "PT-20261111-Q09-INFERENCIA-DADOS"
+      ],
+      "respostas": [
+        "C",
+        "E",
+        "C",
+        "C",
+        "D",
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "gabarito": [
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "desempenhoPorTopico": {
+        "Porquês": {
+          "acertos": 1,
+          "total": 2,
+          "percentual": 50
+        },
+        "Regência, crase e relativos": {
+          "acertos": 2,
+          "total": 3,
+          "percentual": 66.7
+        },
+        "Reescrita e relações semânticas": {
+          "acertos": 2,
+          "total": 2,
+          "percentual": 100
+        },
+        "Colocação pronominal": {
+          "acertos": 1,
+          "total": 1,
+          "percentual": 100
+        },
+        "Interpretação e inferência": {
+          "acertos": 1,
+          "total": 1,
+          "percentual": 100
+        }
+      },
+      "itensErrados": [
+        {
+          "questionId": "PT-20261111-Q01-PORQUES",
+          "topico": "Conjunção causal porque",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "errorType": "SEMANTICA_PORQUES",
+          "observacao": "Em oração causal, porque junto e sem acento; questão autoral, não Q2387104"
+        },
+        {
+          "questionId": "PT-20261111-Q04-RELATIVO-REG",
+          "topico": "Regência fazer referência a e pronome cuja",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "REGENCIA_PRONOME_RELATIVO",
+          "observacao": "Fazer referência aos quais; cuja experiência sem artigo após cuja."
+        }
+      ],
+      "observacao": "Reforço focado, misto 5 autorais/3 adaptadas/1 original no QConcursos; 5 acertos consecutivos Q5-Q9; Q1 atribuída indevidamente a Q2387104, erro de procedência reconhecido em chat e corrigido no banco. Respostas confirmadas, sem aferição de tempo líquido."
     }
   ],
   "updatedAt": "2026-11-11"
