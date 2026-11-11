@@ -156,3 +156,11 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **C**, gabarito **C**, **ACERTO**. Evento (P(X=4)) para 45 min; taxa 8 alarmes por 120 min → λ=8(45/120)=3; ℙ = exp(-3)3^4/4! ≈ 0,1680.
 - Parcial de probabilidade **1/1 (100%)**; **total diário agora 18/21 (85,7%)** nos blocos corretos, de naturezas mistas (sem cronometragem).
 - **Questão 2/5 atribuída e sem resposta:** distribuição geométrica, autenticação independente com p=25% por tentativa, probabilidade de conclusão **até** a quarta tentativa. Novo cenário, não reutilizar itens geométricos anteriores. Não antecipar resposta.
+
+
+### Probabilidade Q2/5 — distribuição geométrica
+
+- Resposta do estudante **C**, gabarito **A** — **ERRO de interpretação do evento**. C: primeiro sucesso exatamente na 4ª tentativa P(X=4)=(0,75)^3(0,25)=10,55%. Pedido: em até quatro tentativas P(X<=4)=1-(0,75)^4=68,36% (A).
+- **Placar parcial de Probabilidade: 1/2 (50%)**. Questões 1 C/C (Poisson, correta), 2 C/A (Geométrica, incorreta).
+- Revisões do erro de tradução em evento: D3 14/11, D7 18/11, D21 02/12; exercícios novos, sem repetição literal.
+- Questão 3/5 apresentada: original autoral de hipergeométrica com 12 módulos ópticos, 5 defeituosos, extração de 3 sem reposição e exatamente dois defeituosos, baseada no estilo histórico CESGRANRIO Petrobras 2011 Q2876247 (QConcursos), sem reutilizar o texto original; resposta pendente.
