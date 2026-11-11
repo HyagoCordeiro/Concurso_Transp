@@ -5427,6 +5427,86 @@
         }
       },
       "observacao": "Q1–Q7 autorais sobre resumo/adaptação de texto CESGRANRIO Transpetro Telecom 2018 sobre energia (sem reprodução literal da prova); Q8 texto integralmente autoral pipeline. Excelente resultado mas não prediz desempenho em provas originais inéditas; antes realizou 2/5 em questões históricas 2023 no dia 10/11. Tempo não aferido."
+    },
+    {
+      "id": "PROB-20261111-5Q",
+      "eventId": "PROB-20261111-5Q",
+      "data": "2026-11-11",
+      "studyDateLocal": "2026-11-11",
+      "tipo": "TREINO_GUIADO",
+      "disciplina": "Probabilidade",
+      "titulo": "Probabilidade item 1.2 — Poisson, geométrica, hipergeométrica e binomial",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 3,
+      "erros": 2,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPT_CESGRANRIO_STYLE",
+      "diagnosticValidity": "TREINO_AUTORAL_ADAPTADO_SEM_TEMPO_MEDIDO",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "questionIds": [
+        "PROB-20261111-Q01-POISSON-ALARMS",
+        "PROB-20261111-Q02-GEOM-4-ATTEMPTS",
+        "PROB-20261111-Q03-HIPERGEOMETRICA",
+        "PROB-20261111-Q04-BINOMIAL-IDENTIFY",
+        "PROB-20261111-Q05-POISSON-APPROX-BINOMIAL"
+      ],
+      "respostas": [
+        "C",
+        "C",
+        "E",
+        "B",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "desempenhoPorTopico": {
+        "Poisson": {
+          "acertos": 1,
+          "total": 2,
+          "percentual": 50
+        },
+        "Geométrica": {
+          "acertos": 0,
+          "total": 1,
+          "percentual": 0
+        },
+        "Hipergeométrica": {
+          "acertos": 1,
+          "total": 1,
+          "percentual": 100
+        },
+        "Binomial": {
+          "acertos": 1,
+          "total": 1,
+          "percentual": 100
+        }
+      },
+      "itensErrados": [
+        {
+          "questionId": "PROB-20261111-Q02-GEOM-4-ATTEMPTS",
+          "topico": "Geométrica, em até quatro versus exatamente na quarta",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "errorType": "INTERPRETACAO_EVENTO",
+          "observacao": "Marcou P(X=4), pediu P(X<=4)=1-(0,75)^4"
+        },
+        {
+          "questionId": "PROB-20261111-Q05-POISSON-APPROX-BINOMIAL",
+          "topico": "Poisson ao menos uma perda versus exatamente uma perda",
+          "respostaEscolhida": "E",
+          "gabarito": "D",
+          "errorType": "INTERPRETACAO_EVENTO",
+          "observacao": "Marcou P(X=1)=2e^-2, pediu P(X>=1)=1-e^-2"
+        }
+      ],
+      "observacao": "Poisson e binomial foram identificadas; dois erros foram de interpretação de eventos ('até', 'pelo menos'), reforçar complementos. Enunciados novos em estilo CESGRANRIO, algumas referências a provas usadas, não originais."
     }
   ],
   "updatedAt": "2026-11-11"
