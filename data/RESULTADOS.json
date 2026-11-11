@@ -5352,6 +5352,81 @@
         }
       ],
       "observacao": "Reforço focado, misto 5 autorais/3 adaptadas/1 original no QConcursos; 5 acertos consecutivos Q5-Q9; Q1 atribuída indevidamente a Q2387104, erro de procedência reconhecido em chat e corrigido no banco. Respostas confirmadas, sem aferição de tempo líquido."
+    },
+    {
+      "id": "ING-20261111-8Q",
+      "eventId": "ING-20261111-8Q",
+      "data": "2026-11-11",
+      "studyDateLocal": "2026-11-11",
+      "tipo": "TREINO_GUIADO",
+      "disciplina": "Inglês",
+      "titulo": "Inglês CESGRANRIO/Transpetro — 8 autorais de leitura e inferência",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 8,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "100_PERCENT_AUTHORIAL_WITH_ADAPTED_SUMMARY_NOT_ORIGINAL_CESGRANRIO;_NO_TIME_MEASURED",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "questionIds": [
+        "ING-20261111-2018-ENERGY-SUMMARY-Q01",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q02",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q03",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q04",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q05",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q06",
+        "ING-20261111-2018-ENERGY-SUMMARY-Q07",
+        "ING-20261111-Q08-PIPELINE-INSPECTION-CONDITIONAL"
+      ],
+      "respostas": [
+        "B",
+        "D",
+        "E",
+        "C",
+        "A",
+        "B",
+        "E",
+        "D"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "E",
+        "C",
+        "A",
+        "B",
+        "E",
+        "D"
+      ],
+      "desempenhoPorTopico": {
+        "Ideia central": {
+          "acertos": 1,
+          "total": 1
+        },
+        "Inferência e implicações": {
+          "acertos": 3,
+          "total": 3
+        },
+        "Vocabulário contextual": {
+          "acertos": 1,
+          "total": 1
+        },
+        "Referência pronominal": {
+          "acertos": 1,
+          "total": 1
+        },
+        "Conectores e verbos modais": {
+          "acertos": 1,
+          "total": 1
+        },
+        "Condição lógica only if/although": {
+          "acertos": 1,
+          "total": 1
+        }
+      },
+      "observacao": "Q1–Q7 autorais sobre resumo/adaptação de texto CESGRANRIO Transpetro Telecom 2018 sobre energia (sem reprodução literal da prova); Q8 texto integralmente autoral pipeline. Excelente resultado mas não prediz desempenho em provas originais inéditas; antes realizou 2/5 em questões históricas 2023 no dia 10/11. Tempo não aferido."
     }
   ],
   "updatedAt": "2026-11-11"
