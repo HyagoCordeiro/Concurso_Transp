@@ -205,3 +205,12 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **D**, gabarito **D** — **ACERTO**. Shared tree \(*,G\) via RP pode encaminhar fluxos de várias fontes; SPT \((S,G)\) é específica de fonte e grupo, sem exigir RP no caminho após a migração. IGMP é protocolo de participação de receptores; PIM constrói distribuição multicast entre roteadores.
 - **Placar parcial bloco 5 1/1 (100%)**. Total diário até este ponto **21/26 (80,8%)** nas quatro baterias anteriores mais multicast.
 - **Q2/5 atribuída:** questão inédita de fator de conjunto com 3 isotrópicos, espaçamento λ/3, fase progressiva +2π/3, direção de máxima radiação relativa ao eixo. Não reutiliza os números (λ/4, λ/2) e padrões específicos dos exercícios de 05/11 e 06/11. Resposta pendente.
+
+
+### Bloco 5 Q2/5 — fator de conjunto
+
+- Usuário enviou primeiro **D** em mensagem interrompida e depois **B**; **B é a resposta final considerada**. Gabarito **C** — **ERRO**.
+- Três isotrópicos, d=λ/3, β=+2π/3, kd=2π/3 e ψ=(2π/3)(cosθ+1). AF em 0°=0, 90°=0, 180°=3 (máximo). Portanto **end-fire unidirecional no sentido -z**, não end-fire bidirecional.
+- **Placar parcial bloco 5: 1/2 (50%)**, Q1 multicast D/D, Q2 antenas B/C. **Total dia 21/27 (77,8%)**, excluído bloco inicial FSPL equivocado.
+- Revisões antenas D3 14/11, D7 18/11, D21 02/12, contextos novos.
+- **Q3/5 inédita atribuída:** 4 antenas isotrópicas alinhadas eixo z, d=λ/4, β=0, fator de conjunto com quatro termos; identificar máximo broadside 90° e nulos 0° e 180°. Referência temática CESGRANRIO/Transpetro 2023 Q21 / QConcursos Q2326965. Resposta pendente, sem antecipar gabarito.
