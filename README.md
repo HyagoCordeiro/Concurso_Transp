@@ -2,6 +2,10 @@
 
 Repositório central de estudos para a prova da **Transpetro / CESGRANRIO — Engenharia de Telecomunicações**.
 
+## Protocolo vigente de estudo (11/11/2026)
+
+**Padrão obrigatório de condução:** [Estudo rápido e simulados completos](docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md). Questões em **texto simples**, blocos de tamanho **flexível a cada pedido**, correção rápida e diagnóstico dos erros. **Sem QTI interativo por padrão.** Simulados de **70 questões, preferencialmente aos domingos**, em trilha separada conforme disponibilidade, para treinar tempo e conteúdo. Este protocolo tem precedência sobre exigências antigas de interface QTI.
+
 ## Princípio do projeto
 
 Este repositório usa uma estratégia adaptativa de aprendizagem baseada em:
