@@ -5219,7 +5219,43 @@
         }
       ],
       "observacao": "Complemento autoral separado do fechamento de 57/72. Q07 original anulada por duas respostas válidas (A/C), substituída e não contabilizada. Q03 resposta B substituída por D antes da correção. 9/10 em questões válidas."
+    },
+    {
+      "id": "HLOS-20261111-BLOCO1",
+      "eventId": "HLOS-20261111-BLOCO1",
+      "data": "2026-11-11",
+      "studyDateLocal": "2026-11-11",
+      "tipo": "TREINO_GUIADO",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "H_LOS — alturas, folga e Fresnel — 3 autorais CESGRANRIO-style",
+      "totalQuestoes": 3,
+      "totalValidas": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "PRACTICE_GUIDED_NO_TIME",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "questionIds": [
+        "HLOS-20261111-Q01",
+        "HLOS-20261111-Q02",
+        "HLOS-20261111-Q03"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "HLOS-20261111-Q03",
+          "editalItem": "7.1",
+          "unitId": "7.1",
+          "topico": "Altura mínima para liberar 60% da primeira zona de Fresnel",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "errorType": "INTERPRETACAO_MINIMO_VS_SUFICIENTE",
+          "observacao": "55m é suficiente, mas 45m é mínimo; H_LOS=30m no obstáculo."
+        }
+      ],
+      "observacao": "Não incluir bloco FSPL anterior, apresentado por equívoco na interpretação de Hloss. Sem tempo líquido medido."
     }
   ],
-  "updatedAt": "2026-11-10"
+  "updatedAt": "2026-11-11"
 }
