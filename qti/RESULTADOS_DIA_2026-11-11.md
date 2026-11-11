@@ -146,6 +146,13 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 
 ### Avanço do dia — Bloco 4 de Probabilidade
 
-- Iniciada bateria de **5 questões** (Poisson, geométrica e identificação das distribuições), uma por vez. Q1 inédita: processo Poisson 8 alarmes em 2 h, exatamente 4 em 45 min, com \(\lambda=3\). Gabarito C, não antecipado ao estudante. Questão adaptada ao nível da CESGRANRIO/Transpetro 2018 Q64 (QConcursos Q1060195) e Petrobras 2012 Q39, já usadas anteriormente no repositório; novos valores, enunciado e alternativas. Resposta ainda pendente.
+- Iniciada bateria de **5 questões** (Poisson, geométrica e identificação das distribuições), uma por vez. Q1 inédita: processo Poisson 8 alarmes em 2 h, exatamente 4 em 45 min, com \(\lambda=3\). Resposta do usuário **C**, gabarito **C**, acerto. Questão adaptada ao nível da CESGRANRIO/Transpetro 2018 Q64 (QConcursos Q1060195) e Petrobras 2012 Q39, já usadas anteriormente no repositório; novos valores, enunciado e alternativas. Q1 respondida em 11/11.
 
 **Total consolidado dos três blocos concluídos de 11/11:** H_LOS 2/3 + Português 7/9 + Inglês 8/8 = **17/20 (85%)**, misto de questões autorais, adaptadas e original. Bloco anterior sobre FSPL foi apresentado por equívoco na interpretação de Hloss e está excluído deste consolidado.
+
+
+### Probabilidade Q1/5 — Poisson (correção)
+
+- Resposta **C**, gabarito **C**, **ACERTO**. Evento (P(X=4)) para 45 min; taxa 8 alarmes por 120 min → λ=8(45/120)=3; ℙ = exp(-3)3^4/4! ≈ 0,1680.
+- Parcial de probabilidade **1/1 (100%)**; **total diário agora 18/21 (85,7%)** nos blocos corretos, de naturezas mistas (sem cronometragem).
+- **Questão 2/5 atribuída e sem resposta:** distribuição geométrica, autenticação independente com p=25% por tentativa, probabilidade de conclusão **até** a quarta tentativa. Novo cenário, não reutilizar itens geométricos anteriores. Não antecipar resposta.
