@@ -1758,42 +1758,42 @@
       "unitId": "6.3",
       "editalItem": "6.3",
       "materia": "Antenas",
-      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
-      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "topico": "Fator de conjunto: sinal de beta, direção de máximo, broadside/end-fire e inversão de cosseno",
+      "motivo": "Em 11/11 bloco 5 Q2 B/C confundiu end-fire bidirecional com máximo único em 180°; Q5 C/B acertou kd=π mas confundiu cos(60°)=+1/2 com cos(120°)=−1/2 sob β=−π/2.",
       "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
       "agendadaPara": "2026-11-14",
       "prioridade": "alta",
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
-      "plano": "Novos N, espaçamento e beta: determinar fase psi, comparar AF(0), AF(90) e AF(180); diferenciar end-fire uni/bidirecional e broadside."
+      "plano": "Novos N, espaçamento e beta: determinar fase psi, comparar AF(0), AF(90) e AF(180); diferenciar end-fire uni/bidirecional e broadside. Incluir exercício inédito de feixe desviado (0°<theta<180°), com cos(60°) e cos(120°), que teste sinal e condição psi=0 sem antecipar o resultado."
     },
     {
       "id": "REV-ANTENAS63-20261111-D7",
       "unitId": "6.3",
       "editalItem": "6.3",
       "materia": "Antenas",
-      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
-      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "topico": "Fator de conjunto: sinal de beta, direção de máximo, broadside/end-fire e inversão de cosseno",
+      "motivo": "Em 11/11 bloco 5 Q2 B/C confundiu end-fire bidirecional com máximo único em 180°; Q5 C/B acertou kd=π mas confundiu cos(60°)=+1/2 com cos(120°)=−1/2 sob β=−π/2.",
       "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
       "agendadaPara": "2026-11-18",
       "prioridade": "alta",
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
-      "plano": "Questão CESGRANRIO adaptada de máximo de fator de conjunto, controle de polaridade de beta e direção de irradiação, com configurações inéditas."
+      "plano": "Questão CESGRANRIO adaptada de máximo de fator de conjunto, controle de polaridade de beta e direção de irradiação, com configurações inéditas. Incluir exercício inédito de feixe desviado (0°<theta<180°), com cos(60°) e cos(120°), que teste sinal e condição psi=0 sem antecipar o resultado."
     },
     {
       "id": "REV-ANTENAS63-20261111-D21",
       "unitId": "6.3",
       "editalItem": "6.3",
       "materia": "Antenas",
-      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
-      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "topico": "Fator de conjunto: sinal de beta, direção de máximo, broadside/end-fire e inversão de cosseno",
+      "motivo": "Em 11/11 bloco 5 Q2 B/C confundiu end-fire bidirecional com máximo único em 180°; Q5 C/B acertou kd=π mas confundiu cos(60°)=+1/2 com cos(120°)=−1/2 sob β=−π/2.",
       "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
       "agendadaPara": "2026-12-02",
       "prioridade": "alta",
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
-      "plano": "Reteste curto de broadside vs end-fire e condição fase para AF máximo, sem reutilizar d=lambda/3 ou N=3 do dia 11/11."
+      "plano": "Reteste curto de broadside vs end-fire e condição fase para AF máximo, sem reutilizar d=lambda/3 ou N=3 do dia 11/11. Incluir exercício inédito de feixe desviado (0°<theta<180°), com cos(60°) e cos(120°), que teste sinal e condição psi=0 sem antecipar o resultado."
     }
   ],
   "updatedAt": "2026-11-11"
