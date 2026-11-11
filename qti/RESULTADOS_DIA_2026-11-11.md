@@ -106,3 +106,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **E**, gabarito **E** — ACERTO. A redução dos custos não elimina necessariamente dificuldades de expansão global de renováveis. *But* introduz contraposição ao progresso na redução de custos.
 - **Placar parcial Inglês 3/3 (100%)**. Q1 B/B, Q2 D/D, Q3 E/E; questões autorais fundamentadas no texto histórico adaptado Transpetro 2018, sem cronômetro.
 - **Q4/8** apresentada a seguir: vocabulário contextual *disrupt oil flows*; questão inédita, resposta pendente.
+
+
+### Inglês Q4/8 — disrupt oil flows
+
+- Resposta **C**, gabarito **C**: **ACERTO**. *Disrupt oil flows* significa causar interrupções/perturbações no fluxo/fornecimento de petróleo. *Could* expressa possibilidade; *steady* = constante.
+- **Placar parcial Inglês 4/4 (100%)**: Q1 B/B, Q2 D/D, Q3 E/E, Q4 C/C; todas questões autorais no estilo CESGRANRIO, com texto resumido e adaptado a partir da Transpetro 2018. Sem tempo líquido medido.
+- Q5/8 atribuída: referência pronominal do *them* em *expanding them worldwide* (fontes renováveis); resposta pendente, nova questão.
