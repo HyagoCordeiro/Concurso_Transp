@@ -452,3 +452,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Revisões:** D3 **13/11**, D7 **17/11**, D21 **01/12**, com novos enunciados, respeitando anti-repetição.
 - **Não adicionar ao consolidado anterior 57/72** (bateria distinta do mesmo dia).
 - [Relatório](qti/portugues/QTI10_PT_CONCORDANCIA_CONECTIVOS_RESULTADO_2026-11-10.md) · [JSON completo](qti/portugues/QTI10_PT_CONCORDANCIA_CONECTIVOS_RESULTADO_2026-11-10.json).
+
+
+## Registro parcial — 11/11/2026 — H_LOS
+
+- **Item 7.1 — H_LOS:** 3 questões autorais inéditas na sessão, **2/3 (66,7%)**, sem tempo aferido. Q1 D/D: folga 3 m; Q2 B/B: cota absoluta e folga 6 m; Q3 E/A: altura mínima 45 m para liberar 60% de Fresnel, não 55 m (que também atende, mas excede mínimo).
+- Interpretação inicial de “Hloss” como FSPL/orçamento óptico foi corrigida após esclarecimento do usuário; **não misturar o bloco anterior** com avaliação H_LOS.
+- [Registro da sessão](qti/RESULTADOS_DIA_2026-11-11.md). Atualizados banco de questões, resultados e revisões D3=14/11, D7=18/11, D21=02/12; todos os retestes em valores/contextos novos.
+- Próximo bloco em andamento: **Português CESGRANRIO**, regência, porquês e interpretação, sem reapresentar textos já usados.
