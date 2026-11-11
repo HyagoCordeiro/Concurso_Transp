@@ -483,3 +483,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Probabilidade item 1.2: 3/5 (60%)**. Acertos Q1 Poisson, Q3 hipergeométrica, Q4 binomial. Erros Q2 C/A (sucesso exatamente na 4ª versus até 4) e Q5 E/D (exatamente uma perda versus pelo menos uma). D3 14/11, D7 18/11, D21 02/12.
 - **Parcial diária 20/25 (80%)**, não equivale a desempenho em prova oficial inédita. Bloco 5 iniciado com multicast PIM-SM shared tree e source-based tree, seguido de broadside/end-fire (itens 11.1 e 6.3). Atividade anterior indicou erros nesses assuntos em 30/10 e 05/11.
 - [Registro do dia](qti/RESULTADOS_DIA_2026-11-11.md).
+
+
+### Fechamento Bloco 5 e posição no cronograma — 11/11/2026
+
+- **Bloco 5 multicast e antenas 3/5 (60%)**: multicast 2/2; antenas 1/3. Q2 B/C (end-fire unidirecional a 180°), Q5 C/B (acertou kd=π; confundiu sinal do cosseno e ângulo 60° vs 120°). Considerar C como resposta final da Q5 em substituição a E.
+- **Fechados cinco blocos:** H_LOS 2/3; Português 7/9; Inglês 8/8; Probabilidade 3/5; Multicast e Antenas 3/5. **Total 23/30 (76,7%)**. Questões autorais/adaptadas de treinamento, sem cronometragem; não confundir com taxa de acerto CESGRANRIO original.
+- **Próximo na sequência de 11/11:** Bloco 6 revisão de Regulamentação e Espectro (item 13; já estudado em 30/10) e depois Bloco 7 revisão mista dos erros do dia. Usuário pediu conferência do cronograma antes de avançar, então aguardar manifestação.
+- **Revisões antenas D3 14/11, D7 18/11, D21 02/12** com β e ângulos inéditos.
+- [Registro do dia](qti/RESULTADOS_DIA_2026-11-11.md).
