@@ -37,3 +37,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta do estudante: **C**; gabarito **C**; **ACERTO**. Interrogativa indireta 'por que'; substantivo 'o porquê'; final de pergunta 'por quê'.
 - **Placar parcial: 2/3 (66,7%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto).
 - **Q4/9:** adaptação nova a partir de CESGRANRIO/EPE 2009 Q122504 (QConcursos), pronomes relativos e regência; ainda sem resposta.
+
+
+### Português Q4/9 — relativos e regência
+
+- Resposta do estudante: **C**; gabarito **B**; **ERRO**. “Fazer referência **a**”: aos quais; “**cuja** experiência” (não admite artigo posposto; *cujo* concorda com o nome subsequente). Referência adaptada: CESGRANRIO EPE 2009 Q122504.
+- **Placar parcial: 2/4 (50%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto), Q4 C/B (erro).
+- **Q5/9:** questão autoral nova sobre equivalência semântica em oração de gerúndio, inspirada no formato CESGRANRIO/CAIXA 2024 Q2500552. Resposta pendente.
