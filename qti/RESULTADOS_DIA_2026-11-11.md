@@ -251,3 +251,44 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **TOTAL DOS CINCO BLOCOS 23/30 (76,7%)**, incluindo questões autorais e adaptadas, sem tempo cronometrado; não constitui simulado oficial CESGRANRIO.
 - **Pausa solicitada pelo estudante** para verificar a posição no cronograma antes de continuar; não enviar automaticamente a próxima questão do bloco 6.
 - Observação: item 13 teve treino anterior registrado em 30/10/2026; passo 6 será revisão, não o primeiro contato com o tema.
+
+
+## Encerramento final dos blocos 6 e 7 — 11/11/2026
+
+### Bloco 6 — Regulamentação e Espectro (item 13)
+
+- **5/5 (100%)**, respostas e gabarito **1-B, 2-D, 3-A, 4-C, 5-E**.
+- Assuntos: natureza pública e limitada do espectro segundo LGT; atribuição de faixas; caráter secundário e ausência de proteção contra serviços primários; competências da Anatel; PDFF e UIT/Região 2.
+- Questões **autorais** formuladas no chat ao estilo CESGRANRIO, não questões oficiais transcritas.
+- Total acumulado após bloco 6: **28/35 (80%)**.
+
+### Bloco 7 — Revisão mista dos erros do dia
+
+- **1/7 (14,3%)**, respostas **C,A,B,B,D,C,C**; gabarito **C,D,A,E,C,E,B**.
+- Q1 H_LOS: **C/C, acerto** — alturas 25 m e 100 m, fórmula d=4,12(√25+√100)=61,8 km.
+- Q2 Português, causal: **A/D, erro** — 'porque houve interferência' usa conjunção causal junta e sem acento.
+- Q3 Português, relativos: **B/A, erro** — 'cuja a análise' é inadequado; 'aos quais enviamos relatórios' é correto. 'Cujo' não aceita artigo subsequente.
+- Q4 Probabilidade, binomial 'no máximo uma': **B/E, erro** — P(X≤1)=0,8^5+5(0,2)(0,8)^4=0,73728; alternativa B equivale a exatamente uma falha.
+- Q5 Probabilidade, 'pelo menos uma': **D/C, erro** — complemento 1−(0,9)(0,8)(0,7)=0,496.
+- Q6 Antenas, dois elementos em fase, d=λ/2: **C/E, erro** — AF=2cos[(kd cosθ)/2], kd=π, nulos em 0° e 180° (θ medido do eixo).
+- Q7 Antenas, fase geométrica, d=λ/2, θ=60°: **C/B, erro** — |Δφ|=kd|cosθ|=π/2; distinguir kd de kd cosθ.
+- Todas as sete questões são **autorais de reteste**, sem aferição de tempo; não interpretar o baixo resultado de uma rodada curta como medida global independente.
+
+### Fechamento completo — sete blocos
+
+| Bloco | Tema | Acertos / válidas |
+|---|---|---:|
+| 1 | H_LOS / Fresnel | 2/3 |
+| 2 | Português | 7/9 |
+| 3 | Inglês | 8/8 |
+| 4 | Probabilidade | 3/5 |
+| 5 | Multicast + antenas | 3/5 |
+| 6 | Regulamentação + espectro (item 13) | 5/5 |
+| 7 | Reteste final dos erros | 1/7 |
+| **TOTAL** | **7/7 blocos concluídos** | **29/42 (69,0%)** |
+
+- **13 erros em 42 questões**, sendo 6 no reteste final. Indicadores: 23/30 (76,7%) após bloco 5 → 28/35 (80%) após bloco 6 → **29/42 (69,0%)** após bloco 7.
+- **Diagnóstico:** persistência em 'até/no máximo' e 'pelo menos' (probabilidade); kd versus kd cosθ, fase, nulos e orientação do conjunto (antenas); causa com 'porque', 'cujo' e regência (Português). H_LOS acertado no reteste; Inglês e Regulamentação 100% nas respectivas baterias.
+- **Próximo reforço sugerido:** 12 novas questões dirigidas, especialmente probabilidades de eventos e fator de conjunto, com Português em menor volume, calibradas pelo histórico da CESGRANRIO/Transpetro e QConcursos. Respeitar anti-repetição, variar números/enunciados e não expor gabarito antes das respostas.
+- **Revisão espaçada dos erros de 11/11:** D3 **14/11**, D7 **18/11**, D21 **02/12/2026**; priorizar essas duas primeiras datas antes da prova.
+- **Status:** cronograma diário encerrado integralmente. Não há horas líquidas cronometradas.
