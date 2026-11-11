@@ -44,3 +44,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta do estudante: **C**; gabarito **B**; **ERRO**. “Fazer referência **a**”: aos quais; “**cuja** experiência” (não admite artigo posposto; *cujo* concorda com o nome subsequente). Referência adaptada: CESGRANRIO EPE 2009 Q122504.
 - **Placar parcial: 2/4 (50%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto), Q4 C/B (erro).
 - **Q5/9:** questão autoral nova sobre equivalência semântica em oração de gerúndio, inspirada no formato CESGRANRIO/CAIXA 2024 Q2500552. Resposta pendente.
+
+
+### Português Q5/9 — reescrita
+
+- Resposta do estudante **D**; gabarito **D**; **ACERTO**. O gerúndio com leitura aditiva é reescrito como coordenação 'e reúne'. A questão é autoral, com referência ao estilo CESGRANRIO/Caixa 2024 Q2500552.
+- **Placar parcial Português: 3/5 (60%)**, Q1 C/A, Q2 E/E, Q3 C/C, Q4 C/B, Q5 D/D.
+- **Q6/9 atribuída:** CESGRANRIO UNEMAT 2024, original QConcursos Q2387797, valor semântico de 'Como' em frase com jabuticabas. Não identificada no banco anterior; resposta pendente.
