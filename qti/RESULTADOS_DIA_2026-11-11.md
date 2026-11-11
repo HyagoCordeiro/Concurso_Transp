@@ -172,3 +172,11 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Placar parcial Probabilidade 2/3 (66,7%)** — Q1 Poisson C/C, Q2 Geométrica C/A (erro de 'exatamente' vs 'até'), Q3 Hipergeométrica E/E.
 - **Total diário parcial** 19/23 =82,6% (H_LOS 2/3 + Português 7/9 + Inglês 8/8 + Probabilidade 2/3); todas as baterias são distintas, inclusive questões mistas, e não medem proficiência em prova oficial.
 - **Q4/5 apresentada:** identificação de distribuição binomial e fórmula com seis transmissões independentes e p=0,2 de falha, exatamente duas falhas. Autoral inspirada em CESGRANRIO/Transpetro Telecom 2018 Q62, QConcursos Q1060193 (original envolve chamadas telefônicas); texto e números novos, resposta pendente.
+
+
+### Probabilidade Q4/5 — binomial
+
+- Resposta **B**, gabarito **B** — ACERTO. 6 transmissões independentes; p=0,2 de falha fixa; exatamente 2 falhas é Binomial(6;0,2). Probabilidade C(6,2)×(0,2)^2×(0,8)^4 =15×0,04×0,4096=0,24576=24,576%.
+- Diferenciais: alternativa E sem combinatória; alternativa Poisson com λ=1,2 poderia ser aproximação, não modelo exato desta situação.
+- **Placar parcial Probabilidade 3/4 (75%)** — Q1 C/C; Q2 C/A; Q3 E/E; Q4 B/B.
+- Q5/5 atribuída e pendente: processo de 400 pacotes independentes p=0,005 de perda, aproximação binomial por Poisson, probabilidade de pelo menos uma perda. Elaborada em situação Telecom nova, inspirada no padrão CESGRANRIO/Transpetro 2011 Q180196 (QConcursos), sem transcrever o original.
