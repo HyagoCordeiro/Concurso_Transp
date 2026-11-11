@@ -84,3 +84,11 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Fonte corrigida:** Q1 é autoral, não corresponde a QConcursos Q2387104. Erro de procedência já esclarecido na conversa.
 - **Próximas revisões:** 14/11 (D3), 18/11 (D7) e 02/12 (D21), valores e textos novos.
 - **Estado:** Português concluído; **Bloco 3 Inglês iniciado**, texto-base da CESGRANRIO/Transpetro Eng. Telecom 2018 *The key energy questions for 2018*, resumo autoral em inglês e questão de inferência inédita; nenhuma resposta ainda.
+
+
+### Inglês Q1/8 — ideia central
+
+- Resposta: **B**, gabarito: **B**. **ACERTO**. Texto-base adaptado e resumido a partir de *The key energy questions for 2018* (CESGRANRIO/Transpetro Eng. Telecom 2018); pergunta autoral de ideia principal sobre fatores incertos (preços, oferta e demanda). Não classificar como questão histórica original.
+- **Parcial Inglês: 1/1 (100%)**.
+- Vocabulário: could/might = possibilidade; disrupt oil flows = interromper fluxo; shale production = produção de petróleo/gás de folhelho; supply = oferta; demand = demanda; firm prediction = previsão definitiva.
+- Q2/8 atribuída: **inferência nova** sobre eventual aumento da oferta dos EUA e enfraquecimento da demanda chinesa; avaliar efeito *possível*, sem certeza indevida. Resposta pendente.
