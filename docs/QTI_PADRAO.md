@@ -4,6 +4,8 @@
 > Repositório: `HyagoCordeiro/Concurso_Transp`  
 > Atualização: 2026-10-08
 
+> **REGRA ATUAL (11/11/2026):** O padrão interativo descrito abaixo é **legado/opcional** e não deve ser aplicado automaticamente. Para sessões de estudo, prevalece `docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md`: blocos de questões em texto simples, quantidade definida pelo aluno, correção rápida e diagnóstico objetivo. Somente usar interface/QTI interativo se houver pedido expresso.
+
 ## Princípio central
 
 O QTI deve funcionar como **instrumento de diagnóstico e consolidação da aprendizagem**, e não apenas como um quiz visual.
