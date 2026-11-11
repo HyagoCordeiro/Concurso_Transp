@@ -5139,6 +5139,32 @@
         "FGV-NAVBRASIL-2026-ENGTELECOM-T1-Q70"
       ],
       "observacao": "Inclui somente Q49,55,56,57,58,59,60,61,70. Q41–Q47 permanecem descartadas, sem registros. Não misturar FGV original com CESGRANRIO original."
+    },
+    {
+      "id": "FIBRA-20261110-RETEST-NRZ-E-3-HISTORICAS",
+      "eventId": "FIBRA-20261110-RETEST-NRZ-E-3-HISTORICAS",
+      "data": "2026-11-10",
+      "studyDateLocal": "2026-11-10",
+      "tipo": "RETESTE_E_HISTORICAS_3Q",
+      "disciplina": "Telecomunicações",
+      "titulo": "Fibra óptica: NRZ reteste 1/1 e 3 históricas de banda/dispersão 3/3",
+      "totalQuestoes": 4,
+      "totalValidas": 4,
+      "acertos": 4,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "CESGRANRIO_HISTORICA_REAPRESENTADA_RESUMIDA_E_RETESTE",
+      "sourceFile": "qti/RESULTADO_FIBRA_NRZ_BANDA_DISPERSAO_2026-11-10.json",
+      "diagnosticValidity": "NAO_EQUIVALE_A_4_QUESTOES_INEDITAS; RETESTE_MESMO_DIA_E_RESUMOS_HISTORICOS",
+      "questionIds": [
+        "FIBRA-20261110-Q-NRZ-RETEST",
+        "FIBRA-20261110-Q1",
+        "FIBRA-20261110-Q2",
+        "FIBRA-20261110-Q3"
+      ],
+      "itensErrados": [],
+      "observacao": "Resultado independente: 3/3 históricas + 1/1 NRZ repetida no mesmo dia. Não somar ao fechamento anterior 57/72 como amostra independente. Q61 já vista em versão adaptada em 11/10."
     }
   ],
   "updatedAt": "2026-11-10"
