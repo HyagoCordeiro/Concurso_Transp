@@ -15102,11 +15102,19 @@
       "questionFingerprintText": "Array linear de 5 isotrópicos iguais no eixo z, d=lambda/2, beta=-pi/2, AF=|sum n=0..4 e^{jn(kd cos theta + beta)}|. Pergunta direção de máximo principal no intervalo theta 0..180: gabarito B, theta=60°, cos theta=1/2.",
       "assignedAt": "2026-11-11",
       "assignedSessionId": "BL5-20261111-MULTICAST-ANTENAS",
-      "assignedStatus": "ASSIGNED_NOT_ANSWERED",
+      "assignedStatus": "ANSWERED",
       "eligibleNow": false,
       "referenceSource": "Questão autoral inédita, com tema conjuntos de antenas CESGRANRIO/Transpetro 2023 Q21 / QConcursos Q2326965 verificado em 11/11; Q21 é questão conceitual sobre antena log-periódica, NÃO é questão original de beam steering. Esta questão usa aprofundamento calculado autoral.",
       "referenceUrl": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=184&page=33",
-      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-11.md"
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "lastSeenAt": "2026-11-11",
+      "lastResponse": "C",
+      "gabarito": "B",
+      "lastResult": "INCORRETA",
+      "nextEligibleAt": "2026-11-14",
+      "diagnosticValidity": "AUTORAL_CESGRANRIO_STYLE_ANSWER_CONFIRMED_LATEST_RESPONSE",
+      "errorType": "ANGULO_COS_SINAL_DO_BETA",
+      "note": "Primeira mensagem indicou E com resposta interrompida, depois usuário corrigiu para C e explicitou kd=π (correto). Resposta final C; gabarito B. Fase psi=πcosθ−π/2, máximo absoluto AF=5 quando psi=0→cosθ=1/2→60°. Em 120° psi=−π, AF=1."
     }
   ],
   "portuguesePolicy": {
