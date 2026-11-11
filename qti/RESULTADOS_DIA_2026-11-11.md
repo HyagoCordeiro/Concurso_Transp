@@ -58,3 +58,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **A**, gabarito **A**: ACERTO. “Como ninguém colhe as jabuticabas” exprime causa; equivale a “Já que ninguém colhe as jabuticabas”. Fonte registrada: CESGRANRIO/UNEMAT 2024, QConcursos Q2387797.
 - **Placar parcial Português 4/6 (66,7%)** — Q1 C/A; Q2 E/E; Q3 C/C; Q4 C/B; Q5 D/D; Q6 A/A.
 - Q7/9 apresentada em seguida, com novo texto e alternativas **adaptadas**, fundamentada na cobrança CESGRANRIO/AGERIO 2023 Q2174490 (colocação pronominal); ainda sem resposta.
+
+
+### Português Q7/9 — colocação pronominal
+
+- Resposta: **B**; gabarito: **B**; **ACERTO**. O advérbio negativo 'nunca' exige próclise: 'nunca se esqueceram'; a forma 'nunca esqueceram-se' está inadequada.
+- **Placar parcial 5/7 (71,4%)**. Sequência: Q1 C/A, Q2 E/E, Q3 C/C, Q4 C/B, Q5 D/D, Q6 A/A, Q7 B/B.
+- Q8/9: adaptação de regência verbal baseada em CESGRANRIO/Casa da Moeda 2024 Q2403207 (QConcursos). Questão inédita com verbos aderir, obedecer, submeter-se, concordar e recorrer. Resposta pendente.
