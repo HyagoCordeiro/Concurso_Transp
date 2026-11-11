@@ -1710,6 +1710,48 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
       "plano": "Revisão breve de identificação geométrica e sucesso até n, com nova situação e valores."
+    },
+    {
+      "id": "REV-POISSON-20261111-D3",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Interpretação de eventos em Poisson e geométrica — pelo menos um versus exatamente um",
+      "motivo": "Probabilidade Q5 11/11: E/D; selecionou 2 exp(-2) (exatamente uma perda) em vez de 1-exp(-2) (pelo menos uma). Em Q2 também houve confusão entre até e exatamente.",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Uma questão inédita com 'pelo menos um' via complemento e outra comparando 'exatamente' com 'até', em situações diferentes de pacotes/tentativas."
+    },
+    {
+      "id": "REV-POISSON-20261111-D7",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Interpretação de eventos em Poisson e geométrica — pelo menos um versus exatamente um",
+      "motivo": "Probabilidade Q5 11/11: E/D; selecionou 2 exp(-2) (exatamente uma perda) em vez de 1-exp(-2) (pelo menos uma). Em Q2 também houve confusão entre até e exatamente.",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "3 questões de eventos e modelos: geométrica até n, Poisson pelo menos um, binomial exatamente k; pedir evento antes da fórmula."
+    },
+    {
+      "id": "REV-POISSON-20261111-D21",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Interpretação de eventos em Poisson e geométrica — pelo menos um versus exatamente um",
+      "motivo": "Probabilidade Q5 11/11: E/D; selecionou 2 exp(-2) (exatamente uma perda) em vez de 1-exp(-2) (pelo menos uma). Em Q2 também houve confusão entre até e exatamente.",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Revisar leitura de 'ao menos', 'até', 'mais de', com 2 situações novas sem repetir números de 11/11."
     }
   ],
   "updatedAt": "2026-11-11"
