@@ -1,6 +1,6 @@
 # Estudo — 11/11/2026 — CESGRANRIO / Transpetro Telecom
 
-**Status:** registro parcial: bloco 1 concluído; demais blocos ainda não concluídos.
+**Status:** blocos 1 a 5 concluídos; próximo passo aguardando decisão do estudante (revisão de Regulamentação item 13 e revisão mista).
 **Prova-alvo:** 06/12/2026.
 
 ## Bloco 1 — H_LOS (item 7.1 — Radiopropagação)
@@ -228,3 +228,26 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **C**, gabarito **C** — **ACERTO**. R1 recebe pacote multicast de S via Gi0/2, mas para alcançar S consultando a rota unicast usa Gi0/1, não bate entrada esperada, teste Reverse Path Forwarding reprova e pacote é descartado. Considerar caso de RPF baseado na fonte para (S,G); em árvore compartilhada (*,G) usa RP como referência.
 - **Placar parcial do bloco 5 3/4 (75%)**: Q1 multicast D/D, Q2 antenas B/C, Q3 broadside E/E, Q4 multicast RPF C/C. Parcial do dia: **23/29 (79,3%)**.
 - **Q5/5 apresentada:** inédita autoral em conjunto linear de 5 elementos isotrópicos ao longo de z, d=λ/2, beta=-π/2, determinar direção do feixe principal entre 0 e 180 graus. Variedade de fase/direcionamento diferente do broadside 4 elementos e end-fire 3 elementos. Questão da Transpetro 2023 Q21 (QConcursos Q2326965) verificada como referência apenas conceitual de conjuntos de antenas; NÃO atribuir análise de fases à questão original. Resposta pendente.
+
+
+## Bloco 5 — Fechamento final 3/5
+
+- Q5 **última resposta C**, gabarito **B** — **ERRO**. Havia mensagem anterior com letra E e resposta interrompida; considerar exclusivamente C para diagnóstico. O cálculo informado pelo estudante, **kd=π**, está correto. Com d=λ/2, β=−π/2: ψ=πcosθ−π/2. Para AF máximo 5 dos 5 isotrópicos em fase, ψ=0, logo cosθ=+1/2 → θ=60° (B). Em θ=120°, cosθ=−1/2, ψ=−π, AF=|1−1+1−1+1|=1.
+- **Bloco 5 completo: 3/5 (60%)**, respostas D,B,E,C,C; gabarito D,C,E,C,B. Multicast **2/2 (100%)**; Antenas **1/3 (33,3%)**. O erro principal é sinal/fase/direção, não cálculo de kd.
+- **Revisões de Antenas D3 14/11, D7 18/11, D21 02/12** atualizadas para cobrir tanto end-fire uni/bidirecional quanto ângulos com cosθ positivo e negativo.
+
+## Cronograma diário — posição após cinco blocos
+
+| Ordem | Bloco | Estado | Resultado |
+|---:|---|---|---:|
+| 1 | H_LOS (item 7.1) | Concluído | 2/3 |
+| 2 | Português | Concluído | 7/9 |
+| 3 | Inglês | Concluído | 8/8 |
+| 4 | Probabilidade (item 1.2) | Concluído | 3/5 |
+| 5 | Multicast (item 11) + Conjuntos de Antenas (item 6.3) | Concluído | 3/5 |
+| 6 | Revisão de regulamentação e espectro (item 13) | Próximo, não iniciado hoje | — |
+| 7 | Revisão final mista/erros do dia | Pendente | — |
+
+- **TOTAL DOS CINCO BLOCOS 23/30 (76,7%)**, incluindo questões autorais e adaptadas, sem tempo cronometrado; não constitui simulado oficial CESGRANRIO.
+- **Pausa solicitada pelo estudante** para verificar a posição no cronograma antes de continuar; não enviar automaticamente a próxima questão do bloco 6.
+- Observação: item 13 teve treino anterior registrado em 30/10/2026; passo 6 será revisão, não o primeiro contato com o tema.
