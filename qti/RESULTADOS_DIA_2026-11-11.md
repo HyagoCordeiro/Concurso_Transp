@@ -214,3 +214,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Placar parcial bloco 5: 1/2 (50%)**, Q1 multicast D/D, Q2 antenas B/C. **Total dia 21/27 (77,8%)**, excluído bloco inicial FSPL equivocado.
 - Revisões antenas D3 14/11, D7 18/11, D21 02/12, contextos novos.
 - **Q3/5 inédita atribuída:** 4 antenas isotrópicas alinhadas eixo z, d=λ/4, β=0, fator de conjunto com quatro termos; identificar máximo broadside 90° e nulos 0° e 180°. Referência temática CESGRANRIO/Transpetro 2023 Q21 / QConcursos Q2326965. Resposta pendente, sem antecipar gabarito.
+
+
+### Bloco 5 Q3/5 — broadside quatro elementos
+
+- Resposta **E**, gabarito **E** — **ACERTO**. Quatro elementos isotrópicos, d=λ/4, β=0, kd=π/2, ψ=(π/2)cosθ. AF(0)=|1+j−1−j|=0; AF(90)=|1+1+1+1|=4 (máximo); AF(180)=|1−j−1+j|=0. **Broadside**, máximo perpendicular ao eixo.
+- **Parcial bloco 5: 2/3 (66,7%)**, Q1 D/D, Q2 B/C, Q3 E/E. **Total do dia 22/28 (78,6%)**, excluindo o primeiro bloco FSPL equivocado. Estudo misto autoral e adaptado, sem tempo cronometrado.
+- **Q4/5 apresentada:** questão inédita de multicast PIM e Reverse Path Forwarding (RPF), tabela unicast indica interface Gi0/1 até fonte S, mas pacote chega por Gi0/2. Testa checagem RPF, não o simples IGMP. Base de estilo: CESGRANRIO/Transpetro Telecom 2018 Q1060181 e Petrobras Técnico Telecom 2010 Q189713 no QConcursos; não é original dessas provas. Resposta pendente.
