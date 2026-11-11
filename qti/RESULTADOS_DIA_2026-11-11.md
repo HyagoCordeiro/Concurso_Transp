@@ -180,3 +180,21 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Diferenciais: alternativa E sem combinatória; alternativa Poisson com λ=1,2 poderia ser aproximação, não modelo exato desta situação.
 - **Placar parcial Probabilidade 3/4 (75%)** — Q1 C/C; Q2 C/A; Q3 E/E; Q4 B/B.
 - Q5/5 atribuída e pendente: processo de 400 pacotes independentes p=0,005 de perda, aproximação binomial por Poisson, probabilidade de pelo menos uma perda. Elaborada em situação Telecom nova, inspirada no padrão CESGRANRIO/Transpetro 2011 Q180196 (QConcursos), sem transcrever o original.
+
+
+## Bloco 4 — Probabilidade concluído 5/5
+
+- **Resultado 3/5 (60%)**. Respostas C,C,E,B,E; gabarito C,A,E,B,D. Sem aferição de tempo.
+- Q1 Poisson C/C: exatamente 4, λ=3, acerto.
+- Q2 geométrica C/A: **ERRO**; usuário escolheu primeiro sucesso exatamente na 4ª (0,75³×0,25) quando se queria sucesso em até 4 (1−0,75⁴).
+- Q3 hipergeométrica E/E: C(5,2)C(7,1)/C(12,3) =70/220=31,82%, acerto.
+- Q4 binomial B/B: C(6,2)0,2²0,8⁴=0,24576, acerto.
+- Q5 Poisson E/D: **ERRO**; marcou P(X=1)=2e^−2≈27,07%; pediu P(X≥1)=1−e^−2≈86,47%.
+- **Diagnóstico central:** identificar a distribuição está adequado; interpretar *até*, *pelo menos*, *exatamente* e evento complementar requer treino dirigido. Reforço em D3 14/11, D7 18/11, D21 02/12 com novos enunciados.
+- **Total diário até aqui 20/25 (80%)**: H_LOS 2/3, Português 7/9, Inglês 8/8, Probabilidade 3/5. Misto, incluindo questões autorais/adaptadas, não indicador de prova oficial inédita.
+
+## Bloco 5 — Multicast e conjuntos de antenas
+
+- **Iniciado** em 11/11, prioridade histórica: 30/10 erro shared tree x source-based tree em multicast; 05/11 erro broadside/end-fire, com retestes corretos em 06/11.
+- **Q1/5** autoral inédita PIM-SM: duas fontes S1/S2, grupo G, RP, receptor migra para árvore SPT em S1; distinguir shared (*,G) x source-specific (S,G). Gabarito D, ainda não respondida.
+- Histórico CESGRANRIO/QConcursos utilizado para calibragem: Transpetro Telecom 2018 Q1060181 aborda endereçamento multicast; Transpetro 2023 Q2326965 aborda identificação de antena em conjunto. Não reproduzir questão já estudada.
