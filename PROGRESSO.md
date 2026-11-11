@@ -460,3 +460,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Interpretação inicial de “Hloss” como FSPL/orçamento óptico foi corrigida após esclarecimento do usuário; **não misturar o bloco anterior** com avaliação H_LOS.
 - [Registro da sessão](qti/RESULTADOS_DIA_2026-11-11.md). Atualizados banco de questões, resultados e revisões D3=14/11, D7=18/11, D21=02/12; todos os retestes em valores/contextos novos.
 - Próximo bloco em andamento: **Português CESGRANRIO**, regência, porquês e interpretação, sem reapresentar textos já usados.
+
+
+## Fechamento de Português — 11/11/2026
+
+- **Português 7/9 (77,8%)** — 1 questão original CESGRANRIO, 3 adaptadas, 5 autorais. Acertos Q2, Q3, Q5-Q9; erros Q1 (*porque* causal) e Q4 (*aos quais/cuja*). Resultado misto de treino, não amostra independente de originais, sem cronômetro.
+- **Revisões D3/D7/D21:** 14/11, 18/11, 02/12; variação de enunciados e prioridade ao histórico CESGRANRIO no QConcursos.
+- **Inglês:** iniciada leitura/inferência baseada na prova Transpetro Telecom CESGRANRIO 2018, texto sobre quatro fatores que poderiam afetar mercado de energia em 2018. Texto de exercício resumido/reformulado; não classificar a nova questão como original.
+- [Registro diário](qti/RESULTADOS_DIA_2026-11-11.md).
