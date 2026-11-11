@@ -99,3 +99,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **D**, gabarito **D**: **ACERTO**. Se o aumento da produção de shale nos EUA elevar a oferta e a procura da China enfraquecer, os preços **podem** ficar pressionados para baixo; fatores políticos ou outros fatores podem atenuar/compensar, sem certeza sobre resultado.
 - **Placar parcial Inglês 2/2 (100%)**. Questões Q1 e Q2 ambas autorais de inferência/ideia central sobre resumo do texto histórico Transpetro 2018. Não confundir com originais da CESGRANRIO.
 - Q3/8 apresentada: inferência nova sobre custos decrescentes de energia renovável e obstáculos à expansão global. Resposta ainda pendente.
+
+
+### Inglês Q3/8 — renováveis e contraste
+
+- Resposta **E**, gabarito **E** — ACERTO. A redução dos custos não elimina necessariamente dificuldades de expansão global de renováveis. *But* introduz contraposição ao progresso na redução de custos.
+- **Placar parcial Inglês 3/3 (100%)**. Q1 B/B, Q2 D/D, Q3 E/E; questões autorais fundamentadas no texto histórico adaptado Transpetro 2018, sem cronômetro.
+- **Q4/8** apresentada a seguir: vocabulário contextual *disrupt oil flows*; questão inédita, resposta pendente.
