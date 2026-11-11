@@ -14517,6 +14517,39 @@
       "lastSessionId": "HLOS-20261111-BLOCO1",
       "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
       "diagnosticValidity": "TREINO_GUIADO_AUTORAL_SEM_CRONOMETRAGEM"
+    },
+    {
+      "id": "PT-20261111-Q01-PORQUES",
+      "canonicalId": "AUTORAL-PT-20261111-Q01-PORQUES",
+      "subject": "Língua Portuguesa",
+      "topic": "Emprego de porque / por que / porquê",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "questionFingerprintText": "A repetição das mesmas palavras indica um empobrecimento das letras ___ o visual ganhou um peso grande; afirmativas I,II,III; alternativa correta A.",
+      "assignedAt": "2026-11-11",
+      "assignedSessionId": "PT-20261111-9Q",
+      "assignedStatus": "ANSWERED",
+      "lastSeenAt": "2026-11-11",
+      "lastResponse": "C",
+      "gabarito": "A",
+      "lastResult": "INCORRETA",
+      "eligibleNow": false,
+      "nextEligibleAt": "2026-11-14",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-11.md",
+      "diagnosticValidity": "AUTORAL_NOT_Q2387104",
+      "sourceCorrection": "ID Q2387104 citado equivocadamente; trata-se de outra questão CESGRANRIO/UNEMAT 2024 sobre conectores."
+    },
+    {
+      "id": "PT-20261111-Q02-REGENCIA-CRASE",
+      "canonicalId": "AUTORAL-PT-20261111-Q02-REGENCIA-CRASE",
+      "subject": "Língua Portuguesa",
+      "topic": "Regência verbal e crase",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "questionFingerprintText": "Assinale a regência e crase corretas: A comunicou à diretoria de que; B preferiram corrigir do que; C assistiu o procedimento e obedeceu as recomendações; D aspirava um cargo; E referiram-se às especificações e procederam à inspeção.",
+      "assignedAt": "2026-11-11",
+      "assignedSessionId": "PT-20261111-9Q",
+      "assignedStatus": "ASSIGNED_NOT_ANSWERED",
+      "eligibleNow": false,
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-11.md"
     }
   ],
   "portuguesePolicy": {
