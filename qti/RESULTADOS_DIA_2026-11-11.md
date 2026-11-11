@@ -51,3 +51,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta do estudante **D**; gabarito **D**; **ACERTO**. O gerúndio com leitura aditiva é reescrito como coordenação 'e reúne'. A questão é autoral, com referência ao estilo CESGRANRIO/Caixa 2024 Q2500552.
 - **Placar parcial Português: 3/5 (60%)**, Q1 C/A, Q2 E/E, Q3 C/C, Q4 C/B, Q5 D/D.
 - **Q6/9 atribuída:** CESGRANRIO UNEMAT 2024, original QConcursos Q2387797, valor semântico de 'Como' em frase com jabuticabas. Não identificada no banco anterior; resposta pendente.
+
+
+### Português Q6/9 — valor causal de como
+
+- Resposta **A**, gabarito **A**: ACERTO. “Como ninguém colhe as jabuticabas” exprime causa; equivale a “Já que ninguém colhe as jabuticabas”. Fonte registrada: CESGRANRIO/UNEMAT 2024, QConcursos Q2387797.
+- **Placar parcial Português 4/6 (66,7%)** — Q1 C/A; Q2 E/E; Q3 C/C; Q4 C/B; Q5 D/D; Q6 A/A.
+- Q7/9 apresentada em seguida, com novo texto e alternativas **adaptadas**, fundamentada na cobrança CESGRANRIO/AGERIO 2023 Q2174490 (colocação pronominal); ainda sem resposta.
