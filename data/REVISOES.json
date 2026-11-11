@@ -1668,6 +1668,48 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
       "plano": "Teste final de 5 questões de leitura em texto histórico novo CESGRANRIO (se disponível); incluir ao menos um modal de probabilidade e uma inferência negativa."
+    },
+    {
+      "id": "REV-GEOM-20261111-D3",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Distribuição geométrica — exatamente na k-ésima versus até k tentativas",
+      "motivo": "11/11, questão 2/5 C/A. Usuário marcou P(X=4) quando a pergunta era P(X<=4).",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Novo problema geométrico em contexto Telecom para distinguir P(X=k), P(X<=k) e P(X>k), sem repetir os números ou alternativas."
+    },
+    {
+      "id": "REV-GEOM-20261111-D7",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Distribuição geométrica — exatamente na k-ésima versus até k tentativas",
+      "motivo": "11/11, questão 2/5 C/A. Usuário marcou P(X=4) quando a pergunta era P(X<=4).",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Duas questões inéditas de tradução em evento geométrico, sendo uma com complemento, e revisão comparativa com Poisson."
+    },
+    {
+      "id": "REV-GEOM-20261111-D21",
+      "unitId": "1.2",
+      "editalItem": "1.2",
+      "materia": "Probabilidade",
+      "topico": "Distribuição geométrica — exatamente na k-ésima versus até k tentativas",
+      "motivo": "11/11, questão 2/5 C/A. Usuário marcou P(X=4) quando a pergunta era P(X<=4).",
+      "origemResultado": "PROB-20261111-5Q",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Revisão breve de identificação geométrica e sucesso até n, com nova situação e valores."
     }
   ],
   "updatedAt": "2026-11-11"
