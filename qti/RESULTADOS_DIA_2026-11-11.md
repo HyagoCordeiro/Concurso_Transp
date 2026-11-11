@@ -72,3 +72,15 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta do estudante **D**, gabarito **D**: ACERTO. O verbo “concordar” exige “com os” nesse contexto. Aderir a, obedecer a, submeter-se a e recorrer a mantêm “aos”.
 - **Placar parcial Português: 6/8 (75%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto), Q4 C/B (erro), Q5 D/D (acerto), Q6 A/A (acerto), Q7 B/B (acerto), Q8 D/D (acerto).
 - **Q9/9 apresentada:** questão autoral inédita de interpretação e inferência com texto curto sobre dados, monitoramento e julgamento humano; adaptada apenas no estilo CESGRANRIO, não questão oficial. Resposta pendente.
+
+
+## Bloco 2 — Português: fechamento 9/9
+
+- **Resultado final: 7/9 (77,8%)**, sem cronômetro. **Q1–Q9 respostas:** C,E,C,C,D,A,B,D,C. **Gabarito:** A,E,C,B,D,A,B,D,C.
+- **Erros:** Q1 C→A, emprego de *porque* causal; Q4 C→B, regência *referência a* → *aos quais* e *cuja experiência* (sem artigo).
+- **Acertos:** Q2, Q3, Q5, Q6, Q7, Q8, Q9; **5 acertos consecutivos ao final**.
+- **Por tema:** porquês 1/2; regência/crase/relativos 2/3; reescrita/conectivos 2/2; colocação pronominal 1/1; interpretação 1/1.
+- **Origem:** 1 CESGRANRIO original (UNEMAT 2024 Q2387797, conforme referência em registros); 3 adaptadas (EPE 2009, AGERIO 2023 e Casa da Moeda 2024); 5 autorais. Não equiparar taxa mista a prova oficial inédita.
+- **Fonte corrigida:** Q1 é autoral, não corresponde a QConcursos Q2387104. Erro de procedência já esclarecido na conversa.
+- **Próximas revisões:** 14/11 (D3), 18/11 (D7) e 02/12 (D21), valores e textos novos.
+- **Estado:** Português concluído; **Bloco 3 Inglês iniciado**, texto-base da CESGRANRIO/Transpetro Eng. Telecom 2018 *The key energy questions for 2018*, resumo autoral em inglês e questão de inferência inédita; nenhuma resposta ainda.
