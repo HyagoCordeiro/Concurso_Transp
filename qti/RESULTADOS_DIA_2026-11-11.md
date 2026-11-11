@@ -198,3 +198,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Iniciado** em 11/11, prioridade histórica: 30/10 erro shared tree x source-based tree em multicast; 05/11 erro broadside/end-fire, com retestes corretos em 06/11.
 - **Q1/5** autoral inédita PIM-SM: duas fontes S1/S2, grupo G, RP, receptor migra para árvore SPT em S1; distinguir shared (*,G) x source-specific (S,G). Gabarito D, ainda não respondida.
 - Histórico CESGRANRIO/QConcursos utilizado para calibragem: Transpetro Telecom 2018 Q1060181 aborda endereçamento multicast; Transpetro 2023 Q2326965 aborda identificação de antena em conjunto. Não reproduzir questão já estudada.
+
+
+### Bloco 5 Q1/5 — PIM-SM
+
+- Resposta **D**, gabarito **D** — **ACERTO**. Shared tree \(*,G\) via RP pode encaminhar fluxos de várias fontes; SPT \((S,G)\) é específica de fonte e grupo, sem exigir RP no caminho após a migração. IGMP é protocolo de participação de receptores; PIM constrói distribuição multicast entre roteadores.
+- **Placar parcial bloco 5 1/1 (100%)**. Total diário até este ponto **21/26 (80,8%)** nas quatro baterias anteriores mais multicast.
+- **Q2/5 atribuída:** questão inédita de fator de conjunto com 3 isotrópicos, espaçamento λ/3, fase progressiva +2π/3, direção de máxima radiação relativa ao eixo. Não reutiliza os números (λ/4, λ/2) e padrões específicos dos exercícios de 05/11 e 06/11. Resposta pendente.
