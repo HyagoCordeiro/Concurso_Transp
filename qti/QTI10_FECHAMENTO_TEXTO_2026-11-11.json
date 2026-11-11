@@ -1,0 +1,50 @@
+{
+  "eventId": "QTI10-20261111-FECHAMENTO",
+  "studyDateLocal": "2026-11-11",
+  "mode": "TEXTO_SIMPLES",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+  "total": 10,
+  "acertos": 9,
+  "erros": 1,
+  "accuracy": 90,
+  "respostasUsuario": [
+    "B",
+    "C",
+    "A",
+    "E",
+    "C",
+    "A",
+    "B",
+    "D",
+    "E",
+    "E"
+  ],
+  "gabarito": [
+    "B",
+    "E",
+    "A",
+    "E",
+    "C",
+    "A",
+    "B",
+    "D",
+    "E",
+    "E"
+  ],
+  "erro": {
+    "questao": 2,
+    "editalItem": "2.3",
+    "tema": "Serie trigonometrica de Fourier sinal impar",
+    "respostaUsuario": "C",
+    "correta": "E",
+    "coeficiente": "b1=-8/pi"
+  },
+  "consolidadoDia": {
+    "total": 30,
+    "acertos": 29,
+    "erros": 1,
+    "accuracy": 96.7
+  },
+  "tempoTotalSec": null,
+  "proximaAcao": "Revisao pontual de sinal impar e coeficientes da serie de Fourier; proximo simulado com questoes oficiais ineditas."
+}
