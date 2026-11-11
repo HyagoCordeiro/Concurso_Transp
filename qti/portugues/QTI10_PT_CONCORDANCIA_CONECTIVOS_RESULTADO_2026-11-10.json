@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "eventId": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+  "studyDateLocal": "2026-11-10",
+  "timezone": "America/Sao_Paulo",
+  "disciplina": "Língua Portuguesa",
+  "bancaEstilo": "CESGRANRIO",
+  "concurso": "Transpetro 2026",
+  "tipo": "QTI-10",
+  "tema": "Reforço de concordância verbal (7 questões) e conectivos (3 questões)",
+  "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+  "tipoRegistro": "PRATICA_GUIADA_NAO_CRONOMETRADA",
+  "tempoLiquidoSec": null,
+  "totalQuestoesValidas": 10,
+  "totalApresentadas": 11,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "acertosPorAssunto": {
+    "Concordância verbal": {
+      "acertos": 6,
+      "total": 7,
+      "percentual": 85.7
+    },
+    "Conectivos": {
+      "acertos": 3,
+      "total": 3,
+      "percentual": 100
+    }
+  },
+  "questions": [
+    {
+      "n": 1,
+      "tema": "Concordância verbal — partícula apassivadora e núcleo do sujeito",
+      "marca": "D",
+      "gab": "C",
+      "frase": "Registraram-se, nos relatórios de campo, diferentes causas para a interrupção do serviço.",
+      "exp": "Cada uma das interfaces apresenta (núcleo singular); registraram-se diferentes causas (voz passiva sintética, sujeito plural).",
+      "correta": false,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q01"
+    },
+    {
+      "n": 2,
+      "tema": "Concordância verbal — expressão partitiva",
+      "marca": "B",
+      "gab": "B",
+      "frase": "Uma parte dos técnicos responsáveis pelos enlaces compareceram à reunião de planejamento.",
+      "exp": "Expressão partitiva 'uma parte dos técnicos' admite verbo singular ou plural.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q02"
+    },
+    {
+      "n": 3,
+      "tema": "Concordância verbal — partícula se",
+      "marca": "D",
+      "gab": "D",
+      "respostasAntesDaCorrecao": [
+        "B",
+        "D"
+      ],
+      "frase": "Estabeleceram-se novas rotinas para a verificação periódica dos enlaces de comunicação.",
+      "exp": "Se apassivador: novas rotinas foram estabelecidas. Houve resposta inicial B, substituída por D antes da correção.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q03"
+    },
+    {
+      "n": 4,
+      "tema": "Concordância verbal — núcleo do sujeito",
+      "marca": "E",
+      "gab": "E",
+      "frase": "Os responsáveis pelos equipamentos de transmissão mantêm atualizados os registros de manutenção.",
+      "exp": "Núcleo 'responsáveis' no plural: mantêm.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q04"
+    },
+    {
+      "n": 5,
+      "tema": "Concordância verbal — sujeito posposto",
+      "marca": "C",
+      "gab": "C",
+      "frase": "Persistem, mesmo após as correções realizadas pela equipe técnica, falhas intermitentes nos enlaces de comunicação.",
+      "exp": "Sujeito posposto 'falhas intermitentes' exige persistem.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q05"
+    },
+    {
+      "n": 6,
+      "tema": "Concordância verbal — existir, haver e locuções verbais",
+      "marca": "B",
+      "gab": "B",
+      "frase": "Devem existir soluções alternativas para os problemas identificados nos sistemas de transmissão.",
+      "exp": "Existir é pessoal e concorda com 'soluções alternativas' no plural.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q06"
+    },
+    {
+      "n": 7,
+      "tema": "Concordância verbal — sujeito oracional (questão substitutiva)",
+      "marca": "C",
+      "gab": "C",
+      "frase": "Convém que os operadores verifiquem os registros antes de reiniciar os equipamentos.",
+      "exp": "Sujeito oracional exige verbo da principal na 3ª pessoa do singular.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q07"
+    },
+    {
+      "n": 8,
+      "tema": "Conectivos — concessão",
+      "marca": "E",
+      "gab": "E",
+      "frase": "Mesmo que o enlace principal seja restabelecido, a equipe manterá o sistema de contingência ativo.",
+      "exp": "'Mesmo que' pode ser substituído por 'ainda que' sem mudança de sentido.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q08"
+    },
+    {
+      "n": 9,
+      "tema": "Conectivos — condição",
+      "marca": "D",
+      "gab": "D",
+      "frase": "A equipe poderá realizar a atualização dos equipamentos durante a madrugada, desde que a autorização seja concedida.",
+      "exp": "'Desde que', em valor condicional, é equivalente a 'caso'.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q09"
+    },
+    {
+      "n": 10,
+      "tema": "Conectivos — adversidade",
+      "marca": "E",
+      "gab": "E",
+      "frase": "Os testes indicaram estabilidade; não obstante, a gerência decidiu manter o sistema de contingência ativo.",
+      "exp": "'Não obstante' equivale a 'contudo' no valor adversativo.",
+      "correta": true,
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q10"
+    }
+  ],
+  "anuladas": [
+    {
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q07-ORIGINAL-ANULADA",
+      "topic": "Concordância com sujeito composto / sujeito oracional",
+      "respostaEscolhida": "B",
+      "alternativasValidas": [
+        "A",
+        "C"
+      ],
+      "motivo": "Questão com duas respostas normativamente corretas; substituída por nova questão 07 e excluída do placar."
+    }
+  ],
+  "unicoErro": {
+    "numero": 1,
+    "resposta": "D",
+    "gabarito": "C",
+    "topico": "Concordância do núcleo do sujeito 'cada uma' e partícula apassivadora"
+  },
+  "revisaoSugerida": {
+    "D3": "2026-11-13",
+    "D7": "2026-11-17",
+    "D21": "2026-12-01",
+    "foco": "Sujeito singular 'cada um(a)' vs. plural com se apassivador; aplicar novos enunciados."
+  },
+  "observacao": "Resultado confirmado em chat. A Q03 teve primeira escolha B corrigida para D antes de receber feedback. A Q07 original foi anulada por ambiguidade e substituída: apenas a substituta integra o placar. Questões autorais, não oficiais da CESGRANRIO."
+}
