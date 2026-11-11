@@ -113,3 +113,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **C**, gabarito **C**: **ACERTO**. *Disrupt oil flows* significa causar interrupções/perturbações no fluxo/fornecimento de petróleo. *Could* expressa possibilidade; *steady* = constante.
 - **Placar parcial Inglês 4/4 (100%)**: Q1 B/B, Q2 D/D, Q3 E/E, Q4 C/C; todas questões autorais no estilo CESGRANRIO, com texto resumido e adaptado a partir da Transpetro 2018. Sem tempo líquido medido.
 - Q5/8 atribuída: referência pronominal do *them* em *expanding them worldwide* (fontes renováveis); resposta pendente, nova questão.
+
+
+### Inglês Q5/8 — referência pronominal
+
+- Resposta **A**, gabarito **A**: **ACERTO**. O pronome objetivo plural *them* em *expanding them worldwide* retoma *renewable sources*.
+- **Placar parcial Inglês 5/5 (100%)** — Q1 B/B; Q2 D/D; Q3 E/E; Q4 C/C; Q5 A/A; todas questões autorais em texto resumo adaptado da Transpetro 2018.
+- Q6/8: pergunta inédita de interpretação conjunta de *while*, *could* e *might* no trecho sobre crescimento da oferta e mudanças na demanda; resposta ainda pendente.
