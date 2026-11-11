@@ -468,3 +468,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Revisões D3/D7/D21:** 14/11, 18/11, 02/12; variação de enunciados e prioridade ao histórico CESGRANRIO no QConcursos.
 - **Inglês:** iniciada leitura/inferência baseada na prova Transpetro Telecom CESGRANRIO 2018, texto sobre quatro fatores que poderiam afetar mercado de energia em 2018. Texto de exercício resumido/reformulado; não classificar a nova questão como original.
 - [Registro diário](qti/RESULTADOS_DIA_2026-11-11.md).
+
+
+### Fechamento Inglês e início Probabilidade — 11/11/2026
+
+- **Inglês 8/8 (100%)** — oito questões autorais: sete sobre texto de estudo resumido do histórico CESGRANRIO/Transpetro 2018 e uma com texto inédito de dutos. Nada classificado como original da banca. Revisões D7 18/11 e D21 02/12 com textos novos.
+- **Fechamento parcial do dia 17/20 (85%)**: H_LOS 2/3, Português 7/9, Inglês 8/8. Não inclui bateria FSPL anterior equivocadamente identificada como Hloss.
+- **Próximo bloco:** Probabilidade item 1.2, 5 questões, foco Poisson/geométrica/interpretação; primeira adaptada com contexto telecom diferente das históricas já usadas (CESGRANRIO/Petrobras 2012 Q39 e Transpetro 2018 Q64).
+- [Resultado diário completo](qti/RESULTADOS_DIA_2026-11-11.md).
