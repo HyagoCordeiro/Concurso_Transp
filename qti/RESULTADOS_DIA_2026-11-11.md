@@ -127,3 +127,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **B**, gabarito **B**: **ACERTO**. *While* relaciona eventos em contraste (oferta vs demanda); *could* e *might* expressam possibilidade, e não certeza nem obrigação.
 - **Placar parcial Inglês: 6/6 (100%)**. Questões 1–6 são autorais baseadas no resumo adaptado do texto CESGRANRIO/Transpetro 2018; sem tempo líquido medido.
 - Q7/8 atribuída: inferência nova sobre forças potencialmente opostas na disponibilidade mundial de petróleo (aumento da produção de shale e interrupções do fluxo por tensões políticas), resposta pendente.
+
+
+### Inglês Q7/8 — forças opostas na oferta
+
+- Resposta **E**, gabarito **E** — ACERTO. Aumento da produção de shale nos EUA pode ampliar oferta, enquanto interrupções nas rotas de petróleo podem restringir oferta; resultado líquido não é determinado no texto. *Overall effect*, *remain uncertain* e *compensate for*.
+- **Placar parcial Inglês 7/7 (100%)**. Q1 B/B, Q2 D/D, Q3 E/E, Q4 C/C, Q5 A/A, Q6 B/B, Q7 E/E; todos autorais baseados em resumo histórico adaptado da Transpetro 2018.
+- **Q8/8 apresentada:** texto técnico INÉDITO e integralmente autoral sobre inspeções de dutos, leituras estáveis por dois meses e alerta semanal; questão de inferência condicional (*only if*) para elevar dificuldade, não é texto CESGRANRIO original. Resposta pendente.
