@@ -1642,6 +1642,32 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
       "plano": "2 questões finais inéditas CESGRANRIO estilo nível superior cobrando preposição do relativo e valor causal."
+    },
+    {
+      "id": "REV-ING-20261111-D7",
+      "unitId": "INGLES",
+      "materia": "Inglês",
+      "topico": "Reading comprehension: inferências, conectores, modais e referência pronominal",
+      "motivo": "Inglês 11/11 8/8 autorais mas desempenho anterior em originais 2/5 em 10/11. Confirmar transferência para prova histórica inédita.",
+      "origemResultado": "ING-20261111-8Q",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Texto novo de prova CESGRANRIO diferente dos usados: 5 questões originais elegíveis ou adaptadas identificadas; foco inferência, vocabulário e conectores sem repetir os 8 itens autorais."
+    },
+    {
+      "id": "REV-ING-20261111-D21",
+      "unitId": "INGLES",
+      "materia": "Inglês",
+      "topico": "Reading comprehension: inferências, conectores, modais e referência pronominal",
+      "motivo": "Inglês 11/11 8/8 autorais mas desempenho anterior em originais 2/5 em 10/11. Confirmar transferência para prova histórica inédita.",
+      "origemResultado": "ING-20261111-8Q",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Teste final de 5 questões de leitura em texto histórico novo CESGRANRIO (se disponível); incluir ao menos um modal de probabilidade e uma inferência negativa."
     }
   ],
   "updatedAt": "2026-11-11"
