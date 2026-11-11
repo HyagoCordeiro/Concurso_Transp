@@ -492,3 +492,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Próximo na sequência de 11/11:** Bloco 6 revisão de Regulamentação e Espectro (item 13; já estudado em 30/10) e depois Bloco 7 revisão mista dos erros do dia. Usuário pediu conferência do cronograma antes de avançar, então aguardar manifestação.
 - **Revisões antenas D3 14/11, D7 18/11, D21 02/12** com β e ângulos inéditos.
 - [Registro do dia](qti/RESULTADOS_DIA_2026-11-11.md).
+
+
+## Encerramento definitivo — 11/11/2026 — sete blocos
+
+- **Cronograma 7/7 concluído: 29/42 (69,0%)**; registro detalhado em [qti/RESULTADOS_DIA_2026-11-11.md](qti/RESULTADOS_DIA_2026-11-11.md).
+- Bloco 6 Regulamentação/Espectro (item 13): **5/5**, respostas **B,D,A,C,E**, resultado acumulado 28/35 (80%).
+- Bloco 7 revisão de erros: **1/7**; respostas **C,A,B,B,D,C,C**, gabarito **C,D,A,E,C,E,B**. Único acerto H_LOS.
+- **Erros persistentes:** Português (porque causal, cujo/aos quais), Probabilidade (no máximo uma, pelo menos uma) e Antenas (nulos AF, kd cosθ e fase). Manter foco em questões novas e na interpretação dos eventos antes da fórmula.
+- **Revisões D3/D7/D21:** **14/11**, **18/11**, **02/12/2026**. Sem medição de horas líquidas; questões de treino autorais/adaptadas, não percentual de prova oficial inédita.
