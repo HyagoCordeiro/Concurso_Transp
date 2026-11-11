@@ -1561,7 +1561,49 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-10",
       "plano": "Reteste final misto CESGRANRIO nível superior com sujeito posposto, impessoais, sujeito oracional e conectivos, questões novas."
+    },
+    {
+      "id": "REV-HLOS-20261111-D3",
+      "unitId": "7.1",
+      "editalItem": "7.1",
+      "materia": "Radiopropagação",
+      "topico": "H_LOS com obstáculo, altura mínima de antena e liberação de Fresnel",
+      "motivo": "Bloco autoral de 11/11: 2/3, erro na questão de altura mínima; escolheu valor suficiente, não mínimo.",
+      "origemResultado": "HLOS-20261111-BLOCO1",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Uma questão inédita de altura mínima da antena com obstáculo e 60% de Fresnel; exigir H_LOS no ponto e conferir mínimo versus suficiente."
+    },
+    {
+      "id": "REV-HLOS-20261111-D7",
+      "unitId": "7.1",
+      "editalItem": "7.1",
+      "materia": "Radiopropagação",
+      "topico": "H_LOS com obstáculo, altura mínima de antena e liberação de Fresnel",
+      "motivo": "Bloco autoral de 11/11: 2/3, erro na questão de altura mínima; escolheu valor suficiente, não mínimo.",
+      "origemResultado": "HLOS-20261111-BLOCO1",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Novo cenário com altitudes do terreno, zona de Fresnel e raio calculado; não repetir os números das três questões de 11/11."
+    },
+    {
+      "id": "REV-HLOS-20261111-D21",
+      "unitId": "7.1",
+      "editalItem": "7.1",
+      "materia": "Radiopropagação",
+      "topico": "H_LOS com obstáculo, altura mínima de antena e liberação de Fresnel",
+      "motivo": "Bloco autoral de 11/11: 2/3, erro na questão de altura mínima; escolheu valor suficiente, não mínimo.",
+      "origemResultado": "HLOS-20261111-BLOCO1",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Revisão final curta de folga e altura mínima com uma questão adaptada CESGRANRIO e valores novos."
     }
   ],
-  "updatedAt": "2026-11-10"
+  "updatedAt": "2026-11-11"
 }
