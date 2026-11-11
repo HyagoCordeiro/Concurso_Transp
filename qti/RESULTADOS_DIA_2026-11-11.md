@@ -164,3 +164,11 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - **Placar parcial de Probabilidade: 1/2 (50%)**. Questões 1 C/C (Poisson, correta), 2 C/A (Geométrica, incorreta).
 - Revisões do erro de tradução em evento: D3 14/11, D7 18/11, D21 02/12; exercícios novos, sem repetição literal.
 - Questão 3/5 apresentada: original autoral de hipergeométrica com 12 módulos ópticos, 5 defeituosos, extração de 3 sem reposição e exatamente dois defeituosos, baseada no estilo histórico CESGRANRIO Petrobras 2011 Q2876247 (QConcursos), sem reutilizar o texto original; resposta pendente.
+
+
+### Probabilidade Q3/5 — hipergeométrica
+
+- Resposta **E**, gabarito **E** — **ACERTO**. Evento X=2 defeituosos em amostra de 3 retirados de 12 módulos (5 ruins, 7 bons), sem reposição. Combinações favoráveis C(5,2)×C(7,1)=10×7=70; total C(12,3)=220. Probabilidade 70/220 = 7/22 ≈31,82%. Não utilizar binomial porque retiradas são sem reposição.
+- **Placar parcial Probabilidade 2/3 (66,7%)** — Q1 Poisson C/C, Q2 Geométrica C/A (erro de 'exatamente' vs 'até'), Q3 Hipergeométrica E/E.
+- **Total diário parcial** 19/23 =82,6% (H_LOS 2/3 + Português 7/9 + Inglês 8/8 + Probabilidade 2/3); todas as baterias são distintas, inclusive questões mistas, e não medem proficiência em prova oficial.
+- **Q4/5 apresentada:** identificação de distribuição binomial e fórmula com seis transmissões independentes e p=0,2 de falha, exatamente duas falhas. Autoral inspirada em CESGRANRIO/Transpetro Telecom 2018 Q62, QConcursos Q1060193 (original envolve chamadas telefônicas); texto e números novos, resposta pendente.
