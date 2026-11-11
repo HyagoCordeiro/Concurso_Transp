@@ -134,3 +134,18 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **E**, gabarito **E** — ACERTO. Aumento da produção de shale nos EUA pode ampliar oferta, enquanto interrupções nas rotas de petróleo podem restringir oferta; resultado líquido não é determinado no texto. *Overall effect*, *remain uncertain* e *compensate for*.
 - **Placar parcial Inglês 7/7 (100%)**. Q1 B/B, Q2 D/D, Q3 E/E, Q4 C/C, Q5 A/A, Q6 B/B, Q7 E/E; todos autorais baseados em resumo histórico adaptado da Transpetro 2018.
 - **Q8/8 apresentada:** texto técnico INÉDITO e integralmente autoral sobre inspeções de dutos, leituras estáveis por dois meses e alerta semanal; questão de inferência condicional (*only if*) para elevar dificuldade, não é texto CESGRANRIO original. Resposta pendente.
+
+
+## Bloco 3 — Inglês concluído
+
+- **8/8 (100%)** questões válidas, respostas confirmadas do estudante: B,D,E,C,A,B,E,D; gabarito idêntico. Sem tempo cronometrado.
+- Q1 ideia central: B/B; Q2 inferência sobre oferta/demanda: D/D; Q3 renováveis/contraste: E/E; Q4 vocabulário disrupt oil flows: C/C; Q5 referência do pronome them: A/A; Q6 while/could/might: B/B; Q7 forças opostas no abastecimento: E/E; Q8 condição *only if* e concessão *although*: D/D.
+- **Natureza rigorosamente autoral:** Q1–Q7 formuladas nesta sessão com texto de estudo resumido/adaptado do histórico CESGRANRIO/Transpetro Telecom 2018; Q8 texto novo sobre dutos/monitoramento inteiramente autoral. **Não rotular as oito perguntas como questões oficiais da banca**.
+- **Diagnóstico:** desempenho perfeito nesta rodada de leitura, inferência, vocabulário contextual, referência pronominal, conectores e condicionais. Maior desafio seguinte são questões oficiais novas; resultado anterior 2/5 em textos históricos 2023 no dia 10/11 não deve ser apagado por este 8/8 autoral.
+- **Retestes:** D7 18/11; D21 02/12; foco em texto novo histórico e leitura mais exigente, não repetir questões já acertadas.
+
+### Avanço do dia — Bloco 4 de Probabilidade
+
+- Iniciada bateria de **5 questões** (Poisson, geométrica e identificação das distribuições), uma por vez. Q1 inédita: processo Poisson 8 alarmes em 2 h, exatamente 4 em 45 min, com \(\lambda=3\). Gabarito C, não antecipado ao estudante. Questão adaptada ao nível da CESGRANRIO/Transpetro 2018 Q64 (QConcursos Q1060195) e Petrobras 2012 Q39, já usadas anteriormente no repositório; novos valores, enunciado e alternativas. Resposta ainda pendente.
+
+**Total consolidado dos três blocos concluídos de 11/11:** H_LOS 2/3 + Português 7/9 + Inglês 8/8 = **17/20 (85%)**, misto de questões autorais, adaptadas e original. Bloco anterior sobre FSPL foi apresentado por equívoco na interpretação de Hloss e está excluído deste consolidado.
