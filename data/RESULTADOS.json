@@ -5165,6 +5165,60 @@
       ],
       "itensErrados": [],
       "observacao": "Resultado independente: 3/3 históricas + 1/1 NRZ repetida no mesmo dia. Não somar ao fechamento anterior 57/72 como amostra independente. Q61 já vista em versão adaptada em 11/10."
+    },
+    {
+      "id": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+      "eventId": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+      "data": "2026-11-10",
+      "studyDateLocal": "2026-11-10",
+      "tipo": "QTI-10",
+      "disciplina": "Português",
+      "titulo": "QTI-10 Português — Concordância verbal e conectivos (reforço CESGRANRIO Transpetro)",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "totalApresentadas": 11,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "RESPOSTAS_CONFIRMADAS_PELO_CHAT_TEMPO_NAO_MEDIDO",
+      "sourceFile": "qti/portugues/QTI10_PT_CONCORDANCIA_CONECTIVOS_RESULTADO_2026-11-10.json",
+      "questionIds": [
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q01",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q02",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q03",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q04",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q05",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q06",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q07",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q08",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q09",
+        "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q10"
+      ],
+      "desempenhoPorTopico": {
+        "Concordância verbal": {
+          "acertos": 6,
+          "total": 7,
+          "percentual": 85.7
+        },
+        "Conectivos": {
+          "acertos": 3,
+          "total": 3,
+          "percentual": 100
+        }
+      },
+      "itensErrados": [
+        {
+          "questionId": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110-Q01",
+          "topico": "Concordância verbal — cada uma e se apassivador",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "CONCORDANCIA_SUJEITO",
+          "observacao": "Cada uma exige singular; em 'registraram-se diferentes causas', se apassivador exige plural."
+        }
+      ],
+      "observacao": "Complemento autoral separado do fechamento de 57/72. Q07 original anulada por duas respostas válidas (A/C), substituída e não contabilizada. Q03 resposta B substituída por D antes da correção. 9/10 em questões válidas."
     }
   ],
   "updatedAt": "2026-11-10"
