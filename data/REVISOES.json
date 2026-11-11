@@ -1522,6 +1522,45 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-10",
       "plano": "2–3 questões CESGRANRIO inéditas ou vencidas, com distinção entre produto banda-distância, atenuação e dispersão."
+    },
+    {
+      "id": "REV-PT-CONCORDANCIA-CONECTIVOS-20261110-D3",
+      "unitId": "PORTUGUES-CONCORDANCIA-CONECTIVOS",
+      "materia": "Português",
+      "topico": "Concordância com cada um(a), identificação do sujeito, partícula apassivadora e conectivos",
+      "motivo": "QTI-10 autoral de 10/11: 9/10; erro Q01, revisar retenção de acertos",
+      "origemResultado": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+      "agendadaPara": "2026-11-13",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "3 questões novas: identificar núcleo de 'cada um(a)', voz passiva sintética com 'se' e verbos transitivos indiretos com 'se'. Não reapresentar a questão anulada."
+    },
+    {
+      "id": "REV-PT-CONCORDANCIA-CONECTIVOS-20261110-D7",
+      "unitId": "PORTUGUES-CONCORDANCIA-CONECTIVOS",
+      "materia": "Português",
+      "topico": "Concordância com cada um(a), identificação do sujeito, partícula apassivadora e conectivos",
+      "motivo": "QTI-10 autoral de 10/11: 9/10; erro Q01, revisar retenção de acertos",
+      "origemResultado": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "QTI de retenção com enunciados inéditos de concordância verbal, incluindo sujeitos distantes e particula apassivadora; 1 conectivo adversativo/concessivo para controle."
+    },
+    {
+      "id": "REV-PT-CONCORDANCIA-CONECTIVOS-20261110-D21",
+      "unitId": "PORTUGUES-CONCORDANCIA-CONECTIVOS",
+      "materia": "Português",
+      "topico": "Concordância com cada um(a), identificação do sujeito, partícula apassivadora e conectivos",
+      "motivo": "QTI-10 autoral de 10/11: 9/10; erro Q01, revisar retenção de acertos",
+      "origemResultado": "QTI10-PT-CONCORDANCIA-CONECTIVOS-20261110",
+      "agendadaPara": "2026-12-01",
+      "prioridade": "media",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-10",
+      "plano": "Reteste final misto CESGRANRIO nível superior com sujeito posposto, impessoais, sujeito oracional e conectivos, questões novas."
     }
   ],
   "updatedAt": "2026-11-10"
