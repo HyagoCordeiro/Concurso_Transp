@@ -30,3 +30,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Q2/9 autoral sobre regência/crase (referir-se a; proceder a; preferir; assistir; aspirar): **E/E**, acerto. Gabarito da alternativa E: referiram-se às especificações e procederam à inspeção.
 - **Placar parcial Português: 1/2 (50%)**, questões autorais.
 - Q3/9: inédita, emprego de por que / porquê / por quê em interrogativa indireta, substantivo e final de pergunta; resposta pendente.
+
+
+### Português Q3/9 — porquês
+
+- Resposta do estudante: **C**; gabarito **C**; **ACERTO**. Interrogativa indireta 'por que'; substantivo 'o porquê'; final de pergunta 'por quê'.
+- **Placar parcial: 2/3 (66,7%)** — Q1 C/A (erro), Q2 E/E (acerto), Q3 C/C (acerto).
+- **Q4/9:** adaptação nova a partir de CESGRANRIO/EPE 2009 Q122504 (QConcursos), pronomes relativos e regência; ainda sem resposta.
