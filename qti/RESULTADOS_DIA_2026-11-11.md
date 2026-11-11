@@ -221,3 +221,10 @@ Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, 
 - Resposta **E**, gabarito **E** — **ACERTO**. Quatro elementos isotrópicos, d=λ/4, β=0, kd=π/2, ψ=(π/2)cosθ. AF(0)=|1+j−1−j|=0; AF(90)=|1+1+1+1|=4 (máximo); AF(180)=|1−j−1+j|=0. **Broadside**, máximo perpendicular ao eixo.
 - **Parcial bloco 5: 2/3 (66,7%)**, Q1 D/D, Q2 B/C, Q3 E/E. **Total do dia 22/28 (78,6%)**, excluindo o primeiro bloco FSPL equivocado. Estudo misto autoral e adaptado, sem tempo cronometrado.
 - **Q4/5 apresentada:** questão inédita de multicast PIM e Reverse Path Forwarding (RPF), tabela unicast indica interface Gi0/1 até fonte S, mas pacote chega por Gi0/2. Testa checagem RPF, não o simples IGMP. Base de estilo: CESGRANRIO/Transpetro Telecom 2018 Q1060181 e Petrobras Técnico Telecom 2010 Q189713 no QConcursos; não é original dessas provas. Resposta pendente.
+
+
+### Bloco 5 Q4/5 — multicast RPF
+
+- Resposta **C**, gabarito **C** — **ACERTO**. R1 recebe pacote multicast de S via Gi0/2, mas para alcançar S consultando a rota unicast usa Gi0/1, não bate entrada esperada, teste Reverse Path Forwarding reprova e pacote é descartado. Considerar caso de RPF baseado na fonte para (S,G); em árvore compartilhada (*,G) usa RP como referência.
+- **Placar parcial do bloco 5 3/4 (75%)**: Q1 multicast D/D, Q2 antenas B/C, Q3 broadside E/E, Q4 multicast RPF C/C. Parcial do dia: **23/29 (79,3%)**.
+- **Q5/5 apresentada:** inédita autoral em conjunto linear de 5 elementos isotrópicos ao longo de z, d=λ/2, beta=-π/2, determinar direção do feixe principal entre 0 e 180 graus. Variedade de fase/direcionamento diferente do broadside 4 elementos e end-fire 3 elementos. Questão da Transpetro 2023 Q21 (QConcursos Q2326965) verificada como referência apenas conceitual de conjuntos de antenas; NÃO atribuir análise de fases à questão original. Resposta pendente.
