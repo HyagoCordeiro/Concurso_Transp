@@ -20,3 +20,11 @@
 ## Bloco 2 — Português
 
 Iniciado após a correção de H_LOS; respostas pendentes. Priorizar regência, porquês e interpretação; uso de originais CESGRANRIO de texto ainda não empregado, conforme protocolo anti-repetição.
+
+
+### Português Q1/9 — porquês
+
+- Resposta do estudante: **C**; gabarito da questão autoral: **A**; **0/1** na rodada de Português até aqui.
+- Enunciado autoral: “A repetição das mesmas palavras indica um empobrecimento das letras ______ o visual ganhou um peso grande.” A única afirmativa correta é I: “porque” (conjunção causal); II “por que” e III “porquê” falsas no contexto.
+- **Auditoria de origem:** O identificador QConcursos Q2387104 foi atribuído incorretamente ao exercício anterior. O ID real corresponde a questão CESGRANRIO/UNEMAT 2024 sobre conectores (texto “Vale tudo pela sua atenção nas redes sociais?”), não ao exercício dos porquês. **Não catalogar o exercício autoral como questão original Q2387104.**
+- Q2/9 autoral sobre regência/crase (referir-se a; proceder a; preferir; assistir; aspirar) apresentada, resposta pendente.
