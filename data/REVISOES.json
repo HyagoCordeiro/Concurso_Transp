@@ -1752,6 +1752,48 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-11",
       "plano": "Revisar leitura de 'ao menos', 'até', 'mais de', com 2 situações novas sem repetir números de 11/11."
+    },
+    {
+      "id": "REV-ANTENAS63-20261111-D3",
+      "unitId": "6.3",
+      "editalItem": "6.3",
+      "materia": "Antenas",
+      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
+      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
+      "agendadaPara": "2026-11-14",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Novos N, espaçamento e beta: determinar fase psi, comparar AF(0), AF(90) e AF(180); diferenciar end-fire uni/bidirecional e broadside."
+    },
+    {
+      "id": "REV-ANTENAS63-20261111-D7",
+      "unitId": "6.3",
+      "editalItem": "6.3",
+      "materia": "Antenas",
+      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
+      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
+      "agendadaPara": "2026-11-18",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Questão CESGRANRIO adaptada de máximo de fator de conjunto, controle de polaridade de beta e direção de irradiação, com configurações inéditas."
+    },
+    {
+      "id": "REV-ANTENAS63-20261111-D21",
+      "unitId": "6.3",
+      "editalItem": "6.3",
+      "materia": "Antenas",
+      "topico": "Fator de conjunto de antenas, end-fire unidirecional/bidirecional, fase progressiva beta",
+      "motivo": "Em 11/11 bloco 5 Q2, última resposta B, correta C. Confundiu end-fire bidirecional com lóbulo único em theta=180°, ao calcular beta=+kd.",
+      "origemResultado": "BL5-20261111-MULTICAST-ANTENAS",
+      "agendadaPara": "2026-12-02",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-11",
+      "plano": "Reteste curto de broadside vs end-fire e condição fase para AF máximo, sem reutilizar d=lambda/3 ou N=3 do dia 11/11."
     }
   ],
   "updatedAt": "2026-11-11"
