@@ -524,3 +524,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Revisão mista:** 11/12. Único erro CWDM/SDH Q11: calculou corretamente `16×2,5=40 Gbps` agregados, mas pergunta exigia STM transportável **por um único canal** de 2,5 Gbps (STM-16). **Classificar como interpretação; não como erro aritmético/técnico da hierarquia.**
 - **Próximas revisões sugeridas:** D3 15/11; D7 19/11; D21 03/12 (ajustar conforme disponibilidade e proximidade da prova em 06/12).
 - **Registro completo:** [qti/RESULTADOS_DIA_2026-11-12.md](qti/RESULTADOS_DIA_2026-11-12.md) | [dados JSON](qti/RESULTADOS_DIA_2026-11-12.json).
+
+
+### QTI-20 adicional — 12/11/2026, após o cronograma
+
+- **14/20 (70%)**, 6 erros; **separado** dos 52/63 do fechamento principal, pois contém questões originais reapresentadas e autorais. Tempo de execução não cronometrado.
+- **Erros por questão:** Q1 variância binomial x média; Q2 potências de j; Q3 janela de degraus com limite exclusivo; Q4 fase negativa de H(jω) em denominador; Q7 QoS de videoconferência (CESGRANRIO 2012 Q54); Q9 HPBW versus FNBW.
+- **Acertos nas originais CESGRANRIO/Transpetro 2012:** Q44 BGP, Q48 MPLS, Q67 E-Line/UNI, Q68 perfil de banda; **erro na Q54** videoconferência (gabarito alterado A). Gabarito alterado 2012 foi consultado.
+- **Próximo passo:** reparo breve dos seis erros; reteste espaçado. [Registro QTI-20](qti/QTI20_2026-11-12.md).
