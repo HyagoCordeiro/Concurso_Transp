@@ -532,3 +532,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Erros por questão:** Q1 variância binomial x média; Q2 potências de j; Q3 janela de degraus com limite exclusivo; Q4 fase negativa de H(jω) em denominador; Q7 QoS de videoconferência (CESGRANRIO 2012 Q54); Q9 HPBW versus FNBW.
 - **Acertos nas originais CESGRANRIO/Transpetro 2012:** Q44 BGP, Q48 MPLS, Q67 E-Line/UNI, Q68 perfil de banda; **erro na Q54** videoconferência (gabarito alterado A). Gabarito alterado 2012 foi consultado.
 - **Próximo passo:** reparo breve dos seis erros; reteste espaçado. [Registro QTI-20](qti/QTI20_2026-11-12.md).
+
+
+#### Reparo do QTI-20 — 12/11/2026
+
+- **10/12 (83,3%)**, 2 por cada um dos 6 erros do QTI; **treino dirigido separado**, não somar com QTI 14/20 nem com 52/63 dos blocos.
+- **Recuperados em 2/2:** variância binomial, degrau, QoS videoconferência e HPBW/FNBW.
+- **Pendentes (1/2 cada):** complexos — `(1−j)^3` (marcou D, correto A = −2−2j); resposta em frequência — `4/(2−2j)` (marcou B, correto C = √2∠+45°; fase acertada, módulo errado).
+- Próximo reteste: números complexos (potências de j) e cálculo de módulo de quocientes.
