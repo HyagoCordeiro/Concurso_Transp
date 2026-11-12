@@ -16,6 +16,17 @@ Maximizar a quantidade de **questões relevantes efetivamente resolvidas**, dent
 - O próprio aluno administra seu tempo nas questões. Só informar métricas de tempo efetivamente aferidas/informadas, nunca estimar tempo líquido sem evidência.
 - **Não forçar novo bloco automaticamente** em caso de pausa, dúvida ou mudança de assunto. Se houver continuação solicitada, manter o ritmo e o formato rápido.
 
+
+## Caderno de erros obrigatório — decisão de 12/11/2026
+
+- **Sempre manter e atualizar** `qti/CADERNO_ERROS.md` (consulta humana) e `data/CADERNO_ERROS.json` (controle estruturado) **após cada QTI, bateria, bloco, reforço ou simulado que contenha erro**; consultar antes de oferecer novas questões. O caderno não substitui `data/QUESTOES.json`, `data/RESULTADOS.json` nem `data/REVISOES.json`: manter arquivos coerentes.
+- Para cada erro, registrar: data, ID da questão/rodada, item do edital, tema, resposta marcada, gabarito, **tipo de erro** (conceito, cálculo, interpretação, desatenção, procedimento ou **conteúdo ainda não ensinado**), regra curta, próximo passo, data de revisão e evidência posterior.
+- **Nunca tratar questão de conteúdo ainda não apresentado como esquecimento ou domínio baixo.** Primeiro ensinar a teoria com referência oficial/histórica CESGRANRIO, quando disponível, e só depois cobrar exercícios.
+- **Reparo imediato:** normalmente duas questões novas por erro, conforme pedido do estudante. Acerto no reparo muda o status para `REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE`, nunca para “consolidado” sem reavaliação espaçada.
+- **Revisão espaçada:** sugerir D3, D7 e D21; marcar `CONSOLIDADO_APOS_RETESTE` só após acertar uma nova questão da mesma competência em momento posterior. Questões resolvidas corretamente permanecem bloqueadas por anti-repetição.
+- Exibir ao estudante, ao fechar o estudo, o placar e a **quantidade de erros pendentes para a próxima sessão**. Não forçar um bloco de reparo sem que seja solicitado; caderno disponível para continuidade a qualquer momento.
+- Preservar as questões originais CESGRANRIO quando verificadas, com QConcursos como referência; **não classificar como original confirmada se só houve uma atribuição verbal sem verificação da fonte**.
+
 ## Simulados de prova completa — trilha separada
 - Reservar alguns dias para **simulados completos de 70 questões**, preferencialmente aos domingos, **conforme disponibilidade e confirmação do aluno**. Planejamento prévio é sugestão, não agendamento compulsório.
 - Espelhar o formato das provas CESGRANRIO/Transpetro: **10 Português, 10 Inglês e 50 específicas; cinco alternativas A–E**, tempo total de referência **4h30**, incluindo preenchimento de gabarito.
