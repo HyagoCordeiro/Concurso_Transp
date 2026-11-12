@@ -1,0 +1,57 @@
+{
+  "id": "QTI10-PORTUGUES-20261111-TECNOLOGIA",
+  "data": "2026-11-11",
+  "disciplina": "Língua Portuguesa",
+  "banca": "CESGRANRIO (estilo)",
+  "concurso": "Transpetro 2026",
+  "tipo": "QTI-10",
+  "fonte": "Questões autorais elaboradas para treinamento com texto-base próprio; não são questões oficiais",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "respostas": [
+    "C",
+    "D",
+    "B",
+    "E",
+    "C",
+    "D",
+    "E",
+    "E",
+    "D",
+    "C"
+  ],
+  "gabarito": [
+    "C",
+    "D",
+    "B",
+    "E",
+    "B",
+    "D",
+    "E",
+    "E",
+    "D",
+    "C"
+  ],
+  "topicos": [
+    "Interpretação textual",
+    "Conectivos: concessão",
+    "Coesão referencial",
+    "Pontuação: conectivo adversativo",
+    "Concordância verbal",
+    "Regência e crase",
+    "Semântica argumentativa",
+    "Colocação pronominal",
+    "Reescrita e equivalência",
+    "Concordância verbal: partitivo"
+  ],
+  "questaoErrada": {
+    "numero": 5,
+    "resposta": "C",
+    "gabarito": "B",
+    "topico": "Concordância verbal",
+    "observacao": "Núcleo singular 'utilização' exige 'oferece'; embora + sujeito plural 'desafios' exige 'existam'."
+  },
+  "tempoCronometrado": false
+}
