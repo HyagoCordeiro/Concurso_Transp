@@ -510,3 +510,17 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Macete registrado:** para dois pulsos retangulares simétricos e Transformada com e^(-jωt), padrão -/+ gera -2j·sen e +/- gera +2j·sen (não generalizar para séries ou sinais quaisquer).
 - **Método:** texto simples, quantidade flexível por pedido, correção ágil e gráficos somente quando necessários. Simulados de 70 questões preferencialmente aos domingos, conforme disponibilidade.
 - **Este ciclo é adicional ao registro de sete blocos (29/42) já existente para 11/11; não consolidar automaticamente sem conferir IDs.** Detalhes: [fechamento complementar](qti/FECHAMENTO_COMPLEMENTAR_QTI_FOURIER_2026-11-11.md). Tempo não informado.
+
+
+## Evidências — 12/11/2026
+
+- **Fechamento do dia: 52/63 (82,5%)**, em **sete blocos principais**, contando o reforço de Antenas; **treino guiado misto**, não simulado independente; tempo líquido **não medido**.
+- **Probabilidade:** 8/8. Exercícios extras de autocorrelação e TLC fora do agregado: variância 1/1, cauda direita incorreta inicialmente e corrigida após revelar gabarito, cauda esquerda 1/1.
+- **Antenas:** 4/7; reforço 2/3. Nulos e polarização recuperados no reforço. Persistiu a interpretação do **hemisfério superior** do monopolo sobre plano de terra ideal.
+- **Fourier:** 4/7; erros em convenção do termo `a0/2`, área algébrica de `X(0)`, e adiantamento após inversão `x(-t-3)`. **Bateria autoral percebida como acima da profundidade histórica; recalibrar para Transpetro/CESGRANRIO**; não usar nota isolada para domínio do assunto.
+- **Sinais/Sistemas/LIT:** 5/6, erro na multiplicação por `z²` de numerador e denominador ao obter `H(z)`. Questões originais de 2023 Q68/Q69 **reapresentadas**, não inéditas.
+- **Português:** 9/10, único erro de pontuação em expressão intercalada `afinal`.
+- **Inglês:** 9/10, único erro em `provided that` = `as long as` (condição), e não `even though` (concessão).
+- **Revisão mista:** 11/12. Único erro CWDM/SDH Q11: calculou corretamente `16×2,5=40 Gbps` agregados, mas pergunta exigia STM transportável **por um único canal** de 2,5 Gbps (STM-16). **Classificar como interpretação; não como erro aritmético/técnico da hierarquia.**
+- **Próximas revisões sugeridas:** D3 15/11; D7 19/11; D21 03/12 (ajustar conforme disponibilidade e proximidade da prova em 06/12).
+- **Registro completo:** [qti/RESULTADOS_DIA_2026-11-12.md](qti/RESULTADOS_DIA_2026-11-12.md) | [dados JSON](qti/RESULTADOS_DIA_2026-11-12.json).
