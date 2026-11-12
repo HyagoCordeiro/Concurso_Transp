@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-12",
+  "studyDateLocal": "2026-11-12",
+  "tipo": "TREINO_GUIADO_BLOCOS_MISTOS",
+  "totalQuestoes": 63,
+  "acertos": 52,
+  "erros": 11,
+  "percentual": 82.5,
+  "fonte": "conversa de estudo 2026-11-12",
+  "sourceFile": "qti/RESULTADOS_DIA_2026-11-12.md",
+  "diagnosticValidity": "TREINO_GUIADO_MISTO_COM_REAPRESENTACOES_REFORCOS_NAO_SIMULADO_LIMPO",
+  "tempoLiquidoSec": null,
+  "blocks": [
+    {
+      "id": "DIA-20261112-PROB",
+      "titulo": "Probabilidade",
+      "totalQuestoes": 8,
+      "acertos": 8,
+      "erros": 0,
+      "percentual": 100,
+      "respostas": [
+        "E",
+        "D",
+        "B",
+        "A",
+        "C",
+        "E",
+        "D",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "D",
+        "B",
+        "A",
+        "C",
+        "E",
+        "D",
+        "B"
+      ],
+      "questionIds": [
+        "DIA-20261112-PROB-Q01",
+        "DIA-20261112-PROB-Q02",
+        "DIA-20261112-PROB-Q03",
+        "DIA-20261112-PROB-Q04",
+        "DIA-20261112-PROB-Q05",
+        "DIA-20261112-PROB-Q06",
+        "DIA-20261112-PROB-Q07",
+        "DIA-20261112-PROB-Q08"
+      ]
+    },
+    {
+      "id": "DIA-20261112-ANT",
+      "titulo": "Antenas e Arranjos",
+      "totalQuestoes": 7,
+      "acertos": 4,
+      "erros": 3,
+      "percentual": 57.1,
+      "respostas": [
+        "E",
+        "C",
+        "D",
+        "A",
+        "E",
+        "D",
+        "C"
+      ],
+      "gabarito": [
+        "A",
+        "C",
+        "D",
+        "B",
+        "E",
+        "B",
+        "C"
+      ],
+      "questionIds": [
+        "DIA-20261112-ANT-Q01",
+        "DIA-20261112-ANT-Q02",
+        "DIA-20261112-ANT-Q03",
+        "DIA-20261112-ANT-Q04",
+        "DIA-20261112-ANT-Q05",
+        "DIA-20261112-ANT-Q06",
+        "DIA-20261112-ANT-Q07"
+      ]
+    },
+    {
+      "id": "DIA-20261112-ANT-REF",
+      "titulo": "Reforço de Antenas",
+      "totalQuestoes": 3,
+      "acertos": 2,
+      "erros": 1,
+      "percentual": 66.7,
+      "respostas": [
+        "D",
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "C",
+        "D",
+        "A"
+      ],
+      "questionIds": [
+        "DIA-20261112-ANT-REF-Q01",
+        "DIA-20261112-ANT-REF-Q02",
+        "DIA-20261112-ANT-REF-Q03"
+      ]
+    },
+    {
+      "id": "DIA-20261112-FOURIER",
+      "titulo": "Série e Transformada de Fourier",
+      "totalQuestoes": 7,
+      "acertos": 4,
+      "erros": 3,
+      "percentual": 57.1,
+      "respostas": [
+        "A",
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "B",
+        "D",
+        "E",
+        "A",
+        "C",
+        "E"
+      ],
+      "questionIds": [
+        "DIA-20261112-FOURIER-Q01",
+        "DIA-20261112-FOURIER-Q02",
+        "DIA-20261112-FOURIER-Q03",
+        "DIA-20261112-FOURIER-Q04",
+        "DIA-20261112-FOURIER-Q05",
+        "DIA-20261112-FOURIER-Q06",
+        "DIA-20261112-FOURIER-Q07"
+      ]
+    },
+    {
+      "id": "DIA-20261112-LIT",
+      "titulo": "Sinais e Sistemas/LIT",
+      "totalQuestoes": 6,
+      "acertos": 5,
+      "erros": 1,
+      "percentual": 83.3,
+      "respostas": [
+        "D",
+        "E",
+        "D",
+        "C",
+        "A",
+        "B"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "D",
+        "C",
+        "A",
+        "B"
+      ],
+      "questionIds": [
+        "DIA-20261112-LIT-Q01",
+        "DIA-20261112-LIT-Q02",
+        "DIA-20261112-LIT-Q03",
+        "DIA-20261112-LIT-Q04",
+        "DIA-20261112-LIT-Q05",
+        "DIA-20261112-LIT-Q06"
+      ]
+    },
+    {
+      "id": "DIA-20261112-PT",
+      "titulo": "Português",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "respostas": [
+        "C",
+        "B",
+        "E",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "D"
+      ],
+      "gabarito": [
+        "C",
+        "B",
+        "E",
+        "D",
+        "A",
+        "B",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "questionIds": [
+        "DIA-20261112-PT-Q01",
+        "DIA-20261112-PT-Q02",
+        "DIA-20261112-PT-Q03",
+        "DIA-20261112-PT-Q04",
+        "DIA-20261112-PT-Q05",
+        "DIA-20261112-PT-Q06",
+        "DIA-20261112-PT-Q07",
+        "DIA-20261112-PT-Q08",
+        "DIA-20261112-PT-Q09",
+        "DIA-20261112-PT-Q10"
+      ]
+    },
+    {
+      "id": "DIA-20261112-ING",
+      "titulo": "Inglês",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "respostas": [
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "B",
+        "E",
+        "C",
+        "B"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "B"
+      ],
+      "questionIds": [
+        "DIA-20261112-ING-Q01",
+        "DIA-20261112-ING-Q02",
+        "DIA-20261112-ING-Q03",
+        "DIA-20261112-ING-Q04",
+        "DIA-20261112-ING-Q05",
+        "DIA-20261112-ING-Q06",
+        "DIA-20261112-ING-Q07",
+        "DIA-20261112-ING-Q08",
+        "DIA-20261112-ING-Q09",
+        "DIA-20261112-ING-Q10"
+      ]
+    },
+    {
+      "id": "DIA-20261112-MISTA",
+      "titulo": "Revisão mista de Telecom",
+      "totalQuestoes": 12,
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "C",
+        "E",
+        "A",
+        "E",
+        "E"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "C",
+        "E",
+        "A",
+        "C",
+        "E"
+      ],
+      "questionIds": [
+        "DIA-20261112-MISTA-Q01",
+        "DIA-20261112-MISTA-Q02",
+        "DIA-20261112-MISTA-Q03",
+        "DIA-20261112-MISTA-Q04",
+        "DIA-20261112-MISTA-Q05",
+        "DIA-20261112-MISTA-Q06",
+        "DIA-20261112-MISTA-Q07",
+        "DIA-20261112-MISTA-Q08",
+        "DIA-20261112-MISTA-Q09",
+        "DIA-20261112-MISTA-Q10",
+        "DIA-20261112-MISTA-Q11",
+        "DIA-20261112-MISTA-Q12"
+      ]
+    }
+  ],
+  "additionalTlcRef": [
+    {
+      "id": "DIA-20261112-TLC-REF-Q01",
+      "topic": "Variância e desvio padrão com média 4 e R(0)=29",
+      "lastResponse": "B",
+      "gabarito": "B",
+      "lastResult": "CORRETA",
+      "note": "Questão de reforço extra; variância=13, desvio padrão=√13.",
+      "canonicalId": "AUTORAL-DIA-20261112-TLC-REF-Q01",
+      "subject": "Engenharia de Telecomunicações",
+      "sourceType": "AUTORAL_REFORCO",
+      "assignedAt": "2026-11-12",
+      "lastSeenAt": "2026-11-12",
+      "assignedStatus": "ANSWERED",
+      "assignedSessionId": "DIA-20261112-TLC-REF",
+      "questionFingerprintText": "Variância e desvio padrão com média 4 e R(0)=29",
+      "nextEligibleAt": "2026-11-15",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-12.md",
+      "diagnosticValidity": "REFORCO_FORA_DO_AGREGADO_PRINCIPAL"
+    },
+    {
+      "id": "DIA-20261112-TLC-REF-Q02",
+      "topic": "TLC: P(média amostral >84), μ=80, σ=20, n=100",
+      "lastResponse": "A",
+      "gabarito": "E",
+      "lastResult": "INCORRETA",
+      "note": "Primeira tentativa A errada por confusão entre cauda direita e esquerda. Após a correção e revelação do gabarito, usuário respondeu E; não contar como segundo acerto independente.",
+      "canonicalId": "AUTORAL-DIA-20261112-TLC-REF-Q02",
+      "subject": "Engenharia de Telecomunicações",
+      "sourceType": "AUTORAL_REFORCO",
+      "assignedAt": "2026-11-12",
+      "lastSeenAt": "2026-11-12",
+      "assignedStatus": "ANSWERED",
+      "assignedSessionId": "DIA-20261112-TLC-REF",
+      "questionFingerprintText": "TLC: P(média amostral >84), μ=80, σ=20, n=100",
+      "nextEligibleAt": null,
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-12.md",
+      "diagnosticValidity": "REFORCO_FORA_DO_AGREGADO_PRINCIPAL"
+    },
+    {
+      "id": "DIA-20261112-TLC-REF-Q03",
+      "topic": "TLC: P(média amostral <115), μ=120, σ=30, n=36",
+      "lastResponse": "B",
+      "gabarito": "B",
+      "lastResult": "CORRETA",
+      "note": "Questão de reforço extra; P(Z<-1)=15,87%. Fora do agregado 52/63.",
+      "canonicalId": "AUTORAL-DIA-20261112-TLC-REF-Q03",
+      "subject": "Engenharia de Telecomunicações",
+      "sourceType": "AUTORAL_REFORCO",
+      "assignedAt": "2026-11-12",
+      "lastSeenAt": "2026-11-12",
+      "assignedStatus": "ANSWERED",
+      "assignedSessionId": "DIA-20261112-TLC-REF",
+      "questionFingerprintText": "TLC: P(média amostral <115), μ=120, σ=30, n=36",
+      "nextEligibleAt": "2026-11-15",
+      "lastSourceFile": "qti/RESULTADOS_DIA_2026-11-12.md",
+      "diagnosticValidity": "REFORCO_FORA_DO_AGREGADO_PRINCIPAL"
+    }
+  ],
+  "notes": [
+    "Fourier autoral acima do nível histórico percebido; calibrar para originais CESGRANRIO.",
+    "CWDM/SDH: erro interpretação por canal vs agregado, não erro de cálculo ou de taxa STM.",
+    "TLC questão cauda superior teve resposta corrigida após gabarito, não contar como acerto novo."
+  ],
+  "plannedReviewDates": [
+    "2026-11-15",
+    "2026-11-19",
+    "2026-12-03"
+  ]
+}
