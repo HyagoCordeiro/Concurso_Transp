@@ -6116,6 +6116,86 @@
         }
       ],
       "note": "Resultado adicional ao fechamento dos 7 blocos do mesmo dia (52/63); sem tempo medido."
+    },
+    {
+      "id": "QTI20-20261112-REPARO12",
+      "eventId": "QTI20-20261112-REPARO12",
+      "data": "2026-11-12",
+      "studyDateLocal": "2026-11-12",
+      "tipo": "REPARO_QTI20",
+      "titulo": "12 questões de reforço — 2 por erro do QTI-20",
+      "totalQuestoes": 12,
+      "totalValidas": 12,
+      "acertos": 10,
+      "erros": 2,
+      "percentual": 83.3,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPARO",
+      "diagnosticValidity": "REPARO_DIRIGIDO_APOS_EXPOSICAO_GABARITO_NAO_SIMULADO_INDEPENDENTE",
+      "sourceFile": "qti/QTI20_2026-11-12.md",
+      "questionIds": [
+        "QTI20-20261112-REPARO12-Q01",
+        "QTI20-20261112-REPARO12-Q02",
+        "QTI20-20261112-REPARO12-Q03",
+        "QTI20-20261112-REPARO12-Q04",
+        "QTI20-20261112-REPARO12-Q05",
+        "QTI20-20261112-REPARO12-Q06",
+        "QTI20-20261112-REPARO12-Q07",
+        "QTI20-20261112-REPARO12-Q08",
+        "QTI20-20261112-REPARO12-Q09",
+        "QTI20-20261112-REPARO12-Q10",
+        "QTI20-20261112-REPARO12-Q11",
+        "QTI20-20261112-REPARO12-Q12"
+      ],
+      "respostas": [
+        "D",
+        "C",
+        "E",
+        "D",
+        "B",
+        "D",
+        "B",
+        "E",
+        "B",
+        "A",
+        "D",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "E",
+        "A",
+        "B",
+        "D",
+        "C",
+        "E",
+        "B",
+        "A",
+        "D",
+        "C"
+      ],
+      "itensErrados": [
+        {
+          "id": "QTI20-20261112-REPARO12-Q04",
+          "topic": "(1−j)^3, potência complexa",
+          "unitId": "2.1",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "resultado": "INCORRETA",
+          "errorType": "POTENCIAS_COMPLEXAS_J2_SINAL"
+        },
+        {
+          "id": "QTI20-20261112-REPARO12-Q07",
+          "topic": "Resposta em frequência H=4/(2−2j): módulo e fase",
+          "unitId": "3.4",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "resultado": "INCORRETA",
+          "errorType": "MODULO_QUOCIENTE_COMPLEXO"
+        }
+      ],
+      "observacao": "Quatro famílias recuperadas 2/2 (binomial, degrau, QoS, HPBW); complexos e módulo/fase 1/2. Não agregar 10/12 ao QTI20 original 14/20."
     }
   ],
   "updatedAt": "2026-11-12"
