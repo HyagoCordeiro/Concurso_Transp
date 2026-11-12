@@ -6196,6 +6196,36 @@
         }
       ],
       "observacao": "Quatro famílias recuperadas 2/2 (binomial, degrau, QoS, HPBW); complexos e módulo/fase 1/2. Não agregar 10/12 ao QTI20 original 14/20."
+    },
+    {
+      "id": "QTI20-20261112-REPARO-FINAL2",
+      "eventId": "QTI20-20261112-REPARO-FINAL2",
+      "data": "2026-11-12",
+      "studyDateLocal": "2026-11-12",
+      "tipo": "REPARO_DIRIGIDO_QTI20",
+      "titulo": "Reforço final — operações com complexos e resposta em frequência",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPARO",
+      "diagnosticValidity": "REPARO_DIRIGIDO_APOS_ERROS_ANTERIORES_SEM_TEMPO_MEDIDO",
+      "sourceFile": "qti/QTI20_2026-11-12.md",
+      "questionIds": [
+        "QTI20-20261112-REPARO-FINAL2-Q01",
+        "QTI20-20261112-REPARO-FINAL2-Q02"
+      ],
+      "respostas": [
+        "D",
+        "B"
+      ],
+      "gabarito": [
+        "D",
+        "B"
+      ],
+      "observacao": "Reparo adicional separado do QTI20 original 14/20 e do reforço 10/12. Retenção ainda exige revisão espaçada."
     }
   ],
   "updatedAt": "2026-11-12"
