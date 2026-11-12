@@ -170,3 +170,10 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 ### QTI-20 adicional — 12/11/2026
 
 [Respostas e diagnóstico](qti/QTI20_2026-11-12.md): **14/20 (70%)**, revisão mista após o cronograma; seis erros (variância binomial, complexos, limites de degrau, fase em H(jω), videoconferência e HPBW). Gabarito das cinco questões históricas conferido com a versão alterada da prova 13 de 2012. **Mantido em registro separado** dos 52/63.
+
+
+## Caderno de erros — obrigatório (12/11/2026)
+
+**Antes de criar uma nova bateria:** consultar [qti/CADERNO_ERROS.md](qti/CADERNO_ERROS.md) e [data/CADERNO_ERROS.json](data/CADERNO_ERROS.json), juntamente com `data/QUESTOES.json` e `data/REVISOES.json`. A cada correção, registrar erros e lacunas de conteúdo, reforços e retestes sem apagar os erros originais. O [protocolo rápido](docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md) foi atualizado com as regras detalhadas.
+
+**Dois QTI-10 do encerramento de 12/11:** [rodada 1 — 8/10](qti/QTI10_2026-11-12_RODADA1.md) e [encerramento — 8/10](qti/QTI10_2026-11-12_ENCERRAMENTO.md). Em conjunto com QTI-20 14/20, **30/40 = 75%**, excluídos reforços. Duas lacunas identificadas são conteúdo ainda não ensinado (distribuição exponencial e EDCA); duas são erros de cálculo/sinal em decibéis.
