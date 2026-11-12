@@ -155,3 +155,13 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 - Item10 em **EM_REVISAO**. D3 dos erros:16/10;D7:20/10;D21:03/11.
 - **Próxima retomada sequencial sugerida:11.1 — IP multicast;DiffServ;CBWFQ;LLQ.**
 - Sem novos resultados de Português/Inglês confirmados neste fechamento.
+
+
+## Fechamento — 12/11/2026
+
+[Relatório e diagnóstico dos 7 blocos](qti/RESULTADOS_DIA_2026-11-12.md) · [Resultados estruturados](qti/RESULTADOS_DIA_2026-11-12.json)
+
+- **52/63 (82,5%)**, incluindo reforço de Antenas. Treino guiado misto (originais reapresentadas, adaptações e autorais); não é simulado independente. Sem tempo líquido aferido.
+- Probabilidade 8/8; Antenas 4/7 + reforço 2/3; Fourier 4/7; LIT 5/6; Português 9/10; Inglês 9/10; Revisão mista 11/12.
+- Ajuste pedagógico: evitar Fourier autoral acima da profundidade histórica CESGRANRIO; classificar CWDM/SDH como erro de **interpretação de 'um único canal'**, pois o cálculo de capacidade total 40 Gbps estava correto.
+- **3 exercícios extras de TLC/autocorrelação fora do agregado**; veja relatório. Banco anti-repetição atualizado com 66 exposições do dia. D3 15/11, D7 19/11, D21 03/12.
