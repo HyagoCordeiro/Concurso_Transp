@@ -165,3 +165,8 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 - Probabilidade 8/8; Antenas 4/7 + reforço 2/3; Fourier 4/7; LIT 5/6; Português 9/10; Inglês 9/10; Revisão mista 11/12.
 - Ajuste pedagógico: evitar Fourier autoral acima da profundidade histórica CESGRANRIO; classificar CWDM/SDH como erro de **interpretação de 'um único canal'**, pois o cálculo de capacidade total 40 Gbps estava correto.
 - **3 exercícios extras de TLC/autocorrelação fora do agregado**; veja relatório. Banco anti-repetição atualizado com 66 exposições do dia. D3 15/11, D7 19/11, D21 03/12.
+
+
+### QTI-20 adicional — 12/11/2026
+
+[Respostas e diagnóstico](qti/QTI20_2026-11-12.md): **14/20 (70%)**, revisão mista após o cronograma; seis erros (variância binomial, complexos, limites de degrau, fase em H(jω), videoconferência e HPBW). Gabarito das cinco questões históricas conferido com a versão alterada da prova 13 de 2012. **Mantido em registro separado** dos 52/63.
