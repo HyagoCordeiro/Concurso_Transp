@@ -546,3 +546,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 
 - Complexos `(2+j)^3`: **D**, correta (`2+11j`). Resposta em frequência `(3+4j)/j`: **B**, correta (módulo 5, fase −36,87°). **2/2**, autoral e dirigido, fora do 14/20 e 10/12.
 - Dois últimos erros recuperados **imediatamente**; fazer revisão espaçada para confirmar retenção. [Registro](qti/QTI20_2026-11-12.md).
+
+
+### Fechamento adicional de Conhecimentos Específicos — dois QTI-10 de 12/11
+
+- **QTI-10 rodada 1: 8/10 (80%)**; erros Q1 distribuição exponencial/ausência de memória (A/C) e Q5 EDCA AC_VO (E/A). **Ambos são CONTEÚDOS NOVOS que ainda não tinham sido ensinados**, conforme o aluno indicou; ensinar antes de retestar. Os oito itens já trabalhados foram respondidos corretamente.
+- **QTI-10 encerramento: 8/10 (80%)**; erros Q3 C/N, dobrou banda de ruído ⇒ C/N cai **3 dB** (B/A), e Q7 antena parabólica, frequência dobrada e D fixo ⇒ ganho sobe **6 dB** (A/D). Reparo ainda pendente.
+- **Total das três baterias finais da tarde (QTI-20 + 2 QTI-10): 30/40 = 75%**, separadas dos 52/63 do cronograma e dos reforços 10/12 + 2/2. Sem tempos líquidos medidos.
+- Implantado **Caderno de Erros permanente**, com **22 registros da sessão de 12/11**, dos quais 2 novos conteúdos, 2 erros aguardando reparo, 6 reparos imediatos concluídos aguardando revisão espaçada e outros anteriores. [Caderno humano](qti/CADERNO_ERROS.md) | [JSON](data/CADERNO_ERROS.json).
+- Fontes anunciadas como históricas nos QTI-10 foram preservadas com status **a conferir literalidade**; não chamar todos os itens de prova inédita original.
+- Referências: [QTI10 rodada 1](qti/QTI10_2026-11-12_RODADA1.md), [QTI10 encerramento](qti/QTI10_2026-11-12_ENCERRAMENTO.md). Revisões sugeridas **15/11, 19/11 e 03/12**, respeitando horários e vontade do aluno.
