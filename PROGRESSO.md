@@ -540,3 +540,9 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Recuperados em 2/2:** variância binomial, degrau, QoS videoconferência e HPBW/FNBW.
 - **Pendentes (1/2 cada):** complexos — `(1−j)^3` (marcou D, correto A = −2−2j); resposta em frequência — `4/(2−2j)` (marcou B, correto C = √2∠+45°; fase acertada, módulo errado).
 - Próximo reteste: números complexos (potências de j) e cálculo de módulo de quocientes.
+
+
+#### Reparo final 2/2 — 12/11/2026
+
+- Complexos `(2+j)^3`: **D**, correta (`2+11j`). Resposta em frequência `(3+4j)/j`: **B**, correta (módulo 5, fase −36,87°). **2/2**, autoral e dirigido, fora do 14/20 e 10/12.
+- Dois últimos erros recuperados **imediatamente**; fazer revisão espaçada para confirmar retenção. [Registro](qti/QTI20_2026-11-12.md).
