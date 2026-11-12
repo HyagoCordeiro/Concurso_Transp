@@ -501,3 +501,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Bloco 7 revisão de erros: **1/7**; respostas **C,A,B,B,D,C,C**, gabarito **C,D,A,E,C,E,B**. Único acerto H_LOS.
 - **Erros persistentes:** Português (porque causal, cujo/aos quais), Probabilidade (no máximo uma, pelo menos uma) e Antenas (nulos AF, kd cosθ e fase). Manter foco em questões novas e na interpretação dos eventos antes da fórmula.
 - **Revisões D3/D7/D21:** **14/11**, **18/11**, **02/12/2026**. Sem medição de horas líquidas; questões de treino autorais/adaptadas, não percentual de prova oficial inédita.
+
+
+## Complemento de fechamento — 11/11/2026 — novo formato rápido
+
+- **Ciclo adicional em texto simples:** QTI-20 **20/20**, QTI-10 **9/10**, reforço Fourier **2/3**; **31/33 (93,9%)** neste ciclo, com questões autorais estilo CESGRANRIO.
+- **Erro QTI-10 Q02 (item 2.3):** sinal ímpar em T=4; coeficiente correto b1=-8/π. **Erro reforço Q01:** b1=12/π; resposta 6/π (metade). Reforçar fator de normalização e simetria, sem exaustão.
+- **Macete registrado:** para dois pulsos retangulares simétricos e Transformada com e^(-jωt), padrão -/+ gera -2j·sen e +/- gera +2j·sen (não generalizar para séries ou sinais quaisquer).
+- **Método:** texto simples, quantidade flexível por pedido, correção ágil e gráficos somente quando necessários. Simulados de 70 questões preferencialmente aos domingos, conforme disponibilidade.
+- **Este ciclo é adicional ao registro de sete blocos (29/42) já existente para 11/11; não consolidar automaticamente sem conferir IDs.** Detalhes: [fechamento complementar](qti/FECHAMENTO_COMPLEMENTAR_QTI_FOURIER_2026-11-11.md). Tempo não informado.
