@@ -5577,7 +5577,410 @@
         }
       ],
       "observacao": "Multicast 2/2; Antenas 1/3. Revisar sinal de beta e cosseno 60°/120°, máximos AF e broadside/end-fire. Sem tempo cronometrado."
+    },
+    {
+      "id": "DIA-20261112-7BLOCOS",
+      "eventId": "DIA-20261112-7BLOCOS",
+      "data": "2026-11-12",
+      "studyDateLocal": "2026-11-12",
+      "tipo": "TREINO_GUIADO_SETE_BLOCOS",
+      "titulo": "12/11/2026 — Cronograma CESGRANRIO/Transpetro + reforço",
+      "totalQuestoes": 63,
+      "totalValidas": 63,
+      "acertos": 52,
+      "erros": 11,
+      "percentual": 82.5,
+      "status": "COMPLETED",
+      "sourceType": "MISTO_ORIGINAIS_REAPRESENTADAS_ADAPTADAS_AUTORAIS",
+      "diagnosticValidity": "TREINO_GUIADO_MISTO_COM_REPETICOES_HISTORICAS_NAO_SIMULADO_LIMPO",
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-12.md",
+      "jsonFile": "qti/RESULTADOS_DIA_2026-11-12.json",
+      "tempoTotalSec": null,
+      "tempoMedioSec": null,
+      "blocos": [
+        {
+          "titulo": "Probabilidade",
+          "acertos": 8,
+          "total": 8,
+          "percentual": 100,
+          "questionIds": [
+            "DIA-20261112-PROB-Q01",
+            "DIA-20261112-PROB-Q02",
+            "DIA-20261112-PROB-Q03",
+            "DIA-20261112-PROB-Q04",
+            "DIA-20261112-PROB-Q05",
+            "DIA-20261112-PROB-Q06",
+            "DIA-20261112-PROB-Q07",
+            "DIA-20261112-PROB-Q08"
+          ],
+          "respostas": [
+            "E",
+            "D",
+            "B",
+            "A",
+            "C",
+            "E",
+            "D",
+            "B"
+          ],
+          "gabarito": [
+            "E",
+            "D",
+            "B",
+            "A",
+            "C",
+            "E",
+            "D",
+            "B"
+          ]
+        },
+        {
+          "titulo": "Antenas e Arranjos",
+          "acertos": 4,
+          "total": 7,
+          "percentual": 57.1,
+          "questionIds": [
+            "DIA-20261112-ANT-Q01",
+            "DIA-20261112-ANT-Q02",
+            "DIA-20261112-ANT-Q03",
+            "DIA-20261112-ANT-Q04",
+            "DIA-20261112-ANT-Q05",
+            "DIA-20261112-ANT-Q06",
+            "DIA-20261112-ANT-Q07"
+          ],
+          "respostas": [
+            "E",
+            "C",
+            "D",
+            "A",
+            "E",
+            "D",
+            "C"
+          ],
+          "gabarito": [
+            "A",
+            "C",
+            "D",
+            "B",
+            "E",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "titulo": "Reforço de Antenas",
+          "acertos": 2,
+          "total": 3,
+          "percentual": 66.7,
+          "questionIds": [
+            "DIA-20261112-ANT-REF-Q01",
+            "DIA-20261112-ANT-REF-Q02",
+            "DIA-20261112-ANT-REF-Q03"
+          ],
+          "respostas": [
+            "D",
+            "D",
+            "A"
+          ],
+          "gabarito": [
+            "C",
+            "D",
+            "A"
+          ]
+        },
+        {
+          "titulo": "Série e Transformada de Fourier",
+          "acertos": 4,
+          "total": 7,
+          "percentual": 57.1,
+          "questionIds": [
+            "DIA-20261112-FOURIER-Q01",
+            "DIA-20261112-FOURIER-Q02",
+            "DIA-20261112-FOURIER-Q03",
+            "DIA-20261112-FOURIER-Q04",
+            "DIA-20261112-FOURIER-Q05",
+            "DIA-20261112-FOURIER-Q06",
+            "DIA-20261112-FOURIER-Q07"
+          ],
+          "respostas": [
+            "A",
+            "B",
+            "D",
+            "A",
+            "B",
+            "C",
+            "E"
+          ],
+          "gabarito": [
+            "C",
+            "B",
+            "D",
+            "E",
+            "A",
+            "C",
+            "E"
+          ]
+        },
+        {
+          "titulo": "Sinais e Sistemas/LIT",
+          "acertos": 5,
+          "total": 6,
+          "percentual": 83.3,
+          "questionIds": [
+            "DIA-20261112-LIT-Q01",
+            "DIA-20261112-LIT-Q02",
+            "DIA-20261112-LIT-Q03",
+            "DIA-20261112-LIT-Q04",
+            "DIA-20261112-LIT-Q05",
+            "DIA-20261112-LIT-Q06"
+          ],
+          "respostas": [
+            "D",
+            "E",
+            "D",
+            "C",
+            "A",
+            "B"
+          ],
+          "gabarito": [
+            "B",
+            "E",
+            "D",
+            "C",
+            "A",
+            "B"
+          ]
+        },
+        {
+          "titulo": "Português",
+          "acertos": 9,
+          "total": 10,
+          "percentual": 90,
+          "questionIds": [
+            "DIA-20261112-PT-Q01",
+            "DIA-20261112-PT-Q02",
+            "DIA-20261112-PT-Q03",
+            "DIA-20261112-PT-Q04",
+            "DIA-20261112-PT-Q05",
+            "DIA-20261112-PT-Q06",
+            "DIA-20261112-PT-Q07",
+            "DIA-20261112-PT-Q08",
+            "DIA-20261112-PT-Q09",
+            "DIA-20261112-PT-Q10"
+          ],
+          "respostas": [
+            "C",
+            "B",
+            "E",
+            "D",
+            "A",
+            "B",
+            "C",
+            "D",
+            "A",
+            "D"
+          ],
+          "gabarito": [
+            "C",
+            "B",
+            "E",
+            "D",
+            "A",
+            "B",
+            "C",
+            "E",
+            "A",
+            "D"
+          ]
+        },
+        {
+          "titulo": "Inglês",
+          "acertos": 9,
+          "total": 10,
+          "percentual": 90,
+          "questionIds": [
+            "DIA-20261112-ING-Q01",
+            "DIA-20261112-ING-Q02",
+            "DIA-20261112-ING-Q03",
+            "DIA-20261112-ING-Q04",
+            "DIA-20261112-ING-Q05",
+            "DIA-20261112-ING-Q06",
+            "DIA-20261112-ING-Q07",
+            "DIA-20261112-ING-Q08",
+            "DIA-20261112-ING-Q09",
+            "DIA-20261112-ING-Q10"
+          ],
+          "respostas": [
+            "D",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "B",
+            "E",
+            "C",
+            "B"
+          ],
+          "gabarito": [
+            "D",
+            "A",
+            "C",
+            "E",
+            "B",
+            "D",
+            "A",
+            "E",
+            "C",
+            "B"
+          ]
+        },
+        {
+          "titulo": "Revisão mista de Telecom",
+          "acertos": 11,
+          "total": 12,
+          "percentual": 91.7,
+          "questionIds": [
+            "DIA-20261112-MISTA-Q01",
+            "DIA-20261112-MISTA-Q02",
+            "DIA-20261112-MISTA-Q03",
+            "DIA-20261112-MISTA-Q04",
+            "DIA-20261112-MISTA-Q05",
+            "DIA-20261112-MISTA-Q06",
+            "DIA-20261112-MISTA-Q07",
+            "DIA-20261112-MISTA-Q08",
+            "DIA-20261112-MISTA-Q09",
+            "DIA-20261112-MISTA-Q10",
+            "DIA-20261112-MISTA-Q11",
+            "DIA-20261112-MISTA-Q12"
+          ],
+          "respostas": [
+            "B",
+            "D",
+            "A",
+            "C",
+            "C",
+            "B",
+            "D",
+            "C",
+            "E",
+            "A",
+            "E",
+            "E"
+          ],
+          "gabarito": [
+            "B",
+            "D",
+            "A",
+            "C",
+            "C",
+            "B",
+            "D",
+            "C",
+            "E",
+            "A",
+            "C",
+            "E"
+          ]
+        }
+      ],
+      "extraTlcForaAgregado": [
+        "DIA-20261112-TLC-REF-Q01",
+        "DIA-20261112-TLC-REF-Q02",
+        "DIA-20261112-TLC-REF-Q03"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261112-ANT-Q01",
+          "topico": "Monopolo λ/4 sobre terra ideal, diretividade versus dipolo",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "errorType": "CONCEITO_MONOPOLO_PLANO_TERRA",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-ANT-Q04",
+          "topico": "Array de 3 isotrópicas em fase, d=λ/2, nulos",
+          "respostaEscolhida": "A",
+          "gabarito": "B",
+          "errorType": "NULOS_FATOR_DE_ARRANJO",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-ANT-Q06",
+          "topico": "PLF com desalinhamento de 60°, perda em dB",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "errorType": "PLF_CONVERSAO_POTENCIA_DB",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-ANT-REF-Q01",
+          "topico": "Monopolo: resistência 36,5 Ω e hemisfério de radiação",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "HEMISFERIO_RAD_MONOPOLO",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-FOURIER-Q01",
+          "topico": "Coeficiente a0 da Série de Fourier em dois patamares e convenção a0/2",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "CONVENCAO_A0_MEIA",
+          "observacao": "Bateria autoral considerada mais complexa que o necessário; não usar 4/7 como indicador isolado de domínio."
+        },
+        {
+          "questionId": "DIA-20261112-FOURIER-Q04",
+          "topico": "Transformada X(0): soma algébrica das áreas +10−6",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "AREA_X_ZERO",
+          "observacao": "Bateria autoral considerada mais complexa que o necessário; não usar 4/7 como indicador isolado de domínio."
+        },
+        {
+          "questionId": "DIA-20261112-FOURIER-Q05",
+          "topico": "Inversão e deslocamento temporal x(−t−3)",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "SINAL_TEMPO_INVERSAO_ADIANTAMENTO",
+          "observacao": "Bateria autoral considerada mais complexa que o necessário; não usar 4/7 como indicador isolado de domínio."
+        },
+        {
+          "questionId": "DIA-20261112-LIT-Q01",
+          "topico": "Equação de diferenças e H(z) — Transpetro 2023 Q68",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "errorType": "Z_POTENCIA_NUMERADOR",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-PT-Q08",
+          "topico": "A ponte — pontuação: afinal intercalado",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "PONTUACAO_EXPRESSAO_INTERCALADA",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-ING-Q07",
+          "topico": "Texto de portos — provided that = as long as",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "CONDICAO_VS_CONCESSAO",
+          "observacao": ""
+        },
+        {
+          "questionId": "DIA-20261112-MISTA-Q11",
+          "topico": "Transpetro 2023 Q36: CWDM, 16 canais de 2,5 Gbps, STM por único canal",
+          "respostaEscolhida": "E",
+          "gabarito": "C",
+          "errorType": "INTERPRETACAO_CANAL_VS_AGREGADO",
+          "observacao": "Aluno calculou corretamente capacidade agregada de 40Gbps (16×2,5Gbps), mas a pergunta era por UM canal; STM-16 cabe em 2,5Gbps. Erro de leitura, não de SDH."
+        }
+      ],
+      "observacao": "Fourier calibrado ao nível histórico. CWDM/SDH: erro de interpretação de 'por um único canal', não deficiência de cálculo. Três extras TLC fora dos 63. Ver registro diário. Sem tempo líquido cronometrado."
     }
   ],
-  "updatedAt": "2026-11-11"
+  "updatedAt": "2026-11-12"
 }
