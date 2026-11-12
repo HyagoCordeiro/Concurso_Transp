@@ -57,7 +57,7 @@
     "longitudinalContaminationRule": "Bateria com repetição relevante recebe antiRepeatViolation=true e diagnosticValidity=CONTAMINADO_POR_REPETICAO; não usar no mastery longitudinal.",
     "preflightMandatory": true,
     "preflightLookbackDays": 7,
-    "currentSessionSummary": "12/11/2026: cronograma 52/63, QTI-20 adicional 14/20, reforço imediato dos 6 erros 10/12. Reforço separado de QTI original. Exposições QTI e reforço inseridas no banco. Ver qti/QTI20_2026-11-12.md."
+    "currentSessionSummary": "12/11/2026: 7 blocos 52/63; QTI20 14/20; reforço 12q 10/12; reforço final 2/2. Reforços separados dos diagnósticos. Exposições em banco. qti/QTI20_2026-11-12.md"
   },
   "questions": [
     {
@@ -17091,6 +17091,48 @@
       "eligibleNow": false,
       "lastSourceFile": "qti/QTI20_2026-11-12.md",
       "diagnosticValidity": "REPARO_DIRIGIDO_SEM_TEMPO_NAO_SIMULADO"
+    },
+    {
+      "id": "QTI20-20261112-REPARO-FINAL2-Q01",
+      "canonicalId": "AUTORAL-QTI20-20261112-REPARO-FINAL2-Q01",
+      "subject": "Engenharia de Telecomunicações",
+      "unitId": "2.1",
+      "editalItem": "2",
+      "topic": "Potência do número complexo (2+j)^3=2+11j",
+      "questionFingerprintText": "(2+j)^3; alternativas complexas; D=2+11j",
+      "sourceType": "AUTORAL_REPAIR_CESGRANRIO_STYLE",
+      "assignedAt": "2026-11-12",
+      "assignedSessionId": "QTI20-20261112-REPARO-FINAL2",
+      "assignedStatus": "ANSWERED",
+      "lastSeenAt": "2026-11-12",
+      "lastResponse": "D",
+      "gabarito": "D",
+      "lastResult": "CORRETA",
+      "nextEligibleAt": "2026-11-15",
+      "eligibleNow": false,
+      "lastSourceFile": "qti/QTI20_2026-11-12.md",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_SIMULADO"
+    },
+    {
+      "id": "QTI20-20261112-REPARO-FINAL2-Q02",
+      "canonicalId": "AUTORAL-QTI20-20261112-REPARO-FINAL2-Q02",
+      "subject": "Engenharia de Telecomunicações",
+      "unitId": "3.4",
+      "editalItem": "3",
+      "topic": "Módulo e fase de (3+4j)/j=4−3j; módulo 5 e ângulo −36,87°",
+      "questionFingerprintText": "H=(3+4j)/j; módulo 5, fase -36.87; B",
+      "sourceType": "AUTORAL_REPAIR_CESGRANRIO_STYLE",
+      "assignedAt": "2026-11-12",
+      "assignedSessionId": "QTI20-20261112-REPARO-FINAL2",
+      "assignedStatus": "ANSWERED",
+      "lastSeenAt": "2026-11-12",
+      "lastResponse": "B",
+      "gabarito": "B",
+      "lastResult": "CORRETA",
+      "nextEligibleAt": "2026-11-15",
+      "eligibleNow": false,
+      "lastSourceFile": "qti/QTI20_2026-11-12.md",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_SIMULADO"
     }
   ],
   "portuguesePolicy": {
