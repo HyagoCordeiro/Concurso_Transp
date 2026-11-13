@@ -80,6 +80,17 @@
 
 **Resultados:** [Bloco 4 — 2/4](RESULTADOS_DIA_2026-11-13_BLOCO4_EXPO_EDCA.md); [reforço — 2/4](RESULTADOS_DIA_2026-11-13_BLOCO4_REFORCO_EXPO_POISSON.md). As duas questões erradas no QTI anterior não haviam sido ensinadas, portanto não contabilizar esquecimento. Regra D3=16/11, D7=20/11, D21=04/12.
 
+
+## Erros de 13/11/2026 — Bloco 5: C/N, parabólica, Fourier
+
+| ID | Questão | Subitem | Assunto | Marcação / correta | Tipo | Próximo passo | Status |
+|---|---|---|---|---|---|---|---|
+| CE-20261113-008 | DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01 | 7.2 | C/N, banda quadruplicada: −6dB | C / D | DECIBEIS_CN_BANDA_QUADRUPLICADA | 2 novas, D3 16/11 | PENDENTE_REPARO |
+| CE-20261113-009 | DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04 | 6.1 | Parabólica D×3: ganho +9,54dB | D / C | DECIBEIS_GANHO_PARABOLICA_DIAMETRO_TRIPLO | 2 novas, D3 16/11 | PENDENTE_REPARO |
+| CE-20261113-010 | DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05 | 2.3 | Fourier: média=a0/2, não a0 | C / B | SERIE_FOURIER_COEFICIENTE_A0_SOBRE_2 | 2 novas, D3 16/11 | PENDENTE_REPARO |
+
+**Origem:** [Bloco 5, 4/7 (57,1%)](RESULTADOS_DIA_2026-11-13_BLOCO5_CN_ANTENAS_FOURIER.md). Novos erros vinculados respectivamente a CE-20261112-003, CE-20261112-004 e CE-20261112-009; não declarar recuperação dos erros anteriores. Revisões sugeridas D3 16/11, D7 20/11, D21 04/12.
+
 ## Como usar a cada QTI / bloco
 
 1. Consultar `data/CADERNO_ERROS.json` e `data/REVISOES.json` antes de propor questões. Priorizar conteúdo **ainda não ensinado**, depois erros pendentes e retestes que venceram.
@@ -89,4 +100,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** PENDENTE_REPARO: 7; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 10; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
+**Estado atual por categoria:** PENDENTE_REPARO: 10; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 10; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
