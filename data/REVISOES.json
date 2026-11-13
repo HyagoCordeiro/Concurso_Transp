@@ -2064,6 +2064,51 @@
       "createdFromStudyDate": "2026-11-13",
       "plano": "2 questões novas de vocabulário contextual e falsos sentidos em texto distinto.",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-003-D3",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inferência: não confundir apoio da automação com substituição de pessoal",
+      "motivo": "Erro Q2 no reforço do Inglês de 13/11 (alternativa contradiz texto explícito)",
+      "origemResultado": "ING-20261113-REFORCO",
+      "agendadaPara": "2026-11-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Texto novo com afirmações explícitas e alternativas que afirmam o contrário; leitura de negações.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-003-D7",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inferência: não confundir apoio da automação com substituição de pessoal",
+      "motivo": "Erro Q2 no reforço do Inglês de 13/11 (alternativa contradiz texto explícito)",
+      "origemResultado": "ING-20261113-REFORCO",
+      "agendadaPara": "2026-11-20",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Texto novo com afirmações explícitas e alternativas que afirmam o contrário; leitura de negações.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-003-D21",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inferência: não confundir apoio da automação com substituição de pessoal",
+      "motivo": "Erro Q2 no reforço do Inglês de 13/11 (alternativa contradiz texto explícito)",
+      "origemResultado": "ING-20261113-REFORCO",
+      "agendadaPara": "2026-12-04",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Texto novo com afirmações explícitas e alternativas que afirmam o contrário; leitura de negações.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-13"
