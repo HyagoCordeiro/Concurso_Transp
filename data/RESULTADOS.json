@@ -6610,6 +6610,40 @@
         }
       ],
       "observacao": "Bayes 2/3, convolução 2/2. Erro recorrente de confusão P(D|A) e P(A|D); convolução com evidência favorável D3."
+    },
+    {
+      "id": "BAYES-20261113-REPARO2",
+      "eventId": "BAYES-20261113-REPARO2",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_2",
+      "disciplina": "Probabilidade",
+      "titulo": "Reparo imediato de Bayes: VSAT/alarme e fabricantes/defeito",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 2,
+      "erros": 0,
+      "invalidos": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_REPARO",
+      "diagnosticValidity": "REPARO_IMEDIATO_NAO_SIMULADO_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_BAYES_REFORCO2.md",
+      "questionIds": [
+        "BAYES-20261113-REPARO2-Q01",
+        "BAYES-20261113-REPARO2-Q02"
+      ],
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "E"
+      ],
+      "itensErrados": [],
+      "observacao": "Retomada do erro Bayes Q2 D3 de 13/11; acertou 2 questões de transferência. Reavaliação espaçada pendente."
     }
   ],
   "updatedAt": "2026-11-13"
