@@ -6558,6 +6558,58 @@
         }
       ],
       "observacao": "3/4 acertos: dois acertos no vocabulário, inferência ainda com erro após reforço. Não misturar com resultado de bloco novo."
+    },
+    {
+      "id": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "eventId": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REVISAO_D3_5",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Bloco 3 — D3 Probabilidade de Bayes e convolução discreta",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 4,
+      "erros": 1,
+      "invalidos": 0,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "diagnosticValidity": "RETESTE_ESPACADO_DIRIGIDO_NAO_QTI_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_D3_BAYES_CONVOLUCAO.md",
+      "questionIds": [
+        "REV-D3-20261113-BAYES-CONVOLUCAO-Q01",
+        "REV-D3-20261113-BAYES-CONVOLUCAO-Q02",
+        "REV-D3-20261113-BAYES-CONVOLUCAO-Q03",
+        "REV-D3-20261113-BAYES-CONVOLUCAO-Q04",
+        "REV-D3-20261113-BAYES-CONVOLUCAO-Q05"
+      ],
+      "respostas": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "A",
+        "E",
+        "B"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "REV-D3-20261113-BAYES-CONVOLUCAO-Q02",
+          "editalItem": "1.1",
+          "topico": "Bayes: defeito dado alarme; P(D)=10%, sensibilidade 80%, falso positivo 20%",
+          "respostaEscolhida": "E",
+          "gabarito": "C",
+          "errorType": "INVERSAO_CONDICIONAL_BAYES"
+        }
+      ],
+      "observacao": "Bayes 2/3, convolução 2/2. Erro recorrente de confusão P(D|A) e P(A|D); convolução com evidência favorável D3."
     }
   ],
   "updatedAt": "2026-11-13"
