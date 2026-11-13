@@ -61,7 +61,9 @@
 
 | ID | Questão | Tema | Resposta / correta | Tipo | Próxima ação | Situação |
 |---|---|---|---|---|---|---|
-| CE-20261113-004 | REV-D3-20261113-BAYES-CONVOLUCAO-Q02 | Bayes: P(defeito dado alarme) ≠ P(alarme dado defeito) | E / C | INVERSAO_CONDICIONAL_BAYES | Exercícios novos sobre evento condicionado; D3 16/11 | PENDENTE_REPARO |
+| CE-20261113-004 | REV-D3-20261113-BAYES-CONVOLUCAO-Q02 | Bayes: P(defeito dado alarme) ≠ P(alarme dado defeito) | E / C | INVERSAO_CONDICIONAL_BAYES | Reparo 2/2, reteste D3 16/11 | REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE |
+
+**Reparo Bayes em 13/11:** [2 questões novas acertadas (2/2)](RESULTADOS_DIA_2026-11-13_BAYES_REFORCO2.md). CE-20261113-004 mudou para reparo imediato concluído, **reteste espaçado ainda pendente**.
 
 **Registro:** [Revisão D3 Bayes/convolução](RESULTADOS_DIA_2026-11-13_D3_BAYES_CONVOLUCAO.md) — 4/5; Bayes 2/3, convolução 2/2 em reteste espaçado. O erro foi recorrência do problema Bayes de 10/11; não contar como conteúdo novo não ensinado.
 
@@ -74,4 +76,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** NOVO_CONTEUDO_A_ENSINAR: 2; PENDENTE_REPARO: 5; PENDENTE_RETESTE: 11; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 7; RETESTE_ESPACADO: 1; CONSOLIDADO_APOS_RETESTE: 0.
+**Estado atual por categoria:** NOVO_CONTEUDO_A_ENSINAR: 2; PENDENTE_REPARO: 4; PENDENTE_RETESTE: 11; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 8; RETESTE_ESPACADO: 1; CONSOLIDADO_APOS_RETESTE: 0.
