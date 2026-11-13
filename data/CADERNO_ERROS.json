@@ -573,6 +573,26 @@
       "retestEvidence": [],
       "retentionVerified": false,
       "relatedErrorId": "CE-20261113-001"
+    },
+    {
+      "id": "CE-20261113-004",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "sourceQuestionId": "REV-D3-20261113-BAYES-CONVOLUCAO-Q02",
+      "unitId": "1.1",
+      "topic": "Bayes: defeito dado alarme; P(D)=10%, sensibilidade 80%, falso positivo 20%",
+      "respostaEscolhida": "E",
+      "gabarito": "C",
+      "errorType": "INVERSAO_CONDICIONAL_BAYES",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Pedido: P(defeito|alarme) = P(defeito e alarme)/P(alarme)=0,08/(0,08+0,18)=30,77%, não P(alarme|defeito)=80%. Marcar evento após 'sabendo que' como condição.",
+      "proxAcao": "2 exercícios novos com enunciados de telecom e sentido de condicional invertido; primeiro traduzir P(X|Y) antes das contas. Não antecipar gabarito.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_RETEST",
+      "relatedSourceResult": "QTI20-20261110",
+      "retestEvidence": [],
+      "retentionVerified": false
     }
   ]
 }
