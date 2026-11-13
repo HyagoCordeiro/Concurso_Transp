@@ -112,9 +112,9 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "CALCULO_DECIBEIS",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "N=kTB: dobrar B aumenta N em 3 dB; C constante => C/N cai 3 dB",
-      "proxAcao": "2 novas variando apenas B, C e T, pedir diagrama de grandezas e sinal de dB.",
+      "proxAcao": "Reparo de C/N 4/4 em 13/11; verificar retenção espaçada, não declarar consolidação.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
       "retestEvidence": [
@@ -124,6 +124,13 @@
           "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
           "result": "INCORRETA",
           "note": "Recorrência/transferência: C/N: banda quadruplicada com portadora e temperatura fixas"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q02",
+          "result": "CORRETA",
+          "note": "C/N melhora? C/N 24−9=15dB"
         }
       ],
       "retentionVerified": false
@@ -737,7 +744,7 @@
     {
       "id": "CE-20261113-008",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
       "unitId": "7.2",
@@ -745,19 +752,55 @@
       "respostaEscolhida": "C",
       "gabarito": "D",
       "errorType": "DECIBEIS_CN_BANDA_QUADRUPLICADA",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "N=kTB; B×4 ⇒ N+6,02dB e C/N−6,02dB. De 18dB para ≈12dB.",
-      "proxAcao": "Distinguir ×2 e ×4 em ruído: micro-reparo 2 questões com novos valores, depois reteste D3.",
+      "proxAcao": "Acertou quatro variações de C/N após explicação; reteste sem pistas D3 em 16/11, D7 20/11, D21 04/12.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-003",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-REFORCO6",
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q01",
+          "result": "INCORRETA",
+          "note": "Banda÷4 deveria aumentar C/N em 6dB."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q01",
+          "result": "CORRETA",
+          "note": "Quatro acertos em bateria de C/N independente dentro do reforço."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q02",
+          "result": "CORRETA",
+          "note": "Quatro acertos em bateria de C/N independente dentro do reforço."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q03",
+          "result": "CORRETA",
+          "note": "Quatro acertos em bateria de C/N independente dentro do reforço."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q04",
+          "result": "CORRETA",
+          "note": "Quatro acertos em bateria de C/N independente dentro do reforço."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261113-009",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
       "unitId": "6.1",
@@ -771,13 +814,35 @@
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-004",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-REFORCO6",
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q04",
+          "result": "INCORRETA",
+          "note": "Diâmetro×2 e eficiência÷2 provocam ganho de +3dB."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-ANTENA-REPARO2",
+          "questionId": "DIA-20261113-ANTENA-REPARO2-Q01",
+          "result": "INCORRETA",
+          "note": "D+50%=1,5D, não 2D."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-ANTENA-REPARO2",
+          "questionId": "DIA-20261113-ANTENA-REPARO2-Q02",
+          "result": "CORRETA",
+          "note": "D×2 e eficiência÷4 mantêm ganho linear."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261113-010",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
       "unitId": "2.3",
@@ -791,8 +856,155 @@
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-009",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-REFORCO6",
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q05",
+          "result": "INCORRETA",
+          "note": "Média=0,5 => a0=1."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-REFORCO6",
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q06",
+          "result": "INCORRETA",
+          "note": "Constante=4 => a0=8."
+        }
+      ],
       "retentionVerified": false
+    },
+    {
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-13",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "dueAt": "2026-11-16",
+      "retentionVerified": false,
+      "id": "CE-20261113-011",
+      "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-REFORCO6-Q01",
+      "unitId": "7.2",
+      "topic": "C/N: redução de banda de ruído melhora relação C/N (sinal da variação em dB)",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "errorType": "DECIBEIS_SINAL_CN_BANDA_DIMINUI",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "N=kTB; B÷4 provoca N÷4 ⇒ C/N aumenta 10log10(4)≈6,02dB.",
+      "proxAcao": "4/4 de C/N acertadas após esclarecimento; reteste espaçado sem fórmula D3 16/11.",
+      "relatedErrorId": "CE-20261113-008",
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q01",
+          "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q02",
+          "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q03",
+          "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-CN-REPARO4",
+          "questionId": "DIA-20261113-CN-REPARO4-Q04",
+          "result": "CORRETA"
+        }
+      ]
+    },
+    {
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "dueAt": "2026-11-16",
+      "retentionVerified": false,
+      "id": "CE-20261113-012",
+      "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-REFORCO6-Q04",
+      "unitId": "6.1",
+      "topic": "Parabólica: mudanças simultâneas de diâmetro e eficiência",
+      "respostaEscolhida": "C",
+      "gabarito": "B",
+      "errorType": "PARABOLICA_DIAMETRO_EFICIENCIA",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "G∝ηD²f²; D×2 e η÷2 ⇒ G×2 (+3dB); não +6dB.",
+      "proxAcao": "Reparou parcialmente com diâmetro×2 e eficiência÷4; reteste espaçado novo enunciado.",
+      "relatedErrorId": "CE-20261113-009",
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-ANTENA-REPARO2",
+          "questionId": "DIA-20261113-ANTENA-REPARO2-Q02",
+          "result": "CORRETA"
+        }
+      ]
+    },
+    {
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "dueAt": "2026-11-16",
+      "retentionVerified": false,
+      "id": "CE-20261113-013",
+      "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-REFORCO6-Q05",
+      "unitId": "2.3",
+      "topic": "Fourier a0/2: média de sinal de dois patamares",
+      "respostaEscolhida": "B",
+      "gabarito": "D",
+      "errorType": "FOURIER_A0_MEDIA",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Se x(t)=a0/2+Σ, o valor médio é a0/2. Aqui média=0,5 ⇒ a0=1.",
+      "proxAcao": "Último ponto de reforço do dia, duas questões com apresentação explícita de convenção.",
+      "relatedErrorId": "CE-20261113-010",
+      "retestEvidence": []
+    },
+    {
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "dueAt": "2026-11-16",
+      "retentionVerified": false,
+      "id": "CE-20261113-014",
+      "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-REFORCO6-Q06",
+      "unitId": "2.3",
+      "topic": "Fourier a0/2: termo constante de série trigonométrica",
+      "respostaEscolhida": "B",
+      "gabarito": "D",
+      "errorType": "FOURIER_A0_TERMO_CONSTANTE",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Em x=4+3cos(ω0t)−2sen(2ω0t), média=4; se a série usa a0/2, a0=8.",
+      "proxAcao": "Resolver duas questões novas com convenção a0/2, retestar espaçadamente.",
+      "relatedErrorId": "CE-20261113-010",
+      "retestEvidence": []
+    },
+    {
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "dueAt": "2026-11-16",
+      "retentionVerified": false,
+      "id": "CE-20261113-015",
+      "sourceResultId": "DIA-20261113-ANTENA-REPARO2",
+      "sourceQuestionId": "DIA-20261113-ANTENA-REPARO2-Q01",
+      "unitId": "6.1",
+      "topic": "Parabólica: diâmetro aumenta 50%, fator multiplicativo 1,5",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "errorType": "PERCENTUAL_VARIACAO_DIAMETRO",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "D aumenta 50% ⇒ Dnovo=1,5D, ganho linear×(1,5)² ⇒ +20log10(1,5)=3,52 dB (27→30,5 dBi).",
+      "proxAcao": "Rever fator 1,5 versus 2 em variações percentuais; reteste D3 16/11.",
+      "relatedErrorId": "CE-20261113-009",
+      "retestEvidence": []
     }
   ]
 }
