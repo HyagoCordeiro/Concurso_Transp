@@ -564,3 +564,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Treinados: ideia central, inferência, concessão, coesão, referência pronominal, porquês, regência/crase, relativos, pontuação e reescrita. Sem tempo aferido.
 - Q9: marcou D, gabarito pretendido E; ambas gramaticalmente defensáveis conforme uso expressivo da vírgula. Não registrar como erro do estudante.
 - Origem: 100% questões autorais inéditas, NÃO prova histórica original. Registro: [relatório PT 13/11](qti/RESULTADOS_DIA_2026-11-13_PT_BLOCO1.md). `data/RESULTADOS.json` e `data/QUESTOES.json` atualizados para controle anti-repetição.
+
+## 13/11/2026 — Bloco 2 Inglês (texto novo)
+
+- 8 questões autorais CESGRANRIO-style sobre *The Hidden Infrastructure of Global Communication*: **6/8 (75%)**, sem tempo aferido.
+- **Erros:** Q2 inferência textual — escolheu alternativa que contradiz monitoramento contínuo; Q8 vocabulário *resilience*, significa manter/recuperar serviço apesar de falhas, e não depender exclusivamente de um enlace.
+- **Acertos:** ideia central, referência textual, although/yet/provided that/otherwise. Questões corretas mantidas em cooldown.
+- Caderno de erros atualizado em `qti/CADERNO_ERROS.md` e `data/CADERNO_ERROS.json`; revisões sugeridas D3 16/11, D7 20/11, D21 04/12.
+- [Resultado inglês](qti/RESULTADOS_DIA_2026-11-13_ING_BLOCO2.md).
+- **Dois blocos de 13/11:** Português 9/9 válidas (1 anulada), Inglês 6/8; **15/17 válidas = 88,2%**, desempenho de treino guiado autoral, não simulado oficial independente.
