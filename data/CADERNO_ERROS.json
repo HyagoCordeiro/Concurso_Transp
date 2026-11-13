@@ -251,7 +251,7 @@
       "errorType": "CONVENCAO_SERIE",
       "status": "PENDENTE_RETESTE",
       "teoriaOuRegra": "Na convenção trigonométrica a0/2, média = a0/2",
-      "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
+      "proxAcao": "Acertou duas autorais de a0 em 13/11; manter PENDENTE_RETESTE até avaliação espaçada.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
       "retestEvidence": [
@@ -261,6 +261,20 @@
           "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
           "result": "INCORRETA",
           "note": "Recorrência/transferência: Série de Fourier: média do período versus coeficiente a0 na convenção a0/2"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q01",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
         }
       ],
       "retentionVerified": false
@@ -850,9 +864,9 @@
       "respostaEscolhida": "C",
       "gabarito": "B",
       "errorType": "SERIE_FOURIER_COEFICIENTE_A0_SOBRE_2",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Em x(t)=a0/2+Σ..., média=(1/T)∫x dt=a0/2; média 1 ⇒ a0=2.",
-      "proxAcao": "Micro-reparo 2 questões autorais de a0 com sinal de 2 patamares; reteste posterior.",
+      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-009",
@@ -870,6 +884,20 @@
           "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q06",
           "result": "INCORRETA",
           "note": "Constante=4 => a0=8."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q01",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
         }
       ],
       "retentionVerified": false
@@ -948,7 +976,7 @@
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -960,15 +988,30 @@
       "respostaEscolhida": "B",
       "gabarito": "D",
       "errorType": "FOURIER_A0_MEDIA",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Se x(t)=a0/2+Σ, o valor médio é a0/2. Aqui média=0,5 ⇒ a0=1.",
-      "proxAcao": "Último ponto de reforço do dia, duas questões com apresentação explícita de convenção.",
+      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
       "relatedErrorId": "CE-20261113-010",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q01",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        }
+      ]
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -980,11 +1023,26 @@
       "respostaEscolhida": "B",
       "gabarito": "D",
       "errorType": "FOURIER_A0_TERMO_CONSTANTE",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Em x=4+3cos(ω0t)−2sen(2ω0t), média=4; se a série usa a0/2, a0=8.",
-      "proxAcao": "Resolver duas questões novas com convenção a0/2, retestar espaçadamente.",
+      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
       "relatedErrorId": "CE-20261113-010",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q01",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-FOURIER-A0-REPARO2",
+          "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
+          "result": "CORRETA",
+          "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        }
+      ]
     },
     {
       "firstSeenAt": "2026-11-13",
