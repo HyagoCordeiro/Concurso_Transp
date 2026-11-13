@@ -625,3 +625,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Reforços do dia: Inglês 3/4 + Bayes 2/2 + Exponencial/Poisson 2/4 + Misto C/N/antena/Fourier 2/6 + C/N 4/4 + antena 1/2 = **14/22 (63,6%)**, separados dos 25/33 blocos principais. Soma global de exercícios do dia, misturando blocos e reforços, **39/55 (70,9%)**; não interpretar como simulado CESGRANRIO independente.
 - Revisões D3 16/11, D7 20/11, D21 04/12. Sem tempo líquido aferido. Ainda falta reparar o eixo a0 de Fourier antes do fechamento definitivo.
 - Relatórios: [misto](qti/RESULTADOS_DIA_2026-11-13_BLOCO5_REFORCO_FINAL.md), [C/N](qti/RESULTADOS_DIA_2026-11-13_CN_REFORCO_4.md), [antenas](qti/RESULTADOS_DIA_2026-11-13_PARABOLICA_REFORCO_2.md).
+
+
+## 13/11/2026 — Fechamento definitivo (Fourier 2/2)
+
+- Reforço final de Fourier **2/2 (100%)**: coeficiente a0 calculado em sinal por partes (C) e a partir da constante de série dada (E). Correção imediata, sem prova de retenção espaçada.
+- CE-20261113-010, 013 e 014 mudaram para REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE; CE-20261112-009 permanece PENDENTE_RETESTE, com evidência dos 2 acertos.
+- **Resumo final do dia:** 5 blocos principais **25/33 (75,8%)**; sete reforços **16/24 (66,7%)**; total bruto **41/57 (71,9%)**, misto de treino guiado e reforço, não simulado CESGRANRIO independente.
+- Retestes programados no plano: D3 16/11, D7 20/11, D21 04/12. Prioridades: Inglês inferencial, Exponencial/Poisson, ganho de parabólicas com variação percentual e retenção de Fourier a0, C/N e Bayes.
+- [Relatório de fechamento completo](qti/FECHAMENTO_DIA_2026-11-13.md); [reparo de Fourier](qti/RESULTADOS_DIA_2026-11-13_FOURIER_A0_REFORCO2.md). Sem tempo líquido aferido.
