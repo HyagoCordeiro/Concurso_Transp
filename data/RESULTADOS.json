@@ -6832,6 +6832,168 @@
         }
       ],
       "observacao": "C/N 1/2; antenas 1/2; Fourier 2/3; três erros de dB/ganho/a0. Sem tempo medido."
+    },
+    {
+      "id": "DIA-20261113-BLOCO5-REFORCO6",
+      "eventId": "DIA-20261113-BLOCO5-REFORCO6",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_6",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Reforço final bloco 5: C/N, parabólica e Fourier",
+      "totalQuestoes": 6,
+      "totalValidas": 6,
+      "acertos": 2,
+      "erros": 4,
+      "invalidos": 0,
+      "percentual": 33.3,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_QTI_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_BLOCO5_REFORCO_FINAL.md",
+      "questionIds": [
+        "DIA-20261113-BLOCO5-REFORCO6-Q01",
+        "DIA-20261113-BLOCO5-REFORCO6-Q02",
+        "DIA-20261113-BLOCO5-REFORCO6-Q03",
+        "DIA-20261113-BLOCO5-REFORCO6-Q04",
+        "DIA-20261113-BLOCO5-REFORCO6-Q05",
+        "DIA-20261113-BLOCO5-REFORCO6-Q06"
+      ],
+      "respostas": [
+        "A",
+        "A",
+        "E",
+        "C",
+        "B",
+        "B"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "D"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q01",
+          "editalItem": "7.2",
+          "topico": "C/N=21dB banda reduzida a 1/4 ⇒ 27dB",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "C_N_RUIDO_BANDA_REDUZIDA"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q04",
+          "editalItem": "6.1",
+          "topico": "Parabólica G=30dBi D×2 eficiência÷2 ⇒ 33dBi",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "GANHO_ANTENA_DIAMETRO_EFICIENCIA"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q05",
+          "editalItem": "2.3",
+          "topico": "Fourier média=0,5 na convenção a0/2 ⇒ a0=1",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "FOURIER_A0_MEDIA_ESCALONAMENTO"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO5-REFORCO6-Q06",
+          "editalItem": "2.3",
+          "topico": "Fourier 4+3cos−2sin, constante 4 implica a0=8",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "FOURIER_A0_TERMO_CONSTANTE"
+        }
+      ],
+      "observacao": "Questões autorais de reparo imediato; revisar de forma espaçada, sem equiparar a simulado original CESGRANRIO."
+    },
+    {
+      "id": "DIA-20261113-CN-REPARO4",
+      "eventId": "DIA-20261113-CN-REPARO4",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_4",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Reforço C/N: portadora, ruído, banda e dB",
+      "totalQuestoes": 4,
+      "totalValidas": 4,
+      "acertos": 4,
+      "erros": 0,
+      "invalidos": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_QTI_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_CN_REFORCO_4.md",
+      "questionIds": [
+        "DIA-20261113-CN-REPARO4-Q01",
+        "DIA-20261113-CN-REPARO4-Q02",
+        "DIA-20261113-CN-REPARO4-Q03",
+        "DIA-20261113-CN-REPARO4-Q04"
+      ],
+      "respostas": [
+        "B",
+        "E",
+        "C",
+        "A"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "C",
+        "A"
+      ],
+      "itensErrados": [],
+      "observacao": "Questões autorais de reparo imediato; revisar de forma espaçada, sem equiparar a simulado original CESGRANRIO."
+    },
+    {
+      "id": "DIA-20261113-ANTENA-REPARO2",
+      "eventId": "DIA-20261113-ANTENA-REPARO2",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_2",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Reforço parabólica: diâmetro +50% e eficiência reduzida",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 1,
+      "erros": 1,
+      "invalidos": 0,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_QTI_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_PARABOLICA_REFORCO_2.md",
+      "questionIds": [
+        "DIA-20261113-ANTENA-REPARO2-Q01",
+        "DIA-20261113-ANTENA-REPARO2-Q02"
+      ],
+      "respostas": [
+        "D",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "E"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261113-ANTENA-REPARO2-Q01",
+          "editalItem": "6.1",
+          "topico": "Parabólica ganho 27dBi diâmetro aumenta 50%, novo ganho≈30,5dBi",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "ANTENA_FATOR_PERCENTUAL_DIAMETRO"
+        }
+      ],
+      "observacao": "Questões autorais de reparo imediato; revisar de forma espaçada, sem equiparar a simulado original CESGRANRIO."
     }
   ],
   "updatedAt": "2026-11-13"
