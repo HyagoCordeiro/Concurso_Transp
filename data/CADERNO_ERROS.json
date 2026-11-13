@@ -489,7 +489,7 @@
     {
       "id": "CE-20261113-001",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "ING-20261113-BLOCO2",
       "sourceQuestionId": "ING-20261113-BLOCO2-Q02",
       "unitId": "INGLES",
@@ -499,16 +499,31 @@
       "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL",
       "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "Descarte a alternativa que contradiz o texto; a rota avalia distância, condições do fundo do mar e riscos de pesca/navegação, e exige monitoramento contínuo.",
-      "proxAcao": "2 questões novas de inferência contextual em texto novo; classificar distração por contradição.",
+      "proxAcao": "Treinar descarte de alternativas que contradizem informação literal; erro persistiu no novo texto de monitoramento, Q2 do reforço.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "ING-20261113-REFORCO",
+          "questionId": "ING-20261113-REFORCO-Q01",
+          "result": "CORRETA",
+          "note": "Inferiu corretamente que picos legítimos podem gerar alertas."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "ING-20261113-REFORCO",
+          "questionId": "ING-20261113-REFORCO-Q02",
+          "result": "INCORRETA",
+          "note": "Selecionou substituição humana pela automação, contrariando texto explícito."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261113-002",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "ING-20261113-BLOCO2",
       "sourceQuestionId": "ING-20261113-BLOCO2-Q08",
       "unitId": "INGLES",
@@ -516,13 +531,48 @@
       "respostaEscolhida": "E",
       "gabarito": "C",
       "errorType": "VOCABULARIO_CONTEXTO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Resilience=capacidade de manter ou recuperar a operação diante de falhas; reliability=confiabilidade; redundancy=redundância; availability=disponibilidade.",
-      "proxAcao": "2 questões novas de vocabulário contextual e falsos sentidos em texto distinto.",
+      "proxAcao": "Verificar em texto novo o significado de resilience em revisão espaçada (D3 16/11; D7 20/11; D21 04/12).",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "ING-20261113-REFORCO",
+          "questionId": "ING-20261113-REFORCO-Q03",
+          "result": "CORRETA",
+          "note": "Reconheceu contexto de resiliência fortalecida como maior capacidade de lidar com interrupções."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "ING-20261113-REFORCO",
+          "questionId": "ING-20261113-REFORCO-Q04",
+          "result": "CORRETA",
+          "note": "Restore=bring back into operation."
+        }
+      ],
       "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-003",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "ING-20261113-REFORCO",
+      "sourceQuestionId": "ING-20261113-REFORCO-Q02",
+      "unitId": "INGLES",
+      "topic": "Leitura: alternativa contraria afirmação explícita (human analysis vs automated alerts)",
+      "respostaEscolhida": "D",
+      "gabarito": "A",
+      "errorType": "INTERPRETACAO_CONTRADICAO_EXPLICITA",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Quando o texto afirma NOT REPLACE HUMAN ANALYSIS, descarte alternativa que diga REPLACE TECHNICAL PERSONNEL; prefira a que preserva o duplo objetivo de menos alarmes falsos e detecção de falhas.",
+      "proxAcao": "Nova questão em texto distinto exigindo leitura literal precisa e comparação com alternativas, sem repetição de estrutura.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "relatedErrorId": "CE-20261113-001"
     }
   ]
 }
