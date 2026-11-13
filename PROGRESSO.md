@@ -556,3 +556,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Implantado **Caderno de Erros permanente**, com **22 registros da sessão de 12/11**, dos quais 2 novos conteúdos, 2 erros aguardando reparo, 6 reparos imediatos concluídos aguardando revisão espaçada e outros anteriores. [Caderno humano](qti/CADERNO_ERROS.md) | [JSON](data/CADERNO_ERROS.json).
 - Fontes anunciadas como históricas nos QTI-10 foram preservadas com status **a conferir literalidade**; não chamar todos os itens de prova inédita original.
 - Referências: [QTI10 rodada 1](qti/QTI10_2026-11-12_RODADA1.md), [QTI10 encerramento](qti/QTI10_2026-11-12_ENCERRAMENTO.md). Revisões sugeridas **15/11, 19/11 e 03/12**, respeitando horários e vontade do aluno.
+
+
+## 13/11/2026 — Bloco 1 Português (texto novo)
+
+- 10 questões autorais CESGRANRIO-style sobre o texto *O valor do que não acontece*; 9/9 válidas corretas (100%), 1 anulada por ambiguidade de pontuação na enumeração antes de `e`, nenhum erro válido.
+- Treinados: ideia central, inferência, concessão, coesão, referência pronominal, porquês, regência/crase, relativos, pontuação e reescrita. Sem tempo aferido.
+- Q9: marcou D, gabarito pretendido E; ambas gramaticalmente defensáveis conforme uso expressivo da vírgula. Não registrar como erro do estudante.
+- Origem: 100% questões autorais inéditas, NÃO prova histórica original. Registro: [relatório PT 13/11](qti/RESULTADOS_DIA_2026-11-13_PT_BLOCO1.md). `data/RESULTADOS.json` e `data/QUESTOES.json` atualizados para controle anti-repetição.
