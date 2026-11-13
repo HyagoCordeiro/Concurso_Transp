@@ -6758,6 +6758,80 @@
         }
       ],
       "observacao": "Questões autorais, sem medição de tempo; sem confundir erro de conteúdo ainda não ensinado com domínio anterior."
+    },
+    {
+      "id": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+      "eventId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "BATERIA_7",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Bloco 5: C/N, ganho de antena parabólica e Fourier",
+      "totalQuestoes": 7,
+      "totalValidas": 7,
+      "acertos": 4,
+      "erros": 3,
+      "invalidos": 0,
+      "percentual": 57.1,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_TRANSFERENCIA_ESTILO_CESGRANRIO",
+      "diagnosticValidity": "BATERIA_GUIADA_AUTORAL_NAO_SIMULADO_ORIGINAL_INEDITO",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_BLOCO5_CN_ANTENAS_FOURIER.md",
+      "questionIds": [
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q02",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q03",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q06",
+        "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q07"
+      ],
+      "respostas": [
+        "C",
+        "A",
+        "C",
+        "D",
+        "C",
+        "A",
+        "D"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "C",
+        "C",
+        "B",
+        "A",
+        "D"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
+          "editalItem": "7.2",
+          "topico": "C/N portadora 18dB e banda quadruplicada, mantendo C e T; −6dB",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "errorType": "DECIBEIS_CN_BANDA_QUADRUPLICADA"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
+          "editalItem": "6.1",
+          "topico": "Parabólica: D triplica com f e eficiência constantes, 28dBi → 37,5dBi",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "DECIBEIS_GANHO_PARABOLICA_DIAMETRO_TRIPLO"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
+          "editalItem": "2.3",
+          "topico": "Fourier série trigonométrica: média 1 implica a0=2",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "SERIE_FOURIER_COEFICIENTE_A0_SOBRE_2"
+        }
+      ],
+      "observacao": "C/N 1/2; antenas 1/2; Fourier 2/3; três erros de dB/ganho/a0. Sem tempo medido."
     }
   ],
   "updatedAt": "2026-11-13"
