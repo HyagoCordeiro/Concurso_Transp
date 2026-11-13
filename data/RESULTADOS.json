@@ -6644,6 +6644,120 @@
       ],
       "itensErrados": [],
       "observacao": "Retomada do erro Bayes Q2 D3 de 13/11; acertou 2 questões de transferência. Reavaliação espaçada pendente."
+    },
+    {
+      "id": "DIA-20261113-BLOCO4-EXPO-EDCA",
+      "eventId": "DIA-20261113-BLOCO4-EXPO-EDCA",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "BATERIA_4_NOVO_CONTEUDO",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Bloco 4 — distribuição exponencial, Poisson e EDCA",
+      "totalQuestoes": 4,
+      "totalValidas": 4,
+      "acertos": 2,
+      "erros": 2,
+      "invalidos": 0,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "ENSINO_PREVIO_IMEDIATO_NAO_SIMULADO_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_BLOCO4_EXPO_EDCA.md",
+      "questionIds": [
+        "DIA-20261113-BLOCO4-EXPO-EDCA-Q01",
+        "DIA-20261113-BLOCO4-EXPO-EDCA-Q02",
+        "DIA-20261113-BLOCO4-EXPO-EDCA-Q03",
+        "DIA-20261113-BLOCO4-EXPO-EDCA-Q04"
+      ],
+      "respostas": [
+        "C",
+        "A",
+        "A",
+        "D"
+      ],
+      "gabarito": [
+        "E",
+        "C",
+        "A",
+        "D"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q01",
+          "editalItem": "1.2",
+          "topico": "Distribuição exponencial média 5 min, já operou 6, durar mais 4: ausência de memória",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "EXPONENCIAL_INTERVALO_ADICIONAL"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q02",
+          "editalItem": "1.2",
+          "topico": "Poisson 3 alarmes/h, nenhum em 20 min, pelo menos um nos 10 min seguintes",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "POISSON_COMPLEMENTO_P_GE_1"
+        }
+      ],
+      "observacao": "Questões autorais, sem medição de tempo; sem confundir erro de conteúdo ainda não ensinado com domínio anterior."
+    },
+    {
+      "id": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+      "eventId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_4",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Bloco 4 — reparo de exponencial e Poisson",
+      "totalQuestoes": 4,
+      "totalValidas": 4,
+      "acertos": 2,
+      "erros": 2,
+      "invalidos": 0,
+      "percentual": 50,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_SIMULADO_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_BLOCO4_REFORCO_EXPO_POISSON.md",
+      "questionIds": [
+        "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q01",
+        "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
+        "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q03",
+        "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q04"
+      ],
+      "respostas": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "B",
+        "E"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
+          "editalItem": "1.2",
+          "topico": "Exponencial espera média 10min, aguarda há 8, restabelecer nos próximos 5min",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "EXPONENCIAL_PROB_OCORRER_VS_SOBREVIVER"
+        },
+        {
+          "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q04",
+          "editalItem": "1.2",
+          "topico": "Poisson 3 chamadas/min, pelo menos 2 em 40s",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "POISSON_P_GE_2_VS_P_GE_1"
+        }
+      ],
+      "observacao": "Questões autorais, sem medição de tempo; sem confundir erro de conteúdo ainda não ensinado com domínio anterior."
     }
   ],
   "updatedAt": "2026-11-13"
