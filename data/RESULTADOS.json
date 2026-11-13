@@ -6509,6 +6509,55 @@
         }
       ],
       "observacao": "Texto e itens autorais novos; 6/8, sem cronômetro; duas pendências registradas no caderno de erros."
+    },
+    {
+      "id": "ING-20261113-REFORCO",
+      "eventId": "ING-20261113-REFORCO",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REFORCO_4",
+      "disciplina": "Língua Inglesa",
+      "titulo": "Reforço Bloco 2 — Network Monitoring / Communication During Emergencies",
+      "totalQuestoes": 4,
+      "totalValidas": 4,
+      "acertos": 3,
+      "erros": 1,
+      "invalidos": 0,
+      "percentual": 75,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TEXTO_INEDITO_REPARO",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_PONTUAR_COMO_INEDITO_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_ING_REFORCO.md",
+      "questionIds": [
+        "ING-20261113-REFORCO-Q01",
+        "ING-20261113-REFORCO-Q02",
+        "ING-20261113-REFORCO-Q03",
+        "ING-20261113-REFORCO-Q04"
+      ],
+      "respostas": [
+        "D",
+        "D",
+        "E",
+        "B"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "E",
+        "B"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "ING-20261113-REFORCO-Q02",
+          "editalItem": "INGLES",
+          "topico": "Interpretação: ajustar limiares de alarmes para evitar intervenções desnecessárias sem perder falhas reais",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "errorType": "INTERPRETACAO_CONTRADICAO_EXPLICITA"
+        }
+      ],
+      "observacao": "3/4 acertos: dois acertos no vocabulário, inferência ainda com erro após reforço. Não misturar com resultado de bloco novo."
     }
   ],
   "updatedAt": "2026-11-13"
