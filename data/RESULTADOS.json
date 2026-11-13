@@ -6374,7 +6374,73 @@
         }
       ],
       "observacao": "Último QTI10 de conhecimentos específicos de 12/11. Erros C/N –3dB e ganho parabólica +6dB. Salvar em caderno de erros."
+    },
+    {
+      "id": "PT-20261113-BLOCO1",
+      "eventId": "PT-20261113-BLOCO1",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "BATERIA_10",
+      "disciplina": "Língua Portuguesa",
+      "titulo": "Bloco 1 de Português — O valor do que não acontece",
+      "totalQuestoes": 10,
+      "totalValidas": 9,
+      "acertos": 9,
+      "erros": 0,
+      "invalidos": 1,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TEXTO_INEDITO",
+      "diagnosticValidity": "TREINO_GUIADO_AUTORAL_NAO_SIMULADO_HISTORICO",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_PT_BLOCO1.md",
+      "questionIds": [
+        "PT-20261113-BLOCO1-Q01",
+        "PT-20261113-BLOCO1-Q02",
+        "PT-20261113-BLOCO1-Q03",
+        "PT-20261113-BLOCO1-Q04",
+        "PT-20261113-BLOCO1-Q05",
+        "PT-20261113-BLOCO1-Q06",
+        "PT-20261113-BLOCO1-Q07",
+        "PT-20261113-BLOCO1-Q08",
+        "PT-20261113-BLOCO1-Q09",
+        "PT-20261113-BLOCO1-Q10"
+      ],
+      "respostas": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "E",
+        "D",
+        "C",
+        "A",
+        "D",
+        "B"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "E",
+        "D",
+        "C",
+        "A",
+        null,
+        "B"
+      ],
+      "itensErrados": [],
+      "itensAnulados": [
+        {
+          "questionId": "PT-20261113-BLOCO1-Q09",
+          "marcada": "D",
+          "gabaritoOriginal": "E",
+          "motivo": "Ambiguidade em vírgula expressiva antes de e em enumeração; duas alternativas defensáveis."
+        }
+      ],
+      "observacao": "9 de 9 válidas, sem erros; Q9 anulada por falha da questão autoral, sem caderno de erros."
     }
   ],
-  "updatedAt": "2026-11-12"
+  "updatedAt": "2026-11-13"
 }
