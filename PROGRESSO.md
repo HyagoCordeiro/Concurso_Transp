@@ -573,3 +573,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Caderno de erros atualizado em `qti/CADERNO_ERROS.md` e `data/CADERNO_ERROS.json`; revisões sugeridas D3 16/11, D7 20/11, D21 04/12.
 - [Resultado inglês](qti/RESULTADOS_DIA_2026-11-13_ING_BLOCO2.md).
 - **Dois blocos de 13/11:** Português 9/9 válidas (1 anulada), Inglês 6/8; **15/17 válidas = 88,2%**, desempenho de treino guiado autoral, não simulado oficial independente.
+
+
+## 13/11/2026 — Reforço de Inglês
+
+- 4 autorais, 3/4 (75%), **treino de reparo**; não misturar com 15/17 de blocos regulares.
+- Q1 D/D, Q2 D/A (erro de inferência contradiz texto), Q3 E/E, Q4 B/B. Dois acertos de vocabulário, mas compreensão de alternativa contraditória voltou a falhar.
+- Caderno CE-20261113-001 segue pendente, CE-20261113-002 mudou para reparo imediato feito/reteste espaçado pendente, CE-20261113-003 criado para o novo erro de Q2. D3 16/11, D7 20/11, D21 04/12.
+- [Registro do reforço](qti/RESULTADOS_DIA_2026-11-13_ING_REFORCO.md).
