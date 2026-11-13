@@ -104,7 +104,7 @@
     {
       "id": "CE-20261112-003",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "QTI10-20261112-ENCERRAMENTO",
       "sourceQuestionId": "QTI10-20261112-ENCERRAMENTO-Q03",
       "unitId": "7.2",
@@ -117,13 +117,21 @@
       "proxAcao": "2 novas variando apenas B, C e T, pedir diagrama de grandezas e sinal de dB.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
+          "result": "INCORRETA",
+          "note": "Recorrência/transferência: C/N: banda quadruplicada com portadora e temperatura fixas"
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261112-004",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "QTI10-20261112-ENCERRAMENTO",
       "sourceQuestionId": "QTI10-20261112-ENCERRAMENTO-Q07",
       "unitId": "6.1",
@@ -136,7 +144,15 @@
       "proxAcao": "2 novas de ganho com razão de frequências/diâmetros e interpretação do sinal.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
+          "result": "INCORRETA",
+          "note": "Recorrência/transferência: Antena parabólica: diâmetro triplo e conversão ganho linear→dBi"
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -218,7 +234,7 @@
     {
       "id": "CE-20261112-009",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q01",
       "unitId": "2.3",
@@ -231,7 +247,15 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+          "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
+          "result": "INCORRETA",
+          "note": "Recorrência/transferência: Série de Fourier: média do período versus coeficiente a0 na convenção a0/2"
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -707,6 +731,66 @@
       "proxAcao": "Nova questão em contexto diferente com pelo menos duas ocorrências, sem confundir com pelo menos uma.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-008",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
+      "unitId": "7.2",
+      "topic": "C/N: banda quadruplicada com portadora e temperatura fixas",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "DECIBEIS_CN_BANDA_QUADRUPLICADA",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "N=kTB; B×4 ⇒ N+6,02dB e C/N−6,02dB. De 18dB para ≈12dB.",
+      "proxAcao": "Distinguir ×2 e ×4 em ruído: micro-reparo 2 questões com novos valores, depois reteste D3.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "relatedErrorId": "CE-20261112-003",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-009",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
+      "unitId": "6.1",
+      "topic": "Antena parabólica: diâmetro triplo e conversão ganho linear→dBi",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "errorType": "DECIBEIS_GANHO_PARABOLICA_DIAMETRO_TRIPLO",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "G∝D²f²; D×3 (f e η fixos) ⇒ G×9 = +20log10(3)≈+9,54dB; 28dBi→37,5dBi.",
+      "proxAcao": "Micro-reparo 2 questões distinguindo dobro/triplo de f e D e aumento absoluto em dBi.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "relatedErrorId": "CE-20261112-004",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-010",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
+      "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
+      "unitId": "2.3",
+      "topic": "Série de Fourier: média do período versus coeficiente a0 na convenção a0/2",
+      "respostaEscolhida": "C",
+      "gabarito": "B",
+      "errorType": "SERIE_FOURIER_COEFICIENTE_A0_SOBRE_2",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Em x(t)=a0/2+Σ..., média=(1/T)∫x dt=a0/2; média 1 ⇒ a0=2.",
+      "proxAcao": "Micro-reparo 2 questões autorais de a0 com sinal de 2 patamares; reteste posterior.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "relatedErrorId": "CE-20261112-009",
       "retestEvidence": [],
       "retentionVerified": false
     }
