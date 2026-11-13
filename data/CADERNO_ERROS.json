@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-12",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "purpose": "Caderno persistente de erros e lacunas do projeto CESGRANRIO Telecom; primeiro lote migrado com segurança do histórico 12/11; registros anteriores continuam em data/REVISOES.json e qti históricos.",
   "statusValues": [
     "NOVO_CONTEUDO_A_ENSINAR",
@@ -483,6 +483,44 @@
       "proxAcao": "Reteste novo sem revelar resposta; correção anterior foi após exibição do gabarito.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-001",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "ING-20261113-BLOCO2",
+      "sourceQuestionId": "ING-20261113-BLOCO2-Q02",
+      "unitId": "INGLES",
+      "topic": "Inferência sobre rotas de cabos: mais do que distância; contraste com alternativa sem monitoramento",
+      "respostaEscolhida": "D",
+      "gabarito": "E",
+      "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Descarte a alternativa que contradiz o texto; a rota avalia distância, condições do fundo do mar e riscos de pesca/navegação, e exige monitoramento contínuo.",
+      "proxAcao": "2 questões novas de inferência contextual em texto novo; classificar distração por contradição.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-002",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "ING-20261113-BLOCO2",
+      "sourceQuestionId": "ING-20261113-BLOCO2-Q08",
+      "unitId": "INGLES",
+      "topic": "Resilience em rede: continuidade ou recuperação do serviço sob falhas",
+      "respostaEscolhida": "E",
+      "gabarito": "C",
+      "errorType": "VOCABULARIO_CONTEXTO",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Resilience=capacidade de manter ou recuperar a operação diante de falhas; reliability=confiabilidade; redundancy=redundância; availability=disponibilidade.",
+      "proxAcao": "2 questões novas de vocabulário contextual e falsos sentidos em texto distinto.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "retestEvidence": [],
       "retentionVerified": false
     }
