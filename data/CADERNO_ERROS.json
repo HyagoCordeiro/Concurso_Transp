@@ -29,7 +29,7 @@
     {
       "id": "CE-20261112-001",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "QTI10-20261112-RODADA1",
       "sourceQuestionId": "QTI10-20261112-RODADA1-Q01",
       "unitId": "1.2",
@@ -37,18 +37,40 @@
       "respostaEscolhida": "A",
       "gabarito": "C",
       "errorType": "CONTEUDO_NOVO",
-      "status": "NOVO_CONTEUDO_A_ENSINAR",
+      "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "P(T>s+t |T>s)=P(T>t); aqui P(T>7|T>3)=e^(−0,4)",
-      "proxAcao": "Explicar antes de cobrar; localizar questão histórica CESGRANRIO de distribuição exponencial e propor 2 novas de propriedade sem memória.",
-      "dueAt": "2026-11-13",
+      "proxAcao": "Teoria de exponencial sem memória apresentada em 13/11. Diferenciar sobreviver os próximos t minutos de ocorrer dentro dos próximos t; ainda houve erro no reforço de ocorrência, revisar em novo contexto.",
+      "dueAt": "2026-11-16",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-EDCA",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q01",
+          "result": "INCORRETA",
+          "note": "Usou tempo transcorrido em vez de tempo adicional."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q01",
+          "result": "CORRETA",
+          "note": "Aplicou ausência de memória para sobrevivência adicional."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
+          "result": "INCORRETA",
+          "note": "Não aplicou complemento para ocorrência dentro do intervalo."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261112-002",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "QTI10-20261112-RODADA1",
       "sourceQuestionId": "QTI10-20261112-RODADA1-Q05",
       "unitId": "10.1",
@@ -56,12 +78,27 @@
       "respostaEscolhida": "E",
       "gabarito": "A",
       "errorType": "CONTEUDO_NOVO",
-      "status": "NOVO_CONTEUDO_A_ENSINAR",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "AC_VO voz > AC_VI vídeo > AC_BE melhor esforço > AC_BK fundo; DCF não é categoria EDCA",
-      "proxAcao": "Apresentar EDCA/EDCF e 4 categorias; 2 novas, então revisar com CESGRANRIO.",
-      "dueAt": "2026-11-13",
+      "proxAcao": "EDCA ensinado e duas questões acertadas em 13/11; confirmar sem pistas em novo contexto D3 16/11.",
+      "dueAt": "2026-11-16",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-EDCA",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q03",
+          "result": "CORRETA",
+          "note": "AC_VI e AC_BK."
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-EDCA",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q04",
+          "result": "CORRETA",
+          "note": "Contenção EDCA com parâmetros distintos."
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -605,6 +642,72 @@
           "result": "CORRETA"
         }
       ],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-005",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-13",
+      "sourceResultId": "DIA-20261113-BLOCO4-EXPO-EDCA",
+      "sourceQuestionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q02",
+      "unitId": "1.2",
+      "topic": "Poisson pelo menos um evento: complemento de zero",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "errorType": "POISSON_COMPLEMENTO_P_GE_1",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Em Poisson com média µ, P(N≥1)=1−P(N=0)=1−e^(−µ).",
+      "proxAcao": "Acerto no reparo Q3 em 13/11; reteste D3 16/11 com contexto diferente.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE",
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+          "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q03",
+          "result": "CORRETA",
+          "note": "Identificou ≥1 em 15 min: 1−e^(−1)."
+        }
+      ],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-006",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+      "sourceQuestionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
+      "unitId": "1.2",
+      "topic": "Exponencial: ocorrer dentro do período vs sobreviver por mais tempo",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "errorType": "EXPONENCIAL_PROB_OCORRER_VS_SOBREVIVER",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Se T é exponencial, P(T≤t)=1−e^(−λt) e P(T>t)=e^(−λt). Ausência de memória usa apenas t adicional após tempo já decorrido.",
+      "proxAcao": "Questões novas que contrastem ocorrer vs não ocorrer no intervalo restante; treinar tradução antes da conta.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "relatedErrorId": "CE-20261112-001",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261113-007",
+      "firstSeenAt": "2026-11-13",
+      "lastReviewedAt": null,
+      "sourceResultId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
+      "sourceQuestionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q04",
+      "unitId": "1.2",
+      "topic": "Poisson: pelo menos dois exige excluir 0 e 1",
+      "respostaEscolhida": "C",
+      "gabarito": "E",
+      "errorType": "POISSON_P_GE_2_VS_P_GE_1",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Para N∼Poisson(µ), P(N≥2)=1−P(N=0)−P(N=1)=1−(1+µ)e^(−µ).",
+      "proxAcao": "Nova questão em contexto diferente com pelo menos duas ocorrências, sem confundir com pelo menos uma.",
+      "dueAt": "2026-11-16",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "retestEvidence": [],
       "retentionVerified": false
     }
   ]
