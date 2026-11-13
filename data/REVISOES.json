@@ -1415,9 +1415,14 @@
       "origemResultado": "QTI20-20261110",
       "agendadaPara": "2026-11-13",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "PARCIALMENTE_EXECUTADA",
       "createdFromStudyDate": "2026-11-10",
-      "plano": "Usar questões diferentes de 10/11, preferir CESGRANRIO/QConcursos em Probabilidade/Português/Inglês. Começar por interpretação do enunciado sem fórmula e verificar distinção P(F|A)/P(A|F)."
+      "plano": "Usar questões diferentes de 10/11, preferir CESGRANRIO/QConcursos em Probabilidade/Português/Inglês. Começar por interpretação do enunciado sem fórmula e verificar distinção P(F|A)/P(A|F).",
+      "evidencia": {
+        "date": "2026-11-13",
+        "sessionId": "REV-D3-20261113-BAYES-CONVOLUCAO",
+        "resultado": "Bayes 2/3, convolução 2/2; Português e Inglês em sessões separadas."
+      }
     },
     {
       "id": "REV-ESTUDO-20261110-D7",
@@ -2108,6 +2113,51 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Texto novo com afirmações explícitas e alternativas que afirmam o contrário; leitura de negações.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-004-D3",
+      "unitId": "1.1",
+      "editalItem": "1.1",
+      "materia": "Probabilidade",
+      "topico": "Bayes: não inverter P(D|A) com P(A|D)",
+      "motivo": "Erro recorrente de 10/11 em reteste D3 de 13/11, Q2 marcou E em vez de C",
+      "origemResultado": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "agendadaPara": "2026-11-16",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Duas novas questões; traduzir evento condicionado e complemento de falsos positivos antes da fórmula.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-004-D7",
+      "unitId": "1.1",
+      "editalItem": "1.1",
+      "materia": "Probabilidade",
+      "topico": "Bayes: não inverter P(D|A) com P(A|D)",
+      "motivo": "Erro recorrente de 10/11 em reteste D3 de 13/11, Q2 marcou E em vez de C",
+      "origemResultado": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "agendadaPara": "2026-11-20",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Duas novas questões; traduzir evento condicionado e complemento de falsos positivos antes da fórmula.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261113-004-D21",
+      "unitId": "1.1",
+      "editalItem": "1.1",
+      "materia": "Probabilidade",
+      "topico": "Bayes: não inverter P(D|A) com P(A|D)",
+      "motivo": "Erro recorrente de 10/11 em reteste D3 de 13/11, Q2 marcou E em vez de C",
+      "origemResultado": "REV-D3-20261113-BAYES-CONVOLUCAO",
+      "agendadaPara": "2026-12-04",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-13",
+      "plano": "Duas novas questões; traduzir evento condicionado e complemento de falsos positivos antes da fórmula.",
       "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
