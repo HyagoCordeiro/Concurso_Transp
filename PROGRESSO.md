@@ -597,3 +597,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Duas questões autorais de novos contextos no item 1.1, com respostas C e E, ambas corretas (100%). Conseguiu traduzir P(quero|sabendo), mostrou recuperação imediata de inversão da condicional.
 - CE-20261113-004: mudou para REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE, sem declarar consolidação. D3 16/11, D7 20/11 e D21 04/12 sugeridos.
 - [Registro do reparo](qti/RESULTADOS_DIA_2026-11-13_BAYES_REFORCO2.md). Métrica separada dos blocos principais.
+
+
+## 13/11/2026 — Bloco 4 e reforço: Exponencial, Poisson e Wi-Fi EDCA
+
+- **Bloco 4 (ensino prévio de 2 conteúdos não vistos): 2/4, 50%**; erros Q1 exponencial intervalo adicional C/E e Q2 Poisson pelo menos um A/C; EDCA 2/2.
+- **Reforço dirigido 4 questões: 2/4, 50%**; acertos Q1 D/D e Q3 B/B, erros Q2 A/C (restabelecer nos próximos cinco minutos exige 1−e^(−0,5)) e Q4 C/E (pelo menos duas chamadas exige excluir 0 e 1).
+- Reclassificação: CE-20261112-001 teve teoria apresentada e segue PENDENTE_REPARO, CE-20261112-002 EDCA virou REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE; novos CE-20261113-005 (Poisson ≥1, reparo imediato feito, reteste pendente), CE-20261113-006 e 007 (erros pendentes). Não considerar teoria não apresentada previamente como esquecimento.
+- Revisões sugeridas: D3 16/11, D7 20/11, D21 04/12.
+- [Bloco 4](qti/RESULTADOS_DIA_2026-11-13_BLOCO4_EXPO_EDCA.md) · [Reforço](qti/RESULTADOS_DIA_2026-11-13_BLOCO4_REFORCO_EXPO_POISSON.md).
+- **Total de blocos principais em 13/11:** Português 9/9 válidas + Inglês 6/8 + D3 4/5 + Bloco 4 2/4 = **21/26 válidas (80,8%)**. Reforços Inglês 3/4, Bayes 2/2 e Bloco 4 2/4 contados separadamente.
