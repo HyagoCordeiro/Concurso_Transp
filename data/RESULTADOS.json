@@ -6440,6 +6440,75 @@
         }
       ],
       "observacao": "9 de 9 válidas, sem erros; Q9 anulada por falha da questão autoral, sem caderno de erros."
+    },
+    {
+      "id": "ING-20261113-BLOCO2",
+      "eventId": "ING-20261113-BLOCO2",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "BATERIA_8",
+      "disciplina": "Língua Inglesa",
+      "titulo": "Bloco 2 de Inglês — The Hidden Infrastructure of Global Communication",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 6,
+      "erros": 2,
+      "invalidos": 0,
+      "percentual": 75,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TEXTO_INEDITO",
+      "diagnosticValidity": "TREINO_GUIADO_AUTORAL_NAO_SIMULADO_HISTORICO",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_ING_BLOCO2.md",
+      "questionIds": [
+        "ING-20261113-BLOCO2-Q01",
+        "ING-20261113-BLOCO2-Q02",
+        "ING-20261113-BLOCO2-Q03",
+        "ING-20261113-BLOCO2-Q04",
+        "ING-20261113-BLOCO2-Q05",
+        "ING-20261113-BLOCO2-Q06",
+        "ING-20261113-BLOCO2-Q07",
+        "ING-20261113-BLOCO2-Q08"
+      ],
+      "respostas": [
+        "B",
+        "D",
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "E"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "C"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "ING-20261113-BLOCO2-Q02",
+          "editalItem": "INGLES",
+          "topico": "Inference: rotas de cabos e critérios de engenharia",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL"
+        },
+        {
+          "questionId": "ING-20261113-BLOCO2-Q08",
+          "editalItem": "INGLES",
+          "topico": "Resilience — manter ou recuperar serviço sob falhas",
+          "respostaEscolhida": "E",
+          "gabarito": "C",
+          "errorType": "VOCABULARIO_CONTEXTO"
+        }
+      ],
+      "observacao": "Texto e itens autorais novos; 6/8, sem cronômetro; duas pendências registradas no caderno de erros."
     }
   ],
   "updatedAt": "2026-11-13"
