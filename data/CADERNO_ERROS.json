@@ -577,7 +577,7 @@
     {
       "id": "CE-20261113-004",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-13",
       "sourceResultId": "REV-D3-20261113-BAYES-CONVOLUCAO",
       "sourceQuestionId": "REV-D3-20261113-BAYES-CONVOLUCAO-Q02",
       "unitId": "1.1",
@@ -585,13 +585,26 @@
       "respostaEscolhida": "E",
       "gabarito": "C",
       "errorType": "INVERSAO_CONDICIONAL_BAYES",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Pedido: P(defeito|alarme) = P(defeito e alarme)/P(alarme)=0,08/(0,08+0,18)=30,77%, não P(alarme|defeito)=80%. Marcar evento após 'sabendo que' como condição.",
-      "proxAcao": "2 exercícios novos com enunciados de telecom e sentido de condicional invertido; primeiro traduzir P(X|Y) antes das contas. Não antecipar gabarito.",
+      "proxAcao": "Reavaliar interpretação P(A|B) versus P(B|A) sem pistas em questão nova no D3 16/11, D7 20/11 e D21 04/12.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_RETEST",
       "relatedSourceResult": "QTI20-20261110",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-13",
+          "sessionId": "BAYES-20261113-REPARO2",
+          "questionId": "BAYES-20261113-REPARO2-Q01",
+          "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-13",
+          "sessionId": "BAYES-20261113-REPARO2",
+          "questionId": "BAYES-20261113-REPARO2-Q02",
+          "result": "CORRETA"
+        }
+      ],
       "retentionVerified": false
     }
   ]
