@@ -615,3 +615,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Por assunto:** C/N 1/2, parabólica 1/2, Fourier 2/3. Erros CE-20261113-008, 009 e 010 registrados e vinculados aos anteriores de 12/11; revisões D3 16/11, D7 20/11 e D21 04/12. Não contar como simulado histórico inédito. Sem tempo aferido.
 - [Resultado detalhado](qti/RESULTADOS_DIA_2026-11-13_BLOCO5_CN_ANTENAS_FOURIER.md).
 - **Parcial dos blocos principais de 13/11:** Português 9/9 válidas, Inglês 6/8, D3 Bayes/convolução 4/5, Bloco 4 2/4, Bloco 5 4/7 ⇒ **25/33 válidas (75,8%)**. Reforços Inglês 3/4, Bayes 2/2, Exponencial/Poisson 2/4 separados.
+
+
+## 13/11/2026 — Reforços finais C/N, antenas e Fourier
+
+- Reforço misto 6 questões 2/6 (33,3%): C/N redução de banda, compensação D/η, e dois erros Fourier a0. Registros CE-20261113-011 a 014.
+- Reforço novo C/N 4/4 (100%) após explicação de C (portadora), N (ruído), C/N em dB; reparo imediato confirmado, reteste espaçado pendente.
+- Reforço antena 1/2 (50%): errou D+50%=×1,5 (não ×2), acertou compensação D×2 e η÷4; CE-20261113-015 criado, sem consolidação do eixo antenas.
+- Reforços do dia: Inglês 3/4 + Bayes 2/2 + Exponencial/Poisson 2/4 + Misto C/N/antena/Fourier 2/6 + C/N 4/4 + antena 1/2 = **14/22 (63,6%)**, separados dos 25/33 blocos principais. Soma global de exercícios do dia, misturando blocos e reforços, **39/55 (70,9%)**; não interpretar como simulado CESGRANRIO independente.
+- Revisões D3 16/11, D7 20/11, D21 04/12. Sem tempo líquido aferido. Ainda falta reparar o eixo a0 de Fourier antes do fechamento definitivo.
+- Relatórios: [misto](qti/RESULTADOS_DIA_2026-11-13_BLOCO5_REFORCO_FINAL.md), [C/N](qti/RESULTADOS_DIA_2026-11-13_CN_REFORCO_4.md), [antenas](qti/RESULTADOS_DIA_2026-11-13_PARABOLICA_REFORCO_2.md).
