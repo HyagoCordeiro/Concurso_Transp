@@ -590,3 +590,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Convolução discreta 2/2: Q4 E/E e Q5 B/B, evidência de recuperação em reteste espaçado de novos valores.
 - Referência: [relatório D3](qti/RESULTADOS_DIA_2026-11-13_D3_BAYES_CONVOLUCAO.md); D3 de 10/11 apenas parcialmente executado (Português e Inglês foram em blocos próprios). Sem tempo aferido.
 - **Parcial de hoje em blocos principais:** Português 9/9 válidas; Inglês 6/8; D3 4/5 = **19/22 válidas (86,4%)**. Reforço Inglês 3/4 contabilizado separadamente.
+
+
+## 13/11/2026 — Reparo de Bayes (2/2)
+
+- Duas questões autorais de novos contextos no item 1.1, com respostas C e E, ambas corretas (100%). Conseguiu traduzir P(quero|sabendo), mostrou recuperação imediata de inversão da condicional.
+- CE-20261113-004: mudou para REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE, sem declarar consolidação. D3 16/11, D7 20/11 e D21 04/12 sugeridos.
+- [Registro do reparo](qti/RESULTADOS_DIA_2026-11-13_BAYES_REFORCO2.md). Métrica separada dos blocos principais.
