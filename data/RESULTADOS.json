@@ -6994,6 +6994,40 @@
         }
       ],
       "observacao": "Questões autorais de reparo imediato; revisar de forma espaçada, sem equiparar a simulado original CESGRANRIO."
+    },
+    {
+      "id": "DIA-20261113-FOURIER-A0-REPARO2",
+      "eventId": "DIA-20261113-FOURIER-A0-REPARO2",
+      "data": "2026-11-13",
+      "studyDateLocal": "2026-11-13",
+      "tipo": "REPARO_2",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Reforço final Série de Fourier: a0 na convenção a0/2",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 2,
+      "erros": 0,
+      "invalidos": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
+      "diagnosticValidity": "REPARO_DIRIGIDO_NAO_QTI_INDEPENDENTE",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/RESULTADOS_DIA_2026-11-13_FOURIER_A0_REFORCO2.md",
+      "questionIds": [
+        "DIA-20261113-FOURIER-A0-REPARO2-Q01",
+        "DIA-20261113-FOURIER-A0-REPARO2-Q02"
+      ],
+      "respostas": [
+        "C",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "E"
+      ],
+      "itensErrados": [],
+      "observacao": "Q1 média 0,5 => a0=1; Q2 média −2=>a0=−4. Reteste espaçado pendente."
     }
   ],
   "updatedAt": "2026-11-13"
