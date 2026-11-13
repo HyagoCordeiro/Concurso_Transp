@@ -8,8 +8,8 @@
 
 | ID | QTI | Item | Conteúdo | Marcou / correta | Diagnóstico | Estado |
 |---|---|---|---|---|---|---|
-| CE-20261112-001 | QTI10-20261112-RODADA1 | 1.2 | Distribuição exponencial — ausência de memória | A / C | CONTEUDO_NOVO | NOVO_CONTEUDO_A_ENSINAR |
-| CE-20261112-002 | QTI10-20261112-RODADA1 | 10.1 | EDCA IEEE 802.11e — categorias de acesso para voz | E / A | CONTEUDO_NOVO | NOVO_CONTEUDO_A_ENSINAR |
+| CE-20261112-001 | QTI10-20261112-RODADA1 | 1.2 | Distribuição exponencial — ausência de memória | A / C | CONTEUDO_NOVO | PENDENTE_REPARO — TEORIA APRESENTADA 13/11 |
+| CE-20261112-002 | QTI10-20261112-RODADA1 | 10.1 | EDCA IEEE 802.11e — categorias de acesso para voz | E / A | CONTEUDO_NOVO | REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE — 2/2 13/11 |
 | CE-20261112-003 | QTI10-20261112-ENCERRAMENTO | 7.2 | C/N e ruído térmico ao dobrar banda | B / A | CALCULO_DECIBEIS | PENDENTE_REPARO |
 | CE-20261112-004 | QTI10-20261112-ENCERRAMENTO | 6.1 | Ganho parabólica, frequência dobrada | A / D | SINAL_GANHO_DECIBEIS | PENDENTE_REPARO |
 
@@ -67,6 +67,19 @@
 
 **Registro:** [Revisão D3 Bayes/convolução](RESULTADOS_DIA_2026-11-13_D3_BAYES_CONVOLUCAO.md) — 4/5; Bayes 2/3, convolução 2/2 em reteste espaçado. O erro foi recorrência do problema Bayes de 10/11; não contar como conteúdo novo não ensinado.
 
+
+## Erros de 13/11/2026 — Bloco 4 e reforço
+
+| ID | Sessão | Competência | Resposta / correta | Estado |
+|---|---|---|---|---|
+| CE-20261112-001 | Bloco 4 Q1 e reforço Q1/Q2 | Exponencial: tempo adicional vs ocorrer dentro dele | C/E; D/D; A/C | PENDENTE_REPARO, teoria ensinada |
+| CE-20261112-002 | Bloco 4 Q3/Q4 | EDCA AC_VI/AC_BK, contenção diferenciada | A/A; D/D | REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE |
+| CE-20261113-005 | Bloco 4 Q2; reforço Q3 | Poisson pelo menos um = 1−P(0) | A/C; B/B | REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE |
+| CE-20261113-006 | Reforço Q2 | Exponencial: ocorrência dentro do período exige complemento | A/C | PENDENTE_REPARO |
+| CE-20261113-007 | Reforço Q4 | Poisson ≥2 exclui casos 0 e 1 | C/E | PENDENTE_REPARO |
+
+**Resultados:** [Bloco 4 — 2/4](RESULTADOS_DIA_2026-11-13_BLOCO4_EXPO_EDCA.md); [reforço — 2/4](RESULTADOS_DIA_2026-11-13_BLOCO4_REFORCO_EXPO_POISSON.md). As duas questões erradas no QTI anterior não haviam sido ensinadas, portanto não contabilizar esquecimento. Regra D3=16/11, D7=20/11, D21=04/12.
+
 ## Como usar a cada QTI / bloco
 
 1. Consultar `data/CADERNO_ERROS.json` e `data/REVISOES.json` antes de propor questões. Priorizar conteúdo **ainda não ensinado**, depois erros pendentes e retestes que venceram.
@@ -76,4 +89,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** NOVO_CONTEUDO_A_ENSINAR: 2; PENDENTE_REPARO: 4; PENDENTE_RETESTE: 11; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 8; RETESTE_ESPACADO: 1; CONSOLIDADO_APOS_RETESTE: 0.
+**Estado atual por categoria:** PENDENTE_REPARO: 7; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 10; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
