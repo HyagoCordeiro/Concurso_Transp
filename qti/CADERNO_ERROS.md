@@ -51,9 +51,10 @@
 | ID | Questão | Tema | Resposta / correta | Tipo | Próxima ação | Situação |
 |---|---|---|---|---|---|---|
 | CE-20261113-001 | ING-20261113-BLOCO2-Q02 | Inferência: seleção de rota de cabo submarino considera riscos além da distância | D / E | INTERPRETACAO_CONTRADICAO_TEXTUAL | 2 questões novas com inferências e distractors que contradizem o texto; D3 16/11 | PENDENTE_REPARO |
-| CE-20261113-002 | ING-20261113-BLOCO2-Q08 | Resilience: manter/recuperar serviço apesar de falhas | E / C | VOCABULARIO_CONTEXTO | 2 questões novas com resilience, reliability, redundancy, availability; D3 16/11 | PENDENTE_REPARO |
+| CE-20261113-002 | ING-20261113-BLOCO2-Q08 | Resilience: manter/recuperar serviço apesar de falhas | E / C | VOCABULARIO_CONTEXTO | Reparo Q3 e Q4 acertados, reteste D3 16/11 | REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE |
+| CE-20261113-003 | ING-20261113-REFORCO-Q02 | Inferência: automação auxilia decisões, não substitui profissionais | D / A | INTERPRETACAO_CONTRADICAO_EXPLICITA | Reparo com leitura literal em novo texto, D3 16/11 | PENDENTE_REPARO |
 
-**Registro:** [Bloco 2 Inglês 13/11](RESULTADOS_DIA_2026-11-13_ING_BLOCO2.md). **Placar: 6/8 = 75%.** Revisões sugeridas 16/11 (D3), 20/11 (D7), 04/12 (D21). Sem respostas de reparo até o momento. Erros acrescentados ao caderno sem apagar registros antigos.
+**Registro:** [Bloco 2 Inglês 13/11](RESULTADOS_DIA_2026-11-13_ING_BLOCO2.md). **Placar: 6/8 = 75%.** Revisões sugeridas 16/11 (D3), 20/11 (D7), 04/12 (D21). Reforço no mesmo dia: **3/4**, acertos Q1/Q3/Q4 e erro Q2; inferência permanece pendente e vocabulário tem reparo imediato, sem consolidação espaçada.
 
 ## Como usar a cada QTI / bloco
 
@@ -64,4 +65,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** NOVO_CONTEUDO_A_ENSINAR: 2; PENDENTE_REPARO: 4; PENDENTE_RETESTE: 11; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 6; RETESTE_ESPACADO: 1; CONSOLIDADO_APOS_RETESTE: 0.
+**Estado atual por categoria:** NOVO_CONTEUDO_A_ENSINAR: 2; PENDENTE_REPARO: 4; PENDENTE_RETESTE: 11; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 7; RETESTE_ESPACADO: 1; CONSOLIDADO_APOS_RETESTE: 0.
