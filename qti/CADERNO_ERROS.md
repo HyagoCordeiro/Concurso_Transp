@@ -91,6 +91,14 @@
 
 **Origem:** [Bloco 5, 4/7 (57,1%)](RESULTADOS_DIA_2026-11-13_BLOCO5_CN_ANTENAS_FOURIER.md). Novos erros vinculados respectivamente a CE-20261112-003, CE-20261112-004 e CE-20261112-009; não declarar recuperação dos erros anteriores. Revisões sugeridas D3 16/11, D7 20/11, D21 04/12.
 
+## Reforços finais de 13/11 — C/N, parabólica e Fourier
+
+- [Reforço misto 6 questões](RESULTADOS_DIA_2026-11-13_BLOCO5_REFORCO_FINAL.md): **2/6**, erros C/N banda÷4, ganho D×2 η÷2 e dois coeficientes Fourier a0.
+- [Nova bateria C/N](RESULTADOS_DIA_2026-11-13_CN_REFORCO_4.md): **4/4** após explicação de C, N e C/N, status CE-20261113-008 e 011 = REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE (reteste D3).
+- [Nova bateria parabólica](RESULTADOS_DIA_2026-11-13_PARABOLICA_REFORCO_2.md): **1/2**; errou diâmetro +50%=×1,5 (CE-20261113-015) e acertou compensação entre diâmetro dobrado e η÷4.
+- CE-20261113-012 erro de combinação η e D; CE-20261113-013/014 persistência de confusão entre média e a0; CE-20261113-015 fator de diâmetro. Não declarar consolidação antes de reteste espaçado.
+- Próximos marcos: 16/11 D3; 20/11 D7; 04/12 D21. Treinos autorais de reparo separados dos blocos principais.
+
 ## Como usar a cada QTI / bloco
 
 1. Consultar `data/CADERNO_ERROS.json` e `data/REVISOES.json` antes de propor questões. Priorizar conteúdo **ainda não ensinado**, depois erros pendentes e retestes que venceram.
@@ -100,4 +108,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** PENDENTE_REPARO: 10; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 10; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
+**Estado atual por categoria:** PENDENTE_REPARO: 12; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 13; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
