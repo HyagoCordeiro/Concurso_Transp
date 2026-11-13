@@ -99,6 +99,13 @@
 - CE-20261113-012 erro de combinação η e D; CE-20261113-013/014 persistência de confusão entre média e a0; CE-20261113-015 fator de diâmetro. Não declarar consolidação antes de reteste espaçado.
 - Próximos marcos: 16/11 D3; 20/11 D7; 04/12 D21. Treinos autorais de reparo separados dos blocos principais.
 
+## 13/11/2026 — Fourier a0 reparo final 2/2
+
+- [Reforço final Fourier a0](RESULTADOS_DIA_2026-11-13_FOURIER_A0_REFORCO2.md): respostas C e E, ambas corretas, 100%, duas autorais novas (sinal por partes e série escrita).
+- CE-20261113-010, CE-20261113-013 e CE-20261113-014: **REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE**; não consolidar antes de D3.
+- CE-20261112-009 mantém **PENDENTE_RETESTE**, com evidência de reparo imediato adicionada.
+- [Fechamento do dia](FECHAMENTO_DIA_2026-11-13.md): blocos principais 25/33 (75,8%); reforços 16/24 (66,7%); total bruto combinado 41/57 (71,9%), não simulado original.
+
 ## Como usar a cada QTI / bloco
 
 1. Consultar `data/CADERNO_ERROS.json` e `data/REVISOES.json` antes de propor questões. Priorizar conteúdo **ainda não ensinado**, depois erros pendentes e retestes que venceram.
@@ -108,4 +115,4 @@
 5. Sugestões de revisão de 12/11: **D3 15/11, D7 19/11, D21 03/12**; são datas sugeridas dentro do projeto, não lembretes automáticos.
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
-**Estado atual por categoria:** PENDENTE_REPARO: 12; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 13; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
+**Estado atual por categoria:** PENDENTE_REPARO: 9; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 16; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
