@@ -607,3 +607,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Revisões sugeridas: D3 16/11, D7 20/11, D21 04/12.
 - [Bloco 4](qti/RESULTADOS_DIA_2026-11-13_BLOCO4_EXPO_EDCA.md) · [Reforço](qti/RESULTADOS_DIA_2026-11-13_BLOCO4_REFORCO_EXPO_POISSON.md).
 - **Total de blocos principais em 13/11:** Português 9/9 válidas + Inglês 6/8 + D3 4/5 + Bloco 4 2/4 = **21/26 válidas (80,8%)**. Reforços Inglês 3/4, Bayes 2/2 e Bloco 4 2/4 contados separadamente.
+
+
+## 13/11/2026 — Bloco 5: C/N, antenas parabólicas e Fourier
+
+- **4/7 = 57,1%**, questões 100% autorais de transferência, nível CESGRANRIO e novos valores. Q1 C/D (erro −6dB ao quadruplicar B), Q2 A/A, Q3 C/C, Q4 D/C (erro D×3 ⇒ +9,54dB), Q5 C/B (erro a0=2×média), Q6 A/A e Q7 D/D.
+- **Por assunto:** C/N 1/2, parabólica 1/2, Fourier 2/3. Erros CE-20261113-008, 009 e 010 registrados e vinculados aos anteriores de 12/11; revisões D3 16/11, D7 20/11 e D21 04/12. Não contar como simulado histórico inédito. Sem tempo aferido.
+- [Resultado detalhado](qti/RESULTADOS_DIA_2026-11-13_BLOCO5_CN_ANTENAS_FOURIER.md).
+- **Parcial dos blocos principais de 13/11:** Português 9/9 válidas, Inglês 6/8, D3 Bayes/convolução 4/5, Bloco 4 2/4, Bloco 5 4/7 ⇒ **25/33 válidas (75,8%)**. Reforços Inglês 3/4, Bayes 2/2, Exponencial/Poisson 2/4 separados.
