@@ -116,3 +116,18 @@
 6. Manter registros de **treino guiado, QTI e reforço separados** nas métricas; consultar `data/QUESTOES.json` para anti-repetição.
 
 **Estado atual por categoria:** PENDENTE_REPARO: 9; REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE: 16; PENDENTE_RETESTE: 11; RETESTE_ESPACADO: 1.
+
+## 13/11/2026 — Sete erros do simulado noturno de 50 questões
+**Fonte:** [simulado noturno](SIMULADO_NOTURNO_50_2026-11-13.md). Baterias corrigidas de dez em dez; questões autorais/adaptadas. Registros acrescentados sem sobrescrever o histórico.
+
+| ID | Q | Item | Resposta / correta | Regra de reparo | Situação |
+|---|---:|---|:---:|---|---|
+| CE-20261113-016 | 5 | 5.1 | B/E | Erlang B(2,1)=0,20 | PENDENTE_REPARO |
+| CE-20261113-017 | 6 | 7.1 | B/C | Fresnel: 60% de 7,07 m = 4,24 m | PENDENTE_REPARO |
+| CE-20261113-018 | 24 | 4.1 | C/E | Carson: 2(75+15)=180 kHz | PENDENTE_REPARO |
+| CE-20261113-019 | 28 | 12.3 | E/A | STM-N: 9 linhas x 270N colunas | PENDENTE_REPARO |
+| CE-20261113-020 | 35 | 5.2 | D/A | E1: 30 canais úteis; 3x30=90 | PENDENTE_REPARO |
+| CE-20261113-021 | 42 | 3.1 | A/B | Laplace: degrau amplitude 2 -> y(t)=4(1-exp(-3t)) | PENDENTE_REPARO |
+| CE-20261113-022 | 45 | 6.1 | B/A | EIRP: 20 dBW equivale a 100 W, não 20 W | PENDENTE_REPARO |
+
+Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas semelhantes na mesma sessão (Erlang, Fresnel, Carson e SDH) não contam como retenção espaçada.
