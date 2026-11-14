@@ -169,3 +169,11 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **CE-20261114-PT-09 (Q9):** A/C; 'trata-se' índice de indeterminação versus 'olharam-se' recíproco — PENDENTE_REPARO.
 
 [Relatório completo](PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.md). Reteste em questão nova CESGRANRIO em 21/11/2026, quando o aluno solicitar; não reutilizar texto da prova.
+
+
+## 14/11/2026 — QTI-30, um erro em Fourier
+
+- **QTI-30 autoral em três rodadas:** **29/30 (96,7%)**, 10/10 + 9/10 + 10/10.
+- **CE-20261114-QTI30-012 — item 2.3:** Q12, marcou B; correta E. Confusão entre atraso no tempo `e^(−jω)X(ω)` e derivação `jωX(ω)`. Status **PENDENTE_REPARO**; reteste proposto D3 17/11 e sábado 21/11. Registrar acertos posteriores, não fechar por explicação.
+- **EDCA do mesmo dia:** 5/5; reforça CE-20261112-002, mantendo status reteste pendente.
+- [Relatório do QTI-30](QTI30_2026-11-14_Fechamento.md).
