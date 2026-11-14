@@ -157,3 +157,15 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **CE-20261114-ING-02 (Q20):** marcou D, gabarito B. A segurança do trabalho depende de todos, e funcionários devem reportar riscos; a alternativa D generaliza responsabilidade exclusiva da gestão. **PENDENTE_REPARO**.
 - Preservar texto histórico e as 10 questões no anti-repetição. Reteste dirigido no próximo sábado, com novas questões e texto diferente, sob demanda.
 - [Relatório](INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.md).
+
+
+## 14/11/2026 — Português histórico original Transpetro 2012: resultado corrigido
+
+**6/10 (60%)**, Q1–10, *Science fiction*. Segunda resposta de dez letras substitui primeira mensagem com onze letras; primeiro placar provisório 3/10 invalidado.
+
+- **CE-20261114-PT-01 (Q1):** A/B; interpretação do contraste e impossibilidade existencial no poema — PENDENTE_REPARO.
+- **CE-20261114-PT-04 (Q4):** C/D; 'que têm' no plural — PENDENTE_REPARO.
+- **CE-20261114-PT-08 (Q8):** D/C; Há-a-à-a-a; crase inadequada em 'vejo a parte' — PENDENTE_REPARO.
+- **CE-20261114-PT-09 (Q9):** A/C; 'trata-se' índice de indeterminação versus 'olharam-se' recíproco — PENDENTE_REPARO.
+
+[Relatório completo](PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.md). Reteste em questão nova CESGRANRIO em 21/11/2026, quando o aluno solicitar; não reutilizar texto da prova.
