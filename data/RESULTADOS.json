@@ -7882,6 +7882,50 @@
       ],
       "tempoTotalSec": null,
       "observacao": "Primeira mensagem tinha 11 letras, não válida; segunda mensagem 10 letras substitui integralmente. Score final 6/10. Não registrar 3/10 preliminar como resultado."
+    },
+    {
+      "id": "REGULAMENTACAO-ITEM13-20261114",
+      "eventId": "REGULAMENTACAO-ITEM13-20261114",
+      "data": "2026-11-14",
+      "studyDateLocal": "2026-11-14",
+      "tipo": "REVISAO_GUIADA_ITEM13",
+      "disciplina": "Engenharia de Telecomunicações",
+      "titulo": "Item 13 — LGT, espectro, PDFF e radiodifusão",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 5,
+      "erros": 0,
+      "invalidos": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_COM_ADAPTACAO_CESGRANRIO_REFERENCIADA_A_VALIDAR",
+      "diagnosticValidity": "BATERIA_GUIADA_REDUZIDA_NAO_DOMINIO_INTEGRAL",
+      "sourceFile": "qti/REGULAMENTACAO_ITEM13_2026-11-14.json",
+      "reportFile": "qti/REGULAMENTACAO_ITEM13_2026-11-14.md",
+      "questionIds": [
+        "REGULAMENTACAO-ITEM13-20261114-Q01",
+        "REGULAMENTACAO-ITEM13-20261114-Q02",
+        "REGULAMENTACAO-ITEM13-20261114-Q03",
+        "REGULAMENTACAO-ITEM13-20261114-Q04",
+        "REGULAMENTACAO-ITEM13-20261114-Q05"
+      ],
+      "respostas": [
+        "E",
+        "A",
+        "C",
+        "D",
+        "B"
+      ],
+      "gabarito": [
+        "E",
+        "A",
+        "C",
+        "D",
+        "B"
+      ],
+      "itensErrados": [],
+      "tempoTotalSec": null,
+      "observacao": "5/5, mas cobertura do edital 13 não concluída. Q2 adaptada de CESGRANRIO 2023 por alegação do enunciado; referência ainda a revalidar."
     }
   ],
   "updatedAt": "2026-11-14"
