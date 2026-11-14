@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-12",
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "purpose": "Caderno persistente de erros e lacunas do projeto CESGRANRIO Telecom; primeiro lote migrado com segurança do histórico 12/11; registros anteriores continuam em data/REVISOES.json e qti históricos.",
   "statusValues": [
     "NOVO_CONTEUDO_A_ENSINAR",
@@ -29,7 +29,7 @@
     {
       "id": "CE-20261112-001",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI10-20261112-RODADA1",
       "sourceQuestionId": "QTI10-20261112-RODADA1-Q01",
       "unitId": "1.2",
@@ -37,7 +37,7 @@
       "respostaEscolhida": "A",
       "gabarito": "C",
       "errorType": "CONTEUDO_NOVO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "P(T>s+t |T>s)=P(T>t); aqui P(T>7|T>3)=e^(−0,4)",
       "proxAcao": "Teoria de exponencial sem memória apresentada em 13/11. Diferenciar sobreviver os próximos t minutos de ocorrer dentro dos próximos t; ainda houve erro no reforço de ocorrência, revisar em novo contexto.",
       "dueAt": "2026-11-16",
@@ -63,9 +63,24 @@
           "questionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
           "result": "INCORRETA",
           "note": "Não aplicou complemento para ocorrência dentro do intervalo."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B1",
+          "questionId": "REV-ERROS-20261114-B1-Q01",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Exponencial. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Exponencial. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-002",
@@ -104,7 +119,7 @@
     {
       "id": "CE-20261112-003",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI10-20261112-ENCERRAMENTO",
       "sourceQuestionId": "QTI10-20261112-ENCERRAMENTO-Q03",
       "unitId": "7.2",
@@ -131,14 +146,22 @@
           "questionId": "DIA-20261113-CN-REPARO4-Q02",
           "result": "CORRETA",
           "note": "C/N melhora? C/N 24−9=15dB"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: C/N banda. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-004",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI10-20261112-ENCERRAMENTO",
       "sourceQuestionId": "QTI10-20261112-ENCERRAMENTO-Q07",
       "unitId": "6.1",
@@ -146,7 +169,7 @@
       "respostaEscolhida": "A",
       "gabarito": "D",
       "errorType": "SINAL_GANHO_DECIBEIS",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "G∝(D/λ)^2∝f², portanto dobrar f dá +6,02 dB mantendo D e η",
       "proxAcao": "2 novas de ganho com razão de frequências/diâmetros e interpretação do sinal.",
       "dueAt": "2026-11-15",
@@ -158,9 +181,17 @@
           "questionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
           "result": "INCORRETA",
           "note": "Recorrência/transferência: Antena parabólica: diâmetro triplo e conversão ganho linear→dBi"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-005",
@@ -184,7 +215,7 @@
     {
       "id": "CE-20261112-006",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-ANT",
       "sourceQuestionId": "DIA-20261112-ANT-Q04",
       "unitId": "6.3",
@@ -197,8 +228,24 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q06",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Arranjo 3 antenas. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Arranjo 4 antenas. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-007",
@@ -241,7 +288,7 @@
     {
       "id": "CE-20261112-009",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q01",
       "unitId": "2.3",
@@ -275,14 +322,36 @@
           "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
           "result": "CORRETA",
           "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B1",
+          "questionId": "REV-ERROS-20261114-B1-Q04",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q11",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-010",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q04",
       "unitId": "2.3",
@@ -295,13 +364,22 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier X(0). Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-011",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q05",
       "unitId": "2.3",
@@ -314,13 +392,29 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q02",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier inversão+deslocamento. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier inversão. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-012",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-LIT",
       "sourceQuestionId": "DIA-20261112-LIT-Q01",
       "unitId": "3.5",
@@ -333,8 +427,17 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Transformada Z diferenças. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-013",
@@ -377,7 +480,7 @@
     {
       "id": "CE-20261112-015",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-MISTA",
       "sourceQuestionId": "DIA-20261112-MISTA-Q11",
       "unitId": "12.3",
@@ -390,13 +493,36 @@
       "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q09",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: CWDM/SDH. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: CWDM/SDH. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-CWDM",
+          "questionId": "REV-ERROS-20261114-CWDM-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: CWDM/SDH capacidade canal. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-016",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q01",
       "unitId": "1.2",
@@ -415,14 +541,29 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B3",
+          "questionId": "REV-ERROS-20261114-B3-Q02",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Variância binomial. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R3",
+          "questionId": "REV-ERROS-20261114-R3-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Variância binomial. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-017",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q02",
       "unitId": "2.1",
@@ -441,14 +582,22 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B3",
+          "questionId": "REV-ERROS-20261114-B3-Q05",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Potências de j. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-018",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q03",
       "unitId": "2.2",
@@ -467,14 +616,22 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B3",
+          "questionId": "REV-ERROS-20261114-B3-Q09",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Degrau unitário. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-019",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q04",
       "unitId": "3.4",
@@ -493,14 +650,22 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q10",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fase H(jw). Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-020",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q07",
       "unitId": "5.3",
@@ -519,14 +684,22 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B3",
+          "questionId": "REV-ERROS-20261114-B3-Q08",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Jitter. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-021",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI20-20261112-POSCRONOGRAMA",
       "sourceQuestionId": "QTI20-20261112-POSCRONOGRAMA-Q09",
       "unitId": "6.1",
@@ -545,14 +718,22 @@
           "kind": "REPARO_IMEDIATO",
           "result": "ACERTO_EM_REFORCO_NOVO",
           "source": "qti/QTI20_2026-11-12.md"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B2",
+          "questionId": "REV-ERROS-20261114-B2-Q07",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: HPBW FNBW. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261112-022",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261112-TLC-REF",
       "sourceQuestionId": "DIA-20261112-TLC-REF-Q02",
       "unitId": "1.2",
@@ -565,8 +746,17 @@
       "proxAcao": "Reteste novo sem revelar resposta; correção anterior foi após exibição do gabarito.",
       "dueAt": "2026-11-15",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B3",
+          "questionId": "REV-ERROS-20261114-B3-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: TLC. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-001",
@@ -719,7 +909,7 @@
     {
       "id": "CE-20261113-006",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
       "sourceQuestionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q02",
       "unitId": "1.2",
@@ -727,19 +917,35 @@
       "respostaEscolhida": "A",
       "gabarito": "C",
       "errorType": "EXPONENCIAL_PROB_OCORRER_VS_SOBREVIVER",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Se T é exponencial, P(T≤t)=1−e^(−λt) e P(T>t)=e^(−λt). Ausência de memória usa apenas t adicional após tempo já decorrido.",
       "proxAcao": "Questões novas que contrastem ocorrer vs não ocorrer no intervalo restante; treinar tradução antes da conta.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "relatedErrorId": "CE-20261112-001",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B1",
+          "questionId": "REV-ERROS-20261114-B1-Q01",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Exponencial. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Exponencial. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-007",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO",
       "sourceQuestionId": "DIA-20261113-BLOCO4-EXPO-POISSON-REFORCO-Q04",
       "unitId": "1.2",
@@ -747,13 +953,43 @@
       "respostaEscolhida": "C",
       "gabarito": "E",
       "errorType": "POISSON_P_GE_2_VS_P_GE_1",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Para N∼Poisson(µ), P(N≥2)=1−P(N=0)−P(N=1)=1−(1+µ)e^(−µ).",
       "proxAcao": "Nova questão em contexto diferente com pelo menos duas ocorrências, sem confundir com pelo menos uma.",
       "dueAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "retestEvidence": [],
-      "retentionVerified": false
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-B1",
+          "questionId": "REV-ERROS-20261114-B1-Q02",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Poisson >=2. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Poisson. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q12",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Poisson >=2. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Poisson >=2. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-008",
@@ -814,7 +1050,7 @@
     {
       "id": "CE-20261113-009",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
       "unitId": "6.1",
@@ -822,7 +1058,7 @@
       "respostaEscolhida": "D",
       "gabarito": "C",
       "errorType": "DECIBEIS_GANHO_PARABOLICA_DIAMETRO_TRIPLO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "G∝D²f²; D×3 (f e η fixos) ⇒ G×9 = +20log10(3)≈+9,54dB; 28dBi→37,5dBi.",
       "proxAcao": "Micro-reparo 2 questões distinguindo dobro/triplo de f e D e aumento absoluto em dBi.",
       "dueAt": "2026-11-16",
@@ -849,14 +1085,22 @@
           "questionId": "DIA-20261113-ANTENA-REPARO2-Q02",
           "result": "CORRETA",
           "note": "D×2 e eficiência÷4 mantêm ganho linear."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-010",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
       "unitId": "2.3",
@@ -898,13 +1142,21 @@
           "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
           "result": "CORRETA",
           "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q11",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
         }
       ],
-      "retentionVerified": false
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -944,12 +1196,20 @@
           "sessionId": "DIA-20261113-CN-REPARO4",
           "questionId": "DIA-20261113-CN-REPARO4-Q04",
           "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: C/N banda. Sem comprovacao automatica de retencao."
         }
-      ]
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -961,7 +1221,7 @@
       "respostaEscolhida": "C",
       "gabarito": "B",
       "errorType": "PARABOLICA_DIAMETRO_EFICIENCIA",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "G∝ηD²f²; D×2 e η÷2 ⇒ G×2 (+3dB); não +6dB.",
       "proxAcao": "Reparou parcialmente com diâmetro×2 e eficiência÷4; reteste espaçado novo enunciado.",
       "relatedErrorId": "CE-20261113-009",
@@ -971,12 +1231,20 @@
           "sessionId": "DIA-20261113-ANTENA-REPARO2",
           "questionId": "DIA-20261113-ANTENA-REPARO2-Q02",
           "result": "CORRETA"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
         }
-      ]
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1006,12 +1274,20 @@
           "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
           "result": "CORRETA",
           "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q11",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
         }
-      ]
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1041,12 +1317,20 @@
           "questionId": "DIA-20261113-FOURIER-A0-REPARO2-Q02",
           "result": "CORRETA",
           "note": "a0/2 interpretado corretamente em questão com novo sinal"
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q11",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
         }
-      ]
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1058,16 +1342,25 @@
       "respostaEscolhida": "D",
       "gabarito": "C",
       "errorType": "PERCENTUAL_VARIACAO_DIAMETRO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "D aumenta 50% ⇒ Dnovo=1,5D, ganho linear×(1,5)² ⇒ +20log10(1,5)=3,52 dB (27→30,5 dBi).",
       "proxAcao": "Rever fator 1,5 versus 2 em variações percentuais; reteste D3 16/11.",
       "relatedErrorId": "CE-20261113-009",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-016",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1078,15 +1371,24 @@
       "respostaEscolhida": "B",
       "gabarito": "E",
       "errorType": "ERLANG_B_FORMULA",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "B(2,1)=(1/2)/(1+1+1/2)=0,20",
       "proxAcao": "Resolver Erlang B para 2 e 3 canais sem confundir tráfego e bloqueio; Q25/Q44 corretas no mesmo simulado, reteste espaçado necessário.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q03",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Erlang B. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-017",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1097,15 +1399,31 @@
       "respostaEscolhida": "B",
       "gabarito": "C",
       "errorType": "FRESNEL_FOLGA_PERCENTUAL",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "f=6 GHz -> lambda=0,05 m; r1=raiz(50)=7,07 m; 60%=4,24 m",
       "proxAcao": "Refazer cálculo de raio e folga em frequências/distâncias novas; Q27 correta no mesmo simulado.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q04",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: Fresnel 60%. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q01",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Fresnel 60%. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-018",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1116,15 +1434,24 @@
       "respostaEscolhida": "C",
       "gabarito": "E",
       "errorType": "CARSON_DESVIO_E_FMOD",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "B=2(delta_f+fm)=2(75+15)=180 kHz",
       "proxAcao": "Treinar expressão de Carson e unidades; Q43 correta no mesmo simulado.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q05",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Carson. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-019",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1135,15 +1462,24 @@
       "respostaEscolhida": "E",
       "gabarito": "A",
       "errorType": "SDH_GEOMETRIA_STM",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "STM-N tem 9 linhas e 270N colunas, duração 125 microssegundos",
       "proxAcao": "Fixar dimensões 9x270N e taxas STM-1/4/16; Q50 correta no mesmo simulado.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q06",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: STM4 frame. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-020",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1154,15 +1490,24 @@
       "respostaEscolhida": "D",
       "gabarito": "A",
       "errorType": "E1_CONTAGEM_CANAIS",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Um E1 tem 32 TS, 30 úteis: 3x30=90 chamadas",
       "proxAcao": "Resolver cenários com n tributários E1 e distinguir CAS dos demais usos do TS16.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q07",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: E1 canais. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-021",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1173,15 +1518,24 @@
       "respostaEscolhida": "A",
       "gabarito": "B",
       "errorType": "LAPLACE_GANHO_DC_DEGRAU",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "X(s)=2/s; Y(s)=12/[s(s+3)]; y(t)=4(1-e^-3t)u(t)",
       "proxAcao": "Refazer com frações parciais e valor final; testar diferentes amplitudes e polos.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q08",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: Laplace degrau. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "id": "CE-20261113-022",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-14",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
       "dueAt": "2026-11-16",
       "retentionVerified": false,
@@ -1192,10 +1546,399 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "EIRP_DBW_PARA_W",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "10W=10 dBW; EIRP=20 dBW=100W (20 dBW não equivale a 20W)",
       "proxAcao": "Treinar conversão W,dBW,dBm, ganho/perda em dB e comparação de unidades.",
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-BF",
+          "questionId": "REV-ERROS-20261114-BF-Q09",
+          "result": "INCORRETA",
+          "note": "Nova evidencia na revisao semanal: EIRP. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q02",
+          "result": "CORRETA",
+          "note": "Nova evidencia na revisao semanal: EIRP. Sem comprovacao automatica de retencao."
+        }
+      ],
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-001",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B1-Q01",
+      "unitId": "1.2",
+      "topic": "Exponencial",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Exponencial: ocorrência dentro do intervalo, complemento.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q01",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-002",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B1-Q02",
+      "unitId": "1.2",
+      "topic": "Poisson >=2",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Poisson >=2: 1-P(0)-P(1).",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q02",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-003",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B1-Q04",
+      "unitId": "2.3",
+      "topic": "Fourier a0",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Coeficiente a0 é duas vezes o valor médio, na convenção a0/2.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q03",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-004",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B1-Q05",
+      "unitId": "3.1",
+      "topic": "Laplace degrau",
+      "respostaEscolhida": "D",
+      "gabarito": "B",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Degrau com amplitude, H(s), resposta de Laplace.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R1",
+          "questionId": "REV-ERROS-20261114-R1-Q04",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-005",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B2-Q02",
+      "unitId": "2.3",
+      "topic": "Fourier inversão+deslocamento",
+      "respostaEscolhida": "D",
+      "gabarito": "E",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Fourier: x(a-t), inversão do tempo com deslocamento e fase.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q01",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-006",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B2-Q06",
+      "unitId": "6.3",
+      "topic": "Arranjo 3 antenas",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Array: fator de conjunto, nulos e máximos.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q02",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-007",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B2-Q09",
+      "unitId": "12.3",
+      "topic": "CWDM/SDH",
+      "respostaEscolhida": "A",
+      "gabarito": "D",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "CWDM: comparar STM com capacidade de um único canal.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R2",
+          "questionId": "REV-ERROS-20261114-R2-Q03",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-008",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B3-Q01",
+      "unitId": "1.2",
+      "topic": "Geométrica até 3",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Geométrica: P(X<=n)=1-(1-p)^n.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R3",
+          "questionId": "REV-ERROS-20261114-R3-Q01",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-009",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B3-Q02",
+      "unitId": "1.2",
+      "topic": "Variância binomial",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Variância binomial=np(1-p), diferente da média=np.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R3",
+          "questionId": "REV-ERROS-20261114-R3-Q02",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-010",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-B3-Q07",
+      "unitId": "6.3",
+      "topic": "Fase progressiva",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Fase progressiva beta=-kd cos(theta).",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-R3",
+          "questionId": "REV-ERROS-20261114-R3-Q03",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-011",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-BF-Q04",
+      "unitId": "7.1",
+      "topic": "Fresnel 60%",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Fresnel: calcular r1 e depois multiplicar pelo percentual exigido.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q01",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-012",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-BF-Q09",
+      "unitId": "6.1",
+      "topic": "EIRP",
+      "respostaEscolhida": "C",
+      "gabarito": "A",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "EIRP: converter de dBW para watts; 10dB corresponde a fator 10.",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q02",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
+    },
+    {
+      "id": "CE-20261114-013",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
+      "sourceQuestionId": "REV-ERROS-20261114-BF-Q12",
+      "unitId": "1.2",
+      "topic": "Poisson >=2",
+      "respostaEscolhida": "C",
+      "gabarito": "E",
+      "errorType": "CALCULO_OU_INTERPRETACAO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "Poisson: pelo menos dois é 1-P(0)-P(1).",
+      "proxAcao": "Reavaliar com enunciado novo sem pistas e sem repetir mesma família; sábado de manhã caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ADAPTADA",
+      "retestEvidence": [
+        {
+          "date": "2026-11-14",
+          "sessionId": "REV-ERROS-20261114-RF",
+          "questionId": "REV-ERROS-20261114-RF-Q03",
+          "result": "CORRETA",
+          "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        }
+      ],
+      "retentionVerified": false,
+      "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     }
-  ]
+  ],
+  "weeklyRoutine": {
+    "weekday": "SATURDAY",
+    "timeOfDay": "MORNING",
+    "topic": "CADERNO_ERROS_DA_SEMANA",
+    "since": "2026-11-14",
+    "next": "2026-11-21",
+    "reminderCreated": false,
+    "report": "qti/REVISAO_CADERNO_ERROS_2026-11-14.md"
+  }
 }
