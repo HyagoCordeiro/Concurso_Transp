@@ -38,3 +38,10 @@ Maximizar a quantidade de **questões relevantes efetivamente resolvidas**, dent
 Este protocolo **substitui, na prática padrão de estudo, qualquer regra antiga que exija um QTI clicável, uma questão por vez, barra de progresso, JSON a cada rodada ou número fixo de questões**. A documentação antiga e os resultados históricos ficam preservados para consulta. O formato interativo só retorna por pedido explícito.
 
 **Decisão registrada a pedido do aluno em 11/11/2026.**
+
+
+## Atualização de 14/11/2026 — sábado de manhã reservado ao caderno de erros
+
+Por decisão expressa do estudante, **toda manhã de sábado** passa a ser reservada ao **caderno de erros da semana**, a partir de 14/11/2026. O fluxo padrão: consultar pendências e banco anti-repetição; priorizar CESGRANRIO/Transpetro Telecom e QConcursos; revisar erros técnicos e, quando houver, Português/Inglês; trabalhar questões novas em blocos solicitados; corrigir só erros; fornecer reparo apenas a pedido; registrar progresso e programar retestes espaçados. O horário exato não foi definido; **não foi criado lembrete automático**.
+
+[Rotina oficial](ROTINA_SABADO_CADERNO_ERROS.md) e [primeiro fechamento (43/56)](../qti/REVISAO_CADERNO_ERROS_2026-11-14.md). Não substituir os ciclos de retenção D3/D7/D21 pelo reforço imediato de sábado.
