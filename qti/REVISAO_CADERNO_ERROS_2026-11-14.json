@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-11-14",
+  "sessionId": "REVISAO-CADERNO-ERROS-20261114",
+  "type": "REVISAO_SEMANAL_GUIADA",
+  "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_QCONCURSOS_REFERENCIA",
+  "validity": "REVIEW_COM_FEEDBACK_E_REPAROS_NAO_SIMULADO_INDEPENDENTE",
+  "score": {
+    "total": 56,
+    "acertos": 43,
+    "principais": {
+      "total": 42,
+      "acertos": 29
+    },
+    "reforcos": {
+      "total": 14,
+      "acertos": 14
+    }
+  },
+  "percentual": 76.8,
+  "blocks": [
+    {
+      "id": "B1",
+      "sessionId": "REV-ERROS-20261114-B1",
+      "label": "Bateria principal 1",
+      "tipo": "BATERIA_PRINCIPAL",
+      "total": 10,
+      "acertos": 6,
+      "erros": 4,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Exponencial",
+          "resposta": "D",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "n": 2,
+          "topic": "Poisson >=2",
+          "resposta": "D",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "n": 3,
+          "topic": "Bayes",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 4,
+          "topic": "Fourier a0",
+          "resposta": "C",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "n": 5,
+          "topic": "Laplace degrau",
+          "resposta": "D",
+          "gabarito": "B",
+          "correta": false
+        },
+        {
+          "n": 6,
+          "topic": "EIRP",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 7,
+          "topic": "Parabólica",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 8,
+          "topic": "C/N",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 9,
+          "topic": "Fresnel",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 10,
+          "topic": "E1",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "R1",
+      "sessionId": "REV-ERROS-20261114-R1",
+      "label": "Reforço B1",
+      "tipo": "REFORCO",
+      "total": 4,
+      "acertos": 4,
+      "erros": 0,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Exponencial",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "Poisson",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 3,
+          "topic": "Fourier a0",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 4,
+          "topic": "Laplace degrau",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "sessionId": "REV-ERROS-20261114-B2",
+      "label": "Bateria principal 2",
+      "tipo": "BATERIA_PRINCIPAL",
+      "total": 10,
+      "acertos": 7,
+      "erros": 3,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Fourier X(0)",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "Fourier inversão+deslocamento",
+          "resposta": "D",
+          "gabarito": "E",
+          "correta": false
+        },
+        {
+          "n": 3,
+          "topic": "Transformada Z diferenças",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 4,
+          "topic": "Monopolo",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "n": 5,
+          "topic": "Polarização",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 6,
+          "topic": "Arranjo 3 antenas",
+          "resposta": "C",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "n": 7,
+          "topic": "HPBW FNBW",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 8,
+          "topic": "DSSS chips",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 9,
+          "topic": "CWDM/SDH",
+          "resposta": "A",
+          "gabarito": "D",
+          "correta": false
+        },
+        {
+          "n": 10,
+          "topic": "Fase H(jw)",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "sessionId": "REV-ERROS-20261114-R2",
+      "label": "Reforço B2",
+      "tipo": "REFORCO",
+      "total": 3,
+      "acertos": 3,
+      "erros": 0,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Fourier inversão",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "Arranjo 4 antenas",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 3,
+          "topic": "CWDM/SDH",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "CWDM",
+      "sessionId": "REV-ERROS-20261114-CWDM",
+      "label": "Fixação CWDM",
+      "tipo": "REFORCO",
+      "total": 1,
+      "acertos": 1,
+      "erros": 0,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "CWDM/SDH capacidade canal",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "sessionId": "REV-ERROS-20261114-B3",
+      "label": "Bateria principal 3",
+      "tipo": "BATERIA_PRINCIPAL",
+      "total": 10,
+      "acertos": 7,
+      "erros": 3,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Geométrica até 3",
+          "resposta": "D",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "n": 2,
+          "topic": "Variância binomial",
+          "resposta": "A",
+          "gabarito": "B",
+          "correta": false
+        },
+        {
+          "n": 3,
+          "topic": "TLC",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 4,
+          "topic": "Autocorrelação",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 5,
+          "topic": "Potências de j",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 6,
+          "topic": "OSPF LSA5",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 7,
+          "topic": "Fase progressiva",
+          "resposta": "A",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "n": 8,
+          "topic": "Jitter",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "n": 9,
+          "topic": "Degrau unitário",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 10,
+          "topic": "RPF multicast",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "sessionId": "REV-ERROS-20261114-R3",
+      "label": "Reforço B3",
+      "tipo": "REFORCO",
+      "total": 3,
+      "acertos": 3,
+      "erros": 0,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Geométrica até 4",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "Variância binomial",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 3,
+          "topic": "Fase progressiva",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        }
+      ]
+    },
+    {
+      "id": "BF",
+      "sessionId": "REV-ERROS-20261114-BF",
+      "label": "Bateria final principal",
+      "tipo": "BATERIA_PRINCIPAL",
+      "total": 12,
+      "acertos": 9,
+      "erros": 3,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Ganho parabólica",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "C/N banda",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 3,
+          "topic": "Erlang B",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "n": 4,
+          "topic": "Fresnel 60%",
+          "resposta": "B",
+          "gabarito": "C",
+          "correta": false
+        },
+        {
+          "n": 5,
+          "topic": "Carson",
+          "resposta": "A",
+          "gabarito": "A",
+          "correta": true
+        },
+        {
+          "n": 6,
+          "topic": "STM4 frame",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 7,
+          "topic": "E1 canais",
+          "resposta": "E",
+          "gabarito": "E",
+          "correta": true
+        },
+        {
+          "n": 8,
+          "topic": "Laplace degrau",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 9,
+          "topic": "EIRP",
+          "resposta": "C",
+          "gabarito": "A",
+          "correta": false
+        },
+        {
+          "n": 10,
+          "topic": "Bayes",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 11,
+          "topic": "Fourier a0",
+          "resposta": "B",
+          "gabarito": "B",
+          "correta": true
+        },
+        {
+          "n": 12,
+          "topic": "Poisson >=2",
+          "resposta": "C",
+          "gabarito": "E",
+          "correta": false
+        }
+      ]
+    },
+    {
+      "id": "RF",
+      "sessionId": "REV-ERROS-20261114-RF",
+      "label": "Reforço final",
+      "tipo": "REFORCO",
+      "total": 3,
+      "acertos": 3,
+      "erros": 0,
+      "questoes": [
+        {
+          "n": 1,
+          "topic": "Fresnel 60%",
+          "resposta": "C",
+          "gabarito": "C",
+          "correta": true
+        },
+        {
+          "n": 2,
+          "topic": "EIRP",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        },
+        {
+          "n": 3,
+          "topic": "Poisson >=2",
+          "resposta": "D",
+          "gabarito": "D",
+          "correta": true
+        }
+      ]
+    }
+  ],
+  "recurringPlan": {
+    "weekday": "SATURDAY",
+    "period": "MORNING",
+    "purpose": "CADERNO_ERROS_DA_SEMANA",
+    "starts": "2026-11-14",
+    "next": "2026-11-21",
+    "reminderCreated": false
+  },
+  "diagnostic": {
+    "all13MainErrorsImmediatelyRepaired": true,
+    "retentionVerified": false,
+    "pendingOtherSubjects": [
+      "Português",
+      "Inglês",
+      "EDCA"
+    ],
+    "priorities": [
+      "Interpretação em probabilidade",
+      "Fourier temporal",
+      "Conjunto de antenas",
+      "Fresnel",
+      "EIRP",
+      "CWDM/SDH"
+    ],
+    "minutesTracked": null
+  }
+}
