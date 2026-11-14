@@ -177,3 +177,25 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **CE-20261114-QTI30-012 — item 2.3:** Q12, marcou B; correta E. Confusão entre atraso no tempo `e^(−jω)X(ω)` e derivação `jωX(ω)`. Status **PENDENTE_REPARO**; reteste proposto D3 17/11 e sábado 21/11. Registrar acertos posteriores, não fechar por explicação.
 - **EDCA do mesmo dia:** 5/5; reforça CE-20261112-002, mantendo status reteste pendente.
 - [Relatório do QTI-30](QTI30_2026-11-14_Fechamento.md).
+
+
+## 14/11/2026 — QTI-50 noturno: 12 erros
+
+**Resultado 38/50 (76%) em 5 baterias de 10 (6/10, 9/10, 9/10, 7/10, 7/10).** Questões autorais calibradas no estilo CESGRANRIO; houve feedback entre baterias.
+
+- **CE-20261114-QTI50-02 (Q2; item 2.1):** Números complexos: (√3+j)/(1−j), módulo e argumento. Marcou B, gabarito E. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-03 (Q3; item 3.5):** Transformada Z de sistema causal: ROC de polos 0,4 e 0,8. Marcou E, gabarito B. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-04 (Q4; item 4.2):** Selective Repeat ARQ: janela com 4 bits de sequência. Marcou D, gabarito C. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-09 (Q9; item 11.2):** OSPF: LSA tipo 3 interáreas versus tipo 5 externo. Marcou D, gabarito C. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-11 (Q11; item 1.2):** Distribuição normal: limiar dos 5% maiores, percentil 95. Marcou C, gabarito D. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-26 (Q26; item 7.2):** Orçamento rádio: 20dBm+2 antenas 15dBi−2 cabos 3dB−120dB, margem. Marcou E, gabarito C. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-32 (Q32; item 2.3):** Fourier: escala temporal e atraso em x(2t−4). Marcou E, gabarito B. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-36 (Q36; item 8.3):** Figura de mérito G/T com ganho 42 dBi e T=200K. Marcou D, gabarito C. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-38 (Q38; item 10.3):** SNMPv3: VACM controle de acesso à MIB versus USM segurança. Marcou B, gabarito A. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-42 (Q42; item 2.3):** Teorema de Parseval na convenção CTFT angular 1/(2π). Marcou A, gabarito D. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-46 (Q46; item 7.1):** Atenuação no espaço livre: dobrar frequência 5GHz para10GHz. Marcou A, gabarito C. Status **PENDENTE_REPARO**.
+- **CE-20261114-QTI50-49 (Q49; item 12.2):** OTDR: distância 80µs ida e volta, v=2×10^8m/s. Marcou C, gabarito D. Status **PENDENTE_REPARO**.
+
+**Revisão D3:** 17/11/2026; **revisão de sábado:** 21/11/2026, com questões novas, não as mesmas perguntas. Priorizar Matemática Aplicada a Sinais (0/3) e Radiopropagação (1/3), que concentraram 5 dos 12 erros. A correção dos itens não encerra automaticamente pendências anteriores.
+
+[Relatório e gabarito](QTI50_2026-11-14_NOTURNO.md).
