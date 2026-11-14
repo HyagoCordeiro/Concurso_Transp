@@ -650,3 +650,9 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Pontos reforçados:** Exponencial/Poisson, geométrica/binomial, Fourier (a0, área e deslocamentos), Laplace, antenas e arranjos, Fresnel, EIRP, CWDM/SDH, Erlang, Carson, SDH/E1, OSPF e QoS.
 - **Pendências:** revisar retenção em novos enunciados sem feedback recente; não esquecer erros de Português e Inglês que permaneceram fora desta bateria técnica, nem EDCA. Prioridade para leitura de eventos, EIRP, Fresnel, antenas e Fourier. Próximo sábado: **21/11/2026**.
 - **Arquivos:** [relatório](qti/REVISAO_CADERNO_ERROS_2026-11-14.md) · [56 respostas e gabaritos](qti/REVISAO_CADERNO_ERROS_2026-11-14.json).
+
+
+## 14/11/2026 — Bloco da tarde: Inglês original Transpetro 2012
+- Prova original CESGRANRIO 2012 (questões 11–20), texto *Safety Meeting Presentation*: **8/10 (80%)**, conferido com gabarito alterado (11E,12D,13B,14E,15C,16D,17D,18A,19C,20B).
+- Erros Q12 (expressão idiomática “until I'm blue in the face”: E/D) e Q20 (inferência: atribuição exclusiva à gestão versus responsabilidades coletivas: D/B); acertos nas outras 8.
+- **Registros:** [relatório](qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.md), [10 respostas](qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.json); erros catalogados e reteste para próximo sábado. Não iniciar próximo bloco antes de o aluno pedir.
