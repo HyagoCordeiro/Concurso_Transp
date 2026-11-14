@@ -7708,6 +7708,84 @@
       ],
       "tempoTotalSec": null,
       "observacao": "43/56 agregado, 29/42 baterias independentes por rodada (houve feedback entre baterias); 14/14 reforços. 13 erros reparados, retenção não demonstrada. Regra semanal sábado de manhã."
+    },
+    {
+      "id": "ING-HIST-TRANSPETRO2012-20261114",
+      "eventId": "ING-HIST-TRANSPETRO2012-20261114",
+      "data": "2026-11-14",
+      "studyDateLocal": "2026-11-14",
+      "tipo": "BLOCO_INGLES_HISTORICO_ORIGINAL",
+      "disciplina": "Língua Inglesa",
+      "titulo": "CESGRANRIO/Transpetro 2012 Q11–20 — Safety Meeting Presentation",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "invalidos": 0,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "sourceType": "CESGRANRIO_ORIGINAL_VERIFICADA",
+      "diagnosticValidity": "BATERIA_HISTORICA_SEM_GABARITO_ANTECIPADO",
+      "sourceFile": "qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.json",
+      "reportFile": "qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.md",
+      "questionIds": [
+        "ING-HIST-TRANSPETRO2012-20261114-Q11",
+        "ING-HIST-TRANSPETRO2012-20261114-Q12",
+        "ING-HIST-TRANSPETRO2012-20261114-Q13",
+        "ING-HIST-TRANSPETRO2012-20261114-Q14",
+        "ING-HIST-TRANSPETRO2012-20261114-Q15",
+        "ING-HIST-TRANSPETRO2012-20261114-Q16",
+        "ING-HIST-TRANSPETRO2012-20261114-Q17",
+        "ING-HIST-TRANSPETRO2012-20261114-Q18",
+        "ING-HIST-TRANSPETRO2012-20261114-Q19",
+        "ING-HIST-TRANSPETRO2012-20261114-Q20"
+      ],
+      "respostas": [
+        "E",
+        "E",
+        "B",
+        "E",
+        "C",
+        "D",
+        "D",
+        "A",
+        "C",
+        "D"
+      ],
+      "gabarito": [
+        "E",
+        "D",
+        "B",
+        "E",
+        "C",
+        "D",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q12",
+          "editalItem": "INGLES",
+          "topico": "Idiom until I'm blue in the face",
+          "respostaEscolhida": "E",
+          "gabarito": "D",
+          "errorType": "VOCABULARIO_IDIOMATICO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q20",
+          "editalItem": "INGLES",
+          "topico": "Inference — report hazards versus management exclusivity",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "errorType": "INFERENCIA_GENERALIZACAO",
+          "retesteNecessario": true
+        }
+      ],
+      "tempoTotalSec": null,
+      "observacao": "Gabarito alterado CESGRANRIO 2012 verificado; original Q12 E/D, Q20 D/B. Questões originais 11-20."
     }
   ],
   "updatedAt": "2026-11-14"
