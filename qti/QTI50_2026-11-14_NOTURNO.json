@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI50-20261114-5X10-NOTURNO",
+  "studyDateLocal": "2026-11-14",
+  "tipo": "QTI50_5_BATERIAS_DE_10_COM_FEEDBACK",
+  "titulo": "QTI-50 CESGRANRIO/Transpetro — fechamento noturno",
+  "disciplina": "Engenharia de Telecomunicações",
+  "sourceType": "AUTORAL_CALIBRADO_POR_CESGRANRIO_QCONCURSOS_NAO_ORIGINAL",
+  "questionStatus": "QUESTOES_AUTORAIS_50",
+  "total": 50,
+  "acertos": 38,
+  "erros": 12,
+  "percentual": 76,
+  "rounds": [
+    {
+      "bateria": 1,
+      "from": 1,
+      "to": 10,
+      "total": 10,
+      "acertos": 6,
+      "erros": 4
+    },
+    {
+      "bateria": 2,
+      "from": 11,
+      "to": 20,
+      "total": 10,
+      "acertos": 9,
+      "erros": 1
+    },
+    {
+      "bateria": 3,
+      "from": 21,
+      "to": 30,
+      "total": 10,
+      "acertos": 9,
+      "erros": 1
+    },
+    {
+      "bateria": 4,
+      "from": 31,
+      "to": 40,
+      "total": 10,
+      "acertos": 7,
+      "erros": 3
+    },
+    {
+      "bateria": 5,
+      "from": 41,
+      "to": 50,
+      "total": 10,
+      "acertos": 7,
+      "erros": 3
+    }
+  ],
+  "byItem": [
+    {
+      "item": "1",
+      "total": 6,
+      "acertos": 5,
+      "erros": [
+        11
+      ]
+    },
+    {
+      "item": "2",
+      "total": 3,
+      "acertos": 0,
+      "erros": [
+        2,
+        32,
+        42
+      ]
+    },
+    {
+      "item": "3",
+      "total": 5,
+      "acertos": 4,
+      "erros": [
+        3
+      ]
+    },
+    {
+      "item": "4",
+      "total": 4,
+      "acertos": 3,
+      "erros": [
+        4
+      ]
+    },
+    {
+      "item": "5",
+      "total": 4,
+      "acertos": 4,
+      "erros": []
+    },
+    {
+      "item": "6",
+      "total": 4,
+      "acertos": 4,
+      "erros": []
+    },
+    {
+      "item": "7",
+      "total": 3,
+      "acertos": 1,
+      "erros": [
+        26,
+        46
+      ]
+    },
+    {
+      "item": "8",
+      "total": 3,
+      "acertos": 2,
+      "erros": [
+        36
+      ]
+    },
+    {
+      "item": "9",
+      "total": 3,
+      "acertos": 3,
+      "erros": []
+    },
+    {
+      "item": "10",
+      "total": 4,
+      "acertos": 3,
+      "erros": [
+        38
+      ]
+    },
+    {
+      "item": "11",
+      "total": 7,
+      "acertos": 6,
+      "erros": [
+        9
+      ]
+    },
+    {
+      "item": "12",
+      "total": 4,
+      "acertos": 3,
+      "erros": [
+        49
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q01",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "topic": "Hipergeométrica 12 módulos, 5 defeituosos, escolher 3 com exatamente 2",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 2,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q02",
+      "unitId": "2.1",
+      "editalItem": "2",
+      "topic": "Números complexos: (√3+j)/(1−j), módulo e argumento",
+      "resposta": "B",
+      "gabarito": "E",
+      "correta": false,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 3,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q03",
+      "unitId": "3.5",
+      "editalItem": "3",
+      "topic": "Transformada Z de sistema causal: ROC de polos 0,4 e 0,8",
+      "resposta": "E",
+      "gabarito": "B",
+      "correta": false,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 4,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q04",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "topic": "Selective Repeat ARQ: janela com 4 bits de sequência",
+      "resposta": "D",
+      "gabarito": "C",
+      "correta": false,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 5,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q05",
+      "unitId": "5.1",
+      "editalItem": "5",
+      "topic": "Erlang B: A=2, N=2, bloqueio",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 6,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q06",
+      "unitId": "6.1",
+      "editalItem": "6",
+      "topic": "Antenas: perda por desalinhamento de polarização de 60 graus",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 7,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q07",
+      "unitId": "8.2",
+      "editalItem": "8",
+      "topic": "Banda Ka versus banda C: atenuação por chuva",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 8,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q08",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "topic": "MSTP 802.1s: várias VLANs por instância de spanning tree",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 9,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q09",
+      "unitId": "11.2",
+      "editalItem": "11",
+      "topic": "OSPF: LSA tipo 3 interáreas versus tipo 5 externo",
+      "resposta": "D",
+      "gabarito": "C",
+      "correta": false,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 10,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q10",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "topic": "Dispersão cromática: D × largura espectral × comprimento",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 1,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 11,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q11",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "topic": "Distribuição normal: limiar dos 5% maiores, percentil 95",
+      "resposta": "C",
+      "gabarito": "D",
+      "correta": false,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 12,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q12",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "topic": "Normalização da densidade f(x)=kx(1−x), x 0 a 1",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 13,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q13",
+      "unitId": "3.5",
+      "editalItem": "3",
+      "topic": "Sistema discreto: ganho DC de H(z) e resposta final ao degrau",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 14,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q14",
+      "unitId": "5.3",
+      "editalItem": "5",
+      "topic": "H.323 H.245: negociação de capacidades e canais lógicos",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 15,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q15",
+      "unitId": "6.1",
+      "editalItem": "6",
+      "topic": "Antena: área efetiva com ganho 10 dBi e lambda 0,2 m",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 16,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q16",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "topic": "Efeito Doppler: terminal 30m/s em 2GHz",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 17,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q17",
+      "unitId": "10.1",
+      "editalItem": "10",
+      "topic": "IEEE 802.11ax OFDMA: múltiplas estações e unidades de recurso",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 18,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q18",
+      "unitId": "11.3",
+      "editalItem": "11",
+      "topic": "MPLS L3VPN: Route Distinguisher versus Route Target",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 19,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q19",
+      "unitId": "12.4",
+      "editalItem": "12",
+      "topic": "DWDM: transponder e regeneração 3R",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 20,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q20",
+      "unitId": "11.4",
+      "editalItem": "11",
+      "topic": "Segurança: verificação de assinatura digital com chave pública",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 2,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 21,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q21",
+      "unitId": "1.2",
+      "editalItem": "1",
+      "topic": "Binomial: exatamente 1 erro em 4 pacotes com p=0,1",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 22,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q22",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "topic": "Laplace inversa: (s+2)/((s+2)^2+9)",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 23,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q23",
+      "unitId": "4.1",
+      "editalItem": "4",
+      "topic": "16-QAM e FEC 3/4: baud para 6 Mb/s líquidos",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 24,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q24",
+      "unitId": "5.1",
+      "editalItem": "5",
+      "topic": "Erlang B e Erlang C: sistema de perdas versus fila",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 25,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q25",
+      "unitId": "6.1",
+      "editalItem": "6",
+      "topic": "Casamento de impedâncias: ROE/VSWR 50Ω e 75Ω",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 26,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q26",
+      "unitId": "7.2",
+      "editalItem": "7",
+      "topic": "Orçamento rádio: 20dBm+2 antenas 15dBi−2 cabos 3dB−120dB, margem",
+      "resposta": "E",
+      "gabarito": "C",
+      "correta": false,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 27,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q27",
+      "unitId": "8.3",
+      "editalItem": "8",
+      "topic": "C/N total uplink/downlink cada um 20dB",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 28,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q28",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "topic": "Redes celulares: duplexação FDD versus TDD",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 29,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q29",
+      "unitId": "11.1",
+      "editalItem": "11",
+      "topic": "IGMP: participação de hosts em grupos multicast IPv4",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 30,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q30",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "topic": "PoE 802.3af: 15,4W PSE versus 12,95W no PD",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 3,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 31,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q31",
+      "unitId": "1.1",
+      "editalItem": "1",
+      "topic": "Bayes: 2% falhas, detecção90%, falso alarme5%",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 32,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q32",
+      "unitId": "2.3",
+      "editalItem": "2",
+      "topic": "Fourier: escala temporal e atraso em x(2t−4)",
+      "resposta": "E",
+      "gabarito": "B",
+      "correta": false,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 33,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q33",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "topic": "LIT: estabilidade BIBO com polo s=+1",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 34,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q34",
+      "unitId": "4.2",
+      "editalItem": "4",
+      "topic": "Quantização PCM: aumento SQNR 8 para 10 bits",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 35,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q35",
+      "unitId": "6.3",
+      "editalItem": "6",
+      "topic": "Fator de conjunto de duas antenas lambda/2 com fase 180° broadside",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 36,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q36",
+      "unitId": "8.3",
+      "editalItem": "8",
+      "topic": "Figura de mérito G/T com ganho 42 dBi e T=200K",
+      "resposta": "D",
+      "gabarito": "C",
+      "correta": false,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 37,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q37",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "topic": "LTE Resource Block: 12 subportadoras a 15kHz",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 38,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q38",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "topic": "SNMPv3: VACM controle de acesso à MIB versus USM segurança",
+      "resposta": "B",
+      "gabarito": "A",
+      "correta": false,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 39,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q39",
+      "unitId": "11.3",
+      "editalItem": "11",
+      "topic": "MPLS PHP: penultimate hop popping",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 40,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q40",
+      "unitId": "12.4",
+      "editalItem": "12",
+      "topic": "DWDM OADM: adicionar/retirar comprimentos de onda",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 4,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 41,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q41",
+      "unitId": "1.3",
+      "editalItem": "1",
+      "topic": "Processos estocásticos WSS: média constante e autocorrelação só do atraso",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 42,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q42",
+      "unitId": "2.3",
+      "editalItem": "2",
+      "topic": "Teorema de Parseval na convenção CTFT angular 1/(2π)",
+      "resposta": "A",
+      "gabarito": "D",
+      "correta": false,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 43,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q43",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "topic": "Teorema do valor final: H(s)=(s+4)/((s+2)(s+5))",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 44,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q44",
+      "unitId": "4.1",
+      "editalItem": "4",
+      "topic": "Filtro de Nyquist raised cosine: 4Mbaud rolloff 0,25",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 45,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q45",
+      "unitId": "5.3",
+      "editalItem": "5",
+      "topic": "RTCP: relatórios de recepção, perda e jitter",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 46,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q46",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "topic": "Atenuação no espaço livre: dobrar frequência 5GHz para10GHz",
+      "resposta": "A",
+      "gabarito": "C",
+      "correta": false,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 47,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q47",
+      "unitId": "9.1",
+      "editalItem": "9",
+      "topic": "5G NR: espaçamento subportadoras numerologia μ=2",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 48,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q48",
+      "unitId": "11.1",
+      "editalItem": "11",
+      "topic": "QoS: traffic shaping versus policing",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 49,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q49",
+      "unitId": "12.2",
+      "editalItem": "12",
+      "topic": "OTDR: distância 80µs ida e volta, v=2×10^8m/s",
+      "resposta": "C",
+      "gabarito": "D",
+      "correta": false,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "n": 50,
+      "id": "QTI50-20261114-5X10-NOTURNO-Q50",
+      "unitId": "11.2",
+      "editalItem": "11",
+      "topic": "IPv6: origem fragmenta, roteadores não fragmentam pacotes em trânsito",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "bateria": 5,
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    }
+  ],
+  "errorQuestionNumbers": [
+    2,
+    3,
+    4,
+    9,
+    11,
+    26,
+    32,
+    36,
+    38,
+    42,
+    46,
+    49
+  ],
+  "diagnosticValidity": "TREINO_EM_5_BATERIAS_COM_GABARITO_ENTRE_BATERIAS_NAO_SIMULADO_CEGO",
+  "notes": [
+    "Q32 Fourier x(2t−4) teve erro de fase; Q42 Parseval fator 1/(2π).",
+    "Q26 perdas em ambos cabos; Q46 dobrar frequência provoca +6,02dB FSPL; Q49 OTDR ida e volta => d=vt/2.",
+    "Q38 confundiu VACM com USM.",
+    "Nenhuma questão do item 13 nesta amostra, apesar de item 13 ter sido estudado separadamente hoje.",
+    "Formato preferido: enunciado; radio-group vertical com textos completos A-E ao lado de cada bolinha."
+  ],
+  "timeMeasuredSec": null
+}
