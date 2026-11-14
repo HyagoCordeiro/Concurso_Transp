@@ -680,3 +680,15 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Tarde:** Inglês 8/10 + Português 6/10 + Regulamentação 5/5 + EDCA 5/5 + QTI-30 29/30 = **53/60 (88,3%)**.
 - **Dia completo (somando revisão do caderno, que inclui reforços):** **96/116 (82,8%)**. Métrica **bruta e mista**, não usar como previsão da prova; manhã 43/56 (com 14 reforços), tarde 53/60.
 - **Relatórios:** [QTI-30](qti/QTI30_2026-11-14_Fechamento.md) · [EDCA](qti/EDCA_ITEM10_2026-11-14.md). Cronograma concluído, sem cronometragem de estudo líquido.
+
+
+## QTI-50 — 14/11/2026 — 38/50 (final noturno)
+
+- **5 baterias de 10** com correção entre elas: **6/10, 9/10, 9/10, 7/10, 7/10 = 38/50 (76%)**. Questões autorais em estilo CESGRANRIO/Transpetro, não originais; treino guiado por rodadas, não simulado cego. Tempo de resolução não medido.
+- **12 erros:** Q2 complexos; Q3 ROC causal Z; Q4 ARQ Selective Repeat; Q9 OSPF LSA3/5; Q11 normal percentil95; Q26 orçamento de rádio; Q32 Fourier compressão/atraso; Q36 G/T satélite; Q38 VACM vs USM; Q42 Parseval; Q46 FSPL com frequência; Q49 OTDR ida-volta.
+- **Análise por item:** 1=5/6, 2=0/3, 3=4/5, 4=3/4, 5=4/4, 6=4/4, 7=1/3, 8=2/3, 9=3/3, 10=3/4, 11=6/7, 12=3/4; **13 não foi cobrado neste QTI-50**.
+- **Prioridades:** item 2 Matemática Aplicada a Sinais e item 7 Radiopropagação; rever também satélite G/T e OSPF LSA.
+- **Retestes sugeridos:** D3 em 17/11/2026 e sábado 21/11/2026; sem notificação automática.
+- **Preferência de interface:** pergunta e, na sequência, 5 bolinhas verticais, cada qual com sua alternativa completa imediatamente ao lado: ◯ A) texto, ◯ B) texto, etc. Não separar letras de textos em blocos diferentes.
+- **Somatório bruto do sábado (inclui reforços):** revisão 43/56, Inglês 8/10, Português 6/10, Regulamentação 5/5, EDCA 5/5, QTI30 29/30, QTI50 38/50 = **134/166 (80,7%)**. Não projetar nota de prova desse indicador misto.
+- **Registros:** [relatório](qti/QTI50_2026-11-14_NOTURNO.md) · [JSON 50 respostas](qti/QTI50_2026-11-14_NOTURNO.json).
