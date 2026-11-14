@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "PT-HIST-TRANSPETRO2012-20261114",
+  "studyDateLocal": "2026-11-14",
+  "type": "BATERIA_HISTORICA_ORIGINAL",
+  "exam": "CESGRANRIO/Transpetro 2012 Engenheiro Junior Telecomunicacoes — Portugues Q01–10",
+  "poem": "Science fiction",
+  "sourceType": "CESGRANRIO_ORIGINAL",
+  "sourcePdf": "Cópia de Prova Engenharia Telecomunicações - 2012.pdf",
+  "gabaritoAlterado": "B E C D E A D C C A",
+  "responseHistory": {
+    "firstSubmission": "A E C C C E A D D A A (11 letras, não válida)",
+    "correctedSubmission": "A E C C E A D D A A",
+    "canonical": "SEGUNDA_SEQUENCIA_SUBSTITUI_INTEGRALMENTE_PRIMEIRA"
+  },
+  "acertos": 6,
+  "erros": 4,
+  "total": 10,
+  "percentual": 60,
+  "questions": [
+    {
+      "num": 1,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q01",
+      "topic": "Interpretação do poema — contradições existenciais",
+      "resposta": "A",
+      "gabarito": "B",
+      "correta": false
+    },
+    {
+      "num": 2,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q02",
+      "topic": "Campo semântico — espaço sideral constelado",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true
+    },
+    {
+      "num": 3,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q03",
+      "topic": "Porquês — por que interrogativa indireta",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true
+    },
+    {
+      "num": 4,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q04",
+      "topic": "Concordância verbal — vendem-se filhotes que têm",
+      "resposta": "C",
+      "gabarito": "D",
+      "correta": false
+    },
+    {
+      "num": 5,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q05",
+      "topic": "Particípios e formas verbais — tinha pegado",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true
+    },
+    {
+      "num": 6,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q06",
+      "topic": "Haver impessoal — houve/havia",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true
+    },
+    {
+      "num": 7,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q07",
+      "topic": "Pronomes relativos — as quais",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true
+    },
+    {
+      "num": 8,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q08",
+      "topic": "Crase — há muito tempo, a parte, à qual",
+      "resposta": "D",
+      "gabarito": "C",
+      "correta": false
+    },
+    {
+      "num": 9,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q09",
+      "topic": "Se — índice de indeterminação do sujeito",
+      "resposta": "A",
+      "gabarito": "C",
+      "correta": false
+    },
+    {
+      "num": 10,
+      "id": "PT-HIST-TRANSPETRO2012-20261114-Q10",
+      "topic": "Ortografia — estuprar",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true
+    }
+  ],
+  "diagnostico": [
+    {
+      "numero": 1,
+      "topico": "Interpretação do poema — contradições existenciais",
+      "resposta": "A",
+      "gabarito": "B"
+    },
+    {
+      "numero": 4,
+      "topico": "Concordância verbal — vendem-se filhotes que têm",
+      "resposta": "C",
+      "gabarito": "D"
+    },
+    {
+      "numero": 8,
+      "topico": "Crase — há muito tempo, a parte, à qual",
+      "resposta": "D",
+      "gabarito": "C"
+    },
+    {
+      "numero": 9,
+      "topico": "Se — índice de indeterminação do sujeito",
+      "resposta": "A",
+      "gabarito": "C"
+    }
+  ],
+  "proximaAcao": "Reparo solicitado posteriormente e reteste espaçado no ciclo do caderno de erros de sábado; sem novo bloco automático.",
+  "tempoLiquidoSec": null
+}
