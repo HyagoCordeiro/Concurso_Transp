@@ -85,7 +85,7 @@
     {
       "id": "CE-20261112-002",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-14",
       "sourceResultId": "QTI10-20261112-RODADA1",
       "sourceQuestionId": "QTI10-20261112-RODADA1-Q05",
       "unitId": "10.1",
@@ -112,6 +112,41 @@
           "questionId": "DIA-20261113-BLOCO4-EXPO-EDCA-Q04",
           "result": "CORRETA",
           "note": "Contenção EDCA com parâmetros distintos."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "EDCA-ITEM10-20261114",
+          "questionId": "EDCA-ITEM10-20261114-Q01",
+          "result": "CORRETA",
+          "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "EDCA-ITEM10-20261114",
+          "questionId": "EDCA-ITEM10-20261114-Q02",
+          "result": "CORRETA",
+          "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "EDCA-ITEM10-20261114",
+          "questionId": "EDCA-ITEM10-20261114-Q03",
+          "result": "CORRETA",
+          "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "EDCA-ITEM10-20261114",
+          "questionId": "EDCA-ITEM10-20261114-Q04",
+          "result": "CORRETA",
+          "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
+        },
+        {
+          "date": "2026-11-14",
+          "sessionId": "EDCA-ITEM10-20261114",
+          "questionId": "EDCA-ITEM10-20261114-Q05",
+          "result": "CORRETA",
+          "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
         }
       ],
       "retentionVerified": false
@@ -2042,6 +2077,25 @@
       "proxAcao": "Reforçar interpretação/concordância/crase/índice de indeterminação com questões novas CESGRANRIO verificadas; reteste no caderno de erros do sábado, quando solicitado.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
+      "retestEvidence": [],
+      "retentionVerified": false
+    },
+    {
+      "id": "CE-20261114-QTI30-012",
+      "firstSeenAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-14",
+      "sourceResultId": "QTI30-20261114-FECHAMENTO-3X10",
+      "sourceQuestionId": "QTI30-20261114-FECHAMENTO-3X10-Q12",
+      "unitId": "2.3",
+      "topic": "Transformada de Fourier: derivada temporal vs atraso temporal",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "errorType": "CONFUSAO_PROPRIEDADES_FOURIER",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Derivação temporal: dx(t)/dt ↔ jωX(ω). Atraso no tempo de 1 unidade: x(t−1) ↔ e^(−jω)X(ω).",
+      "proxAcao": "Reparo com nova questão quando solicitado, sem antecipação da resposta, seguido de reteste espaçado na manhã de sábado do caderno de erros.",
+      "dueAt": "2026-11-21",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [],
       "retentionVerified": false
     }
