@@ -634,3 +634,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Resumo final do dia:** 5 blocos principais **25/33 (75,8%)**; sete reforços **16/24 (66,7%)**; total bruto **41/57 (71,9%)**, misto de treino guiado e reforço, não simulado CESGRANRIO independente.
 - Retestes programados no plano: D3 16/11, D7 20/11, D21 04/12. Prioridades: Inglês inferencial, Exponencial/Poisson, ganho de parabólicas com variação percentual e retenção de Fourier a0, C/N e Bayes.
 - [Relatório de fechamento completo](qti/FECHAMENTO_DIA_2026-11-13.md); [reparo de Fourier](qti/RESULTADOS_DIA_2026-11-13_FOURIER_A0_REFORCO2.md). Sem tempo líquido aferido.
+
+## 13/11/2026 — Simulado noturno de 50 questões (registro independente)
+- **5 baterias de 10, corrigidas após cada bateria:** 8/10, 10/10, 8/10, 9/10 e 8/10; **total 43/50 (86%)**.
+- **Conhecimentos específicos:** 41/48 (85,4%); duas questões básicas na primeira bateria, ambas corretas. Baterias seguintes somente específicas.
+- **Erros Q5, Q6, Q24, Q28, Q35, Q42, Q45:** Erlang B, Fresnel, Carson, geometria STM-N, canais E1, resposta ao degrau via Laplace e conversão EIRP de dBW para W.
+- **Natureza:** questões autorais/adaptadas calibradas pelo histórico CESGRANRIO/Transpetro e QConcursos, não 50 originais da banca; havia feedback entre baterias. Não confundir com os demais exercícios e reforços desta data.
+- **Arquivos:** [diagnóstico completo](qti/SIMULADO_NOTURNO_50_2026-11-13.md) e [dados estruturados](qti/SIMULADO_NOTURNO_50_2026-11-13.json). Erros indexados em `data/CADERNO_ERROS.json`, revisões em `data/REVISOES.json` e IDs em `data/QUESTOES.json`.
