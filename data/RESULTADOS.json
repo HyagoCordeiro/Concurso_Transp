@@ -7786,6 +7786,102 @@
       ],
       "tempoTotalSec": null,
       "observacao": "Gabarito alterado CESGRANRIO 2012 verificado; original Q12 E/D, Q20 D/B. Questões originais 11-20."
+    },
+    {
+      "id": "PT-HIST-TRANSPETRO2012-20261114",
+      "eventId": "PT-HIST-TRANSPETRO2012-20261114",
+      "data": "2026-11-14",
+      "studyDateLocal": "2026-11-14",
+      "tipo": "BLOCO_PORTUGUES_HISTORICO_ORIGINAL",
+      "disciplina": "Língua Portuguesa",
+      "titulo": "CESGRANRIO/Transpetro 2012 Q1–10 — Science fiction",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 6,
+      "erros": 4,
+      "invalidos": 0,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "sourceType": "CESGRANRIO_ORIGINAL_GABARITO_ALTERADO_VERIFICADO",
+      "diagnosticValidity": "RESPOSTAS_CORRIGIDAS_APOS_REENVIO_10_LETRAS",
+      "sourceFile": "qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.json",
+      "reportFile": "qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.md",
+      "questionIds": [
+        "PT-HIST-TRANSPETRO2012-20261114-Q01",
+        "PT-HIST-TRANSPETRO2012-20261114-Q02",
+        "PT-HIST-TRANSPETRO2012-20261114-Q03",
+        "PT-HIST-TRANSPETRO2012-20261114-Q04",
+        "PT-HIST-TRANSPETRO2012-20261114-Q05",
+        "PT-HIST-TRANSPETRO2012-20261114-Q06",
+        "PT-HIST-TRANSPETRO2012-20261114-Q07",
+        "PT-HIST-TRANSPETRO2012-20261114-Q08",
+        "PT-HIST-TRANSPETRO2012-20261114-Q09",
+        "PT-HIST-TRANSPETRO2012-20261114-Q10"
+      ],
+      "respostas": [
+        "A",
+        "E",
+        "C",
+        "C",
+        "E",
+        "A",
+        "D",
+        "D",
+        "A",
+        "A"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "C",
+        "D",
+        "E",
+        "A",
+        "D",
+        "C",
+        "C",
+        "A"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "PT-HIST-TRANSPETRO2012-20261114-Q01",
+          "editalItem": "PORTUGUES",
+          "topico": "Interpretação do poema — contradições existenciais",
+          "respostaEscolhida": "A",
+          "gabarito": "B",
+          "errorType": "INTERPRETACAO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "PT-HIST-TRANSPETRO2012-20261114-Q04",
+          "editalItem": "PORTUGUES",
+          "topico": "Concordância verbal — vendem-se filhotes que têm",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "errorType": "CONCORDANCIA",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "PT-HIST-TRANSPETRO2012-20261114-Q08",
+          "editalItem": "PORTUGUES",
+          "topico": "Crase — há muito tempo, a parte, à qual",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "CRASE",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "PT-HIST-TRANSPETRO2012-20261114-Q09",
+          "editalItem": "PORTUGUES",
+          "topico": "Se — índice de indeterminação do sujeito",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "SUJEITO_INDETERMINADO",
+          "retesteNecessario": true
+        }
+      ],
+      "tempoTotalSec": null,
+      "observacao": "Primeira mensagem tinha 11 letras, não válida; segunda mensagem 10 letras substitui integralmente. Score final 6/10. Não registrar 3/10 preliminar como resultado."
     }
   ],
   "updatedAt": "2026-11-14"
