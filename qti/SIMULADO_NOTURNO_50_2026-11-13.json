@@ -1,0 +1,664 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI50-20261113-NOTURNO-5X10",
+  "eventId": "QTI50-20261113-NOTURNO-5X10",
+  "studyDateLocal": "2026-11-13",
+  "data": "2026-11-13",
+  "tipo": "SIMULADO_NOTURNO_BATERIAS_5X10",
+  "disciplina": "MISTA_TELECOM_COM_2_CONHECIMENTOS_BASICOS",
+  "fonte": "Conversa de estudo, questões autorais/adaptadas estilo CESGRANRIO/Transpetro, referenciando provas históricas e QConcursos; não são 50 questões originais CESGRANRIO",
+  "diagnosticValidity": "TREINO_BLOCOS_CORRECAO_APOS_CADA_DEZ_NAO_SIMULADO_CEGO",
+  "totalQuestoes": 50,
+  "totalValidas": 50,
+  "acertos": 43,
+  "erros": 7,
+  "percentual": 86,
+  "especificas": {
+    "total": 48,
+    "acertos": 41,
+    "erros": 7,
+    "percentual": 85.4
+  },
+  "basicos": {
+    "total": 2,
+    "acertos": 2,
+    "erros": 0
+  },
+  "baterias": [
+    {
+      "bateria": 1,
+      "questionsFrom": 1,
+      "questionsTo": 10,
+      "total": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80
+    },
+    {
+      "bateria": 2,
+      "questionsFrom": 11,
+      "questionsTo": 20,
+      "total": 10,
+      "acertos": 10,
+      "erros": 0,
+      "percentual": 100
+    },
+    {
+      "bateria": 3,
+      "questionsFrom": 21,
+      "questionsTo": 30,
+      "total": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80
+    },
+    {
+      "bateria": 4,
+      "questionsFrom": 31,
+      "questionsTo": 40,
+      "total": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90
+    },
+    {
+      "bateria": 5,
+      "questionsFrom": 41,
+      "questionsTo": 50,
+      "total": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80
+    }
+  ],
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q01",
+      "unitId": "1.1",
+      "topic": "Probabilidade sem reposição, exatamente um defeituoso",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 2,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q02",
+      "unitId": "2.3",
+      "topic": "Transformada Fourier X(0), área sinal triangular",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 3,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q03",
+      "unitId": "4.2",
+      "topic": "PCM Nyquist 8 kHz 256 níveis taxa 128 kbit/s",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 4,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q04",
+      "unitId": "7.1",
+      "topic": "Perda espaço livre frequência e distância duplicadas",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 5,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q05",
+      "unitId": "5.1",
+      "topic": "Erlang B dois circuitos tráfego 1 E, bloqueio 20%",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q06",
+      "unitId": "7.1",
+      "topic": "Folga 60% da primeira zona Fresnel 4 km 6 GHz",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 7,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q07",
+      "unitId": "11.1",
+      "topic": "QoS LLQ voz baixa latência",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 8,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q08",
+      "unitId": "11.3",
+      "topic": "MPLS L3VPN rotas VPNv4 MP-BGP",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 9,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q09",
+      "unitId": "PT",
+      "topic": "Conector concessivo embora",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 10,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q10",
+      "unitId": "ING",
+      "topic": "Inglês compreensão although, latência satélite",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 11,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q11",
+      "unitId": "1.1",
+      "topic": "Bayes fábrica A 60% 2% defeitos, fábrica B 40% 5%",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 12,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q12",
+      "unitId": "3.1",
+      "topic": "LIT H(s)=(s+4)/((s+2)(s-1)), instabilidade",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 13,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q13",
+      "unitId": "4.2",
+      "topic": "Codificação canal 3/4 e 8-PSK banda 5 MHz",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 14,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q14",
+      "unitId": "6.2",
+      "topic": "Monopolo lambda/4 300 MHz",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 15,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q15",
+      "unitId": "8.3",
+      "topic": "Satélite C/N0 EIRP52 G/T7 perda205",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 16,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q16",
+      "unitId": "9.2",
+      "topic": "LTE downlink OFDMA uplink SC-FDMA",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 17,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q17",
+      "unitId": "10.3",
+      "topic": "SNMPv3 authPriv",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 18,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q18",
+      "unitId": "11.3",
+      "topic": "MPLS RSVP-TE LSP reserva de banda",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 19,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q19",
+      "unitId": "12.2",
+      "topic": "Fibra potência +2 dBm recepção -23, perda 0,25, conectores 3 dB",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 20,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q20",
+      "unitId": "13.1",
+      "topic": "Lei Geral Telecom competências Anatel",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 21,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q21",
+      "unitId": "1.3",
+      "topic": "Wiener-Khinchin Rxx=3exp(-2abs(tau)), S(2)=1,5",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 22,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q22",
+      "unitId": "2.4",
+      "topic": "Convolução x=[2,-1,3], h=[1,-2,1], y2=7",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 23,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q23",
+      "unitId": "3.5",
+      "topic": "Transformada Z causal X(z)=(2z²-5z)/(z²-3z+2), x2=-1",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q24",
+      "unitId": "4.1",
+      "topic": "Carson delta f 75 kHz fm15 kHz B=180 kHz",
+      "respostaEscolhida": "C",
+      "gabarito": "E",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 25,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q25",
+      "unitId": "5.1",
+      "topic": "Erlang B 3 circuitos 2 E bloqueio 21,1%",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 26,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q26",
+      "unitId": "8.3",
+      "topic": "C/N total uplink 15 downlink 18 dB",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 27,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q27",
+      "unitId": "7.1",
+      "topic": "Folga Fresnel 60% 9 km 5 GHz 7,0 m",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q28",
+      "unitId": "12.3",
+      "topic": "SDH STM-N 9 linhas x 270N colunas, 125 us",
+      "respostaEscolhida": "E",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 29,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q29",
+      "unitId": "12.4",
+      "topic": "DWDM espaçamento e mistura quatro ondas",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 30,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q30",
+      "unitId": "11.3",
+      "topic": "MPLS RD distingue VPNv4 RT importa exporta",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 31,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q31",
+      "unitId": "1.1",
+      "topic": "Probabilidade quatro enlaces independentes falha 10%",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 32,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q32",
+      "unitId": "2.4",
+      "topic": "Convolução x=[2,-1,3] h=[1,2,-2], y2=-3",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 33,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q33",
+      "unitId": "4.2",
+      "topic": "Shannon 3 kHz SNR 15 capacidade 12 kbit/s",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 34,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q34",
+      "unitId": "6.1",
+      "topic": "Antena Z=45-j20 eficiência80%, Rrad36 ohms",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 35,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q35",
+      "unitId": "5.2",
+      "topic": "E1 três tributários cada 30 canais voz (TS0 e TS16 reservados)",
+      "respostaEscolhida": "D",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 36,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q36",
+      "unitId": "5.3",
+      "topic": "H.323 Q.931 H.245 RTP",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 37,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q37",
+      "unitId": "9.2",
+      "topic": "Cluster celular i2 j1 N7",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 38,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q38",
+      "unitId": "10.1",
+      "topic": "Wi-Fi 802.11e EDCA",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 39,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q39",
+      "unitId": "12.3",
+      "topic": "SDH maior STM dentro CWDM 3,2 Gbit/s STM16",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 40,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q40",
+      "unitId": "11.1",
+      "topic": "PIM multicast verificação RPF pela origem",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 41,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q41",
+      "unitId": "1.2",
+      "topic": "Poisson lambda2 P(X>=2) 59,4%",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 42,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q42",
+      "unitId": "3.1",
+      "topic": "Laplace H(s)=6/(s+3), degrau amplitude2 resposta 4(1-e^-3t)",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 43,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q43",
+      "unitId": "4.1",
+      "topic": "Carson beta4 fm12 kHz B120 kHz",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 44,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q44",
+      "unitId": "5.1",
+      "topic": "Erlang B 2 circuitos 2 E bloqueio 40%",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 45,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q45",
+      "unitId": "6.1",
+      "topic": "EIRP 10 W, linha2 dB, ganho12 dBi = 100 W",
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 46,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q46",
+      "unitId": "8.3",
+      "topic": "C/N0 84 dBHz, B1 MHz, chuva -5 dB =>19 dB",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 47,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q47",
+      "unitId": "9.1",
+      "topic": "5G NSA LTE/EPC versus SA 5GC",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 48,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q48",
+      "unitId": "10.3",
+      "topic": "802.1s MSTP VLANs mapeadas a instâncias",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 49,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q49",
+      "unitId": "11.3",
+      "topic": "MPLS L3VPN pilha dois rótulos transporte e VPN",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 50,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q50",
+      "unitId": "12.3",
+      "topic": "SDH STM4 9720 bytes",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "resultado": "ACERTO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    }
+  ],
+  "itensErrados": [
+    {
+      "questionNumber": 5,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q05",
+      "unitId": "5.1",
+      "topic": "Erlang B dois circuitos tráfego 1 E, bloqueio 20%",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 6,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q06",
+      "unitId": "7.1",
+      "topic": "Folga 60% da primeira zona Fresnel 4 km 6 GHz",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 24,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q24",
+      "unitId": "4.1",
+      "topic": "Carson delta f 75 kHz fm15 kHz B=180 kHz",
+      "respostaEscolhida": "C",
+      "gabarito": "E",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 28,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q28",
+      "unitId": "12.3",
+      "topic": "SDH STM-N 9 linhas x 270N colunas, 125 us",
+      "respostaEscolhida": "E",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 35,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q35",
+      "unitId": "5.2",
+      "topic": "E1 três tributários cada 30 canais voz (TS0 e TS16 reservados)",
+      "respostaEscolhida": "D",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 42,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q42",
+      "unitId": "3.1",
+      "topic": "Laplace H(s)=6/(s+3), degrau amplitude2 resposta 4(1-e^-3t)",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 45,
+      "questionId": "QTI50-20261113-NOTURNO-5X10-Q45",
+      "unitId": "6.1",
+      "topic": "EIRP 10 W, linha2 dB, ganho12 dBi = 100 W",
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "resultado": "ERRO",
+      "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    }
+  ],
+  "tempoLiquidoSec": null,
+  "notas": [
+    "Correção realizada ao final de cada bateria de dez, com explicação antes da bateria seguinte.",
+    "Bateria 1 continha Português e Inglês; baterias 2-5 somente conhecimentos específicos.",
+    "Acertos após erros em fórmulas similares na mesma sessão não validam retenção espaçada.",
+    "Não incluir data de realização da prova no relatório; respeitar versão atual do planejamento."
+  ],
+  "prioridades": [
+    "Laplace e resposta ao degrau (Q42)",
+    "EIRP e conversão dBW para watts (Q45)",
+    "E1 30 canais por tributário, TS0/TS16 (Q35)",
+    "SDH 9 linhas por 270N colunas (Q28)",
+    "Fresnel 60% do raio (Q6)",
+    "Erlang B (Q5)",
+    "Carson (Q24)"
+  ]
+}
