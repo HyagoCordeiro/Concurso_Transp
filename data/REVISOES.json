@@ -3254,6 +3254,36 @@
       "createdFromStudyDate": "2026-11-14",
       "plano": "Questão nova sem pista, conferir retenção na revisão de sábado. Consultar anti-repetição.",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-ING-TRANSPETRO2012-Q12-D7-20261121",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Idiom until I'm blue in the face",
+      "motivo": "Erro original CESGRANRIO/Transpetro 2012 em 14/11, sem reparo",
+      "origemResultado": "ING-HIST-TRANSPETRO2012-20261114",
+      "agendadaPara": "2026-11-21",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-14",
+      "plano": "Novo texto real da CESGRANRIO e questão inédita, sem revelar gabarito. No sábado caderno de erros.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-ING-TRANSPETRO2012-Q20-D7-20261121",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inference — report hazards versus management exclusivity",
+      "motivo": "Erro original CESGRANRIO/Transpetro 2012 em 14/11, sem reparo",
+      "origemResultado": "ING-HIST-TRANSPETRO2012-20261114",
+      "agendadaPara": "2026-11-21",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-14",
+      "plano": "Novo texto real da CESGRANRIO e questão inédita, sem revelar gabarito. No sábado caderno de erros.",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-14",
