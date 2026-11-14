@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "REGULAMENTACAO-ITEM13-20261114",
+  "studyDateLocal": "2026-11-14",
+  "discipline": "Engenharia de Telecomunicações",
+  "editalItem": "13",
+  "type": "REVISAO_GUIADA",
+  "sourceType": "MISTA_AUTORAL_E_QUESTAO_ADAPTADA_COM_REFERENCIA_CESGRANRIO_A_VALIDAR",
+  "total": 5,
+  "acertos": 5,
+  "erros": 0,
+  "percentual": 100,
+  "questions": [
+    {
+      "n": 1,
+      "item": "13.1",
+      "topic": "LGT artigo 61 — SVA não constitui serviço de telecomunicações",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "sourceType": "AUTORAL_REGULAMENTACAO"
+    },
+    {
+      "n": 2,
+      "item": "13.2",
+      "topic": "Espectro radioelétrico — SHF de 3 a 30 GHz",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "sourceType": "ADAPTADA_CESGRANRIO_TRANSPETRO_2023_Q2327002_A_VALIDAR"
+    },
+    {
+      "n": 3,
+      "item": "13.2",
+      "topic": "PDFF — atribuição, destinação e distribuição",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "sourceType": "AUTORAL_REGULAMENTACAO"
+    },
+    {
+      "n": 4,
+      "item": "13.3",
+      "topic": "FM — canalização espaçamento 200 kHz",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "sourceType": "AUTORAL_REGULAMENTACAO"
+    },
+    {
+      "n": 5,
+      "item": "13.3",
+      "topic": "TV digital — VHF 174–180 MHz e largura de 6 MHz",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "sourceType": "AUTORAL_REGULAMENTACAO"
+    }
+  ],
+  "subitems": {
+    "13.1": {
+      "total": 1,
+      "acertos": 1
+    },
+    "13.2": {
+      "total": 2,
+      "acertos": 2
+    },
+    "13.3": {
+      "total": 2,
+      "acertos": 2
+    }
+  },
+  "retentionVerified": false,
+  "notes": "5 acertos em rodada guiada; não representa domínio integral do item 13. Questão Q2 apontada como adaptada da Transpetro 2023, origem não revalidada no registro.",
+  "sourceFile": "qti/REGULAMENTACAO_ITEM13_2026-11-14.md"
+}
