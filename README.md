@@ -177,3 +177,6 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 **Antes de criar uma nova bateria:** consultar [qti/CADERNO_ERROS.md](qti/CADERNO_ERROS.md) e [data/CADERNO_ERROS.json](data/CADERNO_ERROS.json), juntamente com `data/QUESTOES.json` e `data/REVISOES.json`. A cada correção, registrar erros e lacunas de conteúdo, reforços e retestes sem apagar os erros originais. O [protocolo rápido](docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md) foi atualizado com as regras detalhadas.
 
 **Dois QTI-10 do encerramento de 12/11:** [rodada 1 — 8/10](qti/QTI10_2026-11-12_RODADA1.md) e [encerramento — 8/10](qti/QTI10_2026-11-12_ENCERRAMENTO.md). Em conjunto com QTI-20 14/20, **30/40 = 75%**, excluídos reforços. Duas lacunas identificadas são conteúdo ainda não ensinado (distribuição exponencial e EDCA); duas são erros de cálculo/sinal em decibéis.
+
+### Simulado noturno — 13/11/2026
+[Relatório do simulado noturno de 50 questões](qti/SIMULADO_NOTURNO_50_2026-11-13.md) · [JSON com 50 respostas e gabaritos](qti/SIMULADO_NOTURNO_50_2026-11-13.json). **43/50 (86%)**, com **41/48 (85,4%)** em conhecimentos específicos; baterias: 8/10, 10/10, 8/10, 9/10 e 8/10. Questões autorais/adaptadas com correção por bateria; resultado mantido **separado** do treino guiado e dos reforços do dia. Sete erros registrados no caderno e revisões espaçadas.
