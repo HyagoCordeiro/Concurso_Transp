@@ -641,3 +641,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Erros Q5, Q6, Q24, Q28, Q35, Q42, Q45:** Erlang B, Fresnel, Carson, geometria STM-N, canais E1, resposta ao degrau via Laplace e conversão EIRP de dBW para W.
 - **Natureza:** questões autorais/adaptadas calibradas pelo histórico CESGRANRIO/Transpetro e QConcursos, não 50 originais da banca; havia feedback entre baterias. Não confundir com os demais exercícios e reforços desta data.
 - **Arquivos:** [diagnóstico completo](qti/SIMULADO_NOTURNO_50_2026-11-13.md) e [dados estruturados](qti/SIMULADO_NOTURNO_50_2026-11-13.json). Erros indexados em `data/CADERNO_ERROS.json`, revisões em `data/REVISOES.json` e IDs em `data/QUESTOES.json`.
+
+
+## 14/11/2026 — Sábado: fechamento semanal do caderno de erros
+
+- **Decisão permanente de rotina:** todos os **sábados pela manhã** serão dedicados à revisão do **caderno de erros acumulados durante a semana**, incluindo específicas, Português e Inglês conforme pendências; sem agendamento de aviso automático. [Rotina detalhada](docs/ROTINA_SABADO_CADERNO_ERROS.md).
+- **Revisão técnica realizada:** **43/56 (76,8%)**; quatro baterias principais **29/42 (69,0%)**; cinco reforços/fixação **14/14 (100%)**. Foram **13 erros nas baterias principais**, todos acertados em exercícios posteriores de reparo imediato. **Não é simulado independente nem comprovação de retenção espaçada.**
+- **Pontos reforçados:** Exponencial/Poisson, geométrica/binomial, Fourier (a0, área e deslocamentos), Laplace, antenas e arranjos, Fresnel, EIRP, CWDM/SDH, Erlang, Carson, SDH/E1, OSPF e QoS.
+- **Pendências:** revisar retenção em novos enunciados sem feedback recente; não esquecer erros de Português e Inglês que permaneceram fora desta bateria técnica, nem EDCA. Prioridade para leitura de eventos, EIRP, Fresnel, antenas e Fourier. Próximo sábado: **21/11/2026**.
+- **Arquivos:** [relatório](qti/REVISAO_CADERNO_ERROS_2026-11-14.md) · [56 respostas e gabaritos](qti/REVISAO_CADERNO_ERROS_2026-11-14.json).
