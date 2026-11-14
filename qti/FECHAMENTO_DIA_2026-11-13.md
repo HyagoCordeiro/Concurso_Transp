@@ -51,3 +51,8 @@
 - [C/N 4/4](RESULTADOS_DIA_2026-11-13_CN_REFORCO_4.md); [parabólica 1/2](RESULTADOS_DIA_2026-11-13_PARABOLICA_REFORCO_2.md); [Fourier a0 2/2](RESULTADOS_DIA_2026-11-13_FOURIER_A0_REFORCO2.md).
 
 **Política:** fonte CESGRANRIO/Transpetro e QConcursos calibram dificuldade, mas não classificar exercícios autorais como originais. Não considerar reteste do mesmo dia como consolidação espaçada.
+
+## Adendo — simulado noturno independente
+Depois do fechamento dos blocos e reforços acima, foi realizado outro exercício, em **5 baterias de 10 questões**, corrigidas separadamente: **8/10, 10/10, 8/10, 9/10, 8/10 = 43/50 (86%)**. Na parte específica, **41/48 (85,4%)**. Este registro **não integra nem altera** os agregados anteriores de 41/57; natureza: questões autorais/adaptadas no estilo CESGRANRIO, não 50 questões originais. **7 erros** encaminhados ao caderno e aos retestes D3/D7/D21.
+- [Relatório completo](SIMULADO_NOTURNO_50_2026-11-13.md)
+- [JSON de respostas, gabaritos e unidades](SIMULADO_NOTURNO_50_2026-11-13.json)
