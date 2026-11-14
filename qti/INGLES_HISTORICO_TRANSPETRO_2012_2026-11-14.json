@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "studyDateLocal": "2026-11-14",
+  "id": "ING-HIST-TRANSPETRO2012-20261114",
+  "type": "PROVA_HISTORICA_ORIGINAL",
+  "exam": "CESGRANRIO Transpetro 2012 Engenheiro Junior Telecomunicacoes",
+  "originalQuestionRange": [
+    11,
+    20
+  ],
+  "textTitle": "Safety Meeting Presentation",
+  "sourceFile": "Cópia de Prova Engenharia Telecomunicações - 2012.pdf",
+  "answerKeySource": "Gabarito alterado 10/06/2012, seção Língua Inglesa, questões 11–20 (E,D,B,E,C,D,D,A,C,B)",
+  "sourceType": "CESGRANRIO_ORIGINAL",
+  "acertos": 8,
+  "erros": 2,
+  "total": 10,
+  "percentual": 80,
+  "questions": [
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q11",
+      "numeroOriginal": 11,
+      "topic": "Main idea — workplace safety as collective effort",
+      "resposta": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q12",
+      "numeroOriginal": 12,
+      "topic": "Idiom until I'm blue in the face",
+      "resposta": "E",
+      "gabarito": "D",
+      "correct": false
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q13",
+      "numeroOriginal": 13,
+      "topic": "Call to action — all of you have to come together",
+      "resposta": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q14",
+      "numeroOriginal": 14,
+      "topic": "Vocabulary complying with / follow through",
+      "resposta": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q15",
+      "numeroOriginal": 15,
+      "topic": "Reference those — extreme hazards",
+      "resposta": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q16",
+      "numeroOriginal": 16,
+      "topic": "EXCEPT — employee safety responsibilities",
+      "resposta": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q17",
+      "numeroOriginal": 17,
+      "topic": "Modal obligation — must",
+      "resposta": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q18",
+      "numeroOriginal": 18,
+      "topic": "Synonyms sole/only",
+      "resposta": "A",
+      "gabarito": "A",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q19",
+      "numeroOriginal": 19,
+      "topic": "Connector as a result of — consequence",
+      "resposta": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "questionId": "ING-HIST-TRANSPETRO2012-20261114-Q20",
+      "numeroOriginal": 20,
+      "topic": "Inference — report hazards versus management exclusivity",
+      "resposta": "D",
+      "gabarito": "B",
+      "correct": false
+    }
+  ],
+  "weaknesses": [
+    "Expressão idiomática contextual: until I'm blue in the face — exaustão por falar/insistir, não melancolia",
+    "Inferência: texto defende segurança compartilhada e obrigação de reportar riscos, não responsabilidade total da administração"
+  ],
+  "nextStep": "Reparo posterior de duas competências e reteste espaçado; Português somente se aluno solicitar",
+  "minutesTracked": null
+}
