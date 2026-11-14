@@ -148,3 +148,12 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - Lembrar dos assuntos não contemplados nesta revisão específica: Inglês (inferências), Português (pontuação), EDCA e outros retestes já programados.
 - **Regra instituída pelo aluno:** **todo sábado de manhã** = caderno de erros da semana, com avaliação de padrões e novos exercícios. Próximo: **21/11/2026**; não houve criação de alerta automático.
 - [Relatório completo](REVISAO_CADERNO_ERROS_2026-11-14.md) · [Dados por questão](REVISAO_CADERNO_ERROS_2026-11-14.json) · [Rotina](../docs/ROTINA_SABADO_CADERNO_ERROS.md).
+
+
+## 14/11/2026 — Inglês, prova original CESGRANRIO/Transpetro 2012
+
+- Texto histórico *Safety Meeting Presentation*, questões originais 11–20: **8/10 (80%)**.
+- **CE-20261114-ING-01 (Q12):** marcou E, gabarito D. “Until I'm blue in the face” = repetir/falar até exaustão, não ficar desanimado/melancólico. **PENDENTE_REPARO**.
+- **CE-20261114-ING-02 (Q20):** marcou D, gabarito B. A segurança do trabalho depende de todos, e funcionários devem reportar riscos; a alternativa D generaliza responsabilidade exclusiva da gestão. **PENDENTE_REPARO**.
+- Preservar texto histórico e as 10 questões no anti-repetição. Reteste dirigido no próximo sábado, com novas questões e texto diferente, sob demanda.
+- [Relatório](INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.md).
