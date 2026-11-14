@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "EDCA-ITEM10-20261114",
+  "studyDateLocal": "2026-11-14",
+  "discipline": "Engenharia de Telecomunicações",
+  "editalItem": "10.1",
+  "type": "BATERIA_GUIADA",
+  "sourceType": "4_AUTORAIS_1_ADAPTADA_REFERENCIADA_A_VALIDAR",
+  "total": 5,
+  "acertos": 5,
+  "erros": 0,
+  "percentual": 100,
+  "questions": [
+    {
+      "id": "EDCA-ITEM10-20261114-Q01",
+      "n": 1,
+      "topic": "Mapeamento AC_VO AC_VI AC_BE AC_BK",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "sourceType": "AUTORAL"
+    },
+    {
+      "id": "EDCA-ITEM10-20261114-Q02",
+      "n": 2,
+      "topic": "Parâmetros EDCA AIFS e janela de contenção",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "sourceType": "AUTORAL"
+    },
+    {
+      "id": "EDCA-ITEM10-20261114-Q03",
+      "n": 3,
+      "topic": "Colisão virtual entre AC_VO e AC_BE",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "sourceType": "AUTORAL"
+    },
+    {
+      "id": "EDCA-ITEM10-20261114-Q04",
+      "n": 4,
+      "topic": "EIFS após recepção de quadro com erro",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "sourceType": "CESGRANRIO_PETROBRAS_2012_ADAPTADA_A_VALIDAR"
+    },
+    {
+      "id": "EDCA-ITEM10-20261114-Q05",
+      "n": 5,
+      "topic": "TXOP duração da oportunidade de transmissão",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "sourceType": "AUTORAL"
+    }
+  ],
+  "retentionVerified": false,
+  "priorError": "CE-20261112-002 EDCA — reparo anterior, evidência atual de acerto, não concluir sem teste espaçado",
+  "timing": null
+}
