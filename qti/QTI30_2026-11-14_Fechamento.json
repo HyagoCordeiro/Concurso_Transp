@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI30-20261114-FECHAMENTO-3X10",
+  "date": "2026-11-14",
+  "studyDateLocal": "2026-11-14",
+  "tipo": "QTI30_TREINO_3_BATERIAS_COM_FEEDBACK",
+  "disciplina": "Engenharia de Telecomunicações",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_REFERENCIAS_QCONCURSOS",
+  "sourceTruth": "Questoes autorais, não questões originais verificadas",
+  "total": 30,
+  "acertos": 29,
+  "erros": 1,
+  "percentual": 96.7,
+  "diagnosticValidity": "TREINO_EM_3_RODADAS_COM_GABARITO_APOS_CADA_10_NAO_SIMULADO_CEGO",
+  "rounds": [
+    {
+      "n": 1,
+      "from": 1,
+      "to": 10,
+      "total": 10,
+      "acertos": 10,
+      "erros": 0
+    },
+    {
+      "n": 2,
+      "from": 11,
+      "to": 20,
+      "total": 10,
+      "acertos": 9,
+      "erros": 1
+    },
+    {
+      "n": 3,
+      "from": 21,
+      "to": 30,
+      "total": 10,
+      "acertos": 10,
+      "erros": 0
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q01",
+      "unitId": "2.4",
+      "topic": "Convolução discreta y[2]",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 2,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q02",
+      "unitId": "3.5",
+      "topic": "Aliasing 7 kHz amostragem 10 kHz",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 3,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q03",
+      "unitId": "4.2",
+      "topic": "FEC redundância estruturada",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 4,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q04",
+      "unitId": "5.3",
+      "topic": "SIP REGISTER",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 5,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q05",
+      "unitId": "6.1",
+      "topic": "Campo distante de antena",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 6,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q06",
+      "unitId": "7.1",
+      "topic": "Difração por gume de faca",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 7,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q07",
+      "unitId": "8.1",
+      "topic": "Órbita geoestacionária",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 8,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q08",
+      "unitId": "9.2",
+      "topic": "Reúso celular N=i²+ij+j²",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 9,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q09",
+      "unitId": "10.3",
+      "topic": "SNMPv3 authPriv",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 10,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q10",
+      "unitId": "12.2",
+      "topic": "Margem de potência óptica",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "round": 1
+    },
+    {
+      "n": 11,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q11",
+      "unitId": "1.3",
+      "topic": "Wiener-Khinchin",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 12,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q12",
+      "unitId": "2.3",
+      "topic": "Fourier derivação temporal versus atraso",
+      "resposta": "B",
+      "gabarito": "E",
+      "correta": false,
+      "round": 2
+    },
+    {
+      "n": 13,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q13",
+      "unitId": "4.2",
+      "topic": "PCM taxa de bits",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 14,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q14",
+      "unitId": "5.2",
+      "topic": "Sinalização CCS/SS7",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 15,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q15",
+      "unitId": "8.3",
+      "topic": "Satélite Eb/N0",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 16,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q16",
+      "unitId": "9.2",
+      "topic": "Soft handover UMTS/WCDMA",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 17,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q17",
+      "unitId": "11.1",
+      "topic": "LLQ prioridade estrita",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 18,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q18",
+      "unitId": "11.2",
+      "topic": "BGP LOCAL_PREF",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 19,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q19",
+      "unitId": "11.4",
+      "topic": "IPsec AH versus ESP",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 20,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q20",
+      "unitId": "12.1",
+      "topic": "Dispersão cromática monomodo",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 2
+    },
+    {
+      "n": 21,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q21",
+      "unitId": "1.1",
+      "topic": "Falha conjunta fontes redundantes independentes",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 22,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q22",
+      "unitId": "2.1",
+      "topic": "Impedância 6+j8 e fator de potência",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 23,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q23",
+      "unitId": "3.4",
+      "topic": "Módulo/fase H(jω)",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 24,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q24",
+      "unitId": "4.1",
+      "topic": "QPSK taxa de símbolos",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 25,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q25",
+      "unitId": "5.2",
+      "topic": "Sinalização Q-SIG",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 26,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q26",
+      "unitId": "6.2",
+      "topic": "Dipolo de meia onda 150 MHz",
+      "resposta": "D",
+      "gabarito": "D",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 27,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q27",
+      "unitId": "7.1",
+      "topic": "Diferença atenuação 10 km vs 30 km",
+      "resposta": "B",
+      "gabarito": "B",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 28,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q28",
+      "unitId": "9.2",
+      "topic": "Handover histerese e ping-pong",
+      "resposta": "E",
+      "gabarito": "E",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 29,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q29",
+      "unitId": "11.3",
+      "topic": "MPLS L3VPN VRF",
+      "resposta": "A",
+      "gabarito": "A",
+      "correta": true,
+      "round": 3
+    },
+    {
+      "n": 30,
+      "id": "QTI30-20261114-FECHAMENTO-3X10-Q30",
+      "unitId": "11.5",
+      "topic": "Firewall stateful",
+      "resposta": "C",
+      "gabarito": "C",
+      "correta": true,
+      "round": 3
+    }
+  ],
+  "weaknesses": [
+    {
+      "n": 12,
+      "unitId": "2.3",
+      "resposta": "B",
+      "gabarito": "E",
+      "diagnosis": "Confundiu e^(−jω)X(ω), atraso temporal de 1 s, com jωX(ω), transformada da derivada temporal",
+      "status": "PENDENTE_REPARO"
+    }
+  ],
+  "nextRetestAt": "2026-11-21",
+  "minutesTracked": null
+}
