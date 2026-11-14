@@ -656,3 +656,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Prova original CESGRANRIO 2012 (questões 11–20), texto *Safety Meeting Presentation*: **8/10 (80%)**, conferido com gabarito alterado (11E,12D,13B,14E,15C,16D,17D,18A,19C,20B).
 - Erros Q12 (expressão idiomática “until I'm blue in the face”: E/D) e Q20 (inferência: atribuição exclusiva à gestão versus responsabilidades coletivas: D/B); acertos nas outras 8.
 - **Registros:** [relatório](qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.md), [10 respostas](qti/INGLES_HISTORICO_TRANSPETRO_2012_2026-11-14.json); erros catalogados e reteste para próximo sábado. Não iniciar próximo bloco antes de o aluno pedir.
+
+
+## 14/11/2026 — Português histórico original Transpetro 2012 (tarde)
+
+- Prova original de Português, questões 1–10, texto *Science fiction* (Carlos Drummond de Andrade): **6/10 (60%)**, conforme gabarito alterado CESGRANRIO.
+- **Respostas finais válidas:** A, E, C, C, E, A, D, D, A, A. Primeira remessa tinha 11 letras; **a segunda substitui a anterior**. Não registrar o placar provisório 3/10.
+- **4 erros:** Q1 interpretação das contradições do personagem (A/B); Q4 verbo 'ter' plural (C/D); Q8 crase/há (D/C); Q9 sujeito indeterminado e uso do 'se' (A/C).
+- **Arquivos:** [relatório](qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.md) · [JSON](qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.json). Reforçar quando solicitado; revisar no caderno de erros do próximo sábado.
