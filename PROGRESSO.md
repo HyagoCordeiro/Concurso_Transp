@@ -670,3 +670,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **5/5 (100%)** em revisão guiada (LGT 1/1; PDFF/espectro 2/2; FM/TV 2/2). Questões autorais e uma adaptação informada como Transpetro 2023 a revalidar. Não implica item 13 inteiramente concluído.
 - Parcial dos três blocos da tarde: Inglês 8/10, Português 6/10, Regulamentação 5/5 = **19/25 (76%)**.
 - [Relatório](qti/REGULAMENTACAO_ITEM13_2026-11-14.md); [questões e gabaritos](qti/REGULAMENTACAO_ITEM13_2026-11-14.json).
+
+
+## Fechamento do sábado — 14/11/2026 — QTI-30 — 29/30
+
+- **QTI-30 em três rodadas:** 10/10, 9/10, 10/10 = **29/30 (96,7%)**. Questões **autorais** calibradas pela CESGRANRIO/Transpetro, houve correção por rodada; não é simulado independente.
+- **Único erro Q12, item 2.3:** marcou B (atraso e^(−jω)X(ω)), gabarito E (derivada temporal jωX(ω)). Caderno de erros atualizado; retestes 17/11 e 21/11 propostos, sem lembrete automático.
+- **Bloco EDCA (item 10.1):** **5/5 (100%)**; categorias AC, AIFS/CW, colisão virtual, EIFS, TXOP. Erro histórico de EDCA recebeu evidência adicional, ainda não consolidar sem verificação de retenção.
+- **Tarde:** Inglês 8/10 + Português 6/10 + Regulamentação 5/5 + EDCA 5/5 + QTI-30 29/30 = **53/60 (88,3%)**.
+- **Dia completo (somando revisão do caderno, que inclui reforços):** **96/116 (82,8%)**. Métrica **bruta e mista**, não usar como previsão da prova; manhã 43/56 (com 14 reforços), tarde 53/60.
+- **Relatórios:** [QTI-30](qti/QTI30_2026-11-14_Fechamento.md) · [EDCA](qti/EDCA_ITEM10_2026-11-14.md). Cronograma concluído, sem cronometragem de estudo líquido.
