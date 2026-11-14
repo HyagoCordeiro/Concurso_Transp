@@ -664,3 +664,9 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Respostas finais válidas:** A, E, C, C, E, A, D, D, A, A. Primeira remessa tinha 11 letras; **a segunda substitui a anterior**. Não registrar o placar provisório 3/10.
 - **4 erros:** Q1 interpretação das contradições do personagem (A/B); Q4 verbo 'ter' plural (C/D); Q8 crase/há (D/C); Q9 sujeito indeterminado e uso do 'se' (A/C).
 - **Arquivos:** [relatório](qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.md) · [JSON](qti/PORTUGUES_HISTORICO_TRANSPETRO_2012_2026-11-14.json). Reforçar quando solicitado; revisar no caderno de erros do próximo sábado.
+
+
+## 14/11/2026 — Bloco 3 da tarde: Regulamentação (item 13)
+- **5/5 (100%)** em revisão guiada (LGT 1/1; PDFF/espectro 2/2; FM/TV 2/2). Questões autorais e uma adaptação informada como Transpetro 2023 a revalidar. Não implica item 13 inteiramente concluído.
+- Parcial dos três blocos da tarde: Inglês 8/10, Português 6/10, Regulamentação 5/5 = **19/25 (76%)**.
+- [Relatório](qti/REGULAMENTACAO_ITEM13_2026-11-14.md); [questões e gabaritos](qti/REGULAMENTACAO_ITEM13_2026-11-14.json).
