@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 13/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 14/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 **Escopo da implantação:** 22 registros da sessão de 12/11 (21 erros das baterias e um erro adicional de TLC fora dos placares). Registros anteriores a 12/11 continuam em `data/REVISOES.json` e nos relatórios históricos; não foram migrados integralmente para evitar reclassificações sem provas.
 
@@ -131,3 +131,20 @@
 | CE-20261113-022 | 45 | 6.1 | B/A | EIRP: 20 dBW equivale a 100 W, não 20 W | PENDENTE_REPARO |
 
 Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas semelhantes na mesma sessão (Erlang, Fresnel, Carson e SDH) não contam como retenção espaçada.
+
+
+## 14/11/2026 — Revisão semanal dos erros (primeiro sábado)
+
+**Resultados:** 43/56 (76,8%) no total; **29/42 (69%)** nas quatro baterias principais e **14/14 (100%)** em quatro reforços mais a fixação extra de CWDM. Treino guiado autoral/adaptado, não simulado cego nem questão original confirmada. **Não encerrar definitivamente os erros históricos por acerto em reforço imediato.**
+
+| Bateria | Erros originais | Reparo posterior |
+|---|---|---|
+| Principal 1: 6/10 | Exponencial, Poisson ≥2, Fourier a0, Laplace | 4/4 |
+| Principal 2: 7/10 | Fourier inversão/deslocamento, fator de conjunto, CWDM/SDH | 3/3 + CWDM 1/1 |
+| Principal 3: 7/10 | Geométrica 'até', variância binomial, fase progressiva | 3/3 |
+| Final: 9/12 | Fresnel 60%, EIRP, Poisson ≥2 | 3/3 |
+
+- As 13 falhas foram reparadas, mas devem continuar como **REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE** (novos registros CE-20261114-001..013); retenção ainda **não confirmada**.
+- Lembrar dos assuntos não contemplados nesta revisão específica: Inglês (inferências), Português (pontuação), EDCA e outros retestes já programados.
+- **Regra instituída pelo aluno:** **todo sábado de manhã** = caderno de erros da semana, com avaliação de padrões e novos exercícios. Próximo: **21/11/2026**; não houve criação de alerta automático.
+- [Relatório completo](REVISAO_CADERNO_ERROS_2026-11-14.md) · [Dados por questão](REVISAO_CADERNO_ERROS_2026-11-14.json) · [Rotina](../docs/ROTINA_SABADO_CADERNO_ERROS.md).
