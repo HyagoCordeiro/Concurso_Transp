@@ -3344,6 +3344,36 @@
       "createdFromStudyDate": "2026-11-14",
       "plano": "Nova questão CESGRANRIO de texto diferente, evitando repetição; abordar assunto com explicação só dos erros.",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261114-QTI30-012-D3",
+      "unitId": "2.3",
+      "editalItem": "2.3",
+      "materia": "Engenharia de Telecomunicações",
+      "topico": "Fourier: derivada temporal jωX(ω) versus atraso e^(−jω)X(ω)",
+      "motivo": "Questão 12 incorreta no QTI-30 de 14/11",
+      "origemResultado": "QTI30-20261114-FECHAMENTO-3X10",
+      "agendadaPara": "2026-11-17",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-14",
+      "plano": "Reteste inédito sobre propriedade de Fourier, sem gabarito antecipado e com antirrepetição; reforço quando solicitado",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261114-QTI30-012-SAT",
+      "unitId": "2.3",
+      "editalItem": "2.3",
+      "materia": "Engenharia de Telecomunicações",
+      "topico": "Fourier: derivada temporal jωX(ω) versus atraso e^(−jω)X(ω)",
+      "motivo": "Questão 12 incorreta no QTI-30 de 14/11",
+      "origemResultado": "QTI30-20261114-FECHAMENTO-3X10",
+      "agendadaPara": "2026-11-21",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "createdFromStudyDate": "2026-11-14",
+      "plano": "Reteste inédito sobre propriedade de Fourier, sem gabarito antecipado e com antirrepetição; reforço quando solicitado",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-14",
