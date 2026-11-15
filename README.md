@@ -184,3 +184,7 @@ Essa regra deve ser aplicada automaticamente em novas conversas e sessões do pr
 
 ### Simulado noturno — 13/11/2026
 [Relatório do simulado noturno de 50 questões](qti/SIMULADO_NOTURNO_50_2026-11-13.md) · [JSON com 50 respostas e gabaritos](qti/SIMULADO_NOTURNO_50_2026-11-13.json). **43/50 (86%)**, com **41/48 (85,4%)** em conhecimentos específicos; baterias: 8/10, 10/10, 8/10, 9/10 e 8/10. Questões autorais/adaptadas com correção por bateria; resultado mantido **separado** do treino guiado e dos reforços do dia. Sete erros registrados no caderno e revisões espaçadas.
+
+
+### Simulado integral 15/11/2026
+[Relatório com 70 respostas](qti/SIMULADO_INTEGRAL_70_2026-11-15.md) · [Dados JSON](qti/SIMULADO_INTEGRAL_70_2026-11-15.json). **61/70 no cartão; 63/70 no rascunho** após identificar duas falhas de transcrição. Sete erros conceituais/interpretativos no caderno; quatro fixações imediatas corretas, sem dar baixa nos retestes.

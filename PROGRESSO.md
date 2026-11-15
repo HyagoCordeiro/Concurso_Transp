@@ -692,3 +692,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Preferência de interface:** pergunta e, na sequência, 5 bolinhas verticais, cada qual com sua alternativa completa imediatamente ao lado: ◯ A) texto, ◯ B) texto, etc. Não separar letras de textos em blocos diferentes.
 - **Somatório bruto do sábado (inclui reforços):** revisão 43/56, Inglês 8/10, Português 6/10, Regulamentação 5/5, EDCA 5/5, QTI30 29/30, QTI50 38/50 = **134/166 (80,7%)**. Não projetar nota de prova desse indicador misto.
 - **Registros:** [relatório](qti/QTI50_2026-11-14_NOTURNO.md) · [JSON 50 respostas](qti/QTI50_2026-11-14_NOTURNO.json).
+
+
+## 15/11/2026 — Simulado integral de domingo (70Q, 60min)
+
+- **61/70 (87,1%)** no cartão; **63/70 (90%)** no rascunho, por erros de transcrição nas questões 04 e 48.
+- Português 8/10 (rascunho 9/10); Inglês 10/10; Específicos 43/50 (rascunho 44/50).
+- Sete erros não administrativos: **05, 27, 50, 53, 58, 61, 63**; fixações **27A/53A/58A/61A: 4/4**, retenção ainda pendente. Q63 afetada por legibilidade da imagem.
+- Priorizar Laplace e sistemas LIT, convolução, DEP de Wiener-Khinchin, Fresnel e interpretação de conectores. **D3: 18/11; sábado 21/11:** caderno de erros e cartão-resposta.
+- [Relatório completo](qti/SIMULADO_INTEGRAL_70_2026-11-15.md) · [70 respostas + anti-repetição](qti/SIMULADO_INTEGRAL_70_2026-11-15.json).

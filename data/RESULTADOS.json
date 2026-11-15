@@ -8455,7 +8455,126 @@
       ],
       "tempoTotalSec": null,
       "observacao": "Baterias: 6/10,9/10,9/10,7/10,7/10. Piores itens: 2 (0/3), 7 (1/3). Item 13 não avaliado. Formato preferido: alternativas A-E em colunas verticais como radio-group, texto integral ao lado da bolinha."
+    },
+    {
+      "id": "SIM70-20261115-INTEGRAL",
+      "data": "2026-11-15",
+      "tipo": "SIMULADO_70_CEGO",
+      "titulo": "Simulado domingo integral 70Q 15/11",
+      "totalQuestoes": 70,
+      "totalValidas": 70,
+      "acertos": 61,
+      "erros": 9,
+      "percentual": 87.1,
+      "tempoTotalSec": 3600,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/SIMULADO_INTEGRAL_70_2026-11-15.json",
+      "rascunhoAcertos": 63,
+      "rascunhoPercentual": 90,
+      "errosCartaoTranscricao": [
+        4,
+        48
+      ],
+      "itensErrados": [
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q04",
+          "unitId": "PT",
+          "topic": "Manutenção preventiva sem falhas",
+          "respostaEscolhida": "E",
+          "rascunho": "C",
+          "gabarito": "C",
+          "errorType": "TRANSCRICAO_CARTAO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q05",
+          "unitId": "PT",
+          "topic": "Contudo versus entretanto",
+          "respostaEscolhida": "A",
+          "rascunho": "A",
+          "gabarito": "E",
+          "errorType": "CONEXAO_SEMANTICA",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q27",
+          "unitId": "1.3",
+          "topic": "Autocorrelação e Wiener-Khinchin",
+          "respostaEscolhida": "C",
+          "rascunho": "C",
+          "gabarito": "D",
+          "errorType": "PROCEDIMENTO_WIENER_KHINCHIN",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q48",
+          "unitId": "8.3",
+          "topic": "C/N combinado 20 e 17 dB",
+          "respostaEscolhida": "D",
+          "rascunho": "E",
+          "gabarito": "E",
+          "errorType": "TRANSCRICAO_CARTAO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q50",
+          "unitId": "7.1",
+          "topic": "Gume de faca v=0",
+          "respostaEscolhida": "B",
+          "rascunho": "B",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO_FRESNEL",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q53",
+          "unitId": "3.1",
+          "topic": "Laplace resposta impulso com polo-zero",
+          "respostaEscolhida": "B",
+          "rascunho": "B",
+          "gabarito": "A",
+          "errorType": "ALGEBRA_LAPLACE",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q58",
+          "unitId": "2.4",
+          "topic": "Convolução de pulsos",
+          "respostaEscolhida": "C",
+          "rascunho": "C",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO_CONVOLUCAO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q61",
+          "unitId": "3.1",
+          "topic": "Laplace resposta ao degrau",
+          "respostaEscolhida": "E",
+          "rascunho": "E",
+          "gabarito": "A",
+          "errorType": "LAPLACE_DEGRAU_GANHO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "SIM70-20261115-INTEGRAL-Q63",
+          "unitId": "3.1",
+          "topic": "Estabilidade polos complexos plano s",
+          "respostaEscolhida": "D",
+          "rascunho": "D",
+          "gabarito": "A",
+          "errorType": "LEITURA_GRAFICA_MATERIAL",
+          "retesteNecessario": true
+        }
+      ],
+      "reparosImediatos": [
+        "27A",
+        "53A",
+        "58A",
+        "61A"
+      ],
+      "observacao": "61/70 no cartão; 63/70 no rascunho. 7 erros de conhecimento/representação e 2 transcrições. Não somar 4/4 fixações à prova."
     }
   ],
-  "updatedAt": "2026-11-14"
+  "updatedAt": "2026-11-15"
 }

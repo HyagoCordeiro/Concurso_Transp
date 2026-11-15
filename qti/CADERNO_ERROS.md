@@ -2,6 +2,26 @@
 
 **Atualização:** 14/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
+## 15/11/2026 — Simulado integral autoral de 70 questões
+
+**[Relatório](SIMULADO_INTEGRAL_70_2026-11-15.md) · [JSON](SIMULADO_INTEGRAL_70_2026-11-15.json).** Cartão **61/70 (87,1%)**; rascunho **63/70 (90%)**, 60 min; 4/4 fixações imediatas.
+
+| Q | Erro | Situação |
+|---:|---|---|
+| 4 | Rascunho C correto; cartão E. | Reteste pendente |
+| 5 | Interpretou contudo como conclusão, não contraste. | Reteste pendente |
+| 27 | Marcou C por eliminação; não desenvolveu a transformada; fixação 27A E correta. | Reparo imediato correto; reteste pendente |
+| 48 | Rascunho E correto; cartão D. | Reteste pendente |
+| 50 | Supôs perda zero por obstáculo não bloquear além da linha de visada. | Reteste pendente |
+| 53 | Tentou separar s/(s+1)+2/(s+2); fixação 53A C correta. | Reparo imediato correto; reteste pendente |
+| 58 | Tentou avaliar degrau isolado; fixação 58A C correta. | Reparo imediato correto; reteste pendente |
+| 61 | Montou Y=4/[s(s+4)], mas não via destino do 4; fixação 61A C correta. | Reparo imediato correto; reteste pendente |
+| 63 | Figura de polos pouco legível; interpretou como curva senoidal de amplitude constante. | Reteste pendente |
+
+**04 e 48 foram erros de transcrição**, não de conhecimento. **Q63 tem ressalva de figura pouco legível.** Fazer reteste D3 **18/11** e revisão sábado **21/11**. Nunca marcar reteste como consolidado apenas pelo acerto no mesmo dia.
+
+
+
 **Escopo da implantação:** 22 registros da sessão de 12/11 (21 erros das baterias e um erro adicional de TLC fora dos placares). Registros anteriores a 12/11 continuam em `data/REVISOES.json` e nos relatórios históricos; não foram migrados integralmente para evitar reclassificações sem provas.
 
 ## Pendências prioritárias — dois QTI-10 do encerramento
