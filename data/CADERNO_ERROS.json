@@ -2991,10 +2991,10 @@
       "respostaEscolhida": "E",
       "gabarito": "C",
       "errorType": "INTERPRETACAO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Exatamente um de A/B: P(A)+P(B)-2P(A∩B)=0,5; P(A∪B)=0,8 é pelo menos um (alternativa E).",
       "diagnosticoDeclarado": "Hipótese pedagógica com base na alternativa assinalada; confirmar o raciocínio do aluno na discussão. Fixação imediata 16/11: errou nova questão.",
-      "proxAcao": "Reteste diferido com enunciado novo no dia 17/11 e revisão 21/11; não considerar explicação/acerto imediato como consolidação.",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
       "retestEvidence": [
@@ -3007,6 +3007,16 @@
           "correct": false,
           "sameDay": true,
           "detail": "P(A∪B)=0,75, mas P(exatamente um)=0,55"
+        },
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q01",
+          "date": "2026-11-16",
+          "response": "B",
+          "answer": "B",
+          "correct": true,
+          "sameDay": true,
+          "detail": "Exatamente um = (420+350−2·130)/1000 = 51%"
         }
       ],
       "retentionVerified": false,
@@ -3058,7 +3068,7 @@
       "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "H(j0)=0; |H(jω)|→1 para ω→∞: filtro passa-altas; ωc=200 rad/s, não frequência central de passa-faixas.",
       "diagnosticoDeclarado": "Hipótese pedagógica com base na alternativa assinalada; confirmar o raciocínio do aluno na discussão. Fixação imediata 16/11: errou nova questão.",
-      "proxAcao": "Reteste diferido com enunciado novo no dia 17/11 e revisão 21/11; não considerar explicação/acerto imediato como consolidação.",
+      "proxAcao": "Terceiro erro de reconhecimento de filtro, reforçar teoria de resposta em frequência (extremos, ressonância), após isso testar nova questão sem pistas. Prioridade máxima.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
       "retestEvidence": [
@@ -3071,6 +3081,16 @@
           "correct": false,
           "sameDay": true,
           "detail": "150/(s+150): H(0)=1, H(∞)=0, passa-baixas"
+        },
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q02",
+          "date": "2026-11-16",
+          "response": "C",
+          "answer": "D",
+          "correct": false,
+          "sameDay": true,
+          "detail": "H(0)=0, H(j∞)=0 e H(j20)=1; passa-faixas"
         }
       ],
       "retentionVerified": false,
@@ -3119,10 +3139,10 @@
       "respostaEscolhida": "B",
       "gabarito": "C",
       "errorType": "CONCEITO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Com exatamente um erro, a paridade da linha e da coluna identifica o bit na interseção, permitindo correção; paridade simples não identifica posição.",
       "diagnosticoDeclarado": "Hipótese pedagógica com base na alternativa assinalada; confirmar o raciocínio do aluno na discussão. Fixação imediata 16/11: errou nova questão.",
-      "proxAcao": "Reteste diferido com enunciado novo no dia 17/11 e revisão 21/11; não considerar explicação/acerto imediato como consolidação.",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
       "retestEvidence": [
@@ -3135,6 +3155,16 @@
           "correct": false,
           "sameDay": true,
           "detail": "Duas linhas e duas colunas incorretas, exatamente dois erros: duas combinações diagonais possíveis, detecta mas não localiza univocamente"
+        },
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q03",
+          "date": "2026-11-16",
+          "response": "A",
+          "answer": "A",
+          "correct": true,
+          "sameDay": true,
+          "detail": "Mesma linha paridade preservada; duas colunas com paridade ímpar"
         }
       ],
       "retentionVerified": false,
@@ -3151,10 +3181,10 @@
       "respostaEscolhida": "A",
       "gabarito": "D",
       "errorType": "CONCEITO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Ruído branco discreto de média 0 e variância σ²: Rxx[k]=σ²δ[k]; em k=0 vale 9 e nos demais atrasos vale zero.",
       "diagnosticoDeclarado": "Hipótese pedagógica com base na alternativa assinalada; confirmar o raciocínio do aluno na discussão. Fixação imediata 16/11: errou nova questão.",
-      "proxAcao": "Reteste diferido com enunciado novo no dia 17/11 e revisão 21/11; não considerar explicação/acerto imediato como consolidação.",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
       "retestEvidence": [
@@ -3167,6 +3197,16 @@
           "correct": false,
           "sameDay": true,
           "detail": "Rxx[k]=5δ[k] implica Sxx(e^jω)=5 para todas as frequências"
+        },
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q04",
+          "date": "2026-11-16",
+          "response": "C",
+          "answer": "C",
+          "correct": true,
+          "sameDay": true,
+          "detail": "X=3+W, W zero média e variância 4, Rxx[k]=9+4δ[k]"
         }
       ],
       "retentionVerified": false,
@@ -3183,14 +3223,25 @@
       "respostaEscolhida": "B",
       "gabarito": "D",
       "errorType": "REINCIDENCIA_APOS_EXPLICACAO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "P(A∪B)=0,75, mas P(exatamente um)=0,55",
       "diagnosticoDeclarado": "Erro repetido em questão autoral com novos dados imediatamente após explicação.",
-      "proxAcao": "Revisão de conceito seguida de questão nova mais distante da família; reteste espaçado 17/11 e 21/11",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "relatedErrorId": "CE-20261116-QTI30-Q01",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q01",
+          "date": "2026-11-16",
+          "response": "B",
+          "answer": "B",
+          "correct": true,
+          "sameDay": true,
+          "detail": "Exatamente um = (420+350−2·130)/1000 = 51%"
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     },
@@ -3208,11 +3259,22 @@
       "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "150/(s+150): H(0)=1, H(∞)=0, passa-baixas",
       "diagnosticoDeclarado": "Erro repetido em questão autoral com novos dados imediatamente após explicação.",
-      "proxAcao": "Revisão de conceito seguida de questão nova mais distante da família; reteste espaçado 17/11 e 21/11",
+      "proxAcao": "Terceiro erro de reconhecimento de filtro, reforçar teoria de resposta em frequência (extremos, ressonância), após isso testar nova questão sem pistas. Prioridade máxima.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "relatedErrorId": "CE-20261116-QTI30-Q03",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q02",
+          "date": "2026-11-16",
+          "response": "C",
+          "answer": "D",
+          "correct": false,
+          "sameDay": true,
+          "detail": "H(0)=0, H(j∞)=0 e H(j20)=1; passa-faixas"
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     },
@@ -3227,14 +3289,25 @@
       "respostaEscolhida": "A",
       "gabarito": "B",
       "errorType": "REINCIDENCIA_APOS_EXPLICACAO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Duas linhas e duas colunas incorretas, exatamente dois erros: duas combinações diagonais possíveis, detecta mas não localiza univocamente",
       "diagnosticoDeclarado": "Erro repetido em questão autoral com novos dados imediatamente após explicação.",
-      "proxAcao": "Revisão de conceito seguida de questão nova mais distante da família; reteste espaçado 17/11 e 21/11",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "relatedErrorId": "CE-20261116-QTI30-Q17",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q03",
+          "date": "2026-11-16",
+          "response": "A",
+          "answer": "A",
+          "correct": true,
+          "sameDay": true,
+          "detail": "Mesma linha paridade preservada; duas colunas com paridade ímpar"
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     },
@@ -3249,13 +3322,46 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "REINCIDENCIA_APOS_EXPLICACAO",
-      "status": "PENDENTE_REPARO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Rxx[k]=5δ[k] implica Sxx(e^jω)=5 para todas as frequências",
       "diagnosticoDeclarado": "Erro repetido em questão autoral com novos dados imediatamente após explicação.",
-      "proxAcao": "Revisão de conceito seguida de questão nova mais distante da família; reteste espaçado 17/11 e 21/11",
+      "proxAcao": "Acertou variante no mesmo dia; sem consolidação. Reavaliar em revisão espaçada 17/11 e 21/11.",
       "dueAt": "2026-11-17",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "relatedErrorId": "CE-20261116-QTI30-Q27",
+      "retestEvidence": [
+        {
+          "sessionId": "QTI10-20261116-APOS-RECUPERACAO",
+          "questionId": "QTI10-20261116-APOS-RECUPERACAO-Q04",
+          "date": "2026-11-16",
+          "response": "C",
+          "answer": "C",
+          "correct": true,
+          "sameDay": true,
+          "detail": "X=3+W, W zero média e variância 4, Rxx[k]=9+4δ[k]"
+        }
+      ],
+      "retentionVerified": false,
+      "notContentError": false
+    },
+    {
+      "id": "CE-20261116-QTI10-Q02",
+      "firstSeenAt": "2026-11-16",
+      "lastReviewedAt": "2026-11-16",
+      "sourceResultId": "QTI10-20261116-APOS-RECUPERACAO",
+      "sourceQuestionId": "QTI10-20261116-APOS-RECUPERACAO-Q02",
+      "unitId": "3.4",
+      "topic": "Identificação de passa-faixas de segunda ordem por H(s)",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "REINCIDENCIA_CONCEITO_IDENTIFICACAO_FILTROS",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "H(s)=40s/(s²+40s+400); H(0)=0 e |H(jω)|→0 em ω→∞; |H(j20)|=1 => passa-faixas.",
+      "diagnosticoDeclarado": "Terceira dificuldade em reconhecer filtros diferentes por análise de limites H(jω), após erros passa-altas e passa-baixas.",
+      "proxAcao": "Reensinar filtros com 3 comportamentos de H(s), identificar passa-altas/baixas/faixas com função diversa; D1 17/11, D3 19/11, revisão 21/11.",
+      "dueAt": "2026-11-17",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "relatedErrorId": "CE-20261116-REC-Q03",
       "retestEvidence": [],
       "retentionVerified": false,
       "notContentError": false
