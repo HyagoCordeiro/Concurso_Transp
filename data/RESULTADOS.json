@@ -8708,6 +8708,57 @@
         }
       ],
       "observacao": "Acerto a0 D3 após erros 13/11; antecipação dos retestes previstos para 17/11 em Fourier escala e Parseval não os encerra. Questão atraso não testou derivada temporal. Manter revisões de sábado 21/11. Não houve erros neste bloco."
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116",
+      "data": "2026-11-16",
+      "tipo": "BLOCO_PT_ING_AUTORAL",
+      "titulo": "Bloco 4 — Português 5/5 e Inglês 3/5",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/BLOCO4_PT_ING_2026-11-16.md",
+      "editalItem": "PORTUGUES_INGLES",
+      "resultadosPorMateria": [
+        {
+          "materia": "PORTUGUES",
+          "total": 5,
+          "acertos": 5,
+          "erros": 0,
+          "percentual": 100
+        },
+        {
+          "materia": "INGLES",
+          "total": 5,
+          "acertos": 3,
+          "erros": 2,
+          "percentual": 60
+        }
+      ],
+      "itensErrados": [
+        {
+          "questionId": "BLOCO4-PT-ING-20261116-Q06",
+          "unitId": "INGLES",
+          "topic": "Inferência e contradição de informação explícita",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "BLOCO4-PT-ING-20261116-Q07",
+          "unitId": "INGLES",
+          "topic": "Until I lose my voice — expressão figurada",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "IDIOMA_FIGURADO_INTERPRETACAO_LITERAL",
+          "retesteNecessario": true
+        }
+      ],
+      "observacao": "PT 5/5; EN 3/5. Erros recorrentes de inferência textual e idiom. Reteste D3 19/11 e revisão sábado 21/11. Respostas D C A E B C C A D C; gabarito D C A E B B E A D C. Não confundir resultados com questões históricas originais."
     }
   ],
   "updatedAt": "2026-11-16"
