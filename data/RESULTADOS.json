@@ -8759,6 +8759,64 @@
         }
       ],
       "observacao": "PT 5/5; EN 3/5. Erros recorrentes de inferência textual e idiom. Reteste D3 19/11 e revisão sábado 21/11. Respostas D C A E B C C A D C; gabarito D C A E B B E A D C. Não confundir resultados com questões históricas originais."
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116",
+      "data": "2026-11-16",
+      "tipo": "REVISAO_D3_AUTORAL",
+      "titulo": "Bloco 5 — revisão técnica mista: SDH, E1, Erlang B, Carson, EDCA",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 8,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/BLOCO5_TECNICO_D3_2026-11-16.md",
+      "editalItem": "12.3_5.2_5.1_4.1_10.1",
+      "itensErrados": [],
+      "respostas": [
+        {
+          "q": 1,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 2,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 3,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 4,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 5,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 6,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 7,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 8,
+          "resposta": "A",
+          "gabarito": "A"
+        }
+      ],
+      "observacao": "8/8 em novos parâmetros; revisões D3 de SDH, E1, Erlang B, Carson, EDCA concluídas no dia, mantendo D7 e D21. Cinco blocos total 32/37=86,5%, com 3 erros Probabilidade e 2 Inglês. Relatório qti/FECHAMENTO_DIA_2026-11-16.md."
     }
   ],
   "updatedAt": "2026-11-16"
