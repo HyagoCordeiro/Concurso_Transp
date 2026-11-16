@@ -1,0 +1,145 @@
+{
+  "id": "BLOCO4-PT-ING-20261116",
+  "date": "2026-11-16",
+  "kind": "AUTORAL_ESTILO_CESGRANRIO",
+  "texts": [
+    {
+      "materia": "PORTUGUES",
+      "title": "Quando os dados parecem dizer tudo"
+    },
+    {
+      "materia": "INGLES",
+      "title": "The Warning Behind a Perfect Reading"
+    }
+  ],
+  "total": 10,
+  "correct": 8,
+  "incorrect": 2,
+  "pt": {
+    "total": 5,
+    "correct": 5
+  },
+  "en": {
+    "total": 5,
+    "correct": 3
+  },
+  "questions": [
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q01",
+      "unitId": "PORTUGUES",
+      "topic": "Interpretação: painel aparentemente normal versus dados desatualizados",
+      "answer": "D",
+      "key": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q02",
+      "unitId": "PORTUGUES",
+      "topic": "Concordância: especialistas que têm acesso mantêm histórico",
+      "answer": "C",
+      "key": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q03",
+      "unitId": "PORTUGUES",
+      "topic": "Há, à diretoria, relativas às atualizações: crase e tempo decorrido",
+      "answer": "A",
+      "key": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q04",
+      "unitId": "PORTUGUES",
+      "topic": "Se índice de indeterminação: necessita-se de profissionais",
+      "answer": "E",
+      "key": "E",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q05",
+      "unitId": "PORTUGUES",
+      "topic": "Conectores: ainda assim, oposição/ressalva",
+      "answer": "B",
+      "key": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q06",
+      "unitId": "INGLES",
+      "topic": "Inference: stale timestamp despite normal dashboard",
+      "answer": "C",
+      "key": "B",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q07",
+      "unitId": "INGLES",
+      "topic": "Figurative language: until I lose my voice, insist until exhaustion",
+      "answer": "C",
+      "key": "E",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q08",
+      "unitId": "INGLES",
+      "topic": "Provided that: condition",
+      "answer": "A",
+      "key": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q09",
+      "unitId": "INGLES",
+      "topic": "Resilience: detect problems and restore trustworthy information",
+      "answer": "D",
+      "key": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    },
+    {
+      "id": "BLOCO4-PT-ING-20261116-Q10",
+      "unitId": "INGLES",
+      "topic": "Responsibility: technicians, operators, supervisors and managers",
+      "answer": "C",
+      "key": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19"
+    }
+  ],
+  "newErrors": [
+    6,
+    7
+  ],
+  "retestDue": "2026-11-19",
+  "weeklyReview": "2026-11-21",
+  "exposurePolicy": "Não repetir literalmente; usar contexto e texto diferentes."
+}
