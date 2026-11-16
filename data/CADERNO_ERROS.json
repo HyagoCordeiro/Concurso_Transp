@@ -810,7 +810,7 @@
     {
       "id": "CE-20261113-001",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "ING-20261113-BLOCO2",
       "sourceQuestionId": "ING-20261113-BLOCO2-Q02",
       "unitId": "INGLES",
@@ -820,8 +820,8 @@
       "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL",
       "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "Descarte a alternativa que contradiz o texto; a rota avalia distância, condições do fundo do mar e riscos de pesca/navegação, e exige monitoramento contínuo.",
-      "proxAcao": "Treinar descarte de alternativas que contradizem informação literal; erro persistiu no novo texto de monitoramento, Q2 do reforço.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Reforço de 2 questões e reteste 19/11; evitar alternativa contrária a informação expressa.",
+      "dueAt": "2026-11-19",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "retestEvidence": [
         {
@@ -837,6 +837,13 @@
           "questionId": "ING-20261113-REFORCO-Q02",
           "result": "INCORRETA",
           "note": "Selecionou substituição humana pela automação, contrariando texto explícito."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q06",
+          "result": "INCORRETA",
+          "note": "Nova inferência em texto distinto incorreta; persistência de alternativa contradiz informação literal."
         }
       ],
       "retentionVerified": false
@@ -844,7 +851,7 @@
     {
       "id": "CE-20261113-002",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "ING-20261113-BLOCO2",
       "sourceQuestionId": "ING-20261113-BLOCO2-Q08",
       "unitId": "INGLES",
@@ -852,10 +859,10 @@
       "respostaEscolhida": "E",
       "gabarito": "C",
       "errorType": "VOCABULARIO_CONTEXTO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Resilience=capacidade de manter ou recuperar a operação diante de falhas; reliability=confiabilidade; redundancy=redundância; availability=disponibilidade.",
-      "proxAcao": "Verificar em texto novo o significado de resilience em revisão espaçada (D3 16/11; D7 20/11; D21 04/12).",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Testar resilience em novo texto na revisão D7 20/11; sem repetir questões.",
+      "dueAt": "2026-11-20",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "retestEvidence": [
         {
@@ -871,6 +878,13 @@
           "questionId": "ING-20261113-REFORCO-Q04",
           "result": "CORRETA",
           "note": "Restore=bring back into operation."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q09",
+          "result": "CORRETA",
+          "note": "Reconheceu resilience como capacidade de detectar/recuperar informação confiável; manter D7 20/11."
         }
       ],
       "retentionVerified": false
@@ -878,7 +892,7 @@
     {
       "id": "CE-20261113-003",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": null,
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "ING-20261113-REFORCO",
       "sourceQuestionId": "ING-20261113-REFORCO-Q02",
       "unitId": "INGLES",
@@ -888,10 +902,18 @@
       "errorType": "INTERPRETACAO_CONTRADICAO_EXPLICITA",
       "status": "PENDENTE_REPARO",
       "teoriaOuRegra": "Quando o texto afirma NOT REPLACE HUMAN ANALYSIS, descarte alternativa que diga REPLACE TECHNICAL PERSONNEL; prefira a que preserva o duplo objetivo de menos alarmes falsos e detecção de falhas.",
-      "proxAcao": "Nova questão em texto distinto exigindo leitura literal precisa e comparação com alternativas, sem repetição de estrutura.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Reforço de 2 questões e reteste 19/11; evitar alternativa contrária a informação expressa.",
+      "dueAt": "2026-11-19",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q06",
+          "result": "INCORRETA",
+          "note": "Reincidência: selecionou afirmação de aviso imediato não apoiada pelo texto."
+        }
+      ],
       "retentionVerified": false,
       "relatedErrorId": "CE-20261113-001"
     },
@@ -2060,7 +2082,7 @@
     {
       "id": "CE-20261114-ING-01",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "ING-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "ING-HIST-TRANSPETRO2012-20261114-Q12",
       "unitId": "INGLES",
@@ -2073,13 +2095,21 @@
       "proxAcao": "2 questões novas de ingles com expressão idiomática ou inferência com generalização, preferindo outras CESGRANRIO originais; não repetir o mesmo texto.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q07",
+          "result": "INCORRETA",
+          "note": "Novo enunciado com idiom figurado 'until I lose my voice' respondido literalmente, mantendo pendência de 21/11."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261114-ING-02",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "ING-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "ING-HIST-TRANSPETRO2012-20261114-Q20",
       "unitId": "INGLES",
@@ -2092,13 +2122,21 @@
       "proxAcao": "2 questões novas de ingles com expressão idiomática ou inferência com generalização, preferindo outras CESGRANRIO originais; não repetir o mesmo texto.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q10",
+          "result": "CORRETA",
+          "note": "Reconheceu responsabilidade coletiva, porém manter reteste de 21/11."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261114-PT-01",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "PT-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "PT-HIST-TRANSPETRO2012-20261114-Q01",
       "unitId": "PORTUGUES",
@@ -2111,13 +2149,21 @@
       "proxAcao": "Reforçar interpretação/concordância/crase/índice de indeterminação com questões novas CESGRANRIO verificadas; reteste no caderno de erros do sábado, quando solicitado.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Nova interpretação acertada; texto em prosa, não o mesmo poema. Revisão de 21/11 permanece."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261114-PT-04",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "PT-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "PT-HIST-TRANSPETRO2012-20261114-Q04",
       "unitId": "PORTUGUES",
@@ -2130,13 +2176,21 @@
       "proxAcao": "Reforçar interpretação/concordância/crase/índice de indeterminação com questões novas CESGRANRIO verificadas; reteste no caderno de erros do sábado, quando solicitado.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q02",
+          "result": "CORRETA",
+          "note": "Acertou concordância plural têm/mantêm; revisão de 21/11 permanece."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261114-PT-08",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "PT-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "PT-HIST-TRANSPETRO2012-20261114-Q08",
       "unitId": "PORTUGUES",
@@ -2149,13 +2203,21 @@
       "proxAcao": "Reforçar interpretação/concordância/crase/índice de indeterminação com questões novas CESGRANRIO verificadas; reteste no caderno de erros do sábado, quando solicitado.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q03",
+          "result": "CORRETA",
+          "note": "Acertou Há / à / às; revisão de 21/11 permanece."
+        }
+      ],
       "retentionVerified": false
     },
     {
       "id": "CE-20261114-PT-09",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "PT-HIST-TRANSPETRO2012-20261114",
       "sourceQuestionId": "PT-HIST-TRANSPETRO2012-20261114-Q09",
       "unitId": "PORTUGUES",
@@ -2168,7 +2230,15 @@
       "proxAcao": "Reforçar interpretação/concordância/crase/índice de indeterminação com questões novas CESGRANRIO verificadas; reteste no caderno de erros do sábado, quando solicitado.",
       "dueAt": "2026-11-21",
       "sourceType": "CESGRANRIO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO4-PT-ING-20261116",
+          "questionId": "BLOCO4-PT-ING-20261116-Q04",
+          "result": "CORRETA",
+          "note": "Reconheceu índice de indeterminação em necessita-se; revisão de 21/11 permanece."
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -2809,6 +2879,50 @@
       "retestEvidence": [],
       "retentionVerified": false,
       "notContentError": false
+    },
+    {
+      "id": "CE-20261116-BLOCO4-ING-Q06",
+      "firstSeenAt": "2026-11-16",
+      "lastReviewedAt": "2026-11-16",
+      "sourceResultId": "BLOCO4-PT-ING-20261116",
+      "sourceQuestionId": "BLOCO4-PT-ING-20261116-Q06",
+      "unitId": "INGLES",
+      "topic": "Reading comprehension — inferência contradiz texto: timestamp de sensor",
+      "respostaEscolhida": "C",
+      "gabarito": "B",
+      "errorType": "INTERPRETACAO_CONTRADICAO_TEXTUAL_RECORRENTE",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "No texto, o sistema NÃO informava imediatamente a falha do sensor. Opção C afirma o contrário; a opção B descreve painel normal com dado desatualizado.",
+      "diagnosticoDeclarado": "Reincidência em aceitar alternativa oposta a informação explícita; evidenciada em 13/11 e novamente 16/11.",
+      "proxAcao": "2 questões novas com texto e enunciado diferentes; reteste D3 19/11 e caderno semanal 21/11; não antecipar gabarito.",
+      "dueAt": "2026-11-19",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "notContentError": false,
+      "relatedErrorId": "CE-20261113-001"
+    },
+    {
+      "id": "CE-20261116-BLOCO4-ING-Q07",
+      "firstSeenAt": "2026-11-16",
+      "lastReviewedAt": "2026-11-16",
+      "sourceResultId": "BLOCO4-PT-ING-20261116",
+      "sourceQuestionId": "BLOCO4-PT-ING-20261116-Q07",
+      "unitId": "INGLES",
+      "topic": "Idiomatic English — until I lose my voice, insistência até exaustão",
+      "respostaEscolhida": "C",
+      "gabarito": "E",
+      "errorType": "INTERPRETACAO_LITERAL_EXPRESSAO_FIGURADA_RECORRENTE",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "Until I lose my voice indica repetir/insistir até a exaustão, não perda permanente de voz. O contexto enfatiza necessidade de participação ativa.",
+      "diagnosticoDeclarado": "Reincidência semelhante a 'until I'm blue in the face' (Transpetro 2012).",
+      "proxAcao": "2 questões novas com texto e enunciado diferentes; reteste D3 19/11 e caderno semanal 21/11; não antecipar gabarito.",
+      "dueAt": "2026-11-19",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "notContentError": false,
+      "relatedErrorId": "CE-20261114-ING-01"
     }
   ],
   "weeklyRoutine": {
