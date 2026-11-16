@@ -2395,10 +2395,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Reparo imediato 4/4 de C/N em 13/11; confirmar retenção em questão de transferência sem ajuda.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-008-D7",
@@ -2440,10 +2446,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Micro-reparo 2 questões distinguindo dobro/triplo de f e D e aumento absoluto em dBi.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-009-D7",
@@ -2530,10 +2542,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-REFORCO6",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "4/4 de C/N acertadas após esclarecimento; reteste espaçado sem fórmula D3 16/11.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-011-D7",
@@ -2575,10 +2593,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-REFORCO6",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Reparou parcialmente com diâmetro×2 e eficiência÷4; reteste espaçado novo enunciado.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-012-D7",
@@ -2710,10 +2734,16 @@
       "origemResultado": "DIA-20261113-ANTENA-REPARO2",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Rever fator 1,5 versus 2 em variações percentuais; reteste D3 16/11.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-015-D7",
@@ -2800,10 +2830,16 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "media",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Refazer cálculo de raio e folga em frequências/distâncias novas; Q27 correta no mesmo simulado.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-017-D7",
@@ -3025,10 +3061,16 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Treinar conversão W,dBW,dBm, ganho/perda em dB e comparação de unidades.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "ANT-RAD-D3-20261116",
+        "correct": true,
+        "note": "Acerto em questão nova correspondente; revisão semanal ainda mantida 21/11. Fresnel Q5 calculada com distância total 6km e resposta exata 36m."
+      }
     },
     {
       "id": "REV-CE-20261113-022-D7",
