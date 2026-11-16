@@ -1990,10 +1990,17 @@
       "origemResultado": "ING-20261113-BLOCO2",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "2 questões novas de inferência contextual em texto novo; classificar distração por contradição.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": false,
+        "questionId": "BLOCO4-PT-ING-20261116-Q06",
+        "note": "Reteste de inferência textual realizado, INCORRETO; nova recorrência em 16/11. Novo D3 19/11."
+      }
     },
     {
       "id": "REV-CE-20261113-001-D7",
@@ -2035,10 +2042,17 @@
       "origemResultado": "ING-20261113-BLOCO2",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "2 questões novas de vocabulário contextual e falsos sentidos em texto distinto.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q09",
+        "note": "Reconheceu resilience em contexto de recuperação; D7 20/11 permanece."
+      }
     },
     {
       "id": "REV-CE-20261113-002-D7",
@@ -2080,10 +2094,17 @@
       "origemResultado": "ING-20261113-REFORCO",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Texto novo com afirmações explícitas e alternativas que afirmam o contrário; leitura de negações.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": false,
+        "questionId": "BLOCO4-PT-ING-20261116-Q06",
+        "note": "Reteste de contradição textual realizado, INCORRETO, alternativa nega informação expressa. Novo D3 19/11."
+      }
     },
     {
       "id": "REV-CE-20261113-003-D7",
@@ -3328,7 +3349,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Novo texto real da CESGRANRIO e questão inédita, sem revelar gabarito. No sábado caderno de erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": false,
+        "questionId": "BLOCO4-PT-ING-20261116-Q07",
+        "note": "Nova expressão figurada respondida literalmente; reteste 21/11 permanece."
+      }
     },
     {
       "id": "REV-ING-TRANSPETRO2012-Q20-D7-20261121",
@@ -3343,7 +3371,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Novo texto real da CESGRANRIO e questão inédita, sem revelar gabarito. No sábado caderno de erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q10",
+        "note": "Acerto em novo texto sobre responsabilidade coletiva; verificar retenção 21/11."
+      }
     },
     {
       "id": "REV-PT-TRANSPETRO2012-Q01-SAT",
@@ -3358,7 +3393,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Nova questão CESGRANRIO de texto diferente, evitando repetição; abordar assunto com explicação só dos erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q01",
+        "note": "Interpretação de prosa correta, reteste do poema ainda pendente 21/11."
+      }
     },
     {
       "id": "REV-PT-TRANSPETRO2012-Q04-SAT",
@@ -3373,7 +3415,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Nova questão CESGRANRIO de texto diferente, evitando repetição; abordar assunto com explicação só dos erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q02",
+        "note": "Concordância correta, reteste 21/11."
+      }
     },
     {
       "id": "REV-PT-TRANSPETRO2012-Q08-SAT",
@@ -3388,7 +3437,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Nova questão CESGRANRIO de texto diferente, evitando repetição; abordar assunto com explicação só dos erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q03",
+        "note": "Crase correta, reteste 21/11."
+      }
     },
     {
       "id": "REV-PT-TRANSPETRO2012-Q09-SAT",
@@ -3403,7 +3459,14 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Nova questão CESGRANRIO de texto diferente, evitando repetição; abordar assunto com explicação só dos erros.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO4-PT-ING-20261116",
+        "correct": true,
+        "questionId": "BLOCO4-PT-ING-20261116-Q04",
+        "note": "Partícula se correta, reteste 21/11."
+      }
     },
     {
       "id": "REV-CE-20261114-QTI30-012-D3",
@@ -4068,6 +4131,66 @@
       "prioridade": "alta",
       "status": "PENDENTE",
       "plano": "Nova questão com evento diferente e valores novos. Não antecipar gabarito. Exponencial sem memória, média 4000h: probabilidade de operar por mais 2000h é e^-0,5=60,65%; B corresponde à chance de falhar.",
+      "createdFromStudyDate": "2026-11-16",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261116-BLOCO4-ING-Q06-D3",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inferência inglesa — alternativa contradiz texto explícito",
+      "motivo": "Erro recorrente Q06 do Bloco 4 16/11 (Inglês 3/5)",
+      "origemResultado": "BLOCO4-PT-ING-20261116",
+      "agendadaPara": "2026-11-19",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Contradição de dado explícito: observar negações, advérbios absolutos, timestamps e alertas não exibidos; texto novo; 2 questões sem gabarito.",
+      "createdFromStudyDate": "2026-11-16",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261116-BLOCO4-ING-Q06-SAT",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Inferência inglesa — alternativa contradiz texto explícito",
+      "motivo": "Erro recorrente Q06 do Bloco 4 16/11 (Inglês 3/5)",
+      "origemResultado": "BLOCO4-PT-ING-20261116",
+      "agendadaPara": "2026-11-21",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Contradição de dado explícito: observar negações, advérbios absolutos, timestamps e alertas não exibidos; texto novo; 2 questões sem gabarito.",
+      "createdFromStudyDate": "2026-11-16",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261116-BLOCO4-ING-Q07-D3",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Expressões figuradas inglesas — literal versus idiomático",
+      "motivo": "Erro recorrente Q07 do Bloco 4 16/11 (Inglês 3/5)",
+      "origemResultado": "BLOCO4-PT-ING-20261116",
+      "agendadaPara": "2026-11-19",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Figurative language similar a 'until I lose my voice'; contextualizar sem repetir o exemplo original; 2 questões novas, sem gabarito.",
+      "createdFromStudyDate": "2026-11-16",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-CE-20261116-BLOCO4-ING-Q07-SAT",
+      "unitId": "INGLES",
+      "editalItem": "INGLES",
+      "materia": "Língua Inglesa",
+      "topico": "Expressões figuradas inglesas — literal versus idiomático",
+      "motivo": "Erro recorrente Q07 do Bloco 4 16/11 (Inglês 3/5)",
+      "origemResultado": "BLOCO4-PT-ING-20261116",
+      "agendadaPara": "2026-11-21",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Figurative language similar a 'until I lose my voice'; contextualizar sem repetir o exemplo original; 2 questões novas, sem gabarito.",
       "createdFromStudyDate": "2026-11-16",
       "cadernoErros": "qti/CADERNO_ERROS.md"
     }
