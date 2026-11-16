@@ -9028,6 +9028,83 @@
         }
       ],
       "observacao": "Três blocos com correção entre eles; 6/10+9/10+9/10. Sem tempo líquido aferido; separar do fechamento das cinco baterias do mesmo dia."
+    },
+    {
+      "id": "QTI6-RECUPERACAO-QTI30-20261116",
+      "data": "2026-11-16",
+      "tipo": "REPARO_IMEDIATO_AUTORAL",
+      "titulo": "QTI-6 — seis conceitos errados no QTI-30",
+      "totalQuestoes": 6,
+      "totalValidas": 6,
+      "acertos": 2,
+      "erros": 4,
+      "percentual": 33.3,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO_SEM_ORIGINAL",
+      "sourceFile": "qti/QTI6_RECUPERACAO_QTI30_2026-11-16.md",
+      "editalItem": "1.1_2.2_3.4_5.3_4.2_1.3",
+      "itensErrados": [
+        {
+          "question": 1,
+          "item": "1.1",
+          "topic": "Exatamente um evento vs união",
+          "resposta": "B",
+          "gabarito": "D"
+        },
+        {
+          "question": 3,
+          "item": "3.4",
+          "topic": "Função transferência: filtro passa-baixas",
+          "resposta": "A",
+          "gabarito": "C"
+        },
+        {
+          "question": 5,
+          "item": "4.2",
+          "topic": "Paridade bidimensional com dois bits errados",
+          "resposta": "A",
+          "gabarito": "B"
+        },
+        {
+          "question": 6,
+          "item": "1.3",
+          "topic": "Ruído branco: densidade espectral de potência",
+          "resposta": "B",
+          "gabarito": "A"
+        }
+      ],
+      "respostas": [
+        {
+          "q": 1,
+          "resposta": "B",
+          "gabarito": "D"
+        },
+        {
+          "q": 2,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 3,
+          "resposta": "A",
+          "gabarito": "C"
+        },
+        {
+          "q": 4,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 5,
+          "resposta": "A",
+          "gabarito": "B"
+        },
+        {
+          "q": 6,
+          "resposta": "B",
+          "gabarito": "A"
+        }
+      ],
+      "observacao": "Fixação imediata após QTI-30; 2 acertos em Dirac e H.323; 4 erros/reincidências em eventos, filtro, paridade 2D e espectro ruído. Não comprova retenção; revisão posterior obrigatória."
     }
   ],
   "updatedAt": "2026-11-16"
