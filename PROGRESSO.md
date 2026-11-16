@@ -706,3 +706,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 ### 16/11/2026 — Revisão diagnóstica dos erros do simulado 15/11
 
 **9/9 (100%)** em novo conjunto autoral cobrindo Q04, Q05, Q27, Q48, Q50, Q53, Q58, Q61 e Q63. [Relatório da rodada](qti/REVISAO_9_ERROS_SIMULADO_2026-11-16.md). Nenhuma questão dupla de correção foi acionada nesta rodada, pois todas foram acertadas. Não declarar retenção consolidada; reforço de **convolução e polos** continua prioritário pelas dificuldades vistas em outros exercícios da manhã. D3: 18/11; revisão semanal: 21/11.
+
+
+### 16/11/2026 — Reforço de frações parciais
+
+- Recuperação focada da Q61: o usuário pediu demonstração de \(18/[s(s+3)]=6/s−6/(s+3)\), depois respondeu corretamente a nova fixação \(24/[s(s+4)]\) com A=6 e B=−6 (alternativa D).
+- **1/1 acerto em reforço**, separado dos 9/9 no diagnóstico e do 61/70 no simulado. A revisão D3 **18/11** permanece aberta; próxima dificuldade a testar: numerador com \(s\).
+- [Relatório da recuperação](qti/RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md).

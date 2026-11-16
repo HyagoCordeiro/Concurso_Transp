@@ -24935,6 +24935,24 @@
       "lastSessionId": "REV9-20261116-ERROS-SIM70",
       "sourceFile": "qti/REVISAO_9_ERROS_SIMULADO_2026-11-16.md",
       "note": "Novo enunciado respondido corretamente, não repetir literalmente; caderno de erros permanece ativo."
+    },
+    {
+      "id": "FIX-LAPLACE-FRACOES-20261116-Q01",
+      "canonicalId": "AUTORAL-FIX-LAPLACE-FRACOES-20261116-Q01",
+      "unitId": "3.1",
+      "editalItem": "3",
+      "topic": "Frações parciais Y(s)=24/[s(s+4)] e resposta ao degrau",
+      "sourceType": "AUTORAL_REPARO_IMEDIATO",
+      "lastSeenAt": "2026-11-16",
+      "lastResult": "CORRETA",
+      "resposta": "D",
+      "gabarito": "D",
+      "cooldownDays": 3,
+      "nextEligibleAt": "2026-11-19",
+      "eligibleNow": false,
+      "lastSessionId": "FIX-LAPLACE-FRACOES-20261116",
+      "sourceFile": "qti/RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md",
+      "note": "A=6, B=-6. Reparo após explicação; não constitui reteste espaçado nem deve entrar no placar principal."
     }
   ],
   "portuguesePolicy": {

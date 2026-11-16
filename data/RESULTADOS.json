@@ -8589,6 +8589,22 @@
       "sourceFile": "qti/REVISAO_9_ERROS_SIMULADO_2026-11-16.md",
       "itensErrados": [],
       "observacao": "9/9 em novos enunciados; Q04 e Q48 originalmente eram apenas erros de passagem ao cartão. Na mesma sessão houve anteriormente dificuldades com convolução e polos; manter retestes D3 e sábado, não consolidar por um único bloco."
+    },
+    {
+      "id": "FIX-LAPLACE-FRACOES-20261116",
+      "data": "2026-11-16",
+      "tipo": "FIXACAO_AUTORAL",
+      "titulo": "Recuperação de frações parciais e resposta ao degrau — Q61",
+      "totalQuestoes": 1,
+      "totalValidas": 1,
+      "acertos": 1,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "QUESTAO_AUTORAL_APOS_EXPLICACAO",
+      "sourceFile": "qti/RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md",
+      "editalItem": "3.1",
+      "itensErrados": [],
+      "observacao": "Y(s)=24/[s(s+4)]; marcou D; A=6 e B=-6 corretos. Evidência de reparo imediato, não retenção D3; não somar a resultado do simulado de 15/11."
     }
   ],
   "updatedAt": "2026-11-16"

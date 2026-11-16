@@ -3851,14 +3851,14 @@
       "agendadaPara": "2026-11-18",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Frações parciais 4/[s(s+4)]=1/s−1/(s+4).",
+      "plano": "Reteste novo com numerador em s e resposta ao degrau. Comparar com fixação anterior; não confundir 6/s - 6/(s+a) com subtração numérica.",
       "createdFromStudyDate": "2026-11-15",
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "latestEvidence": {
         "date": "2026-11-16",
-        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "sessionId": "FIX-LAPLACE-FRACOES-20261116",
         "correct": true,
-        "note": "Reteste no D1 correto; D3 ainda pendente."
+        "note": "Acerto 1/1 na decomposição Y=24/[s(s+4)], A=6, B=-6, após explicação. Reteste D3 pendente."
       }
     },
     {

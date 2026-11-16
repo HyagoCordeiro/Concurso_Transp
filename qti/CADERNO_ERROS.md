@@ -224,3 +224,8 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 ## 16/11/2026 — Reteste dos 9 itens de 15/11
 
 **9/9 corretas** em enunciados novos: Q04=C, Q05=A, Q27=D, Q48=B, Q50=E, Q53=A, Q58=C, Q61=D, Q63=B. Resultado [registrado aqui](REVISAO_9_ERROS_SIMULADO_2026-11-16.md). Os 9 erros originais permanecem historicamente documentados, inclusive os 2 de transcrição (Q04/Q48). **Não dar baixa em D3/21-11**: convolução e polos foram instáveis em outros exercícios de hoje.
+
+
+### 16/11/2026 — Recuperação dirigida de frações parciais (erro Q61)
+
+**1/1 correta** em fixação autoral: \(Y(s)=24/[s(s+4)]\), alternativa **D**, \(A=6\), \(B=-6\). Dúvida original: por que \(18/[s(s+3)]=6/s-6/(s+3)\); esclarecido pelo método de s=0 e s=−3 e por recombinação em denominador comum. **Evidência de reparo imediato**, sem baixa no D3 de **18/11**. [Relatório detalhado](RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md).

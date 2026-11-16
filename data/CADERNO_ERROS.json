@@ -2570,10 +2570,10 @@
       "respostaRascunho": "E",
       "gabarito": "A",
       "errorType": "LAPLACE_DEGRAU_GANHO",
-      "status": "RETESTE_ESPACADO",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Frações parciais 4/[s(s+4)]=1/s−1/(s+4).",
       "diagnosticoDeclarado": "Montou Y=4/[s(s+4)], mas não via destino do 4; fixação 61A C correta.",
-      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
+      "proxAcao": "Revisão D3 em 18/11: decomposição com numerador contendo s e distinção impulso/degrau, sem gabarito antecipado.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [
@@ -2590,6 +2590,13 @@
           "questionId": "REV9-20261116-ERROS-SIM70-Q61",
           "result": "CORRETA",
           "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FIX-LAPLACE-FRACOES-20261116",
+          "questionId": "FIX-LAPLACE-FRACOES-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Nova fixação dirigida com frações parciais Y=24/[s(s+4)]: escolheu D (A=+6,B=-6). Acerto após explicação; ainda não é comprovação de retenção."
         }
       ],
       "retentionVerified": false,
