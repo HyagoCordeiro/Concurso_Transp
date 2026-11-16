@@ -1029,7 +1029,7 @@
     {
       "id": "CE-20261113-008",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-13",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q01",
       "unitId": "7.2",
@@ -1037,10 +1037,10 @@
       "respostaEscolhida": "C",
       "gabarito": "D",
       "errorType": "DECIBEIS_CN_BANDA_QUADRUPLICADA",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "N=kTB; B×4 ⇒ N+6,02dB e C/N−6,02dB. De 18dB para ≈12dB.",
-      "proxAcao": "Acertou quatro variações de C/N após explicação; reteste sem pistas D3 em 16/11, D7 20/11, D21 04/12.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
+      "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-003",
       "retestEvidence": [
@@ -1078,6 +1078,13 @@
           "questionId": "DIA-20261113-CN-REPARO4-Q04",
           "result": "CORRETA",
           "note": "Quatro acertos em bateria de C/N independente dentro do reforço."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q03",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "retentionVerified": false
@@ -1085,7 +1092,7 @@
     {
       "id": "CE-20261113-009",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q04",
       "unitId": "6.1",
@@ -1093,10 +1100,10 @@
       "respostaEscolhida": "D",
       "gabarito": "C",
       "errorType": "DECIBEIS_GANHO_PARABOLICA_DIAMETRO_TRIPLO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "G∝D²f²; D×3 (f e η fixos) ⇒ G×9 = +20log10(3)≈+9,54dB; 28dBi→37,5dBi.",
-      "proxAcao": "Micro-reparo 2 questões distinguindo dobro/triplo de f e D e aumento absoluto em dBi.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
+      "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-004",
       "retestEvidence": [
@@ -1127,6 +1134,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q01",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "retentionVerified": false,
@@ -1191,9 +1205,9 @@
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "id": "CE-20261113-011",
       "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
@@ -1203,9 +1217,9 @@
       "respostaEscolhida": "A",
       "gabarito": "C",
       "errorType": "DECIBEIS_SINAL_CN_BANDA_DIMINUI",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "N=kTB; B÷4 provoca N÷4 ⇒ C/N aumenta 10log10(4)≈6,02dB.",
-      "proxAcao": "4/4 de C/N acertadas após esclarecimento; reteste espaçado sem fórmula D3 16/11.",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
       "relatedErrorId": "CE-20261113-008",
       "retestEvidence": [
         {
@@ -1238,15 +1252,22 @@
           "questionId": "REV-ERROS-20261114-BF-Q02",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: C/N banda. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q03",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "id": "CE-20261113-012",
       "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
@@ -1256,9 +1277,9 @@
       "respostaEscolhida": "C",
       "gabarito": "B",
       "errorType": "PARABOLICA_DIAMETRO_EFICIENCIA",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "G∝ηD²f²; D×2 e η÷2 ⇒ G×2 (+3dB); não +6dB.",
-      "proxAcao": "Reparou parcialmente com diâmetro×2 e eficiência÷4; reteste espaçado novo enunciado.",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
       "relatedErrorId": "CE-20261113-009",
       "retestEvidence": [
         {
@@ -1273,6 +1294,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q01",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q02",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1365,9 +1393,9 @@
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "id": "CE-20261113-015",
       "sourceResultId": "DIA-20261113-ANTENA-REPARO2",
@@ -1377,9 +1405,9 @@
       "respostaEscolhida": "D",
       "gabarito": "C",
       "errorType": "PERCENTUAL_VARIACAO_DIAMETRO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "D aumenta 50% ⇒ Dnovo=1,5D, ganho linear×(1,5)² ⇒ +20log10(1,5)=3,52 dB (27→30,5 dBi).",
-      "proxAcao": "Rever fator 1,5 versus 2 em variações percentuais; reteste D3 16/11.",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
       "relatedErrorId": "CE-20261113-009",
       "retestEvidence": [
         {
@@ -1388,6 +1416,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q01",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Ganho parabólica. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1423,9 +1458,9 @@
     {
       "id": "CE-20261113-017",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q06",
@@ -1434,9 +1469,9 @@
       "respostaEscolhida": "B",
       "gabarito": "C",
       "errorType": "FRESNEL_FOLGA_PERCENTUAL",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "f=6 GHz -> lambda=0,05 m; r1=raiz(50)=7,07 m; 60%=4,24 m",
-      "proxAcao": "Refazer cálculo de raio e folga em frequências/distâncias novas; Q27 correta no mesmo simulado.",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1451,6 +1486,13 @@
           "questionId": "REV-ERROS-20261114-RF-Q01",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fresnel 60%. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q05",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1570,9 +1612,9 @@
     {
       "id": "CE-20261113-022",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q45",
@@ -1581,9 +1623,9 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "EIRP_DBW_PARA_W",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "10W=10 dBW; EIRP=20 dBW=100W (20 dBW não equivale a 20W)",
-      "proxAcao": "Treinar conversão W,dBW,dBm, ganho/perda em dB e comparação de unidades.",
+      "proxAcao": "Reteste da família em novo enunciado no caderno de erros semanal 21/11",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1598,6 +1640,13 @@
           "questionId": "REV-ERROS-20261114-RF-Q02",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: EIRP. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "ANT-RAD-D3-20261116",
+          "questionId": "ANT-RAD-D3-20261116-Q04",
+          "result": "CORRETA",
+          "note": "Nova questão com valores alterados; revisão sábado 21/11 pendente."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
