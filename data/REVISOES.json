@@ -2497,10 +2497,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Após reparo imediato de a0 (2/2 em 13/11), retestar em novo contexto sem ajuda para confirmar retenção, distinguindo média e a0.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q01 5/5 no bloco Fourier, a0=14/5, média distinta a0. Revisão sábado 21/11 continua."
+      }
     },
     {
       "id": "REV-CE-20261113-010-D7",
@@ -2644,10 +2650,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-REFORCO6",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Após reparo imediato de a0 (2/2 em 13/11), retestar em novo contexto sem ajuda para confirmar retenção, distinguindo média e a0.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q01 5/5 no bloco Fourier, a0=14/5, média distinta a0. Revisão sábado 21/11 continua."
+      }
     },
     {
       "id": "REV-CE-20261113-013-D7",
@@ -2689,10 +2701,16 @@
       "origemResultado": "DIA-20261113-BLOCO5-REFORCO6",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Após reparo imediato de a0 (2/2 em 13/11), retestar em novo contexto sem ajuda para confirmar retenção, distinguindo média e a0.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q01 5/5 no bloco Fourier, a0=14/5, média distinta a0. Revisão sábado 21/11 continua."
+      }
     },
     {
       "id": "REV-CE-20261113-014-D7",
@@ -3400,7 +3418,13 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Reteste inédito sobre propriedade de Fourier, sem gabarito antecipado e com antirrepetição; reforço quando solicitado",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q02 acerto de deslocamento temporal, mas não compara derivada; manter D3 em 17/11."
+      }
     },
     {
       "id": "REV-CE-20261114-QTI30-012-SAT",
@@ -3610,7 +3634,13 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Reteste com nova questão, sem gabarito antecipado; correção apenas dos erros; não atribuir retenção por explicação anterior.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q03 acerto em escala temporal e atraso; revisão D3 em 17/11 segue pendente."
+      }
     },
     {
       "id": "REV-QTI50-20261114-Q32-SAT",
@@ -3700,7 +3730,13 @@
       "status": "PENDENTE",
       "createdFromStudyDate": "2026-11-14",
       "plano": "Reteste com nova questão, sem gabarito antecipado; correção apenas dos erros; não atribuir retenção por explicação anterior.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "FOURIER-D3-20261116",
+        "correct": true,
+        "note": "Q04 acerto em Parseval; revisão D3 em 17/11 segue pendente."
+      }
     },
     {
       "id": "REV-QTI50-20261114-Q42-SAT",
