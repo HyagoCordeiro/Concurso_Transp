@@ -8574,7 +8574,22 @@
         "61A"
       ],
       "observacao": "61/70 no cartão; 63/70 no rascunho. 7 erros de conhecimento/representação e 2 transcrições. Não somar 4/4 fixações à prova."
+    },
+    {
+      "id": "REV9-20261116-ERROS-SIM70",
+      "data": "2026-11-16",
+      "tipo": "REVISAO_DIAGNOSTICA",
+      "titulo": "Reteste antecipado dos 9 itens do simulado 15/11",
+      "totalQuestoes": 9,
+      "totalValidas": 9,
+      "acertos": 9,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/REVISAO_9_ERROS_SIMULADO_2026-11-16.md",
+      "itensErrados": [],
+      "observacao": "9/9 em novos enunciados; Q04 e Q48 originalmente eram apenas erros de passagem ao cartão. Na mesma sessão houve anteriormente dificuldades com convolução e polos; manter retestes D3 e sábado, não consolidar por um único bloco."
     }
   ],
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
 }

@@ -701,3 +701,8 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Sete erros não administrativos: **05, 27, 50, 53, 58, 61, 63**; fixações **27A/53A/58A/61A: 4/4**, retenção ainda pendente. Q63 afetada por legibilidade da imagem.
 - Priorizar Laplace e sistemas LIT, convolução, DEP de Wiener-Khinchin, Fresnel e interpretação de conectores. **D3: 18/11; sábado 21/11:** caderno de erros e cartão-resposta.
 - [Relatório completo](qti/SIMULADO_INTEGRAL_70_2026-11-15.md) · [70 respostas + anti-repetição](qti/SIMULADO_INTEGRAL_70_2026-11-15.json).
+
+
+### 16/11/2026 — Revisão diagnóstica dos erros do simulado 15/11
+
+**9/9 (100%)** em novo conjunto autoral cobrindo Q04, Q05, Q27, Q48, Q50, Q53, Q58, Q61 e Q63. [Relatório da rodada](qti/REVISAO_9_ERROS_SIMULADO_2026-11-16.md). Nenhuma questão dupla de correção foi acionada nesta rodada, pois todas foram acertadas. Não declarar retenção consolidada; reforço de **convolução e polos** continua prioritário pelas dificuldades vistas em outros exercícios da manhã. D3: 18/11; revisão semanal: 21/11.

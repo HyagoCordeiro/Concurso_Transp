@@ -219,3 +219,8 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 **Revisão D3:** 17/11/2026; **revisão de sábado:** 21/11/2026, com questões novas, não as mesmas perguntas. Priorizar Matemática Aplicada a Sinais (0/3) e Radiopropagação (1/3), que concentraram 5 dos 12 erros. A correção dos itens não encerra automaticamente pendências anteriores.
 
 [Relatório e gabarito](QTI50_2026-11-14_NOTURNO.md).
+
+
+## 16/11/2026 — Reteste dos 9 itens de 15/11
+
+**9/9 corretas** em enunciados novos: Q04=C, Q05=A, Q27=D, Q48=B, Q50=E, Q53=A, Q58=C, Q61=D, Q63=B. Resultado [registrado aqui](REVISAO_9_ERROS_SIMULADO_2026-11-16.md). Os 9 erros originais permanecem historicamente documentados, inclusive os 2 de transcrição (Q04/Q48). **Não dar baixa em D3/21-11**: convolução e polos foram instáveis em outros exercícios de hoje.

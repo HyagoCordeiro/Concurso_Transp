@@ -3748,7 +3748,13 @@
       "status": "PENDENTE",
       "plano": "Contudo, entretanto, porém = contraste; portanto, logo, por conseguinte = conclusão.",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q27",
@@ -3763,7 +3769,13 @@
       "status": "PENDENTE",
       "plano": "Rxx=A exp(-a|tau|) => Sxx=2Aa/(a²+w²).",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q50",
@@ -3778,7 +3790,13 @@
       "status": "PENDENTE",
       "plano": "Parâmetro knife-edge v=0 implica cerca de 6 dB de perda.",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q53",
@@ -3793,7 +3811,13 @@
       "status": "PENDENTE",
       "plano": "Fatorar s²+3s+2=(s+1)(s+2), cancelar s+2, obter h=e^-t u(t).",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q58",
@@ -3808,7 +3832,13 @@
       "status": "PENDENTE",
       "plano": "Convolução de dois pulsos unitários é área de sobreposição; t=2,5 gera 2.",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q61",
@@ -3823,7 +3853,13 @@
       "status": "PENDENTE",
       "plano": "Frações parciais 4/[s(s+4)]=1/s−1/(s+4).",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-Q63",
@@ -3838,7 +3874,13 @@
       "status": "PENDENTE",
       "plano": "Polos -2±j3 geram e^-2t(A cos3t+B sen3t), amortecida. Retestar com figura clara.",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": true,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     },
     {
       "id": "REV-SIM70-20261115-INTEGRAL-CARTAO",
@@ -3853,10 +3895,16 @@
       "status": "PENDENTE",
       "plano": "Passar dez respostas para gabarito com dupla checagem número-letra; conferir no final.",
       "createdFromStudyDate": "2026-11-15",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "REV9-20261116-ERROS-SIM70",
+        "correct": false,
+        "note": "Reteste no D1 correto; D3 ainda pendente."
+      }
     }
   ],
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "weeklySaturdayReview": {
     "weekday": "SATURDAY",
     "period": "MORNING",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "purpose": "Caderno persistente de erros e lacunas do projeto CESGRANRIO Telecom; primeiro lote migrado com segurança do histórico 12/11; registros anteriores continuam em data/REVISOES.json e qti históricos.",
   "statusValues": [
     "NOVO_CONTEUDO_A_ENSINAR",
@@ -2330,7 +2330,7 @@
     {
       "id": "CE-20261115-SIM70-Q04",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q04",
       "unitId": "PT",
@@ -2339,20 +2339,28 @@
       "respostaRascunho": "C",
       "gabarito": "C",
       "errorType": "TRANSCRICAO_CARTAO",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Conferência cruzada questão e letra no cartão.",
       "diagnosticoDeclarado": "Rascunho C correto; cartão E.",
-      "proxAcao": "Treinar passagem para cartão com dupla checagem",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q04",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": true
     },
     {
       "id": "CE-20261115-SIM70-Q05",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q05",
       "unitId": "PT",
@@ -2361,20 +2369,28 @@
       "respostaRascunho": "A",
       "gabarito": "E",
       "errorType": "CONEXAO_SEMANTICA",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Contudo, entretanto, porém = contraste; portanto, logo, por conseguinte = conclusão.",
       "diagnosticoDeclarado": "Interpretou contudo como conclusão, não contraste.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q05",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     },
     {
       "id": "CE-20261115-SIM70-Q27",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q27",
       "unitId": "1.3",
@@ -2383,10 +2399,10 @@
       "respostaRascunho": "C",
       "gabarito": "D",
       "errorType": "PROCEDIMENTO_WIENER_KHINCHIN",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Rxx=A exp(-a|tau|) => Sxx=2Aa/(a²+w²).",
       "diagnosticoDeclarado": "Marcou C por eliminação; não desenvolveu a transformada; fixação 27A E correta.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [
@@ -2396,6 +2412,13 @@
           "questionId": "FIXACAO-2026-11-15-27A",
           "result": "CORRETA",
           "note": "Reparo imediato; retenção pendente."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q27",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
         }
       ],
       "retentionVerified": false,
@@ -2404,7 +2427,7 @@
     {
       "id": "CE-20261115-SIM70-Q48",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q48",
       "unitId": "8.3",
@@ -2413,20 +2436,28 @@
       "respostaRascunho": "E",
       "gabarito": "E",
       "errorType": "TRANSCRICAO_CARTAO",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Conferência do cartão; não repetir teoria C/N sem necessidade.",
       "diagnosticoDeclarado": "Rascunho E correto; cartão D.",
-      "proxAcao": "Treinar passagem para cartão com dupla checagem",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q48",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": true
     },
     {
       "id": "CE-20261115-SIM70-Q50",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q50",
       "unitId": "7.1",
@@ -2435,20 +2466,28 @@
       "respostaRascunho": "B",
       "gabarito": "E",
       "errorType": "INTERPRETACAO_FRESNEL",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Parâmetro knife-edge v=0 implica cerca de 6 dB de perda.",
       "diagnosticoDeclarado": "Supôs perda zero por obstáculo não bloquear além da linha de visada.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q50",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     },
     {
       "id": "CE-20261115-SIM70-Q53",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q53",
       "unitId": "3.1",
@@ -2457,10 +2496,10 @@
       "respostaRascunho": "B",
       "gabarito": "A",
       "errorType": "ALGEBRA_LAPLACE",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Fatorar s²+3s+2=(s+1)(s+2), cancelar s+2, obter h=e^-t u(t).",
       "diagnosticoDeclarado": "Tentou separar s/(s+1)+2/(s+2); fixação 53A C correta.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [
@@ -2470,6 +2509,13 @@
           "questionId": "FIXACAO-2026-11-15-53A",
           "result": "CORRETA",
           "note": "Reparo imediato; retenção pendente."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q53",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
         }
       ],
       "retentionVerified": false,
@@ -2478,7 +2524,7 @@
     {
       "id": "CE-20261115-SIM70-Q58",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q58",
       "unitId": "2.4",
@@ -2487,10 +2533,10 @@
       "respostaRascunho": "C",
       "gabarito": "E",
       "errorType": "INTERPRETACAO_CONVOLUCAO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Convolução de dois pulsos unitários é área de sobreposição; t=2,5 gera 2.",
       "diagnosticoDeclarado": "Tentou avaliar degrau isolado; fixação 58A C correta.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Novo reteste sem pistas após intervalo e na revisão semanal",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [
@@ -2500,6 +2546,13 @@
           "questionId": "FIXACAO-2026-11-15-58A",
           "result": "CORRETA",
           "note": "Reparo imediato; retenção pendente."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q58",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
         }
       ],
       "retentionVerified": false,
@@ -2508,7 +2561,7 @@
     {
       "id": "CE-20261115-SIM70-Q61",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q61",
       "unitId": "3.1",
@@ -2517,10 +2570,10 @@
       "respostaRascunho": "E",
       "gabarito": "A",
       "errorType": "LAPLACE_DEGRAU_GANHO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Frações parciais 4/[s(s+4)]=1/s−1/(s+4).",
       "diagnosticoDeclarado": "Montou Y=4/[s(s+4)], mas não via destino do 4; fixação 61A C correta.",
-      "proxAcao": "Reteste com valores ou enunciado inédito estilo CESGRANRIO e sem gabarito antecipado",
+      "proxAcao": "Reteste programado no D3 18/11 sem antecipar gabarito.",
       "dueAt": "2026-11-18",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
       "retestEvidence": [
@@ -2530,6 +2583,13 @@
           "questionId": "FIXACAO-2026-11-15-61A",
           "result": "CORRETA",
           "note": "Reparo imediato; retenção pendente."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q61",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
         }
       ],
       "retentionVerified": false,
@@ -2538,7 +2598,7 @@
     {
       "id": "CE-20261115-SIM70-Q63",
       "firstSeenAt": "2026-11-15",
-      "lastReviewedAt": "2026-11-15",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "SIM70-20261115-INTEGRAL",
       "sourceQuestionId": "SIM70-20261115-INTEGRAL-Q63",
       "unitId": "3.1",
@@ -2547,13 +2607,21 @@
       "respostaRascunho": "D",
       "gabarito": "A",
       "errorType": "LEITURA_GRAFICA_MATERIAL",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Polos -2±j3 geram e^-2t(A cos3t+B sen3t), amortecida. Retestar com figura clara.",
       "diagnosticoDeclarado": "Figura de polos pouco legível; interpretou como curva senoidal de amplitude constante.",
-      "proxAcao": "Reteste com figura nítida",
+      "proxAcao": "Novo reteste sem pistas após intervalo e na revisão semanal",
       "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "REV9-20261116-ERROS-SIM70",
+          "questionId": "REV9-20261116-ERROS-SIM70-Q63",
+          "result": "CORRETA",
+          "note": "Nova questão autoral aplicada um dia depois; acerto independente, ainda antes do D3. Retenção consolidada não declarada."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false
     }
