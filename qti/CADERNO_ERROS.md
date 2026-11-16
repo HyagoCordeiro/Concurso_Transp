@@ -237,3 +237,11 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - Q3 Poisson ≥2: B/A; marcou complemento P(X≤1).
 - Q4 exponencial sem memória: B/C; selecionou probabilidade de falhar, e foi pedida sobrevida adicional.
 - **3 pendências abertas**, reteste 19/11 e sábado 21/11; usuário avançou para Antenas/Radiopropagação sem realizar as seis fixações sugeridas. [Registro](PROBABILIDADE_D3_2026-11-16.md).
+
+
+### 16/11/2026 — Fourier D3 (5/5)
+
+- Questões Q01–Q05, **B D E A C**, todas corretas: a0, deslocamento, escala+atraso, Parseval e X(0).
+- Reteste D3 das dificuldades em a0 de 13/11 concluído; **não declarar retenção definitiva** antes da revisão semanal em 21/11.
+- Q02 testou atraso, mas **não derivada temporal**. D3 do erro de 14/11 em derivada/atraso segue **17/11**. Também manter D3 de escala+atraso e Parseval de 14/11 em 17/11, apesar do acerto antecipado de hoje.
+- Nenhum novo erro. [Relatório](FOURIER_D3_2026-11-16.md).
