@@ -1,0 +1,163 @@
+{
+  "sessionId": "BLOCO5-TEC-D3-20261116",
+  "dateLocal": "2026-11-16",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+  "total": 8,
+  "correct": 8,
+  "wrong": 0,
+  "antiRepeatPolicy": "Não repetir enunciado nem mesmos valores. Substituir por questões autorais genuinamente novas ou originais elegíveis, com controle de cooldown.",
+  "questions": [
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q01",
+      "n": 1,
+      "item": "12.3",
+      "topic": "SDH quadro STM-4",
+      "stem": "Um sistema SDH utiliza quadros STM-4. Considerando a organização matricial padronizada desse sinal, o quadro STM-4 possui",
+      "options": {
+        "A": "36 linhas e 270 colunas",
+        "B": "9 linhas e 1.080 colunas",
+        "C": "9 linhas e 270 colunas",
+        "D": "9 linhas e 4.320 colunas",
+        "E": "18 linhas e 540 colunas"
+      },
+      "answer": "B",
+      "key": "B",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q02",
+      "n": 2,
+      "item": "12.3",
+      "topic": "SDH taxa STM-16",
+      "stem": "Uma operadora pretende utilizar um enlace SDH com capacidade de transmissão STM-16. A taxa bruta nominal desse sinal é, aproximadamente,",
+      "options": {
+        "A": "155,52 Mbit/s",
+        "B": "622,08 Mbit/s",
+        "C": "1,244 Gbit/s",
+        "D": "2,488 Gbit/s",
+        "E": "9,953 Gbit/s"
+      },
+      "answer": "D",
+      "key": "D",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q03",
+      "n": 3,
+      "item": "5.2",
+      "topic": "E1 PCM, TS0 e TS16 CAS, cinco enlaces",
+      "stem": "Uma central telefônica utiliza cinco enlaces E1 independentes, todos configurados para telefonia PCM com sinalização CAS. Em cada enlace, o TS0 é reservado ao enquadramento e o TS16 à sinalização. Considerando os demais intervalos disponíveis para voz, o número total de canais telefônicos simultâneos é",
+      "options": {
+        "A": "150",
+        "B": "155",
+        "C": "160",
+        "D": "120",
+        "E": "145"
+      },
+      "answer": "A",
+      "key": "A",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q04",
+      "n": 4,
+      "item": "5.1",
+      "topic": "Erlang B 2 circuitos 2 Erlangs",
+      "stem": "Uma pequena central de comunicação dispõe de dois circuitos idênticos. O tráfego oferecido é de 2 Erlangs e as chamadas que encontram todos os circuitos ocupados são perdidas, sem fila de espera. Pelo modelo Erlang B, a probabilidade de bloqueio é",
+      "options": {
+        "A": "20%",
+        "B": "33,3%",
+        "C": "50%",
+        "D": "60%",
+        "E": "40%"
+      },
+      "answer": "E",
+      "key": "E",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q05",
+      "n": 5,
+      "item": "5.1",
+      "topic": "Erlang B 3 circuitos 10 chamadas/h de 6 min",
+      "stem": "Um grupo de três circuitos recebe, em média, dez chamadas por hora, com duração média de seis minutos por chamada. As chegadas seguem o modelo de tráfego usual de Erlang B, e chamadas bloqueadas são perdidas. A probabilidade aproximada de bloqueio é",
+      "options": {
+        "A": "12,5%",
+        "B": "20%",
+        "C": "6,25%",
+        "D": "2,5%",
+        "E": "33,3%"
+      },
+      "answer": "C",
+      "key": "C",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q06",
+      "n": 6,
+      "item": "4.1",
+      "topic": "Carson desvio maximo 48kHz modulante 12kHz",
+      "stem": "Um transmissor utiliza modulação FM com desvio máximo de frequência de 48 kHz e frequência máxima do sinal modulante de 12 kHz. Pela regra de Carson, a largura de banda aproximada ocupada pelo sinal modulado é",
+      "options": {
+        "A": "96 kHz",
+        "B": "120 kHz",
+        "C": "72 kHz",
+        "D": "144 kHz",
+        "E": "240 kHz"
+      },
+      "answer": "B",
+      "key": "B",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q07",
+      "n": 7,
+      "item": "10.1",
+      "topic": "802.11e EDCA prioridades AC_VO AC_BK",
+      "stem": "Uma rede Wi-Fi utiliza o mecanismo EDCA para diferenciar o acesso ao meio por classes de tráfego. Considerando a configuração usual dos parâmetros de contenção, é correto afirmar que",
+      "options": {
+        "A": "AC_BE voz, AC_BK vídeo",
+        "B": "AC_VI tem prioridade superior a AC_VO independentemente dos parâmetros",
+        "C": "categorias têm obrigatoriamente mesmos AIFS e janela",
+        "D": "AC_VO é voz e normalmente tem parâmetros favoráveis ante AC_BK",
+        "E": "AC_BK máxima prioridade"
+      },
+      "answer": "D",
+      "key": "D",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    },
+    {
+      "id": "BLOCO5-TEC-D3-20261116-Q08",
+      "n": 8,
+      "item": "10.1",
+      "topic": "EDCA TXOP transmissao multiplos quadros",
+      "stem": "Em uma WLAN com EDCA, uma estação conquista o acesso ao meio e recebe uma oportunidade de transmissão (TXOP). Nesse mecanismo, é correto afirmar que",
+      "options": {
+        "A": "pode transmitir mais de um quadro na oportunidade dentro das regras e limites",
+        "B": "elimina colisões",
+        "C": "EDCA dispensa contenção por agendamento central",
+        "D": "categorias obrigadas TXOP idêntica",
+        "E": "prioridade absoluta permanente"
+      },
+      "answer": "A",
+      "key": "A",
+      "lastSeenAt": "2026-11-16",
+      "nextEligibleAt": "2026-11-19",
+      "lastResult": "CORRETA"
+    }
+  ]
+}
