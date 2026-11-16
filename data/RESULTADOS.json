@@ -8817,6 +8817,217 @@
         }
       ],
       "observacao": "8/8 em novos parâmetros; revisões D3 de SDH, E1, Erlang B, Carson, EDCA concluídas no dia, mantendo D7 e D21. Cinco blocos total 32/37=86,5%, com 3 erros Probabilidade e 2 Inglês. Relatório qti/FECHAMENTO_DIA_2026-11-16.md."
+    },
+    {
+      "id": "QTI30-20261116-MISTO",
+      "data": "2026-11-16",
+      "tipo": "QTI30_TREINO_3_BLOCOS_COM_FEEDBACK",
+      "titulo": "QTI-30 misto: 13 itens de telecomunicações",
+      "totalQuestoes": 30,
+      "totalValidas": 30,
+      "acertos": 24,
+      "erros": 6,
+      "percentual": 80,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
+      "sourceFile": "qti/QTI30_2026-11-16_Fechamento.json",
+      "editalItem": "13_ITENS",
+      "itensErrados": [
+        {
+          "question": 1,
+          "item": "1.1",
+          "topic": "Exatamente um de dois eventos",
+          "resposta": "E",
+          "gabarito": "C"
+        },
+        {
+          "question": 2,
+          "item": "2.2",
+          "topic": "Delta de Dirac e escala",
+          "resposta": "D",
+          "gabarito": "A"
+        },
+        {
+          "question": 3,
+          "item": "3.4",
+          "topic": "Filtro passa-altas H(s)",
+          "resposta": "B",
+          "gabarito": "E"
+        },
+        {
+          "question": 5,
+          "item": "5.3",
+          "topic": "RAS gatekeeper H.323",
+          "resposta": "A",
+          "gabarito": "D"
+        },
+        {
+          "question": 17,
+          "item": "4.2",
+          "topic": "Paridade bidimensional",
+          "resposta": "B",
+          "gabarito": "C"
+        },
+        {
+          "question": 27,
+          "item": "1.3",
+          "topic": "Ruído branco e autocorrelação",
+          "resposta": "A",
+          "gabarito": "D"
+        }
+      ],
+      "respostas": [
+        {
+          "q": 1,
+          "resposta": "E",
+          "gabarito": "C"
+        },
+        {
+          "q": 2,
+          "resposta": "D",
+          "gabarito": "A"
+        },
+        {
+          "q": 3,
+          "resposta": "B",
+          "gabarito": "E"
+        },
+        {
+          "q": 4,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 5,
+          "resposta": "A",
+          "gabarito": "D"
+        },
+        {
+          "q": 6,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 7,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 8,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 9,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 10,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 11,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 12,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 13,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 14,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 15,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 16,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 17,
+          "resposta": "B",
+          "gabarito": "C"
+        },
+        {
+          "q": 18,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 19,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 20,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 21,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 22,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 23,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 24,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 25,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 26,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 27,
+          "resposta": "A",
+          "gabarito": "D"
+        },
+        {
+          "q": 28,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 29,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 30,
+          "resposta": "B",
+          "gabarito": "B"
+        }
+      ],
+      "observacao": "Três blocos com correção entre eles; 6/10+9/10+9/10. Sem tempo líquido aferido; separar do fechamento das cinco baterias do mesmo dia."
     }
   ],
   "updatedAt": "2026-11-16"
