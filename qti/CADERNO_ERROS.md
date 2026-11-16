@@ -255,3 +255,11 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - Inglês Q09 (resilience) e Q10 (responsabilidade coletiva) corretas; retestes 20/11 e 21/11 mantidos conforme o assunto.
 - **Revisões Q06 e Q07:** 2 questões novas por erro, reteste D3 **19/11** e revisão semanal **21/11**. Não dar baixa por explicação.
 - [Relatório](BLOCO4_PT_ING_2026-11-16.md).
+
+
+### 16/11/2026 — Bloco 5 técnico: 8/8 e fechamento do dia
+
+- Nenhum novo erro em SDH STM-N, E1/TS16, Erlang B, Carson ou EDCA/TXOP.
+- **Retestes D3 corretos** vinculados a CE-20261112-002 (EDCA: Q7/8), CE-20261113-016 (Erlang B: Q4/5), CE-20261113-018 (Carson: Q6), CE-20261113-019 (SDH STM-N: Q1/2), CE-20261113-020 (E1 TS16: Q3).
+- Registros históricos preservados; **D7 de EDCA em 19/11**, D7 demais em 20/11, **D21 em 03–04/12**, além da rotina semanal 21/11. Nenhuma pendência técnica antiga deve ser apagada com base em um único reteste.
+- Fechamento de cinco blocos do dia: **32/37 (86,5%)**; cinco erros ainda ativos, sendo **três de Probabilidade e dois de Inglês**. [Bateria](BLOCO5_TECNICO_D3_2026-11-16.md) · [Fechamento](FECHAMENTO_DIA_2026-11-16.md).
