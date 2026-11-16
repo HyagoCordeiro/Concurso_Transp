@@ -8605,6 +8605,50 @@
       "editalItem": "3.1",
       "itensErrados": [],
       "observacao": "Y(s)=24/[s(s+4)]; marcou D; A=6 e B=-6 corretos. Evidência de reparo imediato, não retenção D3; não somar a resultado do simulado de 15/11."
+    },
+    {
+      "id": "QTI-D3-PROB-20261116",
+      "data": "2026-11-16",
+      "tipo": "REVISAO_D3_AUTORAL",
+      "titulo": "Probabilidade — Bayes, Poisson, exponencial, binomial",
+      "totalQuestoes": 7,
+      "totalValidas": 7,
+      "acertos": 4,
+      "erros": 3,
+      "percentual": 57.1,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/PROBABILIDADE_D3_2026-11-16.md",
+      "editalItem": "1.1_1.2",
+      "itensErrados": [
+        {
+          "questionId": "QTI-D3-PROB-20261116-Q02",
+          "unitId": "1.2",
+          "topic": "Poisson: pelo menos uma falha em 2,5 h",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "POISSON_GE1_EXATO_VS_COMPLEMENTO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "QTI-D3-PROB-20261116-Q03",
+          "unitId": "1.2",
+          "topic": "Poisson: pelo menos dois erros",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "POISSON_GE2_COMPL_INVERSO",
+          "retesteNecessario": true
+        },
+        {
+          "questionId": "QTI-D3-PROB-20261116-Q04",
+          "unitId": "1.2",
+          "topic": "Exponencial: sobrevida por intervalo adicional",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "EXP_SOBREVIVENCIA_VS_FALHA",
+          "retesteNecessario": true
+        }
+      ],
+      "observacao": "Erros Q2, Q3 e Q4 mantidos para D3 19/11, sábado 21/11; reparo não realizado (usuário avançou ao bloco 2)."
     }
   ],
   "updatedAt": "2026-11-16"
