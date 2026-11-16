@@ -713,3 +713,7 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Recuperação focada da Q61: o usuário pediu demonstração de \(18/[s(s+3)]=6/s−6/(s+3)\), depois respondeu corretamente a nova fixação \(24/[s(s+4)]\) com A=6 e B=−6 (alternativa D).
 - **1/1 acerto em reforço**, separado dos 9/9 no diagnóstico e do 61/70 no simulado. A revisão D3 **18/11** permanece aberta; próxima dificuldade a testar: numerador com \(s\).
 - [Relatório da recuperação](qti/RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md).
+
+### 16/11/2026 — Probabilidade D3 antes do Bloco 2
+
+**4/7 (57,1%)** na bateria autoral. Erros Q2 (Poisson ≥1, marcou exatamente um), Q3 (Poisson ≥2, marcou P≤1) e Q4 (exponencial, marcou falhar em vez de sobreviver). Q1, Q5, Q6, Q7 corretas. Usuário optou por seguir ao Bloco 2 sem fixações imediatas. **Manter três erros abertos para 19/11 (D3) e 21/11 (sábado)**; novos valores, sem repetir literal. [Relatório](qti/PROBABILIDADE_D3_2026-11-16.md).
