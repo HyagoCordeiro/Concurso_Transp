@@ -85,7 +85,7 @@
     {
       "id": "CE-20261112-002",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "QTI10-20261112-RODADA1",
       "sourceQuestionId": "QTI10-20261112-RODADA1-Q05",
       "unitId": "10.1",
@@ -93,10 +93,10 @@
       "respostaEscolhida": "E",
       "gabarito": "A",
       "errorType": "CONTEUDO_NOVO",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "AC_VO voz > AC_VI vídeo > AC_BE melhor esforço > AC_BK fundo; DCF não é categoria EDCA",
-      "proxAcao": "EDCA ensinado e duas questões acertadas em 13/11; confirmar sem pistas em novo contexto D3 16/11.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Revisão D7 em 2026-11-19 com novo enunciado e sem gabarito antecipado; manter também D21 de 03–04/12.",
+      "dueAt": "2026-11-19",
       "sourceType": "AUTORAL",
       "retestEvidence": [
         {
@@ -147,6 +147,20 @@
           "questionId": "EDCA-ITEM10-20261114-Q05",
           "result": "CORRETA",
           "note": "Acerto no bloco de EDCA (5/5), sem encerramento definitivo do caderno sem reteste espaçado dedicado."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q07",
+          "result": "CORRETA",
+          "note": "EDCA: AC_VO e TXOP; acerto com valores/contexto novos em revisão D3."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q08",
+          "result": "CORRETA",
+          "note": "EDCA: AC_VO e TXOP; acerto com valores/contexto novos em revisão D3."
         }
       ],
       "retentionVerified": false
@@ -1487,9 +1501,9 @@
     {
       "id": "CE-20261113-016",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-20",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q05",
@@ -1498,9 +1512,9 @@
       "respostaEscolhida": "B",
       "gabarito": "E",
       "errorType": "ERLANG_B_FORMULA",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "B(2,1)=(1/2)/(1+1+1/2)=0,20",
-      "proxAcao": "Resolver Erlang B para 2 e 3 canais sem confundir tráfego e bloqueio; Q25/Q44 corretas no mesmo simulado, reteste espaçado necessário.",
+      "proxAcao": "Revisão D7 em 2026-11-20 com novo enunciado e sem gabarito antecipado; manter também D21 de 03–04/12.",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1508,6 +1522,20 @@
           "questionId": "REV-ERROS-20261114-BF-Q03",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Erlang B. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q04",
+          "result": "CORRETA",
+          "note": "Erlang B com n=2, A=2, e n=3, A=1; acerto com valores/contexto novos em revisão D3."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q05",
+          "result": "CORRETA",
+          "note": "Erlang B com n=2, A=2, e n=3, A=1; acerto com valores/contexto novos em revisão D3."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1557,9 +1585,9 @@
     {
       "id": "CE-20261113-018",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-20",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q24",
@@ -1568,9 +1596,9 @@
       "respostaEscolhida": "C",
       "gabarito": "E",
       "errorType": "CARSON_DESVIO_E_FMOD",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "B=2(delta_f+fm)=2(75+15)=180 kHz",
-      "proxAcao": "Treinar expressão de Carson e unidades; Q43 correta no mesmo simulado.",
+      "proxAcao": "Revisão D7 em 2026-11-20 com novo enunciado e sem gabarito antecipado; manter também D21 de 03–04/12.",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1578,6 +1606,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q05",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Carson. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q06",
+          "result": "CORRETA",
+          "note": "Carson Δf 48kHz fm12kHz; acerto com valores/contexto novos em revisão D3."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1585,9 +1620,9 @@
     {
       "id": "CE-20261113-019",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-20",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q28",
@@ -1596,9 +1631,9 @@
       "respostaEscolhida": "E",
       "gabarito": "A",
       "errorType": "SDH_GEOMETRIA_STM",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "STM-N tem 9 linhas e 270N colunas, duração 125 microssegundos",
-      "proxAcao": "Fixar dimensões 9x270N e taxas STM-1/4/16; Q50 correta no mesmo simulado.",
+      "proxAcao": "Revisão D7 em 2026-11-20 com novo enunciado e sem gabarito antecipado; manter também D21 de 03–04/12.",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1606,6 +1641,20 @@
           "questionId": "REV-ERROS-20261114-BF-Q06",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: STM4 frame. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "STM-4 formato 9x1080 e STM16 2,488Gbps; acerto com valores/contexto novos em revisão D3."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q02",
+          "result": "CORRETA",
+          "note": "STM-4 formato 9x1080 e STM16 2,488Gbps; acerto com valores/contexto novos em revisão D3."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1613,9 +1662,9 @@
     {
       "id": "CE-20261113-020",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_ADAPTADA_CESGRANRIO_STYLE",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-20",
       "retentionVerified": false,
       "sourceResultId": "QTI50-20261113-NOTURNO-5X10",
       "sourceQuestionId": "QTI50-20261113-NOTURNO-5X10-Q35",
@@ -1624,9 +1673,9 @@
       "respostaEscolhida": "D",
       "gabarito": "A",
       "errorType": "E1_CONTAGEM_CANAIS",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Um E1 tem 32 TS, 30 úteis: 3x30=90 chamadas",
-      "proxAcao": "Resolver cenários com n tributários E1 e distinguir CAS dos demais usos do TS16.",
+      "proxAcao": "Revisão D7 em 2026-11-20 com novo enunciado e sem gabarito antecipado; manter também D21 de 03–04/12.",
       "retestEvidence": [
         {
           "date": "2026-11-14",
@@ -1634,6 +1683,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q07",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: E1 canais. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "BLOCO5-TEC-D3-20261116",
+          "questionId": "BLOCO5-TEC-D3-20261116-Q03",
+          "result": "CORRETA",
+          "note": "E1 CAS, 5 E1 com 30 canais úteis cada; acerto com valores/contexto novos em revisão D3."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
