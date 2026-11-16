@@ -245,3 +245,13 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - Reteste D3 das dificuldades em a0 de 13/11 concluído; **não declarar retenção definitiva** antes da revisão semanal em 21/11.
 - Q02 testou atraso, mas **não derivada temporal**. D3 do erro de 14/11 em derivada/atraso segue **17/11**. Também manter D3 de escala+atraso e Parseval de 14/11 em 17/11, apesar do acerto antecipado de hoje.
 - Nenhum novo erro. [Relatório](FOURIER_D3_2026-11-16.md).
+
+
+### 16/11/2026 — Bloco 4: Português 5/5, Inglês 3/5
+
+- **Q06 Inglês C/B:** inferência contradiz texto: software não avisava imediatamente sobre leitura desatualizada. Reincidência dos erros CE-20261113-001/003. Novo CE-20261116-BLOCO4-ING-Q06 — **PENDENTE_REPARO**.
+- **Q07 Inglês C/E:** frase figurada *until I lose my voice* = insistir até a exaustão, não perda permanente da voz. Recorrência da dificuldade idiomática da Transpetro 2012 CE-20261114-ING-01. Novo CE-20261116-BLOCO4-ING-Q07 — **PENDENTE_REPARO**.
+- **Português 5/5**: acertos novos em interpretação, concordância, crase, 'se', conectores; retestes históricos do sábado 21/11 permanecem.
+- Inglês Q09 (resilience) e Q10 (responsabilidade coletiva) corretas; retestes 20/11 e 21/11 mantidos conforme o assunto.
+- **Revisões Q06 e Q07:** 2 questões novas por erro, reteste D3 **19/11** e revisão semanal **21/11**. Não dar baixa por explicação.
+- [Relatório](BLOCO4_PT_ING_2026-11-16.md).
