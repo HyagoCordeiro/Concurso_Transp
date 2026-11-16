@@ -734,3 +734,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Evidências positivas de Português e Inglês em novos enunciados não eliminam automaticamente os retestes históricos de 20–21/11.
 - [Relatório detalhado](qti/BLOCO4_PT_ING_2026-11-16.md) · [10 respostas estruturadas](qti/BLOCO4_PT_ING_2026-11-16.json).
 - **Parcial de quatro blocos:** Probabilidade 4/7, Antenas 7/7, Fourier 5/5, Português/Inglês 8/10 = **24/29 (82,8%)**, com cinco erros: três de Probabilidade, dois de Inglês. Próximo bloco: revisão técnica mista (8 questões).
+
+### 16/11/2026 — Bloco 5 técnico 8/8 e fechamento dos cinco blocos
+
+- **Bloco 5: 8/8 (100%)**, respostas B D A E C B D A, todas corretas. Questões autorais inéditas no estilo CESGRANRIO. Conteúdos: STM-4 9×1080, STM-16 2,488 Gbit/s, E1 CAS 5×30=150 canais, Erlang B(2,2)=40% e B(3,1)=6,25%, Carson 2(48+12)=120 kHz, EDCA AC_VO e TXOP.
+- Retestes D3 concluídos para as famílias de erros CE-20261112-002 (EDCA), CE-20261113-016 (Erlang), CE-20261113-018 (Carson), CE-20261113-019 (STM-N) e CE-20261113-020 (E1). **D7 e D21 continuam agendados; sem consolidar definitivamente a retenção.**
+- **Total do cronograma de 16/11 (cinco blocos): 32/37 (86,5%)**. Por bloco: Probabilidade 4/7; Antenas 7/7; Fourier 5/5; Português 5/5 e Inglês 3/5 (8/10); técnica mista 8/8. **Cinco erros:** três de Probabilidade (Poisson ≥1, ≥2 e exponencial sobrevida) e dois de Inglês (inferência e expressão figurada).
+- Revisões de **17/11** QTI50, **18/11** simulado 70, **19/11** Probabilidade/Inglês e EDCA, **20/11** técnicas D7, **21/11** revisão semanal do caderno de erros.
+- [Bloco 5](qti/BLOCO5_TECNICO_D3_2026-11-16.md) · [Fechamento detalhado](qti/FECHAMENTO_DIA_2026-11-16.md). Não agregar a eventuais exercícios do mesmo dia fora destes cinco blocos; duração líquida não aferida.
