@@ -295,3 +295,12 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **Acertos imediatos:** Dirac (Q2, ref. erro QTI30-Q02), H.323/H.245 (Q4, ref. QTI30-Q05). **Revisar em D1/D3**; não dar baixa por acerto no mesmo dia.
 - **Quatro erros ativos:** Q1 (união 75% confundida com exatamente um 55%); Q3 (H(s)=150/(s+150) passa-baixas, marcou passa-altas); Q5 (duas linhas e colunas com erro, paridade detecta mas não localiza univocamente); Q6 (PSD de ruído branco é constante 5, não impulso na origem). Reincidências vinculadas aos CE originais do QTI-30.
 - **Agendamento sugerido:** 17/11 novo contexto, sábado 21/11 revisão semanal; manter D3 19/11 e D21 quando aplicável. Não repetir literalmente enunciados já respondidos.
+
+
+## 16/11/2026 — QTI-10 após recuperação (9/10 = 90%)
+
+[Relatório completo](QTI10_2026-11-16_APOS_RECUPERACAO.md). Questões **autorais**, uma única falha Q02. Respostas: B C A C E A D B E C; gabarito B D A C E A D B E C.
+
+- **Q02 (3.4), C/D: identificação de H(s)=40s/(s²+40s+400).** Passa-faixas: ganho nulo em DC e também para ω→∞, ganho máximo em faixa intermediária (ω=20 rad/s). **Reincidência nº 3** em filtros (QTI30 Q03 e QTI6 Q03). **PENDENTE_REPARO**, reteste D1 17/11, D3 19/11 e sábado 21/11, com ensino de regra/representação nova antes da próxima questão.
+- **Recuperação parcial no mesmo dia:** probabilidade 'exatamente um' (Q01) correta; paridade em dois bits na mesma linha (Q03) correta; ruído branco de média não nula (Q04) correto. Esses acertos **não comprovam retenção espaçada**.
+- **Outros seis acertos:** Carson, Fresnel, MP-BGP RT, SNMPv3 authPriv, STM-4 e PCM. Nenhum outro erro neste bloco.
