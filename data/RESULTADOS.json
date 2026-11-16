@@ -8649,6 +8649,22 @@
         }
       ],
       "observacao": "Erros Q2, Q3 e Q4 mantidos para D3 19/11, sábado 21/11; reparo não realizado (usuário avançou ao bloco 2)."
+    },
+    {
+      "id": "ANT-RAD-D3-20261116",
+      "data": "2026-11-16",
+      "tipo": "REVISAO_D3_AUTORAL",
+      "titulo": "Antenas e Radiopropagação — 7Q",
+      "totalQuestoes": 7,
+      "totalValidas": 7,
+      "acertos": 7,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/ANTENAS_RADIOPROPAGACAO_D3_2026-11-16.md",
+      "editalItem": "6_7",
+      "itensErrados": [],
+      "observacao": "C B E A D A B. Fresnel Q5: D total 6 km, d1=d2=3 km, r1=15m, clearance9m, obstáculo máximo 36m (D). Retestes de outros padrões permanecem em 21/11."
     }
   ],
   "updatedAt": "2026-11-16"
