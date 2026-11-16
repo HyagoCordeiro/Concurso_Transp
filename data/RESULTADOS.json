@@ -9105,6 +9105,82 @@
         }
       ],
       "observacao": "Fixação imediata após QTI-30; 2 acertos em Dirac e H.323; 4 erros/reincidências em eventos, filtro, paridade 2D e espectro ruído. Não comprova retenção; revisão posterior obrigatória."
+    },
+    {
+      "id": "QTI10-20261116-APOS-RECUPERACAO",
+      "data": "2026-11-16",
+      "tipo": "QTI10_AUTORAL_TECNICO_MISTO",
+      "titulo": "QTI-10 técnico após recuperação dos erros QTI30",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI10_2026-11-16_APOS_RECUPERACAO.md",
+      "editalItem": "1.1_3.4_4.2_1.3_4.1_7.1_11.1_10.3_12.3",
+      "itensErrados": [
+        {
+          "question": 2,
+          "item": "3.4",
+          "topic": "Filtro passa-faixas",
+          "resposta": "C",
+          "gabarito": "D"
+        }
+      ],
+      "respostas": [
+        {
+          "q": 1,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 2,
+          "resposta": "C",
+          "gabarito": "D"
+        },
+        {
+          "q": 3,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 4,
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "q": 5,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 6,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 7,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 8,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 9,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 10,
+          "resposta": "C",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "9/10; terceiro erro em filtros LIT no mesmo dia; três acertos de recuperação nos conceitos probabilidade, paridade 2D e ruído branco. Não inferir retenção de longo prazo; tempo não aferido."
     }
   ],
   "updatedAt": "2026-11-16"
