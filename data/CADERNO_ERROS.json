@@ -323,7 +323,7 @@
     {
       "id": "CE-20261112-009",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q01",
       "unitId": "2.3",
@@ -331,10 +331,10 @@
       "respostaEscolhida": "A",
       "gabarito": "C",
       "errorType": "CONVENCAO_SERIE",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Na convenção trigonométrica a0/2, média = a0/2",
-      "proxAcao": "Acertou duas autorais de a0 em 13/11; manter PENDENTE_RETESTE até avaliação espaçada.",
-      "dueAt": "2026-11-15",
+      "proxAcao": "Revisão semanal 21/11 em nova questão com novos parâmetros, sem gabarito.",
+      "dueAt": "2026-11-21",
       "sourceType": "AUTORAL",
       "retestEvidence": [
         {
@@ -378,6 +378,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q11",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "retentionVerified": false,
@@ -386,7 +393,7 @@
     {
       "id": "CE-20261112-010",
       "firstSeenAt": "2026-11-12",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "DIA-20261112-FOURIER",
       "sourceQuestionId": "DIA-20261112-FOURIER-Q04",
       "unitId": "2.3",
@@ -394,10 +401,10 @@
       "respostaEscolhida": "A",
       "gabarito": "E",
       "errorType": "AREA_ALGEBRICA",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "X(0)=∫x(t)dt, soma de áreas com sinal, não áreas absolutas",
-      "proxAcao": "Revisar em nova família CESGRANRIO e confirmar retenção.",
-      "dueAt": "2026-11-15",
+      "proxAcao": "Revisão semanal 21/11 em nova questão com novos parâmetros, sem gabarito.",
+      "dueAt": "2026-11-21",
       "sourceType": "AUTORAL",
       "retestEvidence": [
         {
@@ -406,6 +413,13 @@
           "questionId": "REV-ERROS-20261114-B2-Q01",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fourier X(0). Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q05",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "retentionVerified": false,
@@ -1149,7 +1163,7 @@
     {
       "id": "CE-20261113-010",
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER",
       "sourceQuestionId": "DIA-20261113-BLOCO5-CN-ANTENAS-FOURIER-Q05",
       "unitId": "2.3",
@@ -1157,10 +1171,10 @@
       "respostaEscolhida": "C",
       "gabarito": "B",
       "errorType": "SERIE_FOURIER_COEFICIENTE_A0_SOBRE_2",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Em x(t)=a0/2+Σ..., média=(1/T)∫x dt=a0/2; média 1 ⇒ a0=2.",
-      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
-      "dueAt": "2026-11-16",
+      "proxAcao": "Revisão semanal 21/11 em nova questão com novos parâmetros, sem gabarito.",
+      "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE",
       "relatedErrorId": "CE-20261112-009",
       "retestEvidence": [
@@ -1198,6 +1212,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q11",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "retentionVerified": false,
@@ -1307,9 +1328,9 @@
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "id": "CE-20261113-013",
       "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
@@ -1319,9 +1340,9 @@
       "respostaEscolhida": "B",
       "gabarito": "D",
       "errorType": "FOURIER_A0_MEDIA",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Se x(t)=a0/2+Σ, o valor médio é a0/2. Aqui média=0,5 ⇒ a0=1.",
-      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
+      "proxAcao": "Revisão semanal 21/11 em nova questão com novos parâmetros, sem gabarito.",
       "relatedErrorId": "CE-20261113-010",
       "retestEvidence": [
         {
@@ -1344,15 +1365,22 @@
           "questionId": "REV-ERROS-20261114-BF-Q11",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
     },
     {
       "firstSeenAt": "2026-11-13",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceType": "AUTORAL_CESGRANRIO_STYLE_REPAIR",
-      "dueAt": "2026-11-16",
+      "dueAt": "2026-11-21",
       "retentionVerified": false,
       "id": "CE-20261113-014",
       "sourceResultId": "DIA-20261113-BLOCO5-REFORCO6",
@@ -1362,9 +1390,9 @@
       "respostaEscolhida": "B",
       "gabarito": "D",
       "errorType": "FOURIER_A0_TERMO_CONSTANTE",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Em x=4+3cos(ω0t)−2sen(2ω0t), média=4; se a série usa a0/2, a0=8.",
-      "proxAcao": "Reparo imediato 2/2 em 13/11; confirmar a0 versus média em novo problema, sem ajuda, no D3 16/11, D7 20/11, D21 04/12.",
+      "proxAcao": "Revisão semanal 21/11 em nova questão com novos parâmetros, sem gabarito.",
       "relatedErrorId": "CE-20261113-010",
       "retestEvidence": [
         {
@@ -1387,6 +1415,13 @@
           "questionId": "REV-ERROS-20261114-BF-Q11",
           "result": "CORRETA",
           "note": "Nova evidencia na revisao semanal: Fourier a0. Sem comprovacao automatica de retencao."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "weeklyReviewId": "REVISAO-CADERNO-ERROS-20261114"
@@ -1710,7 +1745,7 @@
     {
       "id": "CE-20261114-003",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "REVISAO-CADERNO-ERROS-20261114",
       "sourceQuestionId": "REV-ERROS-20261114-B1-Q04",
       "unitId": "2.3",
@@ -1730,6 +1765,13 @@
           "questionId": "REV-ERROS-20261114-R1-Q03",
           "result": "CORRETA",
           "note": "Reparo no mesmo sábado; não é prova de retenção espaçada."
+        },
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q01",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
         }
       ],
       "retentionVerified": false,
@@ -2132,7 +2174,7 @@
     {
       "id": "CE-20261114-QTI30-012",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "QTI30-20261114-FECHAMENTO-3X10",
       "sourceQuestionId": "QTI30-20261114-FECHAMENTO-3X10-Q12",
       "unitId": "2.3",
@@ -2145,7 +2187,15 @@
       "proxAcao": "Reparo com nova questão quando solicitado, sem antecipação da resposta, seguido de reteste espaçado na manhã de sábado do caderno de erros.",
       "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q02",
+          "result": "CORRETA",
+          "note": "Atraso temporal correto, mas comparação com derivada temporal não testada; D3 permanece aberto."
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -2265,7 +2315,7 @@
     {
       "id": "CE-20261114-QTI50-32",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "QTI50-20261114-5X10-NOTURNO",
       "sourceQuestionId": "QTI50-20261114-5X10-NOTURNO-Q32",
       "unitId": "2.3",
@@ -2278,7 +2328,15 @@
       "proxAcao": "Reparo com uma questão autoral nova ou questão CESGRANRIO original realmente verificada, sem repetir enunciado; reteste na revisão de sábado 21/11/2026.",
       "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q03",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
+        }
+      ],
       "retentionVerified": false
     },
     {
@@ -2322,7 +2380,7 @@
     {
       "id": "CE-20261114-QTI50-42",
       "firstSeenAt": "2026-11-14",
-      "lastReviewedAt": "2026-11-14",
+      "lastReviewedAt": "2026-11-16",
       "sourceResultId": "QTI50-20261114-5X10-NOTURNO",
       "sourceQuestionId": "QTI50-20261114-5X10-NOTURNO-Q42",
       "unitId": "2.3",
@@ -2335,7 +2393,15 @@
       "proxAcao": "Reparo com uma questão autoral nova ou questão CESGRANRIO original realmente verificada, sem repetir enunciado; reteste na revisão de sábado 21/11/2026.",
       "dueAt": "2026-11-21",
       "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-16",
+          "sessionId": "FOURIER-D3-20261116",
+          "questionId": "FOURIER-D3-20261116-Q04",
+          "result": "CORRETA",
+          "note": "Acertou novo parâmetro de Fourier em bloco sem correção intermediária; manter revisão semanal 21/11."
+        }
+      ],
       "retentionVerified": false
     },
     {
