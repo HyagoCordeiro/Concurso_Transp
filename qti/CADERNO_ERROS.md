@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 14/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 16/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -263,3 +263,26 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **Retestes D3 corretos** vinculados a CE-20261112-002 (EDCA: Q7/8), CE-20261113-016 (Erlang B: Q4/5), CE-20261113-018 (Carson: Q6), CE-20261113-019 (SDH STM-N: Q1/2), CE-20261113-020 (E1 TS16: Q3).
 - Registros históricos preservados; **D7 de EDCA em 19/11**, D7 demais em 20/11, **D21 em 03–04/12**, além da rotina semanal 21/11. Nenhuma pendência técnica antiga deve ser apagada com base em um único reteste.
 - Fechamento de cinco blocos do dia: **32/37 (86,5%)**; cinco erros ainda ativos, sendo **três de Probabilidade e dois de Inglês**. [Bateria](BLOCO5_TECNICO_D3_2026-11-16.md) · [Fechamento](FECHAMENTO_DIA_2026-11-16.md).
+
+
+## 16/11/2026 — QTI-30 misto dos 13 itens (24/30 = 80%)
+
+**Bateria:** três blocos (6/10, 9/10, 9/10), total 24 acertos e 6 erros. **Questões autorais no estilo CESGRANRIO/Transpetro**, com QConcursos como referência; não são questões originais da banca. O QTI é separado das cinco baterias diurnas já fechadas em 16/11; tempo líquido não aferido. Discussão iniciada após conclusão.
+
+| Questão | Subitem | Marcou / correta | Tema | Diagnóstico preliminar |
+|---:|:---:|:---:|---|---|
+| 01 | 1.1 | E / C | Exatamente um evento versus união de eventos | INTERPRETACAO |
+| 02 | 2.2 | D / A | Impulso de Dirac — fator de escala e amostragem | CALCULO |
+| 03 | 3.4 | B / E | Classificação de H(s)=s/(s+200) | CONCEITO |
+| 05 | 5.3 | A / D | H.323 RAS versus H.245 | CONFUSAO_CONCEITUAL |
+| 17 | 4.2 | B / C | Paridade bidimensional: detecção, localização e correção | CONCEITO |
+| 27 | 1.3 | A / D | Autocorrelação de ruído branco de média zero | CONCEITO |
+
+- **Q01 (1.1):** Exatamente um de A/B: P(A)+P(B)-2P(A∩B)=0,5; P(A∪B)=0,8 é pelo menos um (alternativa E). **Próximo passo:** Nova questão de eventos exclusivos/simultâneos, com valores e contexto diferentes.
+- **Q02 (2.2):** δ(2t-4)=(1/2)δ(t-2); ∫t²δ(2t-4)dt=(1/2)·4=2. **Próximo passo:** Nova questão com δ(at-b), a≠1, sem dica sobre a escala.
+- **Q03 (3.4):** H(j0)=0; |H(jω)|→1 para ω→∞: filtro passa-altas; ωc=200 rad/s, não frequência central de passa-faixas. **Próximo passo:** Questão inédita sobre zeros/polos e comportamento assintótico de filtro.
+- **Q05 (5.3):** RAS com gatekeeper: Registration, Admission, Status; H.245: negociação de capacidades e controle dos canais lógicos. **Próximo passo:** Questão de distinção entre RAS, H.225, H.245, RTP e RTCP.
+- **Q17 (4.2):** Com exatamente um erro, a paridade da linha e da coluna identifica o bit na interseção, permitindo correção; paridade simples não identifica posição. **Próximo passo:** Nova questão comparando paridade simples, bidimensional e limites sob múltiplos erros.
+- **Q27 (1.3):** Ruído branco discreto de média 0 e variância σ²: Rxx[k]=σ²δ[k]; em k=0 vale 9 e nos demais atrasos vale zero. **Próximo passo:** Questão nova comparando ruído branco e componente aleatória constante no tempo.
+
+**Situação dos seis:** PENDENTE_REPARO; explicar e testar em novas famílias de enunciado. **D1 17/11**, **D3 19/11**, **sábado 21/11** e ciclos posteriores conforme disponibilidade antes da prova. Dúvidas declaradas pelo aluno devem refinar a classificação de erro; a alternativa marcada, isoladamente, não revela toda a linha de raciocínio. Não interpretar explicação como consolidação. IDs e rastreabilidade em `data/CADERNO_ERROS.json`.
