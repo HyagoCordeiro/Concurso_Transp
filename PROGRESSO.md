@@ -721,3 +721,7 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 ### 16/11/2026 — Antenas e Radiopropagação D3
 
 **7/7 (100%)**, respostas C B E A D A B. Antenas e Radiopropagação itens 6 e 7; sem erros na bateria de novos valores. **Correção Q5 Fresnel:** distância total 6 km, d1=d2=3 km, r1=15m e máxima altura de obstáculo 36m (D); erro inicial do assistente foi corrigido após observação do aluno. [Relatório](qti/ANTENAS_RADIOPROPAGACAO_D3_2026-11-16.md). Revisão semanal 21/11 permanece. Próximo bloco: Fourier (5Q).
+
+### 16/11/2026 — Fourier D3, bloco 3
+
+**5/5 (100%)** em questões autorais de a0, deslocamento, escala+atraso, Parseval e X(0). Respostas **B D E A C**, todas corretas. [Relatório](qti/FOURIER_D3_2026-11-16.md). Registrados acertos e evidências no caderno. Revisão D3 de a0 (13/11) concluída, mas retestes referentes a 14/11 **continuam programados para 17/11**, especialmente derivada temporal vs atraso; revisão semanal 21/11 mantida. **Parcial dos blocos 1–3 em 16/11: Probabilidade 4/7, Antenas 7/7, Fourier 5/5 = 16/19 (84,2%)**. Três erros de Probabilidade seguem abertos para 19 e 21/11. Próximo bloco: Português e Inglês (10Q).
