@@ -2371,10 +2371,20 @@
       "origemResultado": "DIA-20261113-BLOCO4-EXPO-EDCA",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Reteste em novo contexto após reparo; diferenciar corretamente evento antes de aplicar fórmulas.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO5-TEC-D3-20261116",
+        "correct": true,
+        "questions": [
+          "BLOCO5-TEC-D3-20261116-Q07",
+          "BLOCO5-TEC-D3-20261116-Q08"
+        ],
+        "note": "EDCA AC_VO > AC_BK (Q7), TXOP com duração limitada (Q8). Acerto em questões autorais novas. Manter revisões D7 e D21 previstas; não assumir consolidação definitiva."
+      }
     },
     {
       "id": "REV-CE-20261112-002-D7",
@@ -2824,10 +2834,20 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "media",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Resolver Erlang B para 2 e 3 canais sem confundir tráfego e bloqueio; Q25/Q44 corretas no mesmo simulado, reteste espaçado necessário.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO5-TEC-D3-20261116",
+        "correct": true,
+        "questions": [
+          "BLOCO5-TEC-D3-20261116-Q04",
+          "BLOCO5-TEC-D3-20261116-Q05"
+        ],
+        "note": "Erlang B: A=2 n=2 bloqueio 40% e A=1 n=3 bloqueio 6,25%. Manter revisões D7 e D21 previstas; não assumir consolidação definitiva."
+      }
     },
     {
       "id": "REV-CE-20261113-016-D7",
@@ -2920,10 +2940,19 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "media",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Treinar expressão de Carson e unidades; Q43 correta no mesmo simulado.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO5-TEC-D3-20261116",
+        "correct": true,
+        "questions": [
+          "BLOCO5-TEC-D3-20261116-Q06"
+        ],
+        "note": "Carson com Δf=48 kHz e fm=12 kHz: banda 120 kHz. Manter revisões D7 e D21 previstas; não assumir consolidação definitiva."
+      }
     },
     {
       "id": "REV-CE-20261113-018-D7",
@@ -2965,10 +2994,20 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Fixar dimensões 9x270N e taxas STM-1/4/16; Q50 correta no mesmo simulado.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO5-TEC-D3-20261116",
+        "correct": true,
+        "questions": [
+          "BLOCO5-TEC-D3-20261116-Q01",
+          "BLOCO5-TEC-D3-20261116-Q02"
+        ],
+        "note": "STM-4 9x1080 e STM-16 aproximadamente 2,488 Gbit/s. Manter revisões D7 e D21 previstas; não assumir consolidação definitiva."
+      }
     },
     {
       "id": "REV-CE-20261113-019-D7",
@@ -3010,10 +3049,19 @@
       "origemResultado": "QTI50-20261113-NOTURNO-5X10",
       "agendadaPara": "2026-11-16",
       "prioridade": "alta",
-      "status": "PENDENTE",
+      "status": "CONCLUIDO",
       "createdFromStudyDate": "2026-11-13",
       "plano": "Resolver cenários com n tributários E1 e distinguir CAS dos demais usos do TS16.",
-      "cadernoErros": "qti/CADERNO_ERROS.md"
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "latestEvidence": {
+        "date": "2026-11-16",
+        "sessionId": "BLOCO5-TEC-D3-20261116",
+        "correct": true,
+        "questions": [
+          "BLOCO5-TEC-D3-20261116-Q03"
+        ],
+        "note": "Cinco enlaces E1 CAS, 30 canais de voz cada: 150. Manter revisões D7 e D21 previstas; não assumir consolidação definitiva."
+      }
     },
     {
       "id": "REV-CE-20261113-020-D7",
