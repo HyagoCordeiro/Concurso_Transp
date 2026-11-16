@@ -229,3 +229,11 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 ### 16/11/2026 — Recuperação dirigida de frações parciais (erro Q61)
 
 **1/1 correta** em fixação autoral: \(Y(s)=24/[s(s+4)]\), alternativa **D**, \(A=6\), \(B=-6\). Dúvida original: por que \(18/[s(s+3)]=6/s-6/(s+3)\); esclarecido pelo método de s=0 e s=−3 e por recombinação em denominador comum. **Evidência de reparo imediato**, sem baixa no D3 de **18/11**. [Relatório detalhado](RECUPERACAO_LAPLACE_FRACOES_PARCIAIS_2026-11-16.md).
+
+
+### 16/11/2026 — Probabilidade D3 (4/7)
+
+- Q2 Poisson ≥1: B/D; confundiu P(X=1) com P(X≥1).
+- Q3 Poisson ≥2: B/A; marcou complemento P(X≤1).
+- Q4 exponencial sem memória: B/C; selecionou probabilidade de falhar, e foi pedida sobrevida adicional.
+- **3 pendências abertas**, reteste 19/11 e sábado 21/11; usuário avançou para Antenas/Radiopropagação sem realizar as seis fixações sugeridas. [Registro](PROBABILIDADE_D3_2026-11-16.md).
