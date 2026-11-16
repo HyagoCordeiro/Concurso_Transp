@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI30-20261116-MISTO",
+  "date": "2026-11-16",
+  "status": "COMPLETED",
+  "tipo": "QTI30_TREINO_3_BLOCOS_COM_FEEDBACK",
+  "total": 30,
+  "acertos": 24,
+  "erros": 6,
+  "percentual": 80,
+  "blocos": [
+    {
+      "faixa": "1-10",
+      "acertos": 6,
+      "total": 10
+    },
+    {
+      "faixa": "11-20",
+      "acertos": 9,
+      "total": 10
+    },
+    {
+      "faixa": "21-30",
+      "acertos": 9,
+      "total": 10
+    }
+  ],
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO_QCONCURSOS_REFERENCIA",
+  "sourceTruth": "Questões autorais; prova original não confirmada. Correção após cada bloco, não prova cega independente.",
+  "temas": 30,
+  "questionResults": [
+    {
+      "n": 1,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q01",
+      "unitId": "1.1",
+      "topic": "Exatamente um de dois eventos",
+      "selected": "E",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 2,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q02",
+      "unitId": "2.2",
+      "topic": "Delta de Dirac e escala",
+      "selected": "D",
+      "correctAnswer": "A",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 3,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q03",
+      "unitId": "3.4",
+      "topic": "Filtro passa-altas H(s)",
+      "selected": "B",
+      "correctAnswer": "E",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 4,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q04",
+      "unitId": "4.1",
+      "topic": "Índice de modulação AM por envelope",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 5,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q05",
+      "unitId": "5.3",
+      "topic": "RAS gatekeeper H.323",
+      "selected": "A",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 6,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q06",
+      "unitId": "6.1",
+      "topic": "Relação frente-costas em dB",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 7,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q07",
+      "unitId": "7.1",
+      "topic": "Horizonte rádio h1 h2",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 8,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q08",
+      "unitId": "8.2",
+      "topic": "Reúso de frequência por polarização satélite",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 9,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q09",
+      "unitId": "9.2",
+      "topic": "Desvanecimento seletivo em frequência",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 10,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q10",
+      "unitId": "10.3",
+      "topic": "802.1Q PCP e VID",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 11,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q11",
+      "unitId": "11.3",
+      "topic": "VPLS multiponto camada 2",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 12,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q12",
+      "unitId": "12.1",
+      "topic": "Abertura numérica fibra degrau",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 13,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q13",
+      "unitId": "13.1",
+      "topic": "Natureza jurídica da Anatel",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 14,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q14",
+      "unitId": "1.2",
+      "topic": "Esperança discreta",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 15,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q15",
+      "unitId": "2.3",
+      "topic": "Modulação em cosseno Fourier",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 16,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q16",
+      "unitId": "3.5",
+      "topic": "Equação de diferenças impulso",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 17,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q17",
+      "unitId": "4.2",
+      "topic": "Paridade bidimensional",
+      "selected": "B",
+      "correctAnswer": "C",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 18,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q18",
+      "unitId": "5.2",
+      "topic": "CDMA sequências de espalhamento",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 19,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q19",
+      "unitId": "6.3",
+      "topic": "Lóbulos de grade arranjo de antenas",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 20,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q20",
+      "unitId": "7.2",
+      "topic": "Sensibilidade Eb/N0 e ruído térmico",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 21,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q21",
+      "unitId": "8.1",
+      "topic": "Satélite MEO versus GEO",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 22,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q22",
+      "unitId": "9.2",
+      "topic": "CDMA efeito near-far e controle potência",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 23,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q23",
+      "unitId": "10.2",
+      "topic": "SVI e roteamento inter-VLAN",
+      "selected": "D",
+      "correctAnswer": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 24,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q24",
+      "unitId": "11.1",
+      "topic": "PIM SM Rendezvous Point",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 25,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q25",
+      "unitId": "12.3",
+      "topic": "SDH ponteiros e carga útil",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 26,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q26",
+      "unitId": "13.2",
+      "topic": "PDFF serviços primários e secundários",
+      "selected": "C",
+      "correctAnswer": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 27,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q27",
+      "unitId": "1.3",
+      "topic": "Ruído branco e autocorrelação",
+      "selected": "A",
+      "correctAnswer": "D",
+      "result": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 28,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q28",
+      "unitId": "2.4",
+      "topic": "Convolução delta com atraso",
+      "selected": "E",
+      "correctAnswer": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 29,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q29",
+      "unitId": "3.1",
+      "topic": "Circuito RC constante de tempo",
+      "selected": "A",
+      "correctAnswer": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    },
+    {
+      "n": 30,
+      "canonicalId": "AUTORAL-QTI30-20261116-MISTO-Q30",
+      "unitId": "11.4",
+      "topic": "TLS e IPsec em diferentes camadas",
+      "selected": "B",
+      "correctAnswer": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "VALID"
+    }
+  ],
+  "errosReferencia": [
+    {
+      "n": 1,
+      "unitId": "1.1",
+      "selected": "E",
+      "correctAnswer": "C",
+      "notebookId": "CE-20261116-QTI30-Q01"
+    },
+    {
+      "n": 2,
+      "unitId": "2.2",
+      "selected": "D",
+      "correctAnswer": "A",
+      "notebookId": "CE-20261116-QTI30-Q02"
+    },
+    {
+      "n": 3,
+      "unitId": "3.4",
+      "selected": "B",
+      "correctAnswer": "E",
+      "notebookId": "CE-20261116-QTI30-Q03"
+    },
+    {
+      "n": 5,
+      "unitId": "5.3",
+      "selected": "A",
+      "correctAnswer": "D",
+      "notebookId": "CE-20261116-QTI30-Q05"
+    },
+    {
+      "n": 17,
+      "unitId": "4.2",
+      "selected": "B",
+      "correctAnswer": "C",
+      "notebookId": "CE-20261116-QTI30-Q17"
+    },
+    {
+      "n": 27,
+      "unitId": "1.3",
+      "selected": "A",
+      "correctAnswer": "D",
+      "notebookId": "CE-20261116-QTI30-Q27"
+    }
+  ],
+  "timeTracked": null
+}
