@@ -725,3 +725,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 ### 16/11/2026 — Fourier D3, bloco 3
 
 **5/5 (100%)** em questões autorais de a0, deslocamento, escala+atraso, Parseval e X(0). Respostas **B D E A C**, todas corretas. [Relatório](qti/FOURIER_D3_2026-11-16.md). Registrados acertos e evidências no caderno. Revisão D3 de a0 (13/11) concluída, mas retestes referentes a 14/11 **continuam programados para 17/11**, especialmente derivada temporal vs atraso; revisão semanal 21/11 mantida. **Parcial dos blocos 1–3 em 16/11: Probabilidade 4/7, Antenas 7/7, Fourier 5/5 = 16/19 (84,2%)**. Três erros de Probabilidade seguem abertos para 19 e 21/11. Próximo bloco: Português e Inglês (10Q).
+
+### 16/11/2026 — Bloco 4 Português e Inglês: 8/10
+
+- **Português 5/5 (100%)** em texto autoral *Quando os dados parecem dizer tudo*: interpretação, concordância (têm/mantêm), crase/há, função de 'se' e conectores.
+- **Inglês 3/5 (60%)** em texto autoral *The Warning Behind a Perfect Reading*. Acertos Q08 (provided that), Q09 (resilience), Q10 (responsabilidade coletiva); erros **Q06 C/B** (inferência contradiz passagem explícita: ausência de aviso imediato de leitura desatualizada) e **Q07 C/E** (interpretação literal de *until I lose my voice*, em vez de insistência até a exaustão).
+- Os dois erros de Inglês **recorrem** em famílias do caderno de erros de 13 e 14/11. Novos IDs: CE-20261116-BLOCO4-ING-Q06/Q07. Programar **2 questões novas por erro**; D3 19/11 e revisão semanal 21/11, sem antecipar gabaritos.
+- Evidências positivas de Português e Inglês em novos enunciados não eliminam automaticamente os retestes históricos de 20–21/11.
+- [Relatório detalhado](qti/BLOCO4_PT_ING_2026-11-16.md) · [10 respostas estruturadas](qti/BLOCO4_PT_ING_2026-11-16.json).
+- **Parcial de quatro blocos:** Probabilidade 4/7, Antenas 7/7, Fourier 5/5, Português/Inglês 8/10 = **24/29 (82,8%)**, com cinco erros: três de Probabilidade, dois de Inglês. Próximo bloco: revisão técnica mista (8 questões).
