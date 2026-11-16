@@ -8665,6 +8665,49 @@
       "editalItem": "6_7",
       "itensErrados": [],
       "observacao": "C B E A D A B. Fresnel Q5: D total 6 km, d1=d2=3 km, r1=15m, clearance9m, obstáculo máximo 36m (D). Retestes de outros padrões permanecem em 21/11."
+    },
+    {
+      "id": "FOURIER-D3-20261116",
+      "data": "2026-11-16",
+      "tipo": "REVISAO_D3_AUTORAL",
+      "titulo": "Fourier 5Q — a0, atraso, escala, Parseval, X(0)",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "origem": "AUTORAL_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/FOURIER_D3_2026-11-16.md",
+      "editalItem": "2.3",
+      "itensErrados": [],
+      "respostas": [
+        {
+          "q": 1,
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "q": 2,
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "q": 3,
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "q": 4,
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "q": 5,
+          "resposta": "C",
+          "gabarito": "C"
+        }
+      ],
+      "observacao": "Acerto a0 D3 após erros 13/11; antecipação dos retestes previstos para 17/11 em Fourier escala e Parseval não os encerra. Questão atraso não testou derivada temporal. Manter revisões de sábado 21/11. Não houve erros neste bloco."
     }
   ],
   "updatedAt": "2026-11-16"
