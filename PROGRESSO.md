@@ -717,3 +717,7 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 ### 16/11/2026 — Probabilidade D3 antes do Bloco 2
 
 **4/7 (57,1%)** na bateria autoral. Erros Q2 (Poisson ≥1, marcou exatamente um), Q3 (Poisson ≥2, marcou P≤1) e Q4 (exponencial, marcou falhar em vez de sobreviver). Q1, Q5, Q6, Q7 corretas. Usuário optou por seguir ao Bloco 2 sem fixações imediatas. **Manter três erros abertos para 19/11 (D3) e 21/11 (sábado)**; novos valores, sem repetir literal. [Relatório](qti/PROBABILIDADE_D3_2026-11-16.md).
+
+### 16/11/2026 — Antenas e Radiopropagação D3
+
+**7/7 (100%)**, respostas C B E A D A B. Antenas e Radiopropagação itens 6 e 7; sem erros na bateria de novos valores. **Correção Q5 Fresnel:** distância total 6 km, d1=d2=3 km, r1=15m e máxima altura de obstáculo 36m (D); erro inicial do assistente foi corrigido após observação do aluno. [Relatório](qti/ANTENAS_RADIOPROPAGACAO_D3_2026-11-16.md). Revisão semanal 21/11 permanece. Próximo bloco: Fourier (5Q).
