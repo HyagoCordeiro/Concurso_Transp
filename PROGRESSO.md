@@ -742,3 +742,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Total do cronograma de 16/11 (cinco blocos): 32/37 (86,5%)**. Por bloco: Probabilidade 4/7; Antenas 7/7; Fourier 5/5; Português 5/5 e Inglês 3/5 (8/10); técnica mista 8/8. **Cinco erros:** três de Probabilidade (Poisson ≥1, ≥2 e exponencial sobrevida) e dois de Inglês (inferência e expressão figurada).
 - Revisões de **17/11** QTI50, **18/11** simulado 70, **19/11** Probabilidade/Inglês e EDCA, **20/11** técnicas D7, **21/11** revisão semanal do caderno de erros.
 - [Bloco 5](qti/BLOCO5_TECNICO_D3_2026-11-16.md) · [Fechamento detalhado](qti/FECHAMENTO_DIA_2026-11-16.md). Não agregar a eventuais exercícios do mesmo dia fora destes cinco blocos; duração líquida não aferida.
+
+### 16–17/11/2026 — QTI-10 Inglês: redes e energias renováveis (QTI10-INGLES-NETWORKS-RENEWABLES-20261116)
+
+- **10/10 (100%)**, 10 questões autorais no estilo CESGRANRIO; textos sobre confiabilidade de redes e integração de energia renovável.
+- **Respostas:** D C E A E B C D E C; todas corretas. Ideia central, inferência, vocabulário (*surplus*) e conectores (*therefore, nevertheless, although, provided that*).
+- Sem cronômetro; **não é prova histórica oficial**. O acerto integral neste treino não elimina erros de inferência e expressões idiomáticas encontrados em blocos anteriores, que permanecem em revisão.
+- **Registro independente** do fechamento de cinco blocos de 16/11 (32/37); não somar àquele cronograma.
+- [Relatório completo](qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.md) · [Dados estruturados e antirrepetição](qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.json).
