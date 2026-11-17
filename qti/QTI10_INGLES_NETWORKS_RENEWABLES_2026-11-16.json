@@ -1,0 +1,271 @@
+{
+  "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116",
+  "data": "2026-11-16",
+  "registradoEm": "2026-11-17",
+  "tipo": "QTI-10",
+  "disciplina": "Língua Inglesa",
+  "bancaReferencia": "CESGRANRIO",
+  "concursoReferencia": "TRANSPETRO 2026",
+  "titulo": "QTI-10 — Inglês: Communication Networks e Renewable Energy",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "status": "COMPLETED",
+  "diagnosticValidity": "TREINO_GUIADO_AUTORAL_QUESTOES_INEDITAS_NAO_OFICIAIS_SEM_TEMPO_MEDIDO",
+  "totalQuestoes": 10,
+  "totalValidas": 10,
+  "acertos": 10,
+  "erros": 0,
+  "percentual": 100,
+  "tempoTotalSec": null,
+  "respostas": [
+    "D",
+    "C",
+    "E",
+    "A",
+    "E",
+    "B",
+    "C",
+    "D",
+    "E",
+    "C"
+  ],
+  "gabarito": [
+    "D",
+    "C",
+    "E",
+    "A",
+    "E",
+    "B",
+    "C",
+    "D",
+    "E",
+    "C"
+  ],
+  "questionIds": [
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q01",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q02",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q03",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q04",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q05",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q06",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q07",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q08",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q09",
+    "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q10"
+  ],
+  "textos": [
+    {
+      "key": "TEXT_I",
+      "name": "The Growing Importance of Reliable Communication Networks",
+      "content": [
+        "Communication networks have become essential to modern industries. From energy production to transportation systems, companies increasingly depend on digital infrastructure to monitor operations, exchange information and make decisions.",
+        "However, the expansion of connected systems has also created new challenges. Although technological advances have improved efficiency, they have introduced vulnerabilities that organizations cannot afford to ignore.",
+        "A single network failure may interrupt critical services, resulting in financial losses and operational delays. Therefore, many companies are investing in redundant communication paths, cybersecurity measures and continuous monitoring tools.",
+        "Nevertheless, technology alone cannot guarantee reliability. Skilled professionals, regular maintenance and effective planning remain fundamental to preventing failures and responding to unexpected events.",
+        "As industries become more interconnected, the ability to maintain secure and reliable communication systems will play an increasingly important role in their success."
+      ]
+    },
+    {
+      "key": "TEXT_II",
+      "name": "The Challenges of Renewable Energy Integration",
+      "content": [
+        "Renewable energy sources, such as solar and wind power, have expanded significantly over the past decade. Governments and companies have invested in these technologies to reduce greenhouse gas emissions and diversify their energy supplies.",
+        "However, renewable energy generation is often dependent on weather conditions. Solar panels produce less electricity on cloudy days, while wind turbines require adequate wind speeds to operate efficiently. This variability creates challenges for electricity grids, which must continuously balance supply and demand.",
+        "Energy storage systems can help address these difficulties by storing surplus electricity and releasing it when production decreases. Although battery technology has improved considerably, the costs of large-scale storage remain a concern for many energy providers.",
+        "Furthermore, upgrading existing infrastructure is essential to accommodate a growing share of renewable energy. Without appropriate investments in transmission networks and grid management systems, the transition to cleaner energy sources may face significant obstacles.",
+        "Despite these challenges, renewable energy is expected to play a central role in future energy systems, provided that technological development and infrastructure investment continue."
+      ]
+    }
+  ],
+  "questoes": [
+    {
+      "n": 1,
+      "topic": "Ideia central",
+      "text": "According to the text, the main purpose of the author is to",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q01",
+      "textoRef": "TEXT_I",
+      "alternativas": {
+        "A": "argue that technological advances have eliminated most communication failures.",
+        "B": "demonstrate that cybersecurity is the only factor responsible for network reliability.",
+        "C": "explain why companies should replace traditional communication systems immediately.",
+        "D": "highlight the importance of reliable networks and the measures required to maintain them.",
+        "E": "suggest that human intervention is no longer necessary in modern industrial networks."
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correta": true,
+      "explicacao": "O texto defende a importância da confiabilidade de redes e medidas técnicas e humanas."
+    },
+    {
+      "n": 2,
+      "topic": "Inferência textual",
+      "text": "According to the second paragraph, the expansion of connected systems has",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q02",
+      "textoRef": "TEXT_I",
+      "alternativas": {
+        "A": "completely eliminated operational risks in modern industries.",
+        "B": "reduced the need for cybersecurity investments.",
+        "C": "improved efficiency while introducing new vulnerabilities.",
+        "D": "made communication networks less important for industrial operations.",
+        "E": "prevented companies from adopting new technologies."
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correta": true,
+      "explicacao": "O segundo parágrafo contrapõe ganho de eficiência e novas vulnerabilidades."
+    },
+    {
+      "n": 3,
+      "topic": "Conectores — consequência",
+      "text": "In the third paragraph, the word “Therefore” establishes a relationship of",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q03",
+      "textoRef": "TEXT_I",
+      "alternativas": {
+        "A": "contrast between two opposing situations.",
+        "B": "addition of unrelated information.",
+        "C": "concession despite an obstacle.",
+        "D": "comparison between technological solutions.",
+        "E": "consequence resulting from a previously mentioned problem."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correta": true,
+      "explicacao": "Therefore = portanto/consequentemente."
+    },
+    {
+      "n": 4,
+      "topic": "Conectores — contraste",
+      "text": "Consider the following excerpt from the fourth paragraph: “Nevertheless, technology alone cannot guarantee reliability. Skilled professionals, regular maintenance and effective planning remain fundamental to preventing failures and responding to unexpected events.” In this context, the word “Nevertheless” could be replaced, without changing the meaning of the sentence, by",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q04",
+      "textoRef": "TEXT_I",
+      "alternativas": {
+        "A": "However.",
+        "B": "Furthermore.",
+        "C": "Therefore.",
+        "D": "For instance.",
+        "E": "As a result."
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correta": true,
+      "explicacao": "Nevertheless e however indicam oposição/contraste. Embora anunciada como 'referência pronominal' durante o treino, a questão avalia conector."
+    },
+    {
+      "n": 5,
+      "topic": "Inferência textual",
+      "text": "Consider the following statement from the last paragraph: “As industries become more interconnected, the ability to maintain secure and reliable communication systems will play an increasingly important role in their success.” The statement implies that",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q05",
+      "textoRef": "TEXT_I",
+      "alternativas": {
+        "A": "industrial success will depend exclusively on the adoption of new technologies.",
+        "B": "communication systems will gradually lose their importance as industries expand.",
+        "C": "companies will no longer need skilled professionals to operate their networks.",
+        "D": "industrial interconnectivity will eliminate the possibility of network failures.",
+        "E": "maintaining secure and reliable communication networks will become increasingly relevant to industrial success."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correta": true,
+      "explicacao": "Increasingly important = cada vez mais importante. As = à medida que."
+    },
+    {
+      "n": 6,
+      "topic": "Interpretação e inferência",
+      "text": "According to the text, one of the main difficulties associated with renewable energy integration is that",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q06",
+      "textoRef": "TEXT_II",
+      "alternativas": {
+        "A": "solar and wind power plants are unable to generate electricity on a large scale.",
+        "B": "electricity generation from renewable sources can fluctuate according to weather conditions.",
+        "C": "renewable energy technologies have not improved over the past decade.",
+        "D": "energy storage systems have completely eliminated supply and demand imbalances.",
+        "E": "electricity grids no longer require infrastructure upgrades."
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correta": true,
+      "explicacao": "Variabilidade depende do clima: energia solar e eólica."
+    },
+    {
+      "n": 7,
+      "topic": "Vocabulário contextual",
+      "text": "Consider the following excerpt from the third paragraph: “Energy storage systems can help address these difficulties by storing surplus electricity and releasing it when production decreases.” In this context, the word “surplus” is closest in meaning to",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q07",
+      "textoRef": "TEXT_II",
+      "alternativas": {
+        "A": "insufficient.",
+        "B": "unreliable.",
+        "C": "additional or excess.",
+        "D": "unavailable.",
+        "E": "expensive."
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correta": true,
+      "explicacao": "Surplus = excedente/sobra."
+    },
+    {
+      "n": 8,
+      "topic": "Conectores — concessão",
+      "text": "Consider the following excerpt: “Although battery technology has improved considerably, the costs of large-scale storage remain a concern for many energy providers.” The word “Although” introduces an idea of",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q08",
+      "textoRef": "TEXT_II",
+      "alternativas": {
+        "A": "cause, explaining why battery technology has improved.",
+        "B": "consequence, indicating the result of lower storage costs.",
+        "C": "purpose, presenting the objective of energy providers.",
+        "D": "concession, contrasting technological improvements with persistent cost concerns.",
+        "E": "addition, reinforcing two equivalent positive developments."
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correta": true,
+      "explicacao": "Although = embora: concessão."
+    },
+    {
+      "n": 9,
+      "topic": "Conectores — condição",
+      "text": "Consider the following sentence from the last paragraph: “Despite these challenges, renewable energy is expected to play a central role in future energy systems, provided that technological development and infrastructure investment continue.” In this context, the expression “provided that” indicates",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q09",
+      "textoRef": "TEXT_II",
+      "alternativas": {
+        "A": "a contrast between renewable and conventional energy sources.",
+        "B": "a consequence that will occur regardless of future investments.",
+        "C": "a comparison between technological development and infrastructure.",
+        "D": "an explanation of why renewable energy has already replaced fossil fuels.",
+        "E": "a condition that must be fulfilled for renewable energy to play a central role."
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correta": true,
+      "explicacao": "Provided that = desde que/contanto que: condição."
+    },
+    {
+      "n": 10,
+      "topic": "Inferência e conclusão",
+      "text": "Based on the information presented in Text II, it can be inferred that the successful integration of renewable energy sources into electricity grids",
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q10",
+      "textoRef": "TEXT_II",
+      "alternativas": {
+        "A": "depends primarily on favorable weather conditions, making infrastructure investments unnecessary.",
+        "B": "has already eliminated the need for conventional electricity generation worldwide.",
+        "C": "requires a combination of technological improvements, adequate infrastructure and continued investment.",
+        "D": "will be achieved automatically as solar panels and wind turbines become more widespread.",
+        "E": "is unlikely to succeed because energy storage technology cannot be improved further."
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correta": true,
+      "explicacao": "Integração exige tecnologia, infraestrutura e investimento continuado."
+    }
+  ],
+  "topics": [
+    "compreensão da ideia central",
+    "inferência",
+    "conectores de contraste",
+    "conectores de consequência",
+    "conectores de concessão",
+    "condição",
+    "vocabulário contextual"
+  ],
+  "observacao": "10/10 confirmados pelas respostas sucessivas no chat (D C E A E B C D E C). Questões e textos autorais, não reproduzem prova oficial. Q4 classificada corretamente como conector; sem cronômetro. Sessão iniciada em 16/11/2026, registro solicitado em 17/11/2026. Registrar separadamente do fechamento dos cinco blocos de 16/11."
+}
