@@ -1,0 +1,221 @@
+{
+  "id": "QTI10-PORTUGUES-TEXTO-2026-11-16",
+  "data": "2026-11-16",
+  "tipo": "QTI-10",
+  "disciplina": "Português",
+  "banca": "CESGRANRIO",
+  "concurso": "Transpetro 2026",
+  "formato": "Texto-base e 10 questões de múltipla escolha, uma por vez, com correção imediata",
+  "titulo": "QTI-10 — Português CESGRANRIO / Transpetro — A tecnologia e a qualidade dos serviços",
+  "totalQuestoes": 10,
+  "acertos": 9,
+  "erros": 1,
+  "percentual": 90,
+  "resultado": "9/10",
+  "status": "CONCLUIDO",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "textoBase": {
+    "titulo": "A tecnologia e a qualidade dos serviços",
+    "conteudo": "Durante muito tempo, a eficiência de um serviço foi associada à rapidez com que as solicitações eram atendidas. A expansão dos canais digitais alterou esse parâmetro, mas não eliminou a necessidade de escuta. Um pedido concluído em poucos segundos pode representar pouco avanço quando o usuário não compreende a resposta recebida ou precisa repetir a mesma informação em diferentes etapas.\n\nÀ medida que novas ferramentas são incorporadas, cresce a tentação de medir resultados apenas por números: acessos, protocolos finalizados e tempo médio de atendimento. Esses indicadores são úteis, desde que não sejam confundidos com a experiência de quem utiliza o serviço. Afinal, uma plataforma pode funcionar sem falhas técnicas e, ainda assim, deixar de cumprir sua finalidade, caso não seja acessível a uma parcela significativa da população.\n\nIsso não significa rejeitar a tecnologia, mas reconhecer que sua eficácia depende de escolhas que vão além dela. O desafio não é apenas automatizar procedimentos: é fazer com que a simplificação anunciada também seja percebida por quem está do outro lado da tela."
+  },
+  "gabarito": [
+    "C",
+    "D",
+    "E",
+    "B",
+    "D",
+    "A",
+    "E",
+    "B",
+    "A",
+    "C"
+  ],
+  "respostas": [
+    "C",
+    "D",
+    "E",
+    "A",
+    "D",
+    "A",
+    "E",
+    "B",
+    "A",
+    "C"
+  ],
+  "questoes": [
+    {
+      "numero": 1,
+      "assunto": "Interpretação textual",
+      "enunciado": "A principal ideia defendida no texto é que a",
+      "alternativas": {
+        "A": "digitalização dos serviços deve priorizar a redução do tempo de atendimento, independentemente da experiência dos usuários.",
+        "B": "avaliação da qualidade dos serviços deve abandonar os indicadores quantitativos e considerar exclusivamente a satisfação dos usuários.",
+        "C": "eficiência das plataformas digitais depende não apenas de seu desempenho técnico, mas também de sua capacidade de atender às necessidades dos usuários.",
+        "D": "automatização dos procedimentos constitui uma ameaça à qualidade dos serviços e, por isso, deve ser limitada.",
+        "E": "ampliação dos canais digitais garante, por si só, maior acessibilidade e eficiência na prestação dos serviços."
+      },
+      "resposta": "C",
+      "gabarito": "C",
+      "comentario": "O desempenho técnico é importante, mas não basta: a experiência e o acesso do usuário são fundamentais.",
+      "correta": true
+    },
+    {
+      "numero": 2,
+      "assunto": "Conectivos / condição",
+      "enunciado": "Em 'Esses indicadores são úteis, desde que não sejam confundidos com a experiência de quem utiliza o serviço', 'desde que' estabelece relação de",
+      "alternativas": {
+        "A": "causa",
+        "B": "concessão",
+        "C": "consequência",
+        "D": "condição",
+        "E": "finalidade"
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "comentario": "'Desde que' vale por 'contanto que' neste contexto: condição.",
+      "correta": true
+    },
+    {
+      "numero": 3,
+      "assunto": "Crase",
+      "enunciado": "A frase em que o emprego da crase atende à norma-padrão é:",
+      "alternativas": {
+        "A": "As novas plataformas permitem que os cidadãos tenham acesso à informações importantes.",
+        "B": "Os responsáveis pelo serviço começaram à analisar os resultados da pesquisa.",
+        "C": "A instituição encaminhou o relatório à uma equipe especializada.",
+        "D": "Os usuários passaram à utilizar os canais digitais com maior frequência.",
+        "E": "A melhoria dos serviços depende da atenção dada às necessidades da população."
+      },
+      "resposta": "E",
+      "gabarito": "E",
+      "comentario": "'Dada a' + 'as necessidades' = 'dada às necessidades'. Não há crase antes de verbos.",
+      "correta": true
+    },
+    {
+      "numero": 4,
+      "assunto": "Concordância verbal",
+      "enunciado": "Considerando a norma-padrão, a frase que apresenta concordância correta é:",
+      "alternativas": {
+        "A": "A rapidez dos atendimentos e a clareza das respostas contribui para a eficiência dos serviços.",
+        "B": "A utilização de indicadores, mesmo quando acompanhada de tecnologias avançadas, não substitui a escuta dos usuários.",
+        "C": "Houveram mudanças importantes na maneira como os cidadãos utilizam os serviços digitais.",
+        "D": "Deve existir mecanismos de avaliação capazes de identificar as dificuldades dos usuários.",
+        "E": "Fazem muitos anos que as instituições procuram aperfeiçoar seus canais de atendimento."
+      },
+      "resposta": "A",
+      "gabarito": "B",
+      "comentario": "Sujeito composto anteposto 'a rapidez ... e a clareza ...' exige 'contribuem'. Em B, o núcleo do sujeito é 'utilização', singular. Haver (existir) e fazer (tempo) são impessoais; 'existir' concorda com 'mecanismos'.",
+      "correta": false
+    },
+    {
+      "numero": 5,
+      "assunto": "Pontuação / concessão",
+      "enunciado": "No trecho 'Uma plataforma pode funcionar sem falhas técnicas e, ainda assim, deixar de cumprir sua finalidade', as vírgulas isolam 'ainda assim' porque a expressão",
+      "alternativas": {
+        "A": "exerce função de vocativo.",
+        "B": "introduz oração subordinada causal deslocada.",
+        "C": "separa o sujeito composto dos núcleos verbais.",
+        "D": "estabelece ressalva de valor concessivo e aparece intercalada.",
+        "E": "introduz enumeração de ações."
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "comentario": "'Ainda assim' equivale a 'mesmo assim' / 'apesar disso'; expressão intercalada de ressalva.",
+      "correta": true
+    },
+    {
+      "numero": 6,
+      "assunto": "Coesão referencial",
+      "enunciado": "A expressão 'Esses indicadores', após a enumeração 'acessos, protocolos finalizados e tempo médio de atendimento', constitui coesão porque",
+      "alternativas": {
+        "A": "retoma elementos anteriormente apresentados, estabelecendo referência anafórica.",
+        "B": "antecipa informações posteriores, estabelecendo referência catafórica.",
+        "C": "introduz informação independente do período anterior.",
+        "D": "substitui expressão anterior por antônimo.",
+        "E": "compara serviços tradicionais e digitais."
+      },
+      "resposta": "A",
+      "gabarito": "A",
+      "comentario": "Anáfora retoma informação anterior; catáfora antecipa informação posterior.",
+      "correta": true
+    },
+    {
+      "numero": 7,
+      "assunto": "Regência verbal",
+      "enunciado": "A frase em que a regência verbal está corretamente empregada é:",
+      "alternativas": {
+        "A": "Os usuários preferem o atendimento presencial do que os serviços digitais.",
+        "B": "Os responsáveis esqueceram-se os problemas relatados pelos cidadãos.",
+        "C": "Os técnicos chegaram no departamento antes do início do atendimento.",
+        "D": "A instituição informou aos usuários de que o sistema passaria por atualizações.",
+        "E": "Os funcionários obedeceram às orientações estabelecidas para melhorar a acessibilidade."
+      },
+      "resposta": "E",
+      "gabarito": "E",
+      "comentario": "'Obedecer a' + 'as orientações' = 'obedecer às orientações'. Preferir X a Y; esquecer-se de; chegar a; informar algo a alguém ou alguém de algo.",
+      "correta": true
+    },
+    {
+      "numero": 8,
+      "assunto": "Conectivos / proporcionalidade",
+      "enunciado": "A substituição de 'À medida que novas ferramentas são incorporadas' que preserva o sentido original é:",
+      "alternativas": {
+        "A": "Ainda que novas ferramentas sejam incorporadas",
+        "B": "À proporção que novas ferramentas são incorporadas",
+        "C": "Uma vez que novas ferramentas são incorporadas",
+        "D": "Conquanto novas ferramentas sejam incorporadas",
+        "E": "Caso novas ferramentas sejam incorporadas"
+      },
+      "resposta": "B",
+      "gabarito": "B",
+      "comentario": "'À medida que' e 'à proporção que' exprimem proporcionalidade.",
+      "correta": true
+    },
+    {
+      "numero": 9,
+      "assunto": "Correlação verbal",
+      "enunciado": "A frase que apresenta correlação verbal adequada é:",
+      "alternativas": {
+        "A": "Se os gestores considerassem a experiência dos usuários, poderiam aperfeiçoar os serviços.",
+        "B": "Caso os usuários compreenderiam as respostas recebidas, haveria menos solicitações repetidas.",
+        "C": "Embora a plataforma funciona sem falhas técnicas, nem todos conseguem utilizá-la.",
+        "D": "Se as instituições investissem mais em acessibilidade, conseguirão atender melhor à população.",
+        "E": "Quando novas ferramentas fossem incorporadas, os indicadores serão automaticamente revisados."
+      },
+      "resposta": "A",
+      "gabarito": "A",
+      "comentario": "'Se ... considerassem' (imperfeito do subjuntivo) combina com 'poderiam' (futuro do pretérito).",
+      "correta": true
+    },
+    {
+      "numero": 10,
+      "assunto": "Pontuação / dois-pontos",
+      "enunciado": "Em 'O desafio não é apenas automatizar procedimentos: é fazer com que a simplificação anunciada também seja percebida...', os dois-pontos têm a função de",
+      "alternativas": {
+        "A": "introduzir citação literal de opinião contrária.",
+        "B": "apresentar enumeração de procedimentos.",
+        "C": "introduzir esclarecimento que amplia e especifica a natureza do desafio.",
+        "D": "estabelecer causa e consequência obrigatória.",
+        "E": "indicar interrupção de pensamento retomado em outro parágrafo."
+      },
+      "resposta": "C",
+      "gabarito": "C",
+      "comentario": "Dois-pontos introduzem esclarecimento e especificam o desafio.",
+      "correta": true
+    }
+  ],
+  "diagnostico": {
+    "pontosFortes": [
+      "interpretação textual",
+      "conectivos: condição e proporcionalidade",
+      "crase",
+      "coesão referencial",
+      "regência verbal",
+      "pontuação",
+      "correlação verbal"
+    ],
+    "pontoDeAtencao": "Concordância verbal: sujeito composto anteposto ao verbo (questão 4)",
+    "revisaoSugerida": "Revisar sujeito composto, verbo haver impessoal, verbo fazer impessoal e concordância do verbo existir"
+  },
+  "nextAction": "REVISAO_CONCORDANCIA_VERBAL"
+}
