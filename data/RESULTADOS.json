@@ -9181,7 +9181,67 @@
         }
       ],
       "observacao": "9/10; terceiro erro em filtros LIT no mesmo dia; três acertos de recuperação nos conceitos probabilidade, paridade 2D e ruído branco. Não inferir retenção de longo prazo; tempo não aferido."
+    },
+    {
+      "id": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116",
+      "eventId": "QTI10-INGLES-NETWORKS-RENEWABLES-20261116",
+      "data": "2026-11-16",
+      "studyDateLocal": "2026-11-16",
+      "registradoEm": "2026-11-17",
+      "tipo": "QTI-10",
+      "disciplina": "Língua Inglesa",
+      "titulo": "QTI-10 — Inglês: Communication Networks e Renewable Energy",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 10,
+      "erros": 0,
+      "invalidos": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "diagnosticValidity": "TREINO_GUIADO_AUTORAL_QUESTOES_INEDITAS_NAO_OFICIAIS_SEM_TEMPO_MEDIDO",
+      "tempoTotalSec": null,
+      "sourceFile": "qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.json",
+      "reportFile": "qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.md",
+      "questionIds": [
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q01",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q02",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q03",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q04",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q05",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q06",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q07",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q08",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q09",
+        "QTI10-INGLES-NETWORKS-RENEWABLES-20261116-Q10"
+      ],
+      "respostas": [
+        "D",
+        "C",
+        "E",
+        "A",
+        "E",
+        "B",
+        "C",
+        "D",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "E",
+        "A",
+        "E",
+        "B",
+        "C",
+        "D",
+        "E",
+        "C"
+      ],
+      "itensErrados": [],
+      "observacao": "10/10 confirmados pelas respostas sucessivas no chat (D C E A E B C D E C). Questões e textos autorais, não reproduzem prova oficial. Q4 classificada corretamente como conector; sem cronômetro. Sessão iniciada em 16/11/2026, registro solicitado em 17/11/2026. Registrar separadamente do fechamento dos cinco blocos de 16/11."
     }
   ],
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-17"
 }
