@@ -1,0 +1,237 @@
+{
+  "id": "QTI10-PORTUGUES-TEXTO-2026-11-17",
+  "data": "2026-11-17",
+  "tipo": "QTI-10",
+  "disciplina": "Português",
+  "banca": "CESGRANRIO",
+  "concurso": "Transpetro 2026",
+  "formato": "Texto-base; 10 questões autorais no estilo da banca; correção imediata",
+  "titulo": "QTI-10 — Português CESGRANRIO — Os números e a realidade",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "status": "CONCLUIDO",
+  "totalQuestoes": 10,
+  "acertos": 6,
+  "erros": 4,
+  "percentual": 60,
+  "resultado": "6/10",
+  "textoBase": {
+    "titulo": "Os números e a realidade",
+    "conteudo": "A promessa de que os dados tornarão as decisões públicas mais precisas depende de uma condição frequentemente esquecida: números não explicam, sozinhos, o contexto em que foram produzidos. Quando uma prefeitura divulga o tempo médio de espera por atendimento, o indicador pode revelar uma melhora geral. Entretanto, essa média também pode ocultar diferenças importantes entre bairros, horários e grupos de usuários.\n\nIsso não significa que se devam abandonar as estatísticas. Sem elas, seria mais difícil perceber tendências e verificar os efeitos de uma mudança. O problema surge quando o indicador, criado para orientar decisões, passa a ser tratado como o próprio objetivo do serviço. Nesse caso, reduzir o tempo registrado pode se tornar mais importante do que resolver efetivamente a demanda.\n\nUma avaliação consistente exige, portanto, duas atitudes complementares: acompanhar os números e escutar as pessoas que lhes dão sentido. Quanto mais claros forem os critérios de medição, maior será a possibilidade de discutir tanto os avanços quanto aquilo que ainda permanece fora dos gráficos."
+  },
+  "respostas": [
+    "D",
+    "C",
+    "C",
+    "C",
+    "B",
+    "A",
+    "A",
+    "B",
+    "D",
+    "E"
+  ],
+  "gabarito": [
+    "D",
+    "C",
+    "E",
+    "D",
+    "B",
+    "A",
+    "E",
+    "B",
+    "D",
+    "A"
+  ],
+  "questoes": [
+    {
+      "numero": 1,
+      "assunto": "Interpretação e inferência",
+      "enunciado": "Com base nas ideias desenvolvidas no texto, é possível inferir que",
+      "alternativas": {
+        "A": "a utilização de indicadores estatísticos compromete a qualidade das decisões públicas, uma vez que os números não representam fielmente a realidade.",
+        "B": "a redução do tempo médio de atendimento constitui evidência suficiente de que todos os usuários foram beneficiados pela melhoria do serviço.",
+        "C": "a coleta de informações subjetivas deve substituir a análise estatística, pois a percepção dos usuários representa o único critério confiável de avaliação.",
+        "D": "a melhoria de um indicador geral não garante, necessariamente, que os benefícios alcançaram de maneira semelhante todos os grupos de usuários.",
+        "E": "a eficiência dos serviços públicos depende fundamentalmente da eliminação dos critérios quantitativos utilizados na avaliação dos resultados."
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "comentario": "A média geral pode ocultar diferenças importantes entre bairros, horários e grupos de usuários. O texto não propõe abandonar as estatísticas.",
+      "correta": true
+    },
+    {
+      "numero": 2,
+      "assunto": "Concordância verbal",
+      "enunciado": "Considerando a norma-padrão da língua portuguesa, a frase em que a concordância verbal está corretamente empregada é:",
+      "alternativas": {
+        "A": "A análise dos indicadores e a escuta dos usuários permite identificar falhas nos serviços públicos.",
+        "B": "Houveram diversas reclamações sobre os critérios utilizados para avaliar o atendimento.",
+        "C": "A divulgação dos resultados, acompanhada de explicações sobre os critérios adotados, contribui para a transparência.",
+        "D": "Fazem vários meses que os gestores procuram aperfeiçoar os instrumentos de avaliação.",
+        "E": "Devem haver mecanismos capazes de identificar as desigualdades ocultadas pelas médias estatísticas."
+      },
+      "resposta": "C",
+      "gabarito": "C",
+      "comentario": "O núcleo do sujeito é 'divulgação' (singular); o termo intercalado não altera a concordância. 'Haver' no sentido de existir e 'fazer' temporal são impessoais.",
+      "correta": true
+    },
+    {
+      "numero": 3,
+      "assunto": "Conectivos e relações semânticas",
+      "enunciado": "No trecho 'Sem elas, seria mais difícil perceber tendências e verificar os efeitos de uma mudança', a expressão 'Sem elas' estabelece uma relação de",
+      "alternativas": {
+        "A": "concessão, pois apresenta uma circunstância contrária à conclusão esperada.",
+        "B": "finalidade, uma vez que indica o objetivo de utilizar as estatísticas.",
+        "C": "causa, porque explica diretamente a origem dos indicadores.",
+        "D": "comparação, ao equiparar os dados estatísticos à experiência dos usuários.",
+        "E": "condição, pois apresenta uma situação hipotética cuja ocorrência dificultaria a avaliação dos resultados."
+      },
+      "resposta": "C",
+      "gabarito": "E",
+      "comentario": "'Sem elas' equivale, neste contexto, a 'Se não houvesse estatísticas'. Expressa condição hipotética, não causa; 'seria' reforça a hipótese.",
+      "correta": false
+    },
+    {
+      "numero": 4,
+      "assunto": "Coesão referencial e sintaxe",
+      "enunciado": "Em 'Uma avaliação consistente exige, portanto, duas atitudes complementares: acompanhar os números e escutar as pessoas que lhes dão sentido', o pronome 'lhes'",
+      "alternativas": {
+        "A": "retoma a expressão 'duas atitudes complementares' e exerce a função de objeto direto.",
+        "B": "refere-se às pessoas mencionadas na oração e exerce a função de sujeito do verbo 'dar'.",
+        "C": "substitui a expressão 'uma avaliação consistente' e exerce a função de complemento nominal.",
+        "D": "retoma o substantivo 'números' e exerce a função de objeto indireto do verbo 'dar'.",
+        "E": "antecipa o substantivo 'sentido' e estabelece uma referência catafórica."
+      },
+      "resposta": "C",
+      "gabarito": "D",
+      "comentario": "'Lhes' retoma 'números': pessoas dão sentido AOS NÚMEROS (objeto indireto). Referência anafórica.",
+      "correta": false
+    },
+    {
+      "numero": 5,
+      "assunto": "Sintaxe e pontuação",
+      "enunciado": "Em 'O problema surge quando o indicador, criado para orientar decisões, passa a ser tratado como o próprio objetivo do serviço', o segmento 'criado para orientar decisões'",
+      "alternativas": {
+        "A": "constitui uma oração subordinada substantiva objetiva direta, que completa o sentido do verbo 'surge'.",
+        "B": "equivale a uma oração subordinada adjetiva explicativa reduzida de particípio, que acrescenta uma informação sobre o indicador.",
+        "C": "corresponde a uma oração subordinada adverbial causal, cuja separação por vírgulas é facultativa.",
+        "D": "exerce a função de aposto enumerativo, apresentando as diferentes finalidades do indicador.",
+        "E": "constitui uma oração subordinada adjetiva restritiva, cuja retirada alteraria necessariamente o referente do substantivo 'indicador'."
+      },
+      "resposta": "B",
+      "gabarito": "B",
+      "comentario": "'Criado' é particípio. A oração equivale a 'que foi criado para orientar decisões', adjetiva explicativa isolada por vírgulas.",
+      "correta": true
+    },
+    {
+      "numero": 6,
+      "assunto": "Regência e crase",
+      "enunciado": "A frase inteiramente de acordo com as regras de regência e crase é:",
+      "alternativas": {
+        "A": "Os pesquisadores fizeram referência àquelas diferenças que a média geral ocultava.",
+        "B": "As decisões foram submetidas à critérios de avaliação mais exigentes.",
+        "C": "Os resultados foram divulgados à partir do mês seguinte.",
+        "D": "Os técnicos permaneceram atentos à qualquer divergência dos registros.",
+        "E": "As análises foram encaminhadas à quem solicitou os dados."
+      },
+      "resposta": "A",
+      "gabarito": "A",
+      "comentario": "Referência exige preposição 'a'; ela se funde com a inicial de 'aquelas' (a + aquelas = àquelas).",
+      "correta": true
+    },
+    {
+      "numero": 7,
+      "assunto": "Funções da palavra 'se' e concordância",
+      "enunciado": "Em 'Isso não significa que se devam abandonar as estatísticas', a palavra 'se' exerce a função de",
+      "alternativas": {
+        "A": "índice de indeterminação do sujeito, pois não é possível identificar quem pratica a ação de abandonar.",
+        "B": "pronome reflexivo, pois o sujeito pratica e recebe a ação expressa pelo verbo.",
+        "C": "conjunção subordinativa condicional, introduzindo uma hipótese.",
+        "D": "pronome recíproco, indicando uma ação praticada mutuamente pelos elementos do sujeito.",
+        "E": "pronome apassivador, pois integra uma construção na voz passiva sintética, cujo sujeito é 'as estatísticas'."
+      },
+      "resposta": "A",
+      "gabarito": "E",
+      "comentario": "'As estatísticas devam ser abandonadas' (voz passiva analítica) comprova o 'se' apassivador. Sujeito paciente é 'as estatísticas'; 'devam' concorda no plural.",
+      "correta": false
+    },
+    {
+      "numero": 8,
+      "assunto": "Interpretação e reescrita",
+      "enunciado": "Em 'Uma avaliação consistente exige, portanto, duas atitudes complementares: acompanhar os números e escutar as pessoas que lhes dão sentido', a reescrita que preserva o sentido e respeita a norma-padrão é:",
+      "alternativas": {
+        "A": "Uma avaliação consistente exige acompanhar os números, embora dispense a escuta das pessoas que lhes atribuem significado.",
+        "B": "Para que uma avaliação seja consistente, é necessário tanto acompanhar os números quanto ouvir as pessoas que lhes atribuem significado.",
+        "C": "Uma avaliação consistente exige acompanhar os números, em vez de escutar as pessoas que lhes atribuem significado.",
+        "D": "A avaliação só será consistente se os números substituírem as percepções das pessoas que utilizam o serviço.",
+        "E": "A consistência da avaliação decorre exclusivamente da escuta dos usuários, independentemente dos indicadores disponíveis."
+      },
+      "resposta": "B",
+      "gabarito": "B",
+      "comentario": "A construção aditiva 'tanto... quanto' mantém a complementaridade das duas atitudes: números + escuta dos usuários.",
+      "correta": true
+    },
+    {
+      "numero": 9,
+      "assunto": "Concordância e regência",
+      "enunciado": "Assinale a frase que apresenta concordância e regência corretas.",
+      "alternativas": {
+        "A": "Os dados que os gestores dispõem são suficientes para orientar as decisões.",
+        "B": "A maior parte dos indicadores revelaram problemas que precisam serem solucionados.",
+        "C": "Faltou aos responsáveis pelo levantamento informações importantes sobre os usuários.",
+        "D": "Os técnicos assistiram à apresentação dos resultados e obedeceram às orientações recebidas.",
+        "E": "A análise dos resultados e a avaliação dos serviços depende de critérios previamente definidos."
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "comentario": "Assistir a (ver/presenciar) e obedecer a: 'assistiram à apresentação' e 'obedeceram às orientações'. Em A, 'de que dispõem'; em B, 'precisam ser'; em C, 'faltaram'; em E, 'dependem'.",
+      "correta": true
+    },
+    {
+      "numero": 10,
+      "assunto": "Coesão e interpretação textual",
+      "enunciado": "Em 'O problema surge quando o indicador, criado para orientar decisões, passa a ser tratado como o próprio objetivo do serviço. Nesse caso, reduzir o tempo registrado pode se tornar mais importante do que resolver efetivamente a demanda', a expressão 'Nesse caso' estabelece coesão ao",
+      "alternativas": {
+        "A": "retomar a situação em que o indicador deixa de ser um instrumento de avaliação e passa a ser considerado o objetivo do serviço.",
+        "B": "antecipar uma proposta de abandono das estatísticas, apresentada no último parágrafo do texto.",
+        "C": "referir-se exclusivamente à dificuldade de identificar diferenças entre bairros e horários de atendimento.",
+        "D": "introduzir uma comparação entre os serviços públicos e privados, estabelecendo uma relação de superioridade.",
+        "E": "retomar a necessidade de eliminar os indicadores quantitativos, considerada indispensável pelo autor."
+      },
+      "resposta": "E",
+      "gabarito": "A",
+      "comentario": "'Nesse caso' retoma a inversão descrita no período anterior: o indicador vira objetivo, em vez de instrumento. É retomada anafórica; o autor não defende eliminar indicadores.",
+      "correta": false
+    }
+  ],
+  "pontosDeRevisao": [
+    {
+      "questao": 3,
+      "tema": "Conectivos: condição × causa",
+      "regra": "'Sem elas, seria...' = 'Se não houvesse estatísticas, seria...' (hipótese condicional)."
+    },
+    {
+      "questao": 4,
+      "tema": "Funções sintáticas de 'lhes'",
+      "regra": "Em 'pessoas que lhes dão sentido', 'lhes' retoma 'números' e é objeto indireto: dar sentido aos números."
+    },
+    {
+      "questao": 7,
+      "tema": "Funções do 'se': apassivador × indeterminação",
+      "regra": "'Se devam abandonar as estatísticas' = 'as estatísticas devam ser abandonadas' (passiva sintética com sujeito paciente)."
+    },
+    {
+      "questao": 10,
+      "tema": "Coesão referencial anafórica",
+      "regra": "'Nesse caso' retoma a situação já descrita em que o indicador se torna o objetivo do serviço."
+    }
+  ],
+  "comparacaoAnterior": {
+    "data": "2026-11-16",
+    "acertos": 9,
+    "totalQuestoes": 10,
+    "percentual": 90,
+    "variacaoPontosPercentuais": -30
+  },
+  "nextAction": "REVISAR_OS_4_ERROS"
+}
