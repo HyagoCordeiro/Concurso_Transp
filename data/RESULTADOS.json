@@ -9784,7 +9784,93 @@
       ],
       "diagnosticValidity": "REPARO_IMEDIATO_NAO_CONFIRMA_RETENCAO",
       "observacao": "Novos valores: hipergeométrica 36/91, Erlang B 9,52%, EIRP 39 dBm, Fresnel 57,5 m, C/N satélite 22,6 dB, Doppler 160 Hz/tempo de coerência pela metade; manter seis erros originais ativos no caderno."
+    },
+    {
+      "id": "QTI10-D1-20261118",
+      "data": "2026-11-18",
+      "studyDateLocal": "2026-11-18",
+      "tipo": "QTI-10",
+      "titulo": "Revisão D1 — Fourier 2.3, LIT 3.1, ACF/PSD 1.3",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 6,
+      "erros": 4,
+      "percentual": 60,
+      "status": "COMPLETED",
+      "origem": "Respostas fornecidas pelo aluno na conversa de 18/11/2026; questões autorais em estilo CESGRANRIO/Transpetro",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI10_D1_2026-11-18.md",
+      "reportFile": "qti/QTI10_D1_2026-11-18.md",
+      "tempoTotalSec": null,
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "C",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "E",
+        "A",
+        "D",
+        "B",
+        "E",
+        "C"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "Q04",
+          "editalItem": "3",
+          "unitId": "3.1",
+          "topico": "LIT polos -2±j3 e oscilação amortecida",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "INTERPRETACAO_POLOS_ESTABILIDADE_BIBO",
+          "retencao": "RETESTE_ESPACADO_PENDENTE"
+        },
+        {
+          "questionId": "Q05",
+          "editalItem": "3",
+          "unitId": "3.1",
+          "topico": "LIT polos 1±j3 e instabilidade oscilatória",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "INTERPRETACAO_POLOS_ESTABILIDADE_BIBO",
+          "retencao": "RETESTE_ESPACADO_PENDENTE"
+        },
+        {
+          "questionId": "Q07",
+          "editalItem": "3",
+          "unitId": "3.1",
+          "topico": "Polos ±j4 e estabilidade BIBO",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "errorType": "INTERPRETACAO_POLOS_ESTABILIDADE_BIBO",
+          "retencao": "RETESTE_ESPACADO_PENDENTE"
+        },
+        {
+          "questionId": "Q08",
+          "editalItem": "1",
+          "unitId": "1.3",
+          "topico": "PSD bilateral de senoide de fase aleatória",
+          "respostaEscolhida": "C",
+          "gabarito": "B",
+          "errorType": "FATOR_2_PSD_BILATERAL",
+          "retencao": "RETESTE_ESPACADO_PENDENTE"
+        }
+      ],
+      "diagnosticValidity": "RETESTE_D1_INDEPENDENTE",
+      "observacao": "Fourier 3/3; LIT 1/4; ACF/PSD 2/3. Os erros seguem para D3 e D7."
     }
   ],
-  "updatedAt": "2026-11-17"
+  "updatedAt": "2026-11-18"
 }
