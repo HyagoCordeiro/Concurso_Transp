@@ -363,3 +363,22 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | 13 | 4.2 | `8?` / A | SEM_ALTERNATIVA | 8 kHz é taxa de amostragem; 32 níveis = 5 bits/amostra; resultado 40 kbit/s | **Não classificar como erro conceitual**; questão sem resposta válida |
 
 **Diretriz expressa de 18/11:** reta final = cobrir todo o edital, especialmente subitens menos vistos. Evitar repetição excessiva de Probabilidade/Fourier e de qualquer tópico de baixa rentabilidade; correção curta e reteste apenas quando houver bom custo-benefício. Revisão semanal em 21/11 é opcional e focada nas lacunas de maior impacto.
+
+
+## 18/11/2026 — QTI-20 TecConcursos (11/20)
+
+**Registro:** [QTI20_TEC_2026-11-18_RESULTADO.md](QTI20_TEC_2026-11-18_RESULTADO.md). Questões adaptadas dos cadernos TecConcursos, sem gabarito antecipado. Nove erros; correção conceitual breve e sem reparo forçado.
+
+| Q | Item | Marcou / correto | Conteúdo | Regra resumida | Tipo |
+|---|---|---|---|---|---|
+| 2 | 4.1 | C / B | SSB versus AM com portadora | SSB ocupa apenas uma banda lateral; AM convencional transmite portadora e duas bandas laterais, com pior eficiência de potência/espectro. | CONCEITO |
+| 3 | 4.2 | D / E | BER — 16-ASK, 32-ASK e 16-QAM | Maior potência melhora BER; 32-ASK piora separação entre níveis com potência média fixa; 16-QAM usual pode melhorar BER em comparação com 16-ASK. | CONCEITO |
+| 4 | 4.1 | C / A | DQPSK e detecção diferencial não coerente | DQPSK admite detecção diferencial, sem recuperação de fase absoluta da portadora; 8-PSK coerente exige referência de fase. | CONCEITO |
+| 5 | 4.2 | D / C | Compressão de fonte e taxa simbólica 32-QAM | 10 Mbit/s ÷ 20 = 0,5 Mbit/s; 32-QAM = 5 bits/símbolo; taxa 100 kbaud. | CALCULO |
+| 8 | 7.2 | A / D | Modulação adaptativa em enlace com desvanecimento | Alterar ordem de modulação e taxa em função da qualidade do canal é modulação adaptativa. | CONCEITO |
+| 9 | 6.1 | C / A | BPSK, comprimento de onda e Nyquist baseband | 750 MHz ⇒ λ=0,4 m (40 cm); BPSK com 16 kbit/s = 16 kbaud; largura mínima em banda-base ideal = 8 kHz. | CALCULO |
+| 12 | 5.2 | A / D | Volume de áudio PCM bruto | 40.000 amostras/s × 16 bits × 210 s ÷8 ÷10^6 =16,8 MB. | CALCULO |
+| 13 | 5.2 | B / E | Filtro passa-baixas — alargamento temporal do pulso | Filtragem passa-baixas retira componentes altas do pulso retangular: arredondamento e espalhamento temporal, com redução do pico quando a frequência de corte é suficientemente baixa. | CONCEITO |
+| 14 | 12.1 | C / A | Custo mínimo de fibra com orçamento de perdas | Perdas fixas 2 conectores×1 + emenda 2 =4 dB; X em 10km + Z em 20km =1+10 dB, total 15dB; custo 10+2=12 UM; é a opção de menor custo viável. | CALCULO |
+
+**Estratégia:** valorizar a rotatividade de temas. Priorizar ajustes em modulação, cálculos de telecomunicações e fibra apenas quando encaixarem em questões inéditas. Não criar bateria repetitiva automática.
