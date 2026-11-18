@@ -349,3 +349,17 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - Registrar como **revisão de Inglês separada**, para não duplicar resultados de futuros simulados de Português e Inglês.
 
 **Próximos marcos:** D1 18/11 (Fourier/LIT/ruído branco); D3 20/11 (seis erros QTI-13 e inglês), revisão semanal 21/11 e D7 24/11. Manter as questões de 16/11 já pendentes no caderno, sobretudo classificação de H(s) como filtro.
+
+
+## 18/11/2026 — QTI-50 completo (46/50) — 3 erros e 1 sem alternativa
+
+**Registro da sessão:** [QTI50_2026-11-18_RESULTADO_FINAL.md](QTI50_2026-11-18_RESULTADO_FINAL.md). Cinco blocos de 10; 46 acertos (92%), três erros e uma questão não respondida. Questões autorais/adaptadas; não usar o índice como nota predita em prova original.
+
+| Q | Item | Marcou / correto | Tipo | Regra objetiva | Situação |
+|---|---|---|---|---|---|
+| 26 | 11.3 | B / D | CONCEITO | S=1 apenas no último rótulo (inferior); rótulos acima têm S=0. Pilha com 3: 0,0,1. | PENDENTE_RETESTE sem reforço obrigatório |
+| 37 | 12.1 | E / A | CALCULO | 50 ns/km × 8 km=400 ns; aproximação do enunciado R≈1/Δt=2,5 Mbit/s. | PENDENTE_RETESTE sem reforço obrigatório |
+| 44 | 8.1 | D / A | CONCEITO | GEO aproximadamente fixo para estação terrestre ⇒ Doppler muito pequeno; não oferece maior facilidade de cobertura direta das regiões polares. | PENDENTE_RETESTE sem reforço obrigatório |
+| 13 | 4.2 | `8?` / A | SEM_ALTERNATIVA | 8 kHz é taxa de amostragem; 32 níveis = 5 bits/amostra; resultado 40 kbit/s | **Não classificar como erro conceitual**; questão sem resposta válida |
+
+**Diretriz expressa de 18/11:** reta final = cobrir todo o edital, especialmente subitens menos vistos. Evitar repetição excessiva de Probabilidade/Fourier e de qualquer tópico de baixa rentabilidade; correção curta e reteste apenas quando houver bom custo-benefício. Revisão semanal em 21/11 é opcional e focada nas lacunas de maior impacto.
