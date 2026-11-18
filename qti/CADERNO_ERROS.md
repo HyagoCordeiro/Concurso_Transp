@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 16/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 17/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -304,3 +304,48 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **Q02 (3.4), C/D: identificação de H(s)=40s/(s²+40s+400).** Passa-faixas: ganho nulo em DC e também para ω→∞, ganho máximo em faixa intermediária (ω=20 rad/s). **Reincidência nº 3** em filtros (QTI30 Q03 e QTI6 Q03). **PENDENTE_REPARO**, reteste D1 17/11, D3 19/11 e sábado 21/11, com ensino de regra/representação nova antes da próxima questão.
 - **Recuperação parcial no mesmo dia:** probabilidade 'exatamente um' (Q01) correta; paridade em dois bits na mesma linha (Q03) correta; ruído branco de média não nula (Q04) correto. Esses acertos **não comprovam retenção espaçada**.
 - **Outros seis acertos:** Carson, Fresnel, MP-BGP RT, SNMPv3 authPriv, STM-4 e PCM. Nenhum outro erro neste bloco.
+
+
+## 17/11/2026 — Sessão técnica: QTI-30 (27/30), QTI-13 difícil (7/13) e recuperações
+
+**[Relatório detalhado](SESSAO_TECNICA_2026-11-17.md).** Questões **autorais estilo CESGRANRIO**; os resultados guiados/imediatos não autorizam baixa de erro. Não apagar ocorrências antigas.
+
+### QTI-30 — 3 erros / 30
+
+| Q | Item | Marcou / correto | Falha identificada | Status |
+|---|---|---|---|---|
+| 02 | 2.3 | A / E | Fourier: confundiu sinal da fase no atraso x(t−3), cuja transformada usa e^(−j6πf) | REPARO_IMEDIATO_CORRETO; RETESTE_PENDENTE |
+| 03 | 3.1 | B / A | Polos complexos −2±j2 não significam instabilidade; são amortecidos | REPARO_IMEDIATO_CORRETO; RETESTE_PENDENTE |
+| 21 | 1.3 | E / B | Autocorrelação da senoide de fase aleatória é cossenoidal, não impulso de Dirac | REPARO_PARCIAL; RETESTE_PENDENTE |
+
+### QTI-6 de reparo de sinais — 4 erros / 6
+
+| Q | Item | Marcou / correto | Falha identificada |
+|---|---|---|---|
+| 01 | 2.3 | A / C | Confundiu adiantamento temporal x(t+2) e sinal da fase de Fourier |
+| 03 | 3.1 | C / D | Polos 1±j2: parte real positiva => instabilidade e oscilação crescente |
+| 04 | 3.1 | E / B | Polos ±j3: sobre eixo imaginário, não à direita; sistema não BIBO estável |
+| 06 | 1.3 | B / E | PSD da senoide aleatória tem **duas** linhas em ±f₀, não uma |
+
+**Reforço contextualizado, após estudo das questões históricas:** LIT com EDO/valor final **1/1** e Fourier por gráficos (pulso negativo/positivo, dois positivos, dois negativos, primeiro positivo/segundo negativo) **4/4**. Acertos guiados; D3/D7 pendentes. Ruído branco/ACF em afirmativas: **1/2** — erro na questão 01 (E/C): afirmou equivalência incorreta entre PSD plana do ruído branco e PSD discreta de senoide com fase aleatória. Questão 02 correta (D/D).
+
+### QTI-13 difícil — 6 erros / 13
+
+| Q | Item | Marcou / correto | Falha e ponto de atenção | Estado após QTI-6 (6/6) |
+|---|---|---|---|---|
+| 01 | 1.2 | D / E | Hipergeométrica: exatamente 2 defeitos em 4, sem reposição; combinações favoráveis / total | Reparo correto; reteste pendente |
+| 05 | 5.1 | E / A | Erlang B: incluir os termos k=0…N no denominador | Reparo correto; reteste pendente |
+| 06 | 6.1 | A / B | Diretividade ≠ ganho: aplicar eficiência de radiação antes de calcular EIRP | Reparo correto; reteste pendente |
+| 07 | 7.1 | D / C | Fresnel: subtrair **tanto** 60% de r₁ quanto a saliência efetiva da Terra | Reparo correto; reteste pendente |
+| 08 | 8.3 | D / E | C/N satélite: converter a banda de 10 MHz para 70 dBHz ao passar de C/N₀ para C/N | Reparo correto; reteste pendente |
+| 09 | 9.2 | C / D | Doppler correto (300 Hz), mas tempo de coerência **diminui** quando Doppler aumenta | Reparo correto; reteste pendente |
+
+**QTI-6 após QTI-13:** 6/6, com novos valores. Ver relatório para todas as respostas; não atribuir 100% de retenção de longo prazo.
+
+### Reteste de 16/11 e Inglês — erros adicionais observados em 17/11
+
+- Reteste de 12: **10/12**. Q04 (exponencial sem memória): confundiu sobreviver mais 4 h com falhar nesse período (C/E). Q11 (idiom *speak volumes*): significa demonstrar evidências fortes (D/A).
+- Micro-reparo de 4: **3/4**. Exponencial 2/2, idioms 1/2; erro Q03 *not a walk in the park*: significa que foi difícil; não implica atraso do projeto (D/C).
+- Registrar como **revisão de Inglês separada**, para não duplicar resultados de futuros simulados de Português e Inglês.
+
+**Próximos marcos:** D1 18/11 (Fourier/LIT/ruído branco); D3 20/11 (seis erros QTI-13 e inglês), revisão semanal 21/11 e D7 24/11. Manter as questões de 16/11 já pendentes no caderno, sobretudo classificação de H(s) como filtro.
