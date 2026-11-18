@@ -382,3 +382,16 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | 14 | 12.1 | C / A | Custo mínimo de fibra com orçamento de perdas | Perdas fixas 2 conectores×1 + emenda 2 =4 dB; X em 10km + Z em 20km =1+10 dB, total 15dB; custo 10+2=12 UM; é a opção de menor custo viável. | CALCULO |
 
 **Estratégia:** valorizar a rotatividade de temas. Priorizar ajustes em modulação, cálculos de telecomunicações e fibra apenas quando encaixarem em questões inéditas. Não criar bateria repetitiva automática.
+
+
+## 18/11/2026 — QTI-20 TecConcursos Rodada 2 (17/20)
+
+[Relatório completo](QTI20_TEC_R2_2026-11-18_RESULTADO.md). 20 questões adaptadas, 17 acertos, 3 erros. Primeira parte 9/10; segunda 8/10. Nenhum reforço obrigatório.
+
+| Q | Nº TecConcursos | Item edital | Marcou / correta | Tipo | Regra curta |
+|---|---|---|---|---|---|
+| 03 | 415 | 8 | B / D | CONCEITO | Pseudodistâncias de quatro satélites independentes permitem estimar x, y, z e desvio do relógio do receptor; três apenas não bastam ao posicionamento tridimensional usual. |
+| 14 | 337 | 12 | A / C | CONCEITO | Diferenças físicas dos núcleos são fatores intrínsecos; desalinhamento lateral é extrínseco; interfaces com mudança de índice produzem reflexões de Fresnel. |
+| 18 | 440 | 10 | D / B | CONCEITO | CSMA coordena acesso ao meio e não mitiga o canal multipercurso; OFDM, equalização, diversidade MIMO e codificação com interleaving podem reduzir efeitos ou erros resultantes do multipercurso. |
+
+**Ação:** manter como pendentes para revisão oportunista de temas diferentes; não repetir erros em baterias compulsórias. O objetivo da reta final é cobertura dos itens do edital.
