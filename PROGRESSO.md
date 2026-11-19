@@ -759,3 +759,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **9 erros originais:** exponencial (2), PCM (1), Fourier X(0) (1), Bayes (1), Poisson (1), Fourier escala/inversão (1), estabilidade Z/ROC (1), tag 802.1Q (1). Reforços corretos não encerram pendência de retenção.
 - **Revisões D3 22/11 e D7 26/11**; tempo líquido não aferido; questões autorais/adaptadas estilo CESGRANRIO.
 - [Fechamento detalhado](qti/FECHAMENTO_DIA_2026-11-19.md) · [QTI-20 com questões, respostas e gabarito](qti/QTI20_MISTO_2026-11-19.json) · [Caderno permanente](qti/CADERNO_ERROS.md).
+
+
+### 19/11/2026 — Adendo QTI-30 e reforço final (fechamento definitivo)
+
+- **QTI-30 por rodada:** 4/10 (40%), 10/10 (100%), 8/10 (80%) → **22/30 (73,3%)**; gabarito e respostas arquivados em [qti/QTI30_2026-11-19.json](qti/QTI30_2026-11-19.json) e [versão legível](qti/QTI30_2026-11-19.md).
+- **8 erros originais do QTI-30:** autocorrelação/variância (Q01), hipergeométrica (Q02), derivação Fourier (Q03), SIP (Q06), Doppler (Q09), dispersão cromática (Q10), Nyquist bits/baud (Q24), perda por polarização (Q26).
+- **Reforço de um por erro:** 7/8 = 87,5%; único erro R3 derivação de Fourier (fator constante 2 omitido); associado a Q03 no caderno.
+- **Dia completo:** **79/97 = 81,4%**, incluindo reforços. Comparações de simulado devem usar **22/30** isoladamente. Em QTI-30 + reforço: 29/38 acertos, mas 8 são exercícios de correção imediata.
+- **Pendências D1 (20/11) Fourier, D3 (22/11) oito temas e D7 (26/11) oito temas.** Sem tempo líquido aferido e sem considerar reforço imediato como retenção validada.
