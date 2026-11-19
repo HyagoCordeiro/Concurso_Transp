@@ -395,3 +395,22 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | 18 | 440 | 10 | D / B | CONCEITO | CSMA coordena acesso ao meio e não mitiga o canal multipercurso; OFDM, equalização, diversidade MIMO e codificação com interleaving podem reduzir efeitos ou erros resultantes do multipercurso. |
 
 **Ação:** manter como pendentes para revisão oportunista de temas diferentes; não repetir erros em baterias compulsórias. O objetivo da reta final é cobertura dos itens do edital.
+
+
+## 19/11/2026 — QTI20 + quatro blocos (9 erros originais)
+
+**[Fechamento](FECHAMENTO_DIA_2026-11-19.md)** · **[QTI20 e banco de questões](QTI20_MISTO_2026-11-19.json)**. Dia completo: **50/59 = 84,7%**, incluindo **9 questões de reforço imediato**; QTI-20 isolado **15/20 = 75%**. Sem Português e Inglês. Questões autorais no estilo CESGRANRIO, não oficiais literais.
+
+| Origem | Q | Item | Marcou→Gabarito | Erro e regra | Situação |
+|---|---:|---|---|---|---|
+| BLOCO1-PROB-20261119 | Q03 | 1.2 | D→A | Exponencial: sobrevida por mais quatro horas: P(T>4)=e^-1; marcou complemento de falha | Reparo imediato correto; D3/D7 pendentes |
+| BLOCO1-PROB-20261119 | Q04 | 1.2 | A→B | Exponencial: falhar até três horas: P(T≤3)=1-e^-1/2; marcou sobrevida | Reparo imediato correto; D3/D7 pendentes |
+| BLOCO3-MOD-OPTICA-20261119 | Q02 | 4.2 | B→A | PCM: 8000 amostras/s de 8 bits: Rb=8000×8=64 kb/s; 3kHz é frequência máxima do sinal | Sem reteste; D3/D7 pendentes |
+| BLOCO4-SINAIS-20261119 | Q01 | 2.3 | C→D | Transformada de Fourier X(0): área do pulso: X(0)=2×4=8, não zero | Reparo imediato correto; D3/D7 pendentes |
+| QTI20-MISTO-20261119 | Q01 | 1.1 | B→C | Bayes: P(B|erro) com caminhos A/B: 0,015/(0,014+0,015)=51,7% | Sem reteste; D3/D7 pendentes |
+| QTI20-MISTO-20261119 | Q02 | 1.2 | B→A | Poisson: nenhuma falha em trinta minutos: P(0)=e^-1 e não 1-e^-1 | Sem reteste; D3/D7 pendentes |
+| QTI20-MISTO-20261119 | Q03 | 2.3 | B→E | Fourier: inversão e compressão temporal x(-2t): Y(ω)=1/2 X(-ω/2) | Sem reteste; D3/D7 pendentes |
+| QTI20-MISTO-20261119 | Q06 | 3.5 | D→A | Transformada Z: ROC e estabilidade BIBO de sistema causal: ROC |z|>1,2, exclui circunferência unitária | Sem reteste; D3/D7 pendentes |
+| QTI20-MISTO-20261119 | Q16 | 10.3 | B→A | IEEE 802.1Q: tamanho da tag VLAN: 4 bytes: TPID 2 + TCI 2 | Sem reteste; D3/D7 pendentes |
+
+**Retestes D3: 22/11/2026; D7: 26/11/2026.** Não baixar erros apenas por reforços feitos em 19/11. Preservar histórico e priorizar Bayes, Poisson, Fourier X(0)/escala, Z ROC, PCM e IEEE 802.1Q.
