@@ -750,3 +750,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Sem cronômetro; **não é prova histórica oficial**. O acerto integral neste treino não elimina erros de inferência e expressões idiomáticas encontrados em blocos anteriores, que permanecem em revisão.
 - **Registro independente** do fechamento de cinco blocos de 16/11 (32/37); não somar àquele cronograma.
 - [Relatório completo](qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.md) · [Dados estruturados e antirrepetição](qti/QTI10_INGLES_NETWORKS_RENEWABLES_2026-11-16.json).
+
+
+### 19/11/2026 — Dia técnico completo (sem Português e Inglês)
+
+- **50/59 (84,7%)**, distribuídos em quatro blocos, reforços e QTI-20; **32/36** antes do QTI, **15/20 (75%)** no QTI-20, **3/3** no reforço final exponencial. Os **9 reforços do dia não são simulado independente**.
+- **Bloco 1 6/8 + reforço 4/4**, **Bloco 2 8/8**, **Bloco 3 7/8**, **Bloco 4 5/6 + reforço 2/2**, **QTI-20 15/20**, **exponencial final 3/3**. Não houve Português/Inglês.
+- **9 erros originais:** exponencial (2), PCM (1), Fourier X(0) (1), Bayes (1), Poisson (1), Fourier escala/inversão (1), estabilidade Z/ROC (1), tag 802.1Q (1). Reforços corretos não encerram pendência de retenção.
+- **Revisões D3 22/11 e D7 26/11**; tempo líquido não aferido; questões autorais/adaptadas estilo CESGRANRIO.
+- [Fechamento detalhado](qti/FECHAMENTO_DIA_2026-11-19.md) · [QTI-20 com questões, respostas e gabarito](qti/QTI20_MISTO_2026-11-19.json) · [Caderno permanente](qti/CADERNO_ERROS.md).
