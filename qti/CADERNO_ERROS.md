@@ -414,3 +414,25 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | QTI20-MISTO-20261119 | Q16 | 10.3 | B→A | IEEE 802.1Q: tamanho da tag VLAN: 4 bytes: TPID 2 + TCI 2 | Sem reteste; D3/D7 pendentes |
 
 **Retestes D3: 22/11/2026; D7: 26/11/2026.** Não baixar erros apenas por reforços feitos em 19/11. Preservar histórico e priorizar Bayes, Poisson, Fourier X(0)/escala, Z ROC, PCM e IEEE 802.1Q.
+
+
+## 19/11/2026 — QTI-30 (três rodadas) e reforço dos 8 erros
+
+**[QTI-30 completo](QTI30_2026-11-19.md)** · **[JSON de questões e respostas](QTI30_2026-11-19.json)**. Rodadas: **4/10**, **10/10**, **8/10** = **22/30 (73,3%)**. Reforço 8 temas **7/8 (87,5%)**. **Todos os exercícios autorais estilo CESGRANRIO; não são questões oficiais da banca.**
+
+| Questão | Tema / item | Marcou → correta | Diagnóstico | Reforço imediato |
+|---|---|---|---|---|
+| Q01 | Variância e autocorrelação WSS (1.3) | B → E | σ²=R_X(0)-μ²=13−9=4 | R1: ACERTO |
+| Q02 | Distribuição hipergeométrica sem reposição (1.2) | E → A | C(5,2)C(7,1)/C(12,3)=7/22 | R2: ACERTO |
+| Q03 | Derivação da Transformada de Fourier (2.3) | B → C | F{x'(t)}=jωX(ω); x=e^−3t u(t) → Y=jω/(3+jω); no reforço x=2e^−2t u(t) → 2jω/(2+jω) | R3: ERRO |
+| Q06 | SIP: INVITE, 200 OK, ACK e REGISTER (5.3) | A → E | ACK confirma 200 OK de INVITE; REGISTER registra endereço; BYE encerra sessão | R4: ACERTO |
+| Q09 | Efeito Doppler e conversão de km/h (9.2) | B → A | 72 km/h=20 m/s; fd=v f/c=120Hz | R5: ACERTO |
+| Q10 | Dispersão cromática em fibra monomodo (12.1) | D → C | Δt=16×25×0,5=200 ps | R6: ACERTO |
+| Q24 | Nyquist: baud versus taxa de bits (4.1) | B → A | Rb=2B log₂M=2×2000×3=12000 bit/s | R7: ACERTO |
+| Q26 | Perda por incompatibilidade de polarização (6.1) | A → B | ηp=cos²60°=1/4; L=−10log10(1/4)≈6dB | R8: ACERTO |
+
+**Erro adicional R3 (Fourier, 2.3):** marcou E, correta B. Para (x(t)=2e^{-2t}u(t)), (X(\omega)=2/(2+j\omega)) e (Y(\omega)=2j\omega/(2+j\omega)). Houve perda do fator 2. É um novo erro observado no **reforço**, não uma nona questão errada no QTI-30. Manter associado ao registro Q03 e no caderno estruturado.
+
+**Retestes:** D1 Fourier em 20/11/2026; D3 oito temas em 22/11/2026; D7 oito temas em 26/11/2026. **Nada consolidado apenas por 7/8 no reforço imediato.**
+
+**Balanço técnico completo do dia:** 79/97 = 81,4%, sendo 50/59 prévios, 22/30 do QTI-30 e 7/8 do novo reforço. Não usar 97 questões como tamanho de simulado independente.
