@@ -1,0 +1,858 @@
+{
+  "id": "QTI30-20261119",
+  "studyDateLocal": "2026-11-19",
+  "tipo": "QTI-30",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "sourceExplanation": "Enunciados e alternativas reconstituídos do chat em formato compacto, mantendo valores e opções; não são textos originais CESGRANRIO. Referência de estilo: QConcursos e provas Transpetro.",
+  "tempoTotalSec": null,
+  "rodadas": [
+    {
+      "round": 1,
+      "range": "Q01-Q10",
+      "answers": [
+        "B",
+        "E",
+        "B",
+        "D",
+        "B",
+        "A",
+        "B",
+        "D",
+        "B",
+        "D"
+      ],
+      "answerKey": [
+        "E",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "score": 4,
+      "total": 10
+    },
+    {
+      "round": 2,
+      "range": "Q11-Q20",
+      "answers": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "answerKey": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "score": 10,
+      "total": 10
+    },
+    {
+      "round": 3,
+      "range": "Q21-Q30",
+      "answers": [
+        "D",
+        "B",
+        "E",
+        "B",
+        "C",
+        "A",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "answerKey": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "score": 8,
+      "total": 10
+    }
+  ],
+  "total": 30,
+  "totalValid": 30,
+  "acertos": 22,
+  "erros": 8,
+  "percentual": 73.3,
+  "questoes": [
+    {
+      "number": 1,
+      "id": "QTI30-20261119-Q01",
+      "unitId": "1.3",
+      "enunciado": "Processo WSS: média 3, R_X(τ)=9+4e^(-2|τ|). Qual a variância?",
+      "alternativas": {
+        "A": "9",
+        "B": "13",
+        "C": "3",
+        "D": "2",
+        "E": "4"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "correct": false
+    },
+    {
+      "number": 2,
+      "id": "QTI30-20261119-Q02",
+      "unitId": "1.2",
+      "enunciado": "Lote de 12 módulos: 5 defeituosos e 7 bons. Selecionam-se 3 sem reposição. P(exatamente 2 defeituosos)?",
+      "alternativas": {
+        "A": "7/22",
+        "B": "1/4",
+        "C": "5/12",
+        "D": "7/12",
+        "E": "1/22"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "number": 3,
+      "id": "QTI30-20261119-Q03",
+      "unitId": "2.3",
+      "enunciado": "x(t)=e^(-3t)u(t), X(ω)=1/(3+jω). Para y(t)=dx/dt (derivada generalizada com impulso), Y(ω)=?",
+      "alternativas": {
+        "A": "1/(3+jω)²",
+        "B": "-jω/(3+jω)",
+        "C": "jω/(3+jω)",
+        "D": "(3+jω)/(jω)",
+        "E": "3/(3+jω)"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "correct": false
+    },
+    {
+      "number": 4,
+      "id": "QTI30-20261119-Q04",
+      "unitId": "3.1",
+      "enunciado": "Sistema LIT: equação característica s³+2s²+3s+K=0. Pelo critério Routh-Hurwitz, quais K garantem polos estritamente no semiplano esquerdo?",
+      "alternativas": {
+        "A": "K<0",
+        "B": "K>6",
+        "C": "0<K<3",
+        "D": "0<K<6",
+        "E": "K=6"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 5,
+      "id": "QTI30-20261119-Q05",
+      "unitId": "4.2",
+      "enunciado": "Fonte 12 Mbit/s; código de canal taxa 3/4; modulação 16-QAM. Qual a taxa de símbolos necessária?",
+      "alternativas": {
+        "A": "3 Mbaud",
+        "B": "4 Mbaud",
+        "C": "6 Mbaud",
+        "D": "12 Mbaud",
+        "E": "16 Mbaud"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "number": 6,
+      "id": "QTI30-20261119-Q06",
+      "unitId": "5.3",
+      "enunciado": "Estabelecimento SIP: INVITE → 180 Ringing → 200 OK. Requisição originadora que confirma 200 OK?",
+      "alternativas": {
+        "A": "REGISTER",
+        "B": "BYE",
+        "C": "CANCEL",
+        "D": "PRACK",
+        "E": "ACK"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "correct": false
+    },
+    {
+      "number": 7,
+      "id": "QTI30-20261119-Q07",
+      "unitId": "6.1",
+      "enunciado": "Transmissor 26 dBm; perdas cabos/conectores 2 dB; antena 14 dBi. EIRP?",
+      "alternativas": {
+        "A": "40 dBm",
+        "B": "38 dBm",
+        "C": "36 dBm",
+        "D": "12 dBm",
+        "E": "24 dBm"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "number": 8,
+      "id": "QTI30-20261119-Q08",
+      "unitId": "8.3",
+      "enunciado": "Enlace satélite: EIRP 50 dBW, perda 200 dB, G/T 5 dB/K, Boltzmann -228,6 dBW/(K Hz). C/N0?",
+      "alternativas": {
+        "A": "78,6 dBHz",
+        "B": "73,6 dBHz",
+        "C": "88,6 dBHz",
+        "D": "83,6 dBHz",
+        "E": "33,6 dBHz"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 9,
+      "id": "QTI30-20261119-Q09",
+      "unitId": "9.2",
+      "enunciado": "Estação móvel a 72 km/h na direção da ERB, f=1,8 GHz, c=3×10⁸ m/s. Módulo de Doppler máximo?",
+      "alternativas": {
+        "A": "120 Hz",
+        "B": "12 Hz",
+        "C": "60 Hz",
+        "D": "240 Hz",
+        "E": "1200 Hz"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "number": 10,
+      "id": "QTI30-20261119-Q10",
+      "unitId": "12.1",
+      "enunciado": "Fibra monomodo L=25 km, D=16 ps/(nm km), largura fonte 0,5 nm. Alargamento de pulso cromático?",
+      "alternativas": {
+        "A": "20 ps",
+        "B": "100 ps",
+        "C": "200 ps",
+        "D": "400 ps",
+        "E": "800 ps"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "correct": false
+    },
+    {
+      "number": 11,
+      "id": "QTI30-20261119-Q11",
+      "unitId": "10.1",
+      "enunciado": "IEEE 802.11ax: que característica descreve o uso do OFDMA?",
+      "alternativas": {
+        "A": "Elimina controle de acesso ao meio",
+        "B": "Exige canal exclusivo de 160 MHz",
+        "C": "Aloca grupos de subportadoras a vários usuários em mesma oportunidade",
+        "D": "Substitui OFDM por CDMA",
+        "E": "Todos ocupam mesma subportadora sem interferência"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "number": 12,
+      "id": "QTI30-20261119-Q12",
+      "unitId": "11.2",
+      "enunciado": "OSPFv2 p2p em Ethernet na mesma área com conectividade/autenticação; Hello 10 s num roteador e 20 s no outro. Resultado?",
+      "alternativas": {
+        "A": "Sem adjacência por incompatibilidade Hello",
+        "B": "Adjacência com menor Hello",
+        "C": "Adjacência sem rotas externas",
+        "D": "Adjacência só com custos iguais",
+        "E": "Eleição DR/BDR resolve divergência"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true
+    },
+    {
+      "number": 13,
+      "id": "QTI30-20261119-Q13",
+      "unitId": "11.2",
+      "enunciado": "MPLS: LSR penúltimo recebe instrução Implicit Null de rótulo. O que fazer na operação PHP?",
+      "alternativas": {
+        "A": "Acrescentar 2 rótulos",
+        "B": "Substituir por VLAN 802.1Q",
+        "C": "Descartar",
+        "D": "Remover rótulo antes do LER final",
+        "E": "Manter rótulo obrigatoriamente"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 14,
+      "id": "QTI30-20261119-Q14",
+      "unitId": "11.3",
+      "enunciado": "MPLS-TE com RSVP-TE: finalidade em caminhos com restrições de recursos?",
+      "alternativas": {
+        "A": "Substitui MP-BGP VPNv4",
+        "B": "Sinaliza LSPs de engenharia e reserva banda",
+        "C": "Criptografa MPLS",
+        "D": "Elimina estado nos LSRs",
+        "E": "Atribui IP via DHCP"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "number": 15,
+      "id": "QTI30-20261119-Q15",
+      "unitId": "11.4",
+      "enunciado": "VPN IPSec ESP em modo túnel: estrutura do encapsulamento?",
+      "alternativas": {
+        "A": "Só dados aplicação sem IP",
+        "B": "Endereços IP trocados por MAC",
+        "C": "Autenticação sem possibilidade de criptografia",
+        "D": "IP original como cabeçalho externo sem outro IP",
+        "E": "Pacote IP original completo encapsulado com novo cabeçalho externo"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "number": 16,
+      "id": "QTI30-20261119-Q16",
+      "unitId": "12.4",
+      "enunciado": "DWDM em λ=1550 nm, espaçamento Δf=100 GHz, c=3×10⁸ m/s. Aproxime |Δλ|≈λ²Δf/c.",
+      "alternativas": {
+        "A": "0,8 nm",
+        "B": "0,08 nm",
+        "C": "8 nm",
+        "D": "80 nm",
+        "E": "0,4 nm"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true
+    },
+    {
+      "number": 17,
+      "id": "QTI30-20261119-Q17",
+      "unitId": "5.1",
+      "enunciado": "Erlang C: chamadas aguardam em fila quando atendentes ocupados; o que a fórmula permite analisar?",
+      "alternativas": {
+        "A": "Probabilidade bloqueio de chamadas perdidas",
+        "B": "Potência TDM",
+        "C": "Probabilidade de espera em fila",
+        "D": "BER telefônico",
+        "E": "Atenuação em cabo"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "number": 18,
+      "id": "QTI30-20261119-Q18",
+      "unitId": "6.1",
+      "enunciado": "Linha sem perdas Z0=50 Ω e antena resistiva ZL=75 Ω. Γ=|(ZL−Z0)/(ZL+Z0)|; VSWR=(1+Γ)/(1−Γ).",
+      "alternativas": {
+        "A": "1,2",
+        "B": "2,0",
+        "C": "0,5",
+        "D": "1,5",
+        "E": "3,0"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 19,
+      "id": "QTI30-20261119-Q19",
+      "unitId": "4.2",
+      "enunciado": "Canal B=3 MHz, SNR linear=15. Capacidade Shannon C=B log₂(1+SNR)?",
+      "alternativas": {
+        "A": "6 Mbit/s",
+        "B": "12 Mbit/s",
+        "C": "15 Mbit/s",
+        "D": "18 Mbit/s",
+        "E": "45 Mbit/s"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "number": 20,
+      "id": "QTI30-20261119-Q20",
+      "unitId": "13.2",
+      "enunciado": "PDFF/Anatel, atribuição versus destinação de radiofrequências no Brasil; qual alternativa está correta?",
+      "alternativas": {
+        "A": "Atribuição equivale autorização individual de estação",
+        "B": "Faixa destinada vira propriedade primeira operadora",
+        "C": "Destinação só da UIT sem Anatel",
+        "D": "Atribuição se limita à radiodifusão sonora",
+        "E": "Atribuição relaciona faixas a serviços radiocomunicação/radioastronomia; destinação contempla aplicações/serviços brasileiros conforme regras"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "number": 21,
+      "id": "QTI30-20261119-Q21",
+      "unitId": "1.3",
+      "enunciado": "Processo Poisson homogêneo: ocorreram exatamente três falhas em 1h. P(exatamente uma falha nos primeiros 15 min | 3 em 1h)?",
+      "alternativas": {
+        "A": "9/64",
+        "B": "3/64",
+        "C": "27/256",
+        "D": "27/64",
+        "E": "37/64"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 22,
+      "id": "QTI30-20261119-Q22",
+      "unitId": "2.4",
+      "enunciado": "x(t)=u(t)−u(t−3), h(t)=e^(−2t)u(t), sistema inicialmente em repouso. Encontre y(1).",
+      "alternativas": {
+        "A": "1−e^−2",
+        "B": "(1−e^−2)/2",
+        "C": "(1+e^−2)/2",
+        "D": "(1−e^−6)/2",
+        "E": "e^−2"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "number": 23,
+      "id": "QTI30-20261119-Q23",
+      "unitId": "3.5",
+      "enunciado": "H(z)=(1−0,4z^−1)/(1+0,2z^−1), causal e inicialmente em repouso. Impulso de entrada: (h[0],h[1])?",
+      "alternativas": {
+        "A": "(1,−0,4)",
+        "B": "(0,1)",
+        "C": "(1,+0,6)",
+        "D": "(0,4,−0,2)",
+        "E": "(1,−0,6)"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "number": 24,
+      "id": "QTI30-20261119-Q24",
+      "unitId": "4.1",
+      "enunciado": "Canal ideal sem ruído B=2 kHz, sinalização 8 níveis, taxa máxima Nyquist de bits?",
+      "alternativas": {
+        "A": "12 kbit/s",
+        "B": "4 kbit/s",
+        "C": "8 kbit/s",
+        "D": "16 kbit/s",
+        "E": "24 kbit/s"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "number": 25,
+      "id": "QTI30-20261119-Q25",
+      "unitId": "5.3",
+      "enunciado": "VoIP: jitter buffer no receptor RTP; qual efeito?",
+      "alternativas": {
+        "A": "Elimina perda pacotes",
+        "B": "Aumenta banda física",
+        "C": "Suaviza variação de atraso percebida, com potencial aumento de latência",
+        "D": "Dispensa codecs",
+        "E": "Garante mesmo atraso de propagação"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "number": 26,
+      "id": "QTI30-20261119-Q26",
+      "unitId": "6.1",
+      "enunciado": "Antenas polarização linear, diferença 60°, ηp=cos²θ; perda de potência por incompatibilidade?",
+      "alternativas": {
+        "A": "3 dB",
+        "B": "6 dB",
+        "C": "9 dB",
+        "D": "12 dB",
+        "E": "20 dB"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "correct": false
+    },
+    {
+      "number": 27,
+      "id": "QTI30-20261119-Q27",
+      "unitId": "7.2",
+      "enunciado": "Enlace: TX=24dBm; Gtx=20dBi; Grx=20dBi; cabos 2dB cada; propagação 122dB; sensibilidade −85dBm. Margem?",
+      "alternativas": {
+        "A": "12 dB",
+        "B": "15 dB",
+        "C": "18 dB",
+        "D": "23 dB",
+        "E": "28 dB"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "number": 28,
+      "id": "QTI30-20261119-Q28",
+      "unitId": "8.3",
+      "enunciado": "Enlace satelital bent-pipe: C/N up=20 dB, down=10 dB; somar inversos em escala linear. C/N total em dB?",
+      "alternativas": {
+        "A": "9,6 dB",
+        "B": "15 dB",
+        "C": "20 dB",
+        "D": "30 dB",
+        "E": "3 dB"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true
+    },
+    {
+      "number": 29,
+      "id": "QTI30-20261119-Q29",
+      "unitId": "9.1",
+      "enunciado": "5G NR Δf=15×2^μ kHz; em subframe 1 ms há 2^μ slots; para μ=2 espaçamento e duração?",
+      "alternativas": {
+        "A": "15kHz e 1ms",
+        "B": "30kHz e 0,5ms",
+        "C": "60kHz e 0,5ms",
+        "D": "120kHz e 0,125ms",
+        "E": "60kHz e 0,25ms"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "number": 30,
+      "id": "QTI30-20261119-Q30",
+      "unitId": "12.2",
+      "enunciado": "Orçamento óptico: TX=0dBm, sensibilidade −24dBm, conectores/emendas 4dB, margem 2dB, atenuação 0,4dB/km. Lmáx?",
+      "alternativas": {
+        "A": "30 km",
+        "B": "40 km",
+        "C": "45 km",
+        "D": "50 km",
+        "E": "60 km"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    }
+  ],
+  "errosOriginais": [
+    {
+      "questionId": "Q01",
+      "unitId": "1.3",
+      "topic": "Variância e autocorrelação WSS",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "diagnostico": "σ²=R_X(0)-μ²=13−9=4",
+      "errorType": "R0_MENOS_MEDIA_AO_QUADRADO",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R1",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q02",
+      "unitId": "1.2",
+      "topic": "Distribuição hipergeométrica sem reposição",
+      "respostaEscolhida": "E",
+      "gabarito": "A",
+      "diagnostico": "C(5,2)C(7,1)/C(12,3)=7/22",
+      "errorType": "PROBABILIDADE_COMBINATORIA_SEM_REPOSICAO",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R2",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q03",
+      "unitId": "2.3",
+      "topic": "Derivação da Transformada de Fourier",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "diagnostico": "F{x'(t)}=jωX(ω); x=e^−3t u(t) → Y=jω/(3+jω); no reforço x=2e^−2t u(t) → 2jω/(2+jω)",
+      "errorType": "SINAL_JOMEGA_E_FATOR_AMPLITUDE",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R3",
+      "immediateReinforcementCorrect": false,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q06",
+      "unitId": "5.3",
+      "topic": "SIP: INVITE, 200 OK, ACK e REGISTER",
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "diagnostico": "ACK confirma 200 OK de INVITE; REGISTER registra endereço; BYE encerra sessão",
+      "errorType": "CONFUSAO_METODOS_SIP",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R4",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q09",
+      "unitId": "9.2",
+      "topic": "Efeito Doppler e conversão de km/h",
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "diagnostico": "72 km/h=20 m/s; fd=v f/c=120Hz",
+      "errorType": "CONVERSAO_UNIDADES_DOPPLER",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R5",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q10",
+      "unitId": "12.1",
+      "topic": "Dispersão cromática em fibra monomodo",
+      "respostaEscolhida": "D",
+      "gabarito": "C",
+      "diagnostico": "Δt=16×25×0,5=200 ps",
+      "errorType": "MULTIPLICAR_D_L_DELTA_LAMBDA",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R6",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q24",
+      "unitId": "4.1",
+      "topic": "Nyquist: baud versus taxa de bits",
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "diagnostico": "Rb=2B log₂M=2×2000×3=12000 bit/s",
+      "errorType": "TAXA_SIMBOLOS_VS_BITS",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R7",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "questionId": "Q26",
+      "unitId": "6.1",
+      "topic": "Perda por incompatibilidade de polarização",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "diagnostico": "ηp=cos²60°=1/4; L=−10log10(1/4)≈6dB",
+      "errorType": "QUADRADO_COSSENO_E_DECIBEIS",
+      "immediateReinforcementQuestionId": "REF8-QTI30-20261119-R8",
+      "immediateReinforcementCorrect": true,
+      "retencao": "RETESTE_ESPACADO_PENDENTE"
+    }
+  ],
+  "reforco": {
+    "id": "REF8-QTI30-20261119",
+    "total": 8,
+    "acertos": 7,
+    "erros": [
+      {
+        "questionId": "R3",
+        "unitId": "2.3",
+        "answer": "E",
+        "key": "B",
+        "diagnostico": "Aplicou jωX(ω), mas perdeu fator multiplicativo 2; resposta completa 2jω/(2+jω)"
+      }
+    ],
+    "percentual": 87.5,
+    "answers": [
+      "E",
+      "C",
+      "E",
+      "A",
+      "D",
+      "E",
+      "C",
+      "B"
+    ],
+    "answerKey": [
+      "E",
+      "C",
+      "B",
+      "A",
+      "D",
+      "E",
+      "C",
+      "B"
+    ],
+    "questoes": [
+      {
+        "number": 1,
+        "id": "REF8-QTI30-20261119-R1",
+        "unitId": "1.3",
+        "enunciado": "Média 2, R_X(τ)=4+9e^(−3|τ|). Variância?",
+        "alternativas": {
+          "A": "13",
+          "B": "4",
+          "C": "6",
+          "D": "3",
+          "E": "9"
+        },
+        "respostaEscolhida": "E",
+        "gabarito": "E",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "id": "REF8-QTI30-20261119-R2",
+        "unitId": "1.2",
+        "enunciado": "Lote de 14 módulos: 4 defeituosos, 10 bons, selecionar 3 sem reposição; exatamente 2 defeituosos?",
+        "alternativas": {
+          "A": "6/91",
+          "B": "30/91",
+          "C": "15/91",
+          "D": "45/91",
+          "E": "15/182"
+        },
+        "respostaEscolhida": "C",
+        "gabarito": "C",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "id": "REF8-QTI30-20261119-R3",
+        "unitId": "2.3",
+        "enunciado": "x(t)=2e^(−2t)u(t), X(ω)=2/(2+jω). Derivada generalizada y=dx/dt, Y(ω)?",
+        "alternativas": {
+          "A": "2/(2+jω)²",
+          "B": "2jω/(2+jω)",
+          "C": "−2jω/(2+jω)",
+          "D": "4/(2+jω)",
+          "E": "jω/(2+jω)"
+        },
+        "respostaEscolhida": "E",
+        "gabarito": "B",
+        "correct": false
+      },
+      {
+        "number": 4,
+        "id": "REF8-QTI30-20261119-R4",
+        "unitId": "5.3",
+        "enunciado": "SIP: sessão já estabelecida; que requisição encerra a sessão?",
+        "alternativas": {
+          "A": "BYE",
+          "B": "CANCEL",
+          "C": "ACK",
+          "D": "REGISTER",
+          "E": "PRACK"
+        },
+        "respostaEscolhida": "A",
+        "gabarito": "A",
+        "correct": true
+      },
+      {
+        "number": 5,
+        "id": "REF8-QTI30-20261119-R5",
+        "unitId": "9.2",
+        "enunciado": "Doppler: móvel 108 km/h rumo ERB, f=2,1GHz, c=3×10⁸ m/s. Desvio máximo?",
+        "alternativas": {
+          "A": "21 Hz",
+          "B": "70 Hz",
+          "C": "120 Hz",
+          "D": "210 Hz",
+          "E": "630 Hz"
+        },
+        "respostaEscolhida": "D",
+        "gabarito": "D",
+        "correct": true
+      },
+      {
+        "number": 6,
+        "id": "REF8-QTI30-20261119-R6",
+        "unitId": "12.1",
+        "enunciado": "Dispersão cromática: fibra 30 km, D=17 ps/(nm km), Δλ=0,6 nm. Alargamento?",
+        "alternativas": {
+          "A": "17 ps",
+          "B": "51 ps",
+          "C": "180 ps",
+          "D": "510 ps",
+          "E": "306 ps"
+        },
+        "respostaEscolhida": "E",
+        "gabarito": "E",
+        "correct": true
+      },
+      {
+        "number": 7,
+        "id": "REF8-QTI30-20261119-R7",
+        "unitId": "4.1",
+        "enunciado": "Critério Nyquist: canal ideal sem ruído B=4 kHz, 8 níveis de amplitude. Taxa máxima bits?",
+        "alternativas": {
+          "A": "8 kbit/s",
+          "B": "12 kbit/s",
+          "C": "24 kbit/s",
+          "D": "32 kbit/s",
+          "E": "48 kbit/s"
+        },
+        "respostaEscolhida": "C",
+        "gabarito": "C",
+        "correct": true
+      },
+      {
+        "number": 8,
+        "id": "REF8-QTI30-20261119-R8",
+        "unitId": "6.1",
+        "enunciado": "Polarização linear: desvio angular 45°, ηp=cos²θ. Perda?",
+        "alternativas": {
+          "A": "0 dB",
+          "B": "3 dB",
+          "C": "6 dB",
+          "D": "9 dB",
+          "E": "12 dB"
+        },
+        "respostaEscolhida": "B",
+        "gabarito": "B",
+        "correct": true
+      }
+    ],
+    "diagnosticValidity": "REPARO_IMEDIATO_NAO_CONFIRMA_RETENCAO"
+  },
+  "totalDiaAtualizado": {
+    "total": 97,
+    "acertos": 79,
+    "erros": 18,
+    "percentual": 81.4,
+    "nota": "50/59 anterior +22/30 QTI30 +7/8 reforço; 8 erros originais QTI30 e 1 erro no reforço, sem substituir registros anteriores"
+  }
+}
