@@ -64,3 +64,18 @@ Percentuais por tema com uma ou duas questões não provam domínio definitivo. 
 - Para os demais 39 exercícios, preservar sequências, tópicos e valores diferenciadores deste relatório e da conversa original; não reproduzir itens idênticos em retestes.
 
 **Nota:** resultados de reforço são separados de simulados para evitar inflação de desempenho.
+
+
+## Adendo posterior ao fechamento parcial — QTI-30 e reforço (19/11/2026)
+
+**O subtotal de 50/59 acima representa a primeira parte do dia, não o fechamento final.**
+
+| Atividade adicional | Acertos | Total | % |
+|---|---:|---:|---:|
+| QTI-30 (três rodadas 4/10 + 10/10 + 8/10) | 22 | 30 | 73,3% |
+| Reforço de 8 assuntos errados | 7 | 8 | 87,5% |
+| **TOTAL DO DIA (incluindo 50/59 prévios)** | **79** | **97** | **81,4%** |
+
+**QTI-30:** 8 erros originais em Q01 variância/autocorrelação, Q02 hipergeométrica, Q03 derivação Fourier, Q06 SIP, Q09 Doppler, Q10 dispersão cromática, Q24 taxa Nyquist, Q26 polarização. Reforço 7/8, **R3 Fourier incorreta (E em vez de B, faltou fator 2)**. D1 Fourier 20/11, D3 22/11, D7 26/11. Não marcar como consolidado.
+
+[QTI-30 e reforço completos](QTI30_2026-11-19.md) · [QTI-30 e reforço estruturados](QTI30_2026-11-19.json).
