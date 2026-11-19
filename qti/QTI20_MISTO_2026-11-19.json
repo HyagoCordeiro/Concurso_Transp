@@ -1,0 +1,424 @@
+{
+  "id": "QTI20-MISTO-20261119",
+  "eventId": "QTI20-MISTO-20261119",
+  "studyDateLocal": "2026-11-19",
+  "qti": "QTI-20",
+  "rodada": "SIMULADO_MISTO_13_ITENS",
+  "editalItem": "13_ITENS",
+  "tema": "Engenharia de Telecomunicações CESGRANRIO/Transpetro — apenas conhecimentos específicos",
+  "total": 20,
+  "totalValid": 20,
+  "acertos": 15,
+  "erros": 5,
+  "accuracyPercent": 75,
+  "tempoTotalSec": null,
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "sourceReference": "Provas Transpetro 2018/2023 e QConcursos como referência de estilo; todas as questões redigidas/adaptadas, não oficiais",
+  "antiRepeatStatus": "QUESTOES_ARQUIVADAS_NESTE_ARQUIVO_SEPARADO",
+  "retencao": "erros aguardam retestes D3/D7",
+  "answers": [
+    "B",
+    "B",
+    "B",
+    "B",
+    "D",
+    "D",
+    "C",
+    "E",
+    "B",
+    "D",
+    "E",
+    "B",
+    "A",
+    "D",
+    "C",
+    "B",
+    "E",
+    "B",
+    "D",
+    "C"
+  ],
+  "answerKey": [
+    "C",
+    "A",
+    "E",
+    "B",
+    "D",
+    "A",
+    "C",
+    "E",
+    "B",
+    "D",
+    "E",
+    "B",
+    "A",
+    "D",
+    "C",
+    "A",
+    "E",
+    "B",
+    "D",
+    "C"
+  ],
+  "questionResults": [
+    {
+      "id": "QTI20-MISTO-20261119-Q01",
+      "number": 1,
+      "unitId": "1.1",
+      "enunciadoResumidoComDados": "Bayes: canais A 70% erro 2%; B 30% erro 5%; P(B|erro)",
+      "alternativas": {
+        "A": "30,0%",
+        "B": "48,3%",
+        "C": "51,7%",
+        "D": "60,0%",
+        "E": "70,0%"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "correct": false
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q02",
+      "number": 2,
+      "unitId": "1.2",
+      "enunciadoResumidoComDados": "Poisson: taxa 2 falhas/h; nenhuma falha em 30 min",
+      "alternativas": {
+        "A": "e^-1",
+        "B": "1-e^-1",
+        "C": "2e^-2",
+        "D": "e^-2",
+        "E": "1-e^-2"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q03",
+      "number": 3,
+      "unitId": "2.3",
+      "enunciadoResumidoComDados": "Fourier: y(t)=x(-2t), determine Y(ω)",
+      "alternativas": {
+        "A": "2X(-2ω)",
+        "B": "(1/2)X(2ω)",
+        "C": "2X(-ω/2)",
+        "D": "X(-2ω)",
+        "E": "(1/2)X(-ω/2)"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "correct": false
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q04",
+      "number": 4,
+      "unitId": "2.4",
+      "enunciadoResumidoComDados": "Convolução: x[0..2]=(1,3,2); h[0..2]=(2,-1,4); y[2]",
+      "alternativas": {
+        "A": "4",
+        "B": "5",
+        "C": "7",
+        "D": "3",
+        "E": "-1"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q05",
+      "number": 5,
+      "unitId": "3.1",
+      "enunciadoResumidoComDados": "LIT causal H(s)=(s+1)/[(s+2)(s-3)]; estabilidade",
+      "alternativas": {
+        "A": "estável pelo zero -1",
+        "B": "estável por um polo à esquerda",
+        "C": "marginalmente estável pelos polos reais",
+        "D": "instável: polo no semiplano direito",
+        "E": "estável por coeficientes reais"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q06",
+      "number": 6,
+      "unitId": "3.5",
+      "enunciadoResumidoComDados": "Z: H(z)=1/(1-1,2z^-1), sistema causal; estabilidade e ROC",
+      "alternativas": {
+        "A": "causal não BIBO estável",
+        "B": "causal e BIBO estável",
+        "C": "anticausal BIBO estável",
+        "D": "ROC |z|<1,2",
+        "E": "estável por polo real"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q07",
+      "number": 7,
+      "unitId": "4.2",
+      "enunciadoResumidoComDados": "SNRq ideal com N=8 bits, fórmula 6,02N+1,76 dB",
+      "alternativas": {
+        "A": "24 dB",
+        "B": "36 dB",
+        "C": "50 dB",
+        "D": "64 dB",
+        "E": "80 dB"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q08",
+      "number": 8,
+      "unitId": "4.1",
+      "enunciadoResumidoComDados": "64-QAM, Rb=12 Mbit/s, taxa de símbolos",
+      "alternativas": {
+        "A": "12 Mbaud",
+        "B": "6 Mbaud",
+        "C": "4 Mbaud",
+        "D": "3 Mbaud",
+        "E": "2 Mbaud"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q09",
+      "number": 9,
+      "unitId": "5.1",
+      "enunciadoResumidoComDados": "Erlang B: dois circuitos, A=1, B(2,A)=A²/2!/(1+A+A²/2!)",
+      "alternativas": {
+        "A": "10%",
+        "B": "20%",
+        "C": "25%",
+        "D": "33,3%",
+        "E": "50%"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q10",
+      "number": 10,
+      "unitId": "6.1",
+      "enunciadoResumidoComDados": "Antenas ideais: polarização transmissora horizontal e receptora vertical",
+      "alternativas": {
+        "A": "aumento de ganho 3 dB",
+        "B": "ausência de perda",
+        "C": "melhora SNR",
+        "D": "acoplamento nulo",
+        "E": "aumento devido diversidade"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q11",
+      "number": 11,
+      "unitId": "7.1",
+      "enunciadoResumidoComDados": "Fresnel: D=10 km, f=6 GHz, obstáculo no meio, desobstrução 60%",
+      "alternativas": {
+        "A": "3,4 m",
+        "B": "5,0 m",
+        "C": "11,2 m",
+        "D": "22,4 m",
+        "E": "6,7 m"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q12",
+      "number": 12,
+      "unitId": "7.1",
+      "enunciadoResumidoComDados": "Perda espaço livre: quadruplicar distância mantendo frequência",
+      "alternativas": {
+        "A": "aumenta 6 dB",
+        "B": "aumenta 12 dB",
+        "C": "aumenta 18 dB",
+        "D": "diminui 6 dB",
+        "E": "inalterada"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q13",
+      "number": 13,
+      "unitId": "8.3",
+      "enunciadoResumidoComDados": "Satélite transparente: C/N subida=10 dB, descida=10 dB; C/N total",
+      "alternativas": {
+        "A": "7 dB",
+        "B": "10 dB",
+        "C": "13 dB",
+        "D": "20 dB",
+        "E": "3 dB"
+      },
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q14",
+      "number": 14,
+      "unitId": "9.2",
+      "enunciadoResumidoComDados": "LTE: técnicas de múltiplo acesso no downlink/uplink",
+      "alternativas": {
+        "A": "CDMA/TDMA",
+        "B": "SC-FDMA/OFDMA",
+        "C": "TDMA/FDMA",
+        "D": "OFDMA/SC-FDMA",
+        "E": "WCDMA/CDMA2000"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q15",
+      "number": 15,
+      "unitId": "10.3",
+      "enunciadoResumidoComDados": "SNMPv3 nível authPriv",
+      "alternativas": {
+        "A": "autenticação sem criptografia",
+        "B": "criptografia sem autenticação",
+        "C": "autenticação e criptografia",
+        "D": "comunidade",
+        "E": "traps sem autenticação"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q16",
+      "number": 16,
+      "unitId": "10.3",
+      "enunciadoResumidoComDados": "IEEE 802.1Q: bytes de tag VLAN em quadro Ethernet",
+      "alternativas": {
+        "A": "4 bytes",
+        "B": "8 bytes",
+        "C": "12 bytes",
+        "D": "16 bytes",
+        "E": "20 bytes"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "correct": false
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q17",
+      "number": 17,
+      "unitId": "11.1",
+      "enunciadoResumidoComDados": "DiffServ: classificação e PHB",
+      "alternativas": {
+        "A": "reserva por fluxo em todos os roteadores",
+        "B": "somente IPs origem/destino",
+        "C": "elimina congestionamento",
+        "D": "RSVP obrigatório",
+        "E": "DSCP identifica classes PHB"
+      },
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q18",
+      "number": 18,
+      "unitId": "11.3",
+      "enunciadoResumidoComDados": "MPLS L3VPN: funções do RD e RT",
+      "alternativas": {
+        "A": "TTL e QoS",
+        "B": "distinguir prefixos VPN e importar/exportar rotas entre VRFs",
+        "C": "rótulos MPLS e OSPF",
+        "D": "MAC e encapsulamento Ethernet",
+        "E": "IPsec e criptografia"
+      },
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q19",
+      "number": 19,
+      "unitId": "12.3",
+      "enunciadoResumidoComDados": "SDH: taxa de transmissão STM-16 com STM-1 155,52 Mbit/s",
+      "alternativas": {
+        "A": "622,08 Mbit/s",
+        "B": "1244,16 Mbit/s",
+        "C": "10000 Mbit/s",
+        "D": "2488,32 Mbit/s",
+        "E": "155,52 Mbit/s"
+      },
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "id": "QTI20-MISTO-20261119-Q20",
+      "number": 20,
+      "unitId": "13.1",
+      "enunciadoResumidoComDados": "Lei 9.472/1997: espectro de radiofrequências e Anatel",
+      "alternativas": {
+        "A": "compra de transmissor autoriza uso",
+        "B": "espectro privado das operadoras",
+        "C": "bem público recurso limitado gerido pela Anatel",
+        "D": "Anatel só redes cabeadas",
+        "E": "privadas dispensam regulação"
+      },
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    }
+  ],
+  "errors": [
+    {
+      "questionId": "Q01",
+      "unitId": "1.1",
+      "chosen": "B",
+      "correct": "C",
+      "diagnosis": "Bayes: confundiu P(A|erro) com P(B|erro); P(B|erro)=0,015/0,029=51,7%"
+    },
+    {
+      "questionId": "Q02",
+      "unitId": "1.2",
+      "chosen": "B",
+      "correct": "A",
+      "diagnosis": "Poisson: nenhuma falha = e^-1; 1-e^-1 representa pelo menos uma falha"
+    },
+    {
+      "questionId": "Q03",
+      "unitId": "2.3",
+      "chosen": "B",
+      "correct": "E",
+      "diagnosis": "Fourier y(t)=x(-2t): Y(ω)=1/2 X(-ω/2), inversão temporal e escala"
+    },
+    {
+      "questionId": "Q06",
+      "unitId": "3.5",
+      "chosen": "D",
+      "correct": "A",
+      "diagnosis": "Para H(z)=1/(1-1,2 z^-1) causal, ROC |z|>1,2; não contém circunferência unitária e não é BIBO estável"
+    },
+    {
+      "questionId": "Q16",
+      "unitId": "10.3",
+      "chosen": "B",
+      "correct": "A",
+      "diagnosis": "Tag IEEE 802.1Q insere 4 bytes: TPID 2 e TCI 2"
+    }
+  ],
+  "antiRepeatViolation": false,
+  "note": "Enunciados condensados com todos os dados decisivos e alternativas para rastreabilidade. Os outros 39 exercícios do dia constam no fechamento diário, sem integração direta a data/QUESTOES.json."
+}
