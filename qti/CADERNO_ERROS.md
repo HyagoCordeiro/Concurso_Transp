@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 17/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 20/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -436,3 +436,18 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 **Retestes:** D1 Fourier em 20/11/2026; D3 oito temas em 22/11/2026; D7 oito temas em 26/11/2026. **Nada consolidado apenas por 7/8 no reforço imediato.**
 
 **Balanço técnico completo do dia:** 79/97 = 81,4%, sendo 50/59 prévios, 22/30 do QTI-30 e 7/8 do novo reforço. Não usar 97 questões como tamanho de simulado independente.
+
+
+## 20/11/2026 — Três blocos de revisão e dois reparos
+
+**Placar base:** 27/32 = 84,4% (B1 8/10, B2 10/12, B3 9/10). **Fixações:** 2/2, apuradas separadamente. Fonte: [fechamento do dia](FECHAMENTO_DIA_2026-11-20.md). Itens autorais/adaptados em estilo CESGRANRIO, não originais literais.
+
+| ID | Item edital | Resposta → correta | Erro evidenciado | Reparação / próximo passo |
+|---|---|---|---|---|
+| CE-20261120-01 | 11.2 | B → E (B1-Q05) | MPLS cabeçalho `0x4A2B1D40`: bit S é 1; TTL é hexadecimal 40 = 64 decimal | Reteste espaçado pendente |
+| CE-20261120-02 | 12.1 | C → A (B1-Q07) | Dispersão intermodal: diferenças de tempos de chegada dos modos, não frequências obrigatoriamente diferentes | Reteste espaçado pendente |
+| CE-20261120-03 | 1.2 | C → E (B2-Q04) | Gaussianas independentes: 3²+4²=25 é variância, desvio padrão é 5 | Reteste espaçado pendente |
+| CE-20261120-04 | 2.4 | C → A (B2-Q12) | Índices da convolução y[2]=x[0]h[2]+x[1]h[1]=4 | Reparo imediato D (14) correto; reteste espaçado pendente |
+| CE-20261120-05 | 7.1 | C → A (B3-Q05) | Fresnel 1,5GHz, d1=2km, d2=6km: sqrt(300)=17,3m, não 24,5m | Reparo imediato C (14,14m em 3GHz/8km) correto; reteste espaçado pendente |
+
+**Revisões sugeridas:** D1 21/11, D3 23/11, D7 27/11. **Não encerrar o erro por acertar no mesmo dia**. Ainda permanece pendente do dia 19/11 o erro de derivada de Fourier com fator multiplicativo 2.
