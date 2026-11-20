@@ -768,3 +768,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Reforço de um por erro:** 7/8 = 87,5%; único erro R3 derivação de Fourier (fator constante 2 omitido); associado a Q03 no caderno.
 - **Dia completo:** **79/97 = 81,4%**, incluindo reforços. Comparações de simulado devem usar **22/30** isoladamente. Em QTI-30 + reforço: 29/38 acertos, mas 8 são exercícios de correção imediata.
 - **Pendências D1 (20/11) Fourier, D3 (22/11) oito temas e D7 (26/11) oito temas.** Sem tempo líquido aferido e sem considerar reforço imediato como retenção validada.
+
+
+### 20/11/2026 — Blocos 1–3 (fechamento parcial, antes de Português)
+
+- Bloco 1 (DPCM, MPLS, fibras, GEO/LEO): **8/10 (80%)**; erros MPLS hexadecimal S/TTL (B→E) e dispersão modal (C→A).
+- Bloco 2 (Probabilidade, Fourier, convolução): **10/12 (83,3%)**; erros variância versus desvio padrão em Gaussianas (C→E) e índice de convolução discreta (C→A). Fourier **4/4**, mas reteste da derivada com fator 2 de 19/11 continua pendente.
+- Bloco 3 (Antenas, Fresnel, enlaces): **9/10 (90%)**; erro no raio Fresnel 1,5GHz, D=8km, obstáculo a 2km (C→A, raio 17,3m).
+- **Total dos blocos 27/32 (84,4%)**. Fixações imediatas: convolução 14 (D) e Fresnel 14,14m (C), ambas corretas **2/2**, registradas à parte, **sem comprovar retenção espaçada**.
+- **Pendente:** Português e Inglês do cronograma ainda não realizados neste registro. Tempo líquido não medido.
+- [Relatório detalhado](qti/FECHAMENTO_DIA_2026-11-20.md) · [JSON com 32 questões/respostas e reparos](qti/QTI_BLOCOS_2026-11-20.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
