@@ -10509,7 +10509,212 @@
       ],
       "diagnosticValidity": "REPARO_IMEDIATO_NAO_CONFIRMA_RETENCAO",
       "observacao": "7/8; R3 Fourier novamente errado, omitiu fator 2. Reteste espaçado pendente."
+    },
+    {
+      "id": "BLOCOS-20261120-B1",
+      "data": "2026-11-20",
+      "tipo": "QTI-10",
+      "titulo": "Recuperação: DPCM, MPLS, dispersão modal, GEO vs LEO",
+      "totalQuestoes": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "respostas": [
+        "C",
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "gabarito": [
+        "C",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "A",
+        "D",
+        "B",
+        "E"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI20NOV2026-B1-Q05",
+          "editalItem": "11",
+          "unitId": "11.2",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "topico": "MPLS S/TTL",
+          "errorType": "INTERPRETACAO_HEXADECIMAL"
+        },
+        {
+          "questionId": "QTI20NOV2026-B1-Q07",
+          "editalItem": "12",
+          "unitId": "12.1",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "topico": "Dispersão intermodal",
+          "errorType": "CONCEITO"
+        }
+      ],
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI_BLOCOS_2026-11-20.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-20.md",
+      "tempoTotalSec": null,
+      "origem": "Respostas e correções na conversa de 20/11/2026",
+      "observacao": "Reparos imediatos contabilizados separadamente dos 27/32 blocos"
+    },
+    {
+      "id": "BLOCOS-20261120-B2",
+      "data": "2026-11-20",
+      "tipo": "QTI-12",
+      "titulo": "Probabilidade, Fourier e convolução",
+      "totalQuestoes": 12,
+      "acertos": 10,
+      "erros": 2,
+      "percentual": 83.3,
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "C",
+        "A",
+        "D",
+        "E",
+        "B",
+        "C",
+        "D",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "A",
+        "D",
+        "E",
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI20NOV2026-B2-Q04",
+          "editalItem": "1",
+          "unitId": "1.2",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "topico": "Variância vs desvio padrão",
+          "errorType": "CONCEITO"
+        },
+        {
+          "questionId": "QTI20NOV2026-B2-Q12",
+          "editalItem": "2",
+          "unitId": "2.4",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "topico": "Convolução discreta y[2]",
+          "errorType": "INDICES_CONVOLUCAO"
+        }
+      ],
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI_BLOCOS_2026-11-20.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-20.md",
+      "tempoTotalSec": null,
+      "origem": "Respostas e correções na conversa de 20/11/2026",
+      "observacao": "Reparos imediatos contabilizados separadamente dos 27/32 blocos"
+    },
+    {
+      "id": "BLOCOS-20261120-B3",
+      "data": "2026-11-20",
+      "tipo": "QTI-10",
+      "titulo": "Antenas, Fresnel e equação de enlace",
+      "totalQuestoes": 10,
+      "acertos": 9,
+      "erros": 1,
+      "percentual": 90,
+      "respostas": [
+        "D",
+        "C",
+        "B",
+        "E",
+        "C",
+        "D",
+        "C",
+        "B",
+        "A",
+        "E"
+      ],
+      "gabarito": [
+        "D",
+        "C",
+        "B",
+        "E",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "E"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI20NOV2026-B3-Q05",
+          "editalItem": "7",
+          "unitId": "7.1",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "topico": "Raio primeira zona Fresnel com distâncias 2 km e 6 km",
+          "errorType": "CALCULO_FRESNEL"
+        }
+      ],
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI_BLOCOS_2026-11-20.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-20.md",
+      "tempoTotalSec": null,
+      "origem": "Respostas e correções na conversa de 20/11/2026",
+      "observacao": "Reparos imediatos contabilizados separadamente dos 27/32 blocos"
+    },
+    {
+      "id": "REPAROS-20261120-CONV-FRESNEL",
+      "data": "2026-11-20",
+      "tipo": "REPARO",
+      "titulo": "Fixações de convolução discreta e Fresnel",
+      "totalQuestoes": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "respostas": [
+        "D",
+        "C"
+      ],
+      "gabarito": [
+        "D",
+        "C"
+      ],
+      "itensErrados": [],
+      "diagnosticValidity": "REPARO_IMEDIATO_NAO_COMPROVA_RETENCAO_ESPACADA",
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI_BLOCOS_2026-11-20.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-20.md",
+      "tempoTotalSec": null,
+      "origem": "Respostas e correções na conversa de 20/11/2026",
+      "observacao": "Reparos imediatos contabilizados separadamente dos 27/32 blocos"
     }
   ],
-  "updatedAt": "2026-11-19"
+  "updatedAt": "2026-11-20"
 }
