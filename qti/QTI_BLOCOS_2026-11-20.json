@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "studyDateLocal": "2026-11-20",
+  "examDate": "2026-12-06",
+  "exam": "CESGRANRIO Transpetro Engenharia de Telecomunicações",
+  "type": "BLOCOS_CRONOGRAMA",
+  "origem": "Respostas dadas pelo usuário no chat e correções da sessão de 20/11/2026",
+  "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+  "references": [
+    "Transpetro Eng Telecom 2012/2018/2023 (arquivos de estudo)",
+    "QConcursos (calibração de estilo; questões NÃO reproduzidas literalmente)"
+  ],
+  "status": "CONCLUIDO_ATE_BLOCO_3",
+  "tempoLiquidoSec": null,
+  "tempoObservacao": "Tempo-alvo do cronograma não equivale ao tempo líquido real; não aferido.",
+  "blocks": [
+    {
+      "id": "B1",
+      "name": "Recuperação — DPCM, MPLS, dispersão modal e GEO/LEO",
+      "type": "QTI-10",
+      "total": 10,
+      "acertos": 8,
+      "questoes": [
+        {
+          "id": "QTI20NOV2026-B1-Q01",
+          "numero": 1,
+          "unitId": "4.2",
+          "enunciadoResumo": "DPCM quantiza erro de predição, não amplitude absoluta",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q02",
+          "numero": 2,
+          "unitId": "4.2",
+          "enunciadoResumo": "PCM 8 kHz x 8 bits versus DPCM 8 kHz x 5 bits: 40 kbps e redução de 37,5%",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q03",
+          "numero": 3,
+          "unitId": "4.2",
+          "enunciadoResumo": "DPCM com amostras de voz correlacionadas: menor faixa dinâmica do erro de predição",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q04",
+          "numero": 4,
+          "unitId": "11.2",
+          "enunciadoResumo": "Pilha MPLS com 3 rótulos: bits S do topo à base = 0,0,1",
+          "respostaEscolhida": "A",
+          "gabarito": "A",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q05",
+          "numero": 5,
+          "unitId": "11.2",
+          "enunciadoResumo": "Cabeçalho MPLS 0x4A2B1D40: S=1 e TTL=64",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "correct": false,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q06",
+          "numero": 6,
+          "unitId": "12.1",
+          "enunciadoResumo": "Fibra multimodo 80 ns/km, 5 km: NRZ taxa máxima 2,5 Mbps",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q07",
+          "numero": 7,
+          "unitId": "12.1",
+          "enunciadoResumo": "Dispersão intermodal: tempos de propagação diferentes entre modos",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "correct": false,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q08",
+          "numero": 8,
+          "unitId": "12.1",
+          "enunciadoResumo": "Fibra multimodo índice degrau substituída por índice gradual reduz dispersão modal",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q09",
+          "numero": 9,
+          "unitId": "8.1",
+          "enunciadoResumo": "Vantagem GEO versus LEO: posição aparente fixa e Doppler orbital desprezível",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B1-Q10",
+          "numero": 10,
+          "unitId": "8.1",
+          "enunciadoResumo": "Constelação LEO para baixas latências e altas latitudes com handover e Doppler",
+          "respostaEscolhida": "E",
+          "gabarito": "E",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "name": "Probabilidade, Fourier e convolução",
+      "type": "QTI-12",
+      "total": 12,
+      "acertos": 10,
+      "questoes": [
+        {
+          "id": "QTI20NOV2026-B2-Q01",
+          "numero": 1,
+          "unitId": "1.1",
+          "enunciadoResumo": "5 números marcados entre 12; sorteio de 3 sem reposição; P=1/22",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q02",
+          "numero": 2,
+          "unitId": "1.1",
+          "enunciadoResumo": "Bayes M1 40% com 80% aprovados; M2 60% com 90% aprovados; P(M1|aprovado)=37,2%",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q03",
+          "numero": 3,
+          "unitId": "1.2",
+          "enunciadoResumo": "Poisson 2 falhas/10min; em 20min P(X<=1)=5e^-4≈9,15%",
+          "respostaEscolhida": "A",
+          "gabarito": "A",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q04",
+          "numero": 4,
+          "unitId": "1.2",
+          "enunciadoResumo": "Gaussianas independentes: mu=(2,-1), sigma=(3,4); Y soma mu=1, sigma=5",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "correct": false,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q05",
+          "numero": 5,
+          "unitId": "2.3",
+          "enunciadoResumo": "Fourier X(0) para pulso x(t)=3 de -2 a 2: área 12",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q06",
+          "numero": 6,
+          "unitId": "2.3",
+          "enunciadoResumo": "Série Fourier f(t)=|t| no período -T/2 a T/2: bn=0",
+          "respostaEscolhida": "A",
+          "gabarito": "A",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q07",
+          "numero": 7,
+          "unitId": "2.3",
+          "enunciadoResumo": "Transformada Fourier do deslocamento y(t)=x(t-3): X(w)e^(-j3w)",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q08",
+          "numero": 8,
+          "unitId": "2.3",
+          "enunciadoResumo": "Série Fourier T=4, f=2 em [0,1), -1 em [1,4): a0=-1/2",
+          "respostaEscolhida": "E",
+          "gabarito": "E",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q09",
+          "numero": 9,
+          "unitId": "2.4",
+          "enunciadoResumo": "Convolução discreta x[-1]=1,x[0]=2,x[1]=-1; h[-1]=3,h[0]=-2,h[1]=4; y[0]=-3",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q10",
+          "numero": 10,
+          "unitId": "2.4",
+          "enunciadoResumo": "Pulsos retangulares x=u(t)-u(t-2), h=u(t)-u(t-3): y(4)=1",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q11",
+          "numero": 11,
+          "unitId": "2.4",
+          "enunciadoResumo": "h=e^-t u(t), x=δ(t)+2δ(t-2): y(3)=e^-3+2e^-1",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B2-Q12",
+          "numero": 12,
+          "unitId": "2.4",
+          "enunciadoResumo": "Convolução x[0]=2,x[1]=1; h[0]=1,h[1]=2,h[2]=1: y[2]=4",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "correct": false,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "name": "Antenas, Fresnel e enlaces",
+      "type": "QTI-10",
+      "total": 10,
+      "acertos": 9,
+      "questoes": [
+        {
+          "id": "QTI20NOV2026-B3-Q01",
+          "numero": 1,
+          "unitId": "6.1",
+          "enunciadoResumo": "Ganho para diretividade 8 dBi e eficiência de radiação 50% =5 dBi",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q02",
+          "numero": 2,
+          "unitId": "6.2",
+          "enunciadoResumo": "Monopolo λ/4 em 300MHz: comprimento 0,25m",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q03",
+          "numero": 3,
+          "unitId": "6.1",
+          "enunciadoResumo": "Campo distante Fraunhofer: diagrama angular de radiação independe essencialmente da distância",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q04",
+          "numero": 4,
+          "unitId": "7.1",
+          "enunciadoResumo": "Enlace 2GHz, 6km, 48m e prédio central; liberar 60% Fresnel: altura máxima 39m",
+          "respostaEscolhida": "E",
+          "gabarito": "E",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q05",
+          "numero": 5,
+          "unitId": "7.1",
+          "enunciadoResumo": "Fresnel 1,5GHz, 8km, obstáculo d1=2km,d2=6km: r1≈17,3m",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "correct": false,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q06",
+          "numero": 6,
+          "unitId": "7.1",
+          "enunciadoResumo": "Difração gume de faca: energia chega região sombreada, com perda adicional potencial",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q07",
+          "numero": 7,
+          "unitId": "7.1",
+          "enunciadoResumo": "Perda espaço livre quando frequência e distância dobram: +12 dB",
+          "respostaEscolhida": "C",
+          "gabarito": "C",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q08",
+          "numero": 8,
+          "unitId": "7.2",
+          "enunciadoResumo": "Potência 20dBm, Gt14dBi, Gr18dBi, Lfs110dB, cabos2+2dB: Pr=-62dBm",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q09",
+          "numero": 9,
+          "unitId": "7.2",
+          "enunciadoResumo": "EIRP transmissor 10W, cabo2dB, antena15dBi: 53dBm",
+          "respostaEscolhida": "A",
+          "gabarito": "A",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        },
+        {
+          "id": "QTI20NOV2026-B3-Q10",
+          "numero": 10,
+          "unitId": "7.2",
+          "enunciadoResumo": "Potência -64dBm, sensibilidade -76dBm, desvanecimento adicional 6dB: margem remanescente 6dB",
+          "respostaEscolhida": "E",
+          "gabarito": "E",
+          "correct": true,
+          "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_OFICIAL_LITERAL"
+        }
+      ]
+    }
+  ],
+  "totalQuestoes": 32,
+  "acertos": 27,
+  "erros": 5,
+  "percentual": 84.4,
+  "repairs": [
+    {
+      "id": "REPAIR-20261120-CONVOLUCAO",
+      "unitId": "2.4",
+      "origemId": "QTI20NOV2026-B2-Q12",
+      "enunciadoResumo": "x[0]=3,x[1]=2; h[0]=1,h[1]=4,h[2]=2; y[2]=14",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true
+    },
+    {
+      "id": "REPAIR-20261120-FRESNEL",
+      "unitId": "7.1",
+      "origemId": "QTI20NOV2026-B3-Q05",
+      "enunciadoResumo": "Fresnel f=3 GHz, D=8km, obstáculo no meio (4+4km): lambda=0,1m, r=sqrt(200)=14,14m",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true
+    }
+  ],
+  "reparos": {
+    "total": 2,
+    "acertos": 2,
+    "erros": 0,
+    "percentual": 100,
+    "validade": "REPARO_IMEDIATO_NAO_COMPROVA_RETENCAO_ESPACADA"
+  },
+  "errors": [
+    {
+      "id": "B1-Q05",
+      "unitId": "11.2",
+      "marcou": "B",
+      "correta": "E",
+      "diagnostico": "MPLS S=bit anterior ao TTL; campo TTL é último byte 0x40=64",
+      "status": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "id": "B1-Q07",
+      "unitId": "12.1",
+      "marcou": "C",
+      "correta": "A",
+      "diagnostico": "Dispersão modal decorre de tempos de propagação diferentes entre modos",
+      "status": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "id": "B2-Q04",
+      "unitId": "1.2",
+      "marcou": "C",
+      "correta": "E",
+      "diagnostico": "Confundiu variância 25 com desvio padrão 5; variâncias somam para independentes",
+      "status": "RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "id": "B2-Q12",
+      "unitId": "2.4",
+      "marcou": "C",
+      "correta": "A",
+      "diagnostico": "Convolução y[2]=x[0]h[2]+x[1]h[1]=4; fixação 14 correta",
+      "status": "REPARO_IMEDIATO_OK_RETESTE_ESPACADO_PENDENTE"
+    },
+    {
+      "id": "B3-Q05",
+      "unitId": "7.1",
+      "marcou": "C",
+      "correta": "A",
+      "diagnostico": "r1=sqrt(lambda d1d2/(d1+d2))=sqrt(300)=17,3 m; fixação sqrt(200) correta",
+      "status": "REPARO_IMEDIATO_OK_RETESTE_ESPACADO_PENDENTE"
+    }
+  ],
+  "nextAction": "Português QTI-10 CESGRANRIO com texto; depois Inglês; não feitos até este registro.",
+  "notes": [
+    "Quatro questões Fourier do B2 acertadas; reteste pendente da derivada Fourier do dia 19/11 com fator 2 omitido.",
+    "Total 27/32 exclui as duas fixações. Contando fixações apenas como prática realizada: 29/34, sem equiparar a simulado.",
+    "Provas originais foram consultadas para calibrar; estas questões foram reformuladas ou autorais."
+  ]
+}
