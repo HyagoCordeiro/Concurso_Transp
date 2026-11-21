@@ -5911,9 +5911,25 @@
       "createdFromStudyDate": "2026-11-19",
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "relatorio": "qti/QTI30_2026-11-19.md"
+    },
+    {
+      "id": "REV-20261121-CADERNO-REF-Q04-D3",
+      "unitId": "1.3",
+      "editalItem": "1",
+      "materia": "Probabilidade e Processos Estocásticos",
+      "topico": "Autocorrelação WSS: distinção variância e desvio padrão",
+      "motivo": "Erro repetido em 21/11 ao responder Q04 do reforço 7/8: marcou variância 25, mas era solicitado desvio padrão 5.",
+      "origemResultado": "CADERNO-ERROS-REF8-20261121",
+      "agendadaPara": "2026-11-24",
+      "prioridade": "crítica",
+      "status": "PENDENTE",
+      "plano": "Nova questão que obrigue distinguir σ² e σ com média não nula; sem dicas nem gabarito antecipado; não repetir R(τ) da rodada de 21/11.",
+      "createdFromStudyDate": "2026-11-21",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "relatorio": "qti/FECHAMENTO_DIA_2026-11-21.md"
     }
   ],
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-21",
   "weeklySaturdayReview": {
     "weekday": "SATURDAY",
     "period": "MORNING",
