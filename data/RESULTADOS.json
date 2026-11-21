@@ -10714,7 +10714,88 @@
       "tempoTotalSec": null,
       "origem": "Respostas e correções na conversa de 20/11/2026",
       "observacao": "Reparos imediatos contabilizados separadamente dos 27/32 blocos"
+    },
+    {
+      "id": "CADERNO-ERROS-R1-20261121",
+      "data": "2026-11-21",
+      "tipo": "QTI-15",
+      "titulo": "Caderno de erros — revisão espaçada (rodada 1)",
+      "totalQuestoes": 15,
+      "totalValidas": 15,
+      "acertos": 11,
+      "erros": 4,
+      "percentual": 73.3,
+      "origem": "Respostas do usuário no chat 21/11/2026",
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/CADERNO_ERROS_R1_2026-11-21.json",
+      "reportFile": "qti/CADERNO_ERROS_R1_2026-11-21.md",
+      "tempoTotalSec": null,
+      "respostas": [
+        "E",
+        "E",
+        "C",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "A",
+        "C",
+        "C",
+        "E",
+        "B",
+        "B",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "E",
+        "C",
+        "A",
+        "D",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C",
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "CE-R1-20261121-Q01",
+          "unitId": "11.2",
+          "respostaEscolhida": "E",
+          "gabarito": "B",
+          "topico": "MPLS TTL e bit S"
+        },
+        {
+          "questionId": "CE-R1-20261121-Q07",
+          "unitId": "1.3",
+          "respostaEscolhida": "A",
+          "gabarito": "B",
+          "topico": "variância WSS via autocorrelação"
+        },
+        {
+          "questionId": "CE-R1-20261121-Q11",
+          "unitId": "12.1",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "topico": "dispersão cromática"
+        },
+        {
+          "questionId": "CE-R1-20261121-Q13",
+          "unitId": "1.1",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "topico": "Bayes"
+        }
+      ],
+      "observacao": "Reteste do caderno. Quatro erros recorrentes. Simulado de 70 previsto para 22/11, não realizado."
     }
   ],
-  "updatedAt": "2026-11-20"
+  "updatedAt": "2026-11-21"
 }
