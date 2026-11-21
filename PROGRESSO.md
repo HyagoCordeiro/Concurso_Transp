@@ -786,3 +786,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **11 acertos em reteste:** dispersão modal, Gaussianas, convolução, Fresnel, derivação Fourier, SIP, Doppler, Nyquist, 802.1Q, Português e Inglês. Um único acerto não significa retenção consolidada.
 - **Amanhã (22/11):** simulado completo de 70 questões conforme planejamento do usuário; **ainda não realizado**. Tempo líquido de hoje não aferido.
 - [Relatório](qti/CADERNO_ERROS_R1_2026-11-21.md) · [JSON](qti/CADERNO_ERROS_R1_2026-11-21.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
+
+
+### 21/11/2026 — Fechamento final do caderno
+
+- Revisão principal **11/15 (73,3%)**; reforço de dois itens para cada erro **7/8 (87,5%)**; **total praticado 18/23 (78,3%)**, contabilizando reforço separadamente para não inflar métricas de simulado independente.
+- Recuperações imediatas: MPLS hexadecimal **2/2**, dispersão cromática **2/2**, Bayes **2/2**. Autocorrelação e diferença entre variância/desvio padrão **1/2**: Q04 marcou **B (25)**, correta **E (5)**; em `R(0)=29` e `μ=-2`, a variância é 25 e o desvio padrão é 5.
+- **Próximo passo:** simulado completo de **70 questões em 22/11**, abrangendo 50 conhecimentos específicos, 10 Português e 10 Inglês; ainda **não realizado**. Tempo líquido do dia não medido.
+- [Fechamento](qti/FECHAMENTO_DIA_2026-11-21.md) · [Reforço estruturado](qti/CADERNO_ERROS_REF8_2026-11-21.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
