@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 20/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 21/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -451,3 +451,17 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | CE-20261120-05 | 7.1 | C → A (B3-Q05) | Fresnel 1,5GHz, d1=2km, d2=6km: sqrt(300)=17,3m, não 24,5m | Reparo imediato C (14,14m em 3GHz/8km) correto; reteste espaçado pendente |
 
 **Revisões sugeridas:** D1 21/11, D3 23/11, D7 27/11. **Não encerrar o erro por acertar no mesmo dia**. Ainda permanece pendente do dia 19/11 o erro de derivada de Fourier com fator multiplicativo 2.
+
+
+## 21/11/2026 — Reteste do caderno (QTI-15)
+
+**[Relatório com as 15 respostas e resultado](CADERNO_ERROS_R1_2026-11-21.md)** · **[JSON](CADERNO_ERROS_R1_2026-11-21.json)**. 11/15 = 73,3%. Questões novas, autorais/adaptadas, sem cronometragem. Evidência de recuperação não equivale a retenção definitiva.
+
+| Novo erro | Item edital | Marcou → correto | Diagnóstico | Estado |
+|---|---|---|---|---|
+| Q01 | 11.2 | E → B | MPLS `0x02ACD95A`: bit S=1; TTL último byte `0x5A` = 90. **Reincidência** do erro hexadecimal de 20/11 | PENDENTE_RETESTE |
+| Q07 | 1.3 | A → B | Autocorrelação WSS: `R_X(0)=13`, variância `13-2²=9`; confundiu energia quadrática com variância | PENDENTE_RETESTE, reincidência 19/11 |
+| Q11 | 12.1 | C → D | Dispersão cromática `18×40×0,4=288 ps` | PENDENTE_RETESTE, reincidência 19/11 |
+| Q13 | 1.1 | B → A | Bayes: equipamento já defeituoso, `P(A|D)=0,028/0,041=68,3%` e não prevalência 35% | PENDENTE_RETESTE, reincidência 19/11 |
+
+**Acertos em revisão (11):** dispersão modal, Gaussianas, convolução, Fresnel, derivação Fourier com amplitude, SIP, Doppler, Nyquist, IEEE 802.1Q, conector contudo e inglês *no walk in the park*. Não retirar pendências de longo prazo apenas por acertar uma vez. **22/11:** simulado de 70 questões solicitado, ainda não realizado.
