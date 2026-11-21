@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "CADERNO-REF8-20261121",
+  "studyDateLocal": "2026-11-21",
+  "tipo": "QTI-8-REFORCO",
+  "titulo": "Fechamento 2 questões por erro — MPLS, autocorrelação, dispersão cromática, Bayes",
+  "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO_TRANSPETRO",
+  "sourceExplanation": "Questões elaboradas com novos valores a partir do caderno de erros; não são transcrições literais de CESGRANRIO",
+  "questoes": [
+    {
+      "id": "CADERNO-REF-20261121-Q01",
+      "numero": 1,
+      "unitId": "11.2",
+      "enunciadoResumo": "MPLS 0x123AB3C8: campos S e TTL",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "correct": true,
+      "resolucaoCurta": "S=1, TTL hexadecimal C8 = 200",
+      "alternativasResumo": [
+        "A 0/200",
+        "B 1/128",
+        "C 1/200",
+        "D 0/128",
+        "E 1/12"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q02",
+      "numero": 2,
+      "unitId": "11.2",
+      "enunciadoResumo": "MPLS 0x0D4E26B4: campos S e TTL",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true,
+      "resolucaoCurta": "S=0, TTL hexadecimal B4 = 180",
+      "alternativasResumo": [
+        "A 0/114",
+        "B 1/180",
+        "C 1/114",
+        "D 0/180",
+        "E 0/64"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q03",
+      "numero": 3,
+      "unitId": "1.3",
+      "enunciadoResumo": "WSS média=3, R_X(τ)=9+16e^(-2|τ|). Qual variância?",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true,
+      "resolucaoCurta": "R(0)=25, subtrair média²=9, variância=16",
+      "alternativasResumo": [
+        "A 16",
+        "B 25",
+        "C 9",
+        "D 4",
+        "E 5"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q04",
+      "numero": 4,
+      "unitId": "1.3",
+      "enunciadoResumo": "WSS média=-2, R_X(τ)=4+25e^(-4|τ|). Qual DESVIO PADRÃO?",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "correct": false,
+      "resolucaoCurta": "R(0)=29, variância=29-4=25, desvio padrão=5",
+      "alternativasResumo": [
+        "A 29",
+        "B 25",
+        "C raiz(29)",
+        "D 2",
+        "E 5"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q05",
+      "numero": 5,
+      "unitId": "12.1",
+      "enunciadoResumo": "Fibra monomodo 32km, dispersão 15 ps/nm/km, largura espectral 0,5nm; alargamento?",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "correct": true,
+      "resolucaoCurta": "15*32*0,5=240 ps",
+      "alternativasResumo": [
+        "A 24",
+        "B 240",
+        "C 480",
+        "D 120",
+        "E 960"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q06",
+      "numero": 6,
+      "unitId": "12.1",
+      "enunciadoResumo": "Fibra monomodo D=-18 ps/nm/km, 20km, largura 0,6nm; módulo do alargamento?",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "correct": true,
+      "resolucaoCurta": "|D|*L*delta_lambda =18*20*0,6=216 ps",
+      "alternativasResumo": [
+        "A -216",
+        "B 360",
+        "C 108",
+        "D 216",
+        "E 540"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q07",
+      "numero": 7,
+      "unitId": "1.1",
+      "enunciadoResumo": "Bayes: linha A 30%, defeitos 6%; B 70%, defeitos 3%; P(A|defeito)?",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "correct": true,
+      "resolucaoCurta": "0,018/(0,018+0,021)=46,15%",
+      "alternativasResumo": [
+        "A 30",
+        "B 60",
+        "C 2,1",
+        "D 39",
+        "E 46,2"
+      ]
+    },
+    {
+      "id": "CADERNO-REF-20261121-Q08",
+      "numero": 8,
+      "unitId": "1.1",
+      "enunciadoResumo": "Bayes: roteador X 20%, defeitos 15%; Y 80%, defeitos 5%; P(X|defeito)?",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "correct": true,
+      "resolucaoCurta": "0,03/(0,03+0,04)=42,86%",
+      "alternativasResumo": [
+        "A 42,9",
+        "B 20",
+        "C 60",
+        "D 30",
+        "E 57,1"
+      ]
+    }
+  ],
+  "respostas": [
+    "C",
+    "D",
+    "A",
+    "B",
+    "B",
+    "D",
+    "E",
+    "A"
+  ],
+  "gabarito": [
+    "C",
+    "D",
+    "A",
+    "E",
+    "B",
+    "D",
+    "E",
+    "A"
+  ],
+  "total": 8,
+  "acertos": 7,
+  "erros": 1,
+  "percentual": 87.5,
+  "temas": {
+    "MPLS": "2/2",
+    "autocorrelacao": "1/2",
+    "dispersaoCromatica": "2/2",
+    "Bayes": "2/2"
+  },
+  "itensErrados": [
+    {
+      "questionId": "CADERNO-REF-20261121-Q04",
+      "unitId": "1.3",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "diagnostico": "Marcou 25 (variância) ao solicitar desvio padrão 5, reincidência distinção variância/desvio observada 20/11",
+      "status": "RETESTE_ESPACADO_PENDENTE"
+    }
+  ],
+  "dailyTotal": {
+    "rodadaPrincipal": "11/15",
+    "reforco": "7/8",
+    "total": "18/23",
+    "percentual": 78.3,
+    "contemReforcoImediato": true,
+    "observacao": "Comparações de desempenho principal devem usar 11/15 e não tratar 18/23 como simulado independente."
+  },
+  "tempoTotalSec": null,
+  "proximo": "Simulado 70 questões em 22/11/2026; planejado, não realizado.",
+  "diagnosticValidity": "REPARO_IMEDIATO_NAO_CONFIRMA_RETENCAO"
+}
