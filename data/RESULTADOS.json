@@ -10795,6 +10795,57 @@
         }
       ],
       "observacao": "Reteste do caderno. Quatro erros recorrentes. Simulado de 70 previsto para 22/11, não realizado."
+    },
+    {
+      "id": "CADERNO-ERROS-REF8-20261121",
+      "data": "2026-11-21",
+      "tipo": "QTI-8-REFORCO",
+      "titulo": "Reforço de fechamento: 2 por erro (MPLS, WSS, dispersão cromática, Bayes)",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 7,
+      "erros": 1,
+      "percentual": 87.5,
+      "respostas": [
+        "C",
+        "D",
+        "A",
+        "B",
+        "B",
+        "D",
+        "E",
+        "A"
+      ],
+      "gabarito": [
+        "C",
+        "D",
+        "A",
+        "E",
+        "B",
+        "D",
+        "E",
+        "A"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "CADERNO-REF-20261121-Q04",
+          "unitId": "1.3",
+          "editalItem": "1",
+          "materia": "Probabilidade",
+          "topico": "Autocorrelação WSS: variância vs. desvio padrão",
+          "respostaEscolhida": "B",
+          "gabarito": "E",
+          "errorType": "VARIANCIA_VERSUS_DESVIO_PADRAO",
+          "observacao": "R(0)=29, mu=-2, variância=25, desvio padrão=5"
+        }
+      ],
+      "sourceType": "AUTORAL_ADAPTADA_ESTILO_CESGRANRIO",
+      "origem": "Respostas e correção no chat em 21/11/2026",
+      "sourceFile": "qti/CADERNO_ERROS_REF8_2026-11-21.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-21.md",
+      "tempoTotalSec": null,
+      "diagnosticValidity": "REPARO_IMEDIATO_NAO_COMPROVA_RETENCAO",
+      "observacao": "11/15 do bloco principal + 7/8 reforço = 18/23 prática; NÃO usar 18/23 como simulado independente."
     }
   ],
   "updatedAt": "2026-11-21"
