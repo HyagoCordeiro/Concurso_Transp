@@ -778,3 +778,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Total dos blocos 27/32 (84,4%)**. Fixações imediatas: convolução 14 (D) e Fresnel 14,14m (C), ambas corretas **2/2**, registradas à parte, **sem comprovar retenção espaçada**.
 - **Pendente:** Português e Inglês do cronograma ainda não realizados neste registro. Tempo líquido não medido.
 - [Relatório detalhado](qti/FECHAMENTO_DIA_2026-11-20.md) · [JSON com 32 questões/respostas e reparos](qti/QTI_BLOCOS_2026-11-20.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
+
+
+### 21/11/2026 — Revisão do caderno de erros (Rodada 1)
+
+- **QTI-15: 11/15 (73,3%)**, 4 erros: MPLS hexadecimal S/TTL (11.2), autocorrelação/variância WSS (1.3), dispersão cromática (12.1), probabilidade condicional/Bayes (1.1). Todos reincidentes; manter reteste pendente.
+- **11 acertos em reteste:** dispersão modal, Gaussianas, convolução, Fresnel, derivação Fourier, SIP, Doppler, Nyquist, 802.1Q, Português e Inglês. Um único acerto não significa retenção consolidada.
+- **Amanhã (22/11):** simulado completo de 70 questões conforme planejamento do usuário; **ainda não realizado**. Tempo líquido de hoje não aferido.
+- [Relatório](qti/CADERNO_ERROS_R1_2026-11-21.md) · [JSON](qti/CADERNO_ERROS_R1_2026-11-21.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
