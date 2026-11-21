@@ -465,3 +465,12 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 | Q13 | 1.1 | B → A | Bayes: equipamento já defeituoso, `P(A|D)=0,028/0,041=68,3%` e não prevalência 35% | PENDENTE_RETESTE, reincidência 19/11 |
 
 **Acertos em revisão (11):** dispersão modal, Gaussianas, convolução, Fresnel, derivação Fourier com amplitude, SIP, Doppler, Nyquist, IEEE 802.1Q, conector contudo e inglês *no walk in the park*. Não retirar pendências de longo prazo apenas por acertar uma vez. **22/11:** simulado de 70 questões solicitado, ainda não realizado.
+
+
+## 21/11/2026 — Fechamento com 8 questões de reforço
+
+**[Fechamento do dia](FECHAMENTO_DIA_2026-11-21.md)** · **[Dados do reforço](CADERNO_ERROS_REF8_2026-11-21.json)**. Dois novos itens para cada um dos quatro erros da primeira rodada (11/15). Reforço **7/8 (87,5%)**: MPLS hexadecimal 2/2, dispersão cromática 2/2, Bayes 2/2, autocorrelação/variância-desvio 1/2.
+
+- **CE-20261121-REF-Q04 (item 1.3):** resposta B, gabarito E; `R(τ)=4+25e^(-4|τ|)`, `μ=-2`; `R(0)=29`, `σ²=29−4=25`; o **desvio padrão solicitado é σ=5**, não 25. **Erro reincidente: confundir variância com desvio padrão.** Reteste espaçado pendente.
+- **21/11 completo:** caderno inicial **11/15** + reforço **7/8** = **18/23 (78,3%)** em prática, mas reforço imediato não integra nota de simulado independente nem comprova retenção.
+- **Amanhã, 22/11/2026:** simulado de 70 questões previsto, ainda não realizado. Não exigir mais reforços nesta noite.
