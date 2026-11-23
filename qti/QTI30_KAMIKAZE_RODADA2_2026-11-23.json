@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI30-KAMIKAZE-RODADA2-20261123",
+  "studyDateLocal": "2026-11-23",
+  "timezone": "America/Sao_Paulo",
+  "examDate": "2026-12-06",
+  "type": "QTI-30",
+  "round": 2,
+  "status": "CORRIGIDO",
+  "blocks": [
+    {
+      "number": 1,
+      "range": "Q01-Q10",
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "A"
+      ]
+    },
+    {
+      "number": 2,
+      "range": "Q11-Q20",
+      "respostas": [
+        "B",
+        "C",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "number": 3,
+      "range": "Q21-Q30",
+      "respostas": [
+        "C",
+        "B",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ]
+    }
+  ],
+  "questionCount": 30,
+  "validQuestions": 30,
+  "correct": 25,
+  "wrong": 5,
+  "percent": 83.3,
+  "groups": [
+    {
+      "scope": "ITENS_1_A_3",
+      "correct": 3,
+      "total": 3,
+      "percent": 100
+    },
+    {
+      "scope": "ITENS_4_A_12",
+      "correct": 20,
+      "total": 25,
+      "percent": 80
+    },
+    {
+      "scope": "ITEM_13",
+      "correct": 2,
+      "total": 2,
+      "percent": 100
+    }
+  ],
+  "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO_TELECOM",
+  "timeSpentSec": null,
+  "questions": [
+    {
+      "number": 1,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q01",
+      "unitId": "1.1",
+      "topic": "Probabilidade — falhas independentes",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 2,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q02",
+      "unitId": "2.3",
+      "topic": "Fourier — modulação por cosseno",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 3,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q03",
+      "unitId": "3.5",
+      "topic": "Resposta ao impulso em sistema discreto",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 4,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q04",
+      "unitId": "4.2",
+      "topic": "Eficiência espectral",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 5,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q05",
+      "unitId": "5.2",
+      "topic": "Sinalização Q-SIG",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 6,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q06",
+      "unitId": "6.1",
+      "topic": "Ganho e diretividade com eficiência",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 7,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q07",
+      "unitId": "7.1",
+      "topic": "Fresnel — mudança de frequência",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 8,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q08",
+      "unitId": "8.3",
+      "topic": "Figura de mérito G/T",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 9,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q09",
+      "unitId": "9.2",
+      "topic": "UMTS WCDMA e LTE OFDMA",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 10,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q10",
+      "unitId": "10.3",
+      "topic": "IEEE 802.1p PCP",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 11,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q11",
+      "unitId": "4.1",
+      "topic": "ASK FSK PSK",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 12,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q12",
+      "unitId": "5.3",
+      "topic": "G.711 — bytes por pacote RTP",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 13,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q13",
+      "unitId": "6.1",
+      "topic": "ROE VSWR",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 14,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q14",
+      "unitId": "7.1",
+      "topic": "Multipercurso e ISI",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 15,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q15",
+      "unitId": "8.2",
+      "topic": "Transponder bent-pipe",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 16,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q16",
+      "unitId": "9.2",
+      "topic": "CDMA — efeito near-far",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 17,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q17",
+      "unitId": "10.3",
+      "topic": "MSTP IEEE 802.1s",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 18,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q18",
+      "unitId": "11.2",
+      "topic": "OSPF — DR e BDR",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 19,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q19",
+      "unitId": "11.3",
+      "topic": "MPLS L2VPN pseudowire",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 20,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q20",
+      "unitId": "12.2",
+      "topic": "OTDR — tempo de ida e volta",
+      "respostaEscolhida": "E",
+      "gabarito": "B",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 21,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q21",
+      "unitId": "4.1",
+      "topic": "Taxa de bits em 8-PSK",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 22,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q22",
+      "unitId": "5.3",
+      "topic": "Gatekeeper H.323",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 23,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q23",
+      "unitId": "6.1",
+      "topic": "Conversão ganho dBd para dBi",
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "status": "INCORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 24,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q24",
+      "unitId": "7.2",
+      "topic": "Orçamento enlace rádio",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 25,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q25",
+      "unitId": "8.2",
+      "topic": "Banda Ku uplink/downlink",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 26,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q26",
+      "unitId": "10.3",
+      "topic": "RMON I versus RMON II",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 27,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q27",
+      "unitId": "11.2",
+      "topic": "BGP — LOCAL_PREF",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 28,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q28",
+      "unitId": "12.2",
+      "topic": "Orçamento óptico",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 29,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q29",
+      "unitId": "13.1",
+      "topic": "Regime público da LGT",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    },
+    {
+      "number": 30,
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q30",
+      "unitId": "13.2",
+      "topic": "PDFF",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "status": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO"
+    }
+  ],
+  "errors": [
+    {
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q06",
+      "number": 6,
+      "unitId": "6.1",
+      "topic": "Ganho e diretividade com eficiência",
+      "respostaEscolhida": "A",
+      "gabarito": "B",
+      "errorType": "DIRETIVIDADE_VS_GANHO_EFICIENCIA",
+      "regra": "G_dBi=D_dBi+10log10(η). Para ganho 10 dBi e η=0,5: D=10−10log10(0,5)=13,01 dBi, letra B. Não confundir ganho com diretividade.",
+      "proxAcao": "Reteste curto de ganho/diretividade e eficiência, novos valores; priorizar compreensão da ordem de grandeza.",
+      "retentionVerified": false,
+      "status": "PENDENTE_RETESTE_D3",
+      "dueAt": "2026-11-26"
+    },
+    {
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q08",
+      "number": 8,
+      "unitId": "8.3",
+      "topic": "Figura de mérito G/T",
+      "respostaEscolhida": "B",
+      "gabarito": "E",
+      "errorType": "FIGURA_MERITO_G_SOBRE_T",
+      "regra": "G/T[dB/K]=G[dBi]−10log10(T[K]); 40−10log10(100)=20 dB/K (E).",
+      "proxAcao": "Reteste curto de cálculo G/T e eventualmente C/N0, sem aprofundamento raro.",
+      "retentionVerified": false,
+      "status": "PENDENTE_RETESTE_D3",
+      "dueAt": "2026-11-26"
+    },
+    {
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q12",
+      "number": 12,
+      "unitId": "5.3",
+      "topic": "G.711 — bytes por pacote RTP",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "CODIFICACAO_VOZ_BYTES_PAYLOAD",
+      "regra": "G.711 64kbit/s, 20ms: 64000×0,020=1280 bits; /8=160 bytes, alternativa D. Sem cabeçalhos.",
+      "proxAcao": "Uma questão curta distinguindo bits, bytes e intervalos de empacotamento RTP.",
+      "retentionVerified": false,
+      "status": "PENDENTE_RETESTE_D3",
+      "dueAt": "2026-11-26"
+    },
+    {
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q20",
+      "number": 20,
+      "unitId": "12.2",
+      "topic": "OTDR — tempo de ida e volta",
+      "respostaEscolhida": "E",
+      "gabarito": "B",
+      "errorType": "OTDR_DISTANCIA_PULSO_REFLETIDO",
+      "regra": "OTDR mede ida e volta: d=v×t/2; v=2×10^8m/s, t=40µs ⇒ 4km, alternativa B.",
+      "proxAcao": "Reteste rápido de fórmula de eco OTDR, lembrando o fator 2 da ida e volta.",
+      "retentionVerified": false,
+      "status": "PENDENTE_RETESTE_D3",
+      "dueAt": "2026-11-26"
+    },
+    {
+      "questionId": "QTI30-KAMIKAZE-RODADA2-20261123-Q23",
+      "number": 23,
+      "unitId": "6.1",
+      "topic": "Conversão ganho dBd para dBi",
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "errorType": "DBD_DBI_CONVERSAO_RECORRENTE",
+      "regra": "G_dBi=G_dBd+2,15; 5 dBd=7,15 dBi (E). Errado A 2,85 dBi indica subtração; erro recorrente após Q10 do QTI30 anterior (dBi→dBd).",
+      "proxAcao": "PRIORIDADE: reteste nos dois sentidos de dBi↔dBd com valores novos, pois houve repetição de erro nas duas direções.",
+      "retentionVerified": false,
+      "status": "PENDENTE_RETESTE_D3",
+      "dueAt": "2026-11-26"
+    }
+  ],
+  "context": "Rodada com 3 blocos de 10; respostas coletadas sem correção intermediária. Exercícios autorais não equivalem a amostra de questões oficiais inéditas.",
+  "priorPeriodResult": {
+    "sameDayPreviousAuthorial": {
+      "correct": 69,
+      "total": 75
+    },
+    "sameDayIncludingThis": {
+      "correct": 94,
+      "total": 105,
+      "percent": 89.5
+    }
+  }
+}
