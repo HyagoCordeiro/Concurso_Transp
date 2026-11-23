@@ -6273,6 +6273,21 @@
       "plano": "Questão autoral ou CESGRANRIO com dois sinais variáveis e outros suportes, sem dicas; verificar retenção D3.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI15-Q14-D3",
+      "unitId": "12.1",
+      "editalItem": "12",
+      "materia": "Telecomunicações — comunicação óptica",
+      "topico": "Dispersão modal — identificar critério da relação entre largura do pulso e taxa de bits",
+      "motivo": "Questão 14 QTI15 23/11 respondeu 1/(2Δt) apesar de critério expresso 1/Δt",
+      "origemResultado": "QTI15-KAMIKAZE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Questão curta e inédita sobre limitação de taxa por dispersão especificando claramente o modelo. Sem aprofundamento fora do escopo histórico.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-23",
