@@ -11193,6 +11193,67 @@
         }
       ],
       "observacao": "Prova autoral de 15 questões focadas em Telecom; não estimar nota real de concurso a partir do simulado. Um erro refere-se à convenção explícita na própria questão."
+    },
+    {
+      "id": "QTI10-KAMIKAZE-TARDE-20261123",
+      "data": "2026-11-23",
+      "tipo": "QTI-10",
+      "titulo": "QTI-10 Kamikaze — tarde, foco Telecom",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO",
+      "origem": "Respostas da conversa 23/11/2026 à tarde",
+      "sourceFile": "qti/QTI10_KAMIKAZE_TARDE_2026-11-23.json",
+      "reportFile": "qti/QTI10_KAMIKAZE_TARDE_2026-11-23.md",
+      "respostas": [
+        "E",
+        "B",
+        "D",
+        "C",
+        "C",
+        "B",
+        "B",
+        "A",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "E",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "QTI10-KAMIKAZE-TARDE-20261123-Q04",
+          "unitId": "7.1",
+          "topico": "Atenuação em espaço livre ao dobrar a distância",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "errorType": "CONFUSAO_VARIACAO_DB",
+          "observacao": "A distância dobra: ΔL=20log10(2)=6,02 dB, não 3 dB."
+        },
+        {
+          "questionId": "QTI10-KAMIKAZE-TARDE-20261123-Q07",
+          "unitId": "10.3",
+          "topico": "PoE 802.3af — diferença PSE e PD",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "CONFUSAO_PSE_VS_PD",
+          "observacao": "802.3af: saída PSE 15,4 W; energia disponível no PD 12,95 W."
+        }
+      ],
+      "observacao": "8/10 questões autorais. Manhã 14/15. 22/25 no dia em baterias autorais, sem extrapolar para nota oficial."
     }
   ],
   "updatedAt": "2026-11-23"
