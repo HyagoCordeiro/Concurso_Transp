@@ -6230,6 +6230,19 @@
       "plano": "Questão inédita mais desafiadora sem fórmulas antecipadas, incluindo média não nula e atraso não infinito.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-K04-REPARO",
+      "unitId": "2.2",
+      "editalItem": "2",
+      "materia": "Sinais e sistemas",
+      "topico": "Dirac em convolução: δ(at−b) e deslocamento x(t−t0)",
+      "motivo": "K04 errada no dia 23/11 após K03 certa; reforço imediato dirigido K04-R",
+      "origemResultado": "KAMIKAZE-20261123",
+      "agendadaPara": "2026-11-23",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Conferir escala 1/|a| e argumento x(t−t0) separadamente, refazer K04-R, só após acerto avançar para K05."
     }
   ],
   "updatedAt": "2026-11-23",
