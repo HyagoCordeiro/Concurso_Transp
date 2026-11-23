@@ -11129,7 +11129,71 @@
         }
       ],
       "observacao": "Sem cartão-resposta; faltam Q51–70, que não contam como erros nem como tentativas. Sessão encerrada por cansaço e compromissos familiares. A pedido do usuário, discutir erros somente em 23/11. Percentual não prediz nota integral."
+    },
+    {
+      "id": "QTI15-KAMIKAZE-20261123",
+      "data": "2026-11-23",
+      "tipo": "QTI-15",
+      "titulo": "QTI-15 Kamikaze — foco itens 4 a 12",
+      "totalQuestoes": 15,
+      "totalValidas": 15,
+      "acertos": 14,
+      "erros": 1,
+      "percentual": 93.3,
+      "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO",
+      "origem": "Respostas da conversa 23/11/2026",
+      "sourceFile": "qti/QTI15_KAMIKAZE_2026-11-23.json",
+      "reportFile": "qti/QTI15_KAMIKAZE_2026-11-23.md",
+      "respostas": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "B",
+        "E",
+        "A",
+        "C",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "B",
+        "E",
+        "A",
+        "D",
+        "C"
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "QTI15-KAMIKAZE-20261123-Q14",
+          "unitId": "12.1",
+          "editalItem": "12",
+          "materia": "Redes ópticas",
+          "topico": "Dispersão modal — taxa máxima dependente do critério do enunciado",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "errorType": "CRITERIO_DO_MODELO_NAO_OBSERVADO",
+          "observacao": "Δt=60ns/km ×4km=240 ns. Questão autoral explicitou R≈1/Δt =>4,17 Mbps (D). Resposta C=2,08 Mbps aplica o critério conservador R≈1/(2Δt), usado em alguns contextos. Não tratar como desconhecimento de dispersão, e sim leitura do critério adotado."
+        }
+      ],
+      "observacao": "Prova autoral de 15 questões focadas em Telecom; não estimar nota real de concurso a partir do simulado. Um erro refere-se à convenção explícita na própria questão."
     }
   ],
-  "updatedAt": "2026-11-22"
+  "updatedAt": "2026-11-23"
 }
