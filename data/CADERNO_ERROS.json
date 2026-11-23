@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-12",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "purpose": "Caderno persistente de erros e lacunas do projeto CESGRANRIO Telecom; primeiro lote migrado com segurança do histórico 12/11; registros anteriores continuam em data/REVISOES.json e qti históricos.",
   "statusValues": [
     "NOVO_CONTEUDO_A_ENSINAR",
@@ -4386,7 +4386,7 @@
     {
       "id": "CE-20261122-QTI70-Q23",
       "firstSeenAt": "2026-11-22",
-      "lastReviewedAt": "2026-11-22",
+      "lastReviewedAt": "2026-11-23",
       "sourceResultId": "QTI70-20261122-PARCIAL50",
       "sourceQuestionId": "QTI70-20261122-PARCIAL50-Q23",
       "unitId": "1.3",
@@ -4394,12 +4394,33 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "RESPOSTA_INCORRETA_DIAGNOSTICO_A_CONFIRMAR",
-      "status": "PENDENTE_RETESTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "R(0)=10, R(∞)=4 e E[(X(t+τ)-X(t))²]→2[10−4]=12.",
-      "proxAcao": "Revisar brevemente a regra e aplicar questão nova em 23/11. Diagnosticar mecanismo do erro somente na conversa de revisão solicitada pelo usuário; não revelar resposta novamente hoje.",
-      "dueAt": "2026-11-23",
+      "proxAcao": "Kamikaze K-01 e K-02 corretas (2/2) no dia seguinte ao QTI; conteúdo recuperado provisoriamente. Reteste D3 em 26/11 com questão nova, sem dicas; confirmar retenção.",
+      "dueAt": "2026-11-26",
       "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-23",
+          "sourceQuestionId": "KAMIKAZE-20261123-K01",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "status": "CORRETO",
+          "topic": "R(0), variância, desvio, diferença quadrática limite",
+          "type": "RETESTE_D1_AUTORAL_INEDITA",
+          "comment": "Recuperação provisória, pendente confirmação D3."
+        },
+        {
+          "date": "2026-11-23",
+          "sourceQuestionId": "KAMIKAZE-20261123-K02",
+          "respostaEscolhida": "D",
+          "gabarito": "D",
+          "status": "CORRETO",
+          "topic": "Covariância, rho normalizado, diferença quadrática atraso finito",
+          "type": "RETESTE_D1_AUTORAL_INEDITA",
+          "comment": "Recuperação provisória, pendente confirmação D3."
+        }
+      ],
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticNote": "Questão errada no simulado parcial voluntariamente encerrado (50 respondidas). Usuário pediu análise dos erros apenas amanhã."
