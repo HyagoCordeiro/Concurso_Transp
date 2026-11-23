@@ -483,3 +483,11 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 **18 questões erradas (pendentes para revisão amanhã):** Q6 (PT, E→D); Q7 (PT, E→B); Q13 (ING, C→E); Q15 (ING, A→E); Q18 (ING, E→A); Q23 (1.3, B→A); Q25 (2.2, B→C); Q27 (2.4, D→E); Q29 (3.1, C→D); Q31 (4.1, B→D); Q34 (4.2, A→E); Q38 (6.1, A→C); Q39 (6.2, A→D); Q40 (6.3, B→D); Q42 (7.2, D→C); Q44 (8.2, A→E); Q49 (10.2, A→E); Q50 (10.3, D→C).
 
 A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; iniciar fase intensiva em 23/11 com análise de mecanismos e retestes de transferência. Não apagar histórico nem marcar consolidado antes de reteste espaçado.
+
+
+### 23/11/2026 — Operação Kamikaze: Dirac (Q25 do QTI70)
+
+- **K03:** C — correta (integrais com impulsos escalonados).
+- **K04:** B — incorreta; correto D=8, pois `h(t)=3δ(t−1)−2δ(t−3)` e `y(4)=3x(3)−2x(1)=8`.
+- **K04R:** C — correta, resultado 9 (`h(t)=2δ(t−1)−δ(t−2)`; `y(4)=2x(3)−x(2)=9`). Acerto após a explicação da K04.
+- **Status:** recuperado provisoriamente, **não consolidado**; reteste independente **26/11/2026**, sem fórmulas antecipadas.
