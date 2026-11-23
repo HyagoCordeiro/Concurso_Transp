@@ -474,3 +474,12 @@ Revisões programadas **D3 (16/11), D7 (20/11), D21 (04/12)**. Acertos em temas 
 - **CE-20261121-REF-Q04 (item 1.3):** resposta B, gabarito E; `R(τ)=4+25e^(-4|τ|)`, `μ=-2`; `R(0)=29`, `σ²=29−4=25`; o **desvio padrão solicitado é σ=5**, não 25. **Erro reincidente: confundir variância com desvio padrão.** Reteste espaçado pendente.
 - **21/11 completo:** caderno inicial **11/15** + reforço **7/8** = **18/23 (78,3%)** em prática, mas reforço imediato não integra nota de simulado independente nem comprova retenção.
 - **Amanhã, 22/11/2026:** simulado de 70 questões previsto, ainda não realizado. Não exigir mais reforços nesta noite.
+
+
+## 22/11/2026 — QTI-70 encerrado na Q50 (revisão em 23/11)
+
+**[Relatório](FECHAMENTO_DIA_2026-11-22.md) · [Dados e respostas](QTI70_PARCIAL_2026-11-22.json).** Fez 50 de 70 questões, voluntariamente encerrado por cansaço; Q51–70 não respondidas e não pontuadas. **32/50 (64%)**, Português **8/10**, Inglês **7/10**, Específicos **17/30**. Não confundir com nota projetada para 70 questões.
+
+**18 questões erradas (pendentes para revisão amanhã):** Q6 (PT, E→D); Q7 (PT, E→B); Q13 (ING, C→E); Q15 (ING, A→E); Q18 (ING, E→A); Q23 (1.3, B→A); Q25 (2.2, B→C); Q27 (2.4, D→E); Q29 (3.1, C→D); Q31 (4.1, B→D); Q34 (4.2, A→E); Q38 (6.1, A→C); Q39 (6.2, A→D); Q40 (6.3, B→D); Q42 (7.2, D→C); Q44 (8.2, A→E); Q49 (10.2, A→E); Q50 (10.3, D→C).
+
+A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; iniciar fase intensiva em 23/11 com análise de mecanismos e retestes de transferência. Não apagar histórico nem marcar consolidado antes de reteste espaçado.
