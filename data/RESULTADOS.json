@@ -11254,6 +11254,97 @@
         }
       ],
       "observacao": "8/10 questões autorais. Manhã 14/15. 22/25 no dia em baterias autorais, sem extrapolar para nota oficial."
+    },
+    {
+      "id": "QTI20-KAMIKAZE-20261123",
+      "data": "2026-11-23",
+      "tipo": "QTI-20",
+      "titulo": "QTI-20 Kamikaze — todos os 13 itens",
+      "totalQuestoes": 20,
+      "totalValidas": 20,
+      "acertos": 19,
+      "erros": 1,
+      "percentual": 95,
+      "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO",
+      "origem": "Respostas na conversa 23/11/2026",
+      "sourceFile": "qti/QTI20_KAMIKAZE_2026-11-23.json",
+      "reportFile": "qti/QTI20_KAMIKAZE_2026-11-23.md",
+      "respostas": [
+        "D",
+        "A",
+        "C",
+        "A",
+        "B",
+        "C",
+        "D",
+        "B",
+        "A",
+        "E",
+        "D",
+        "A",
+        "B",
+        "E",
+        "C",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "C",
+        "D",
+        "B",
+        "A",
+        "E",
+        "D",
+        "A",
+        "B",
+        "E",
+        "C",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "grupos": [
+        {
+          "label": "ITENS_1_A_3",
+          "acertos": 3,
+          "total": 3
+        },
+        {
+          "label": "ITENS_4_A_12",
+          "acertos": 15,
+          "total": 16
+        },
+        {
+          "label": "ITEM_13",
+          "acertos": 1,
+          "total": 1
+        }
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI20-KAMIKAZE-20261123-Q04",
+          "unitId": "4.1",
+          "editalItem": "4",
+          "materia": "Telecomunicações — modulação",
+          "topico": "QPSK — bits/símbolo e taxa de símbolos",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "TAXA_SIMBOLOS_QPSK",
+          "observacao": "18 Mbit/s em QPSK =18/2=9 Mbaud; 4,5 Mbaud equivale a 4 bits/símbolo (16-QAM)."
+        }
+      ],
+      "observacao": "95% em teste autoral, manutenção dos 13 itens. Não extrapolar para prova oficial."
     }
   ],
   "updatedAt": "2026-11-23"
