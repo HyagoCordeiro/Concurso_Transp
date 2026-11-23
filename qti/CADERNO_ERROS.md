@@ -491,3 +491,11 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - **K04:** B — incorreta; correto D=8, pois `h(t)=3δ(t−1)−2δ(t−3)` e `y(4)=3x(3)−2x(1)=8`.
 - **K04R:** C — correta, resultado 9 (`h(t)=2δ(t−1)−δ(t−2)`; `y(4)=2x(3)−x(2)=9`). Acerto após a explicação da K04.
 - **Status:** recuperado provisoriamente, **não consolidado**; reteste independente **26/11/2026**, sem fórmulas antecipadas.
+
+
+### 23/11/2026 — QTI-15 Kamikaze (itens 4–12)
+
+- **14/15 (93,3%)**, questões autorais no estilo CESGRANRIO; único erro Q14 de dispersão modal (resposta C, correta D segundo critério explícito da questão).
+- **Leitura crítica:** a resposta C usa o modelo conservador \(R\approx1/(2\Delta t)\), que pode ser válido em outras condições; nesta questão foi imposto \(R\approx1/\Delta t\). Não confundir troca de critério com ausência de domínio da dispersão.
+- **Reteste 26/11:** verificar interpretação de critérios e preservar foco em itens 4–12.
+- [Detalhamento](QTI15_KAMIKAZE_2026-11-23.md) · [Respostas](QTI15_KAMIKAZE_2026-11-23.json).
