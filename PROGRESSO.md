@@ -794,3 +794,11 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Recuperações imediatas: MPLS hexadecimal **2/2**, dispersão cromática **2/2**, Bayes **2/2**. Autocorrelação e diferença entre variância/desvio padrão **1/2**: Q04 marcou **B (25)**, correta **E (5)**; em `R(0)=29` e `μ=-2`, a variância é 25 e o desvio padrão é 5.
 - **Próximo passo:** simulado completo de **70 questões em 22/11**, abrangendo 50 conhecimentos específicos, 10 Português e 10 Inglês; ainda **não realizado**. Tempo líquido do dia não medido.
 - [Fechamento](qti/FECHAMENTO_DIA_2026-11-21.md) · [Reforço estruturado](qti/CADERNO_ERROS_REF8_2026-11-21.json) · [Caderno de erros](qti/CADERNO_ERROS.md).
+
+
+### 22/11/2026 — Simulado QTI-70 parcial (encerramento na Q50)
+
+- **32/50 (64,0%)** em questões autorais/adaptadas, sem cartão-resposta: Português **8/10**, Inglês **7/10**, Específicos **17/30**; **18 erros** novos para o caderno. Questões 51–70 **não respondidas**; sem extrapolar percentual para 70 questões.
+- Encerrado a pedido do usuário por cansaço e compromissos familiares; tempo líquido não mensurado de modo confiável.
+- **23/11/2026:** inicia fase intensiva de revisão priorizando análise dos erros e aplicação de questões novas. A pedido do usuário, sem discussão dos erros na noite do dia 22.
+- [Relatório](qti/FECHAMENTO_DIA_2026-11-22.md) · [Dados](qti/QTI70_PARCIAL_2026-11-22.json) · [Caderno](qti/CADERNO_ERROS.md).
