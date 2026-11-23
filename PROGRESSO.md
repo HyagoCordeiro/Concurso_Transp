@@ -822,3 +822,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **19/20 (95%)** em QTI-20 autoral de todos os 13 itens: fundamentos 3/3, Telecom 15/16, regulação 1/1. Um erro: QPSK (18 Mbit/s equivale a 9 Mbaud, não 4,5). Reteste 26/11.
 - **Acumulado do dia:** QTI-15 14/15, QTI-10 8/10, QTI-20 19/20 ⇒ **41/45 (91,1%)**, exclusivamente questões autorais de manutenção; sem previsão de nota da prova oficial.
 - [Relatório](qti/QTI20_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI20_KAMIKAZE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-30 Kamikaze (13 itens)
+
+- **28/30 (93,3%)**, 13 itens; Telecom 4–12: **23/25 (92%)**. Dois erros pontuais em **antenas**: Q10 conversão dBi→dBd (D→B), Q12 lóbulo principal da Yagi-Uda (B→A). Retestes em 26/11.
+- **Acumulado do dia:** QTI-15 (14/15), QTI-10 (8/10), QTI-20 (19/20), QTI-30 (28/30) ⇒ **69/75 (92,0%)**, apenas baterias autorais, sem extrapolação de nota da CESGRANRIO.
+- [Relatório](qti/QTI30_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI30_KAMIKAZE_2026-11-23.json).
