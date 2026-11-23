@@ -6288,6 +6288,36 @@
       "plano": "Questão curta e inédita sobre limitação de taxa por dispersão especificando claramente o modelo. Sem aprofundamento fora do escopo histórico.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI10-Q04-D3",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "materia": "Telecomunicações — conhecimentos específicos",
+      "topico": "Atenuação em espaço livre ao dobrar a distância",
+      "motivo": "QTI-10 23/11 à tarde: marcou C, correta A.",
+      "origemResultado": "QTI10-KAMIKAZE-TARDE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Reteste breve de uma questão semelhante, com novos valores ou outra redação; manter prioridade itens 4 a 12.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI10-Q07-D3",
+      "unitId": "10.3",
+      "editalItem": "10",
+      "materia": "Telecomunicações — conhecimentos específicos",
+      "topico": "PoE 802.3af — diferença PSE e PD",
+      "motivo": "QTI-10 23/11 à tarde: marcou B, correta D.",
+      "origemResultado": "QTI10-KAMIKAZE-TARDE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Reteste breve de uma questão semelhante, com novos valores ou outra redação; manter prioridade itens 4 a 12.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-23",
