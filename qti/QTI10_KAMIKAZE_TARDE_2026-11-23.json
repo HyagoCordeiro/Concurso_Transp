@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "QTI10-KAMIKAZE-TARDE-20261123",
+  "studyDateLocal": "2026-11-23",
+  "timezone": "America/Sao_Paulo",
+  "examDate": "2026-12-06",
+  "type": "QTI-10",
+  "period": "TARDE",
+  "status": "CORRIGIDO",
+  "scope": "ITENS_4_A_12",
+  "questionCount": 10,
+  "correct": 8,
+  "wrong": 2,
+  "percent": 80,
+  "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO",
+  "sourceNote": "Questões autorais sobre temas recorrentes CESGRANRIO Telecom; não transcrições",
+  "timeSpentSec": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q01",
+      "unitId": "4.2",
+      "topic": "FEC — correção de erros com redundância",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 2,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q02",
+      "unitId": "5.1",
+      "topic": "Erlang B — sistema com bloqueio sem fila",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 3,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q03",
+      "unitId": "6.1",
+      "topic": "Região de Fraunhofer — campo distante",
+      "respostaEscolhida": "D",
+      "gabarito": "D",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 4,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q04",
+      "unitId": "7.1",
+      "topic": "Atenuação em espaço livre ao dobrar distância",
+      "respostaEscolhida": "C",
+      "gabarito": "A",
+      "result": "ERRADA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 5,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q05",
+      "unitId": "8.1",
+      "topic": "Satélite GEO — apontamento e atraso",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 6,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q06",
+      "unitId": "9.2",
+      "topic": "LTE — OFDMA e SC-FDMA",
+      "respostaEscolhida": "B",
+      "gabarito": "B",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 7,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q07",
+      "unitId": "10.3",
+      "topic": "IEEE 802.3af — potência PSE versus PD",
+      "respostaEscolhida": "B",
+      "gabarito": "D",
+      "result": "ERRADA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 8,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q08",
+      "unitId": "11.2",
+      "topic": "MPLS — bit S Bottom of Stack",
+      "respostaEscolhida": "A",
+      "gabarito": "A",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 9,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q09",
+      "unitId": "11.1",
+      "topic": "QoS — Low Latency Queueing",
+      "respostaEscolhida": "E",
+      "gabarito": "E",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    },
+    {
+      "questionNumber": 10,
+      "id": "QTI10-KAMIKAZE-TARDE-20261123-Q10",
+      "unitId": "12.3",
+      "topic": "SDH — taxa STM-1",
+      "respostaEscolhida": "C",
+      "gabarito": "C",
+      "result": "CORRETA",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_NAO_ORIGINAL"
+    }
+  ],
+  "itensErrados": [
+    {
+      "questionId": "QTI10-KAMIKAZE-TARDE-20261123-Q04",
+      "questionNumber": 4,
+      "unitId": "7.1",
+      "topic": "Atenuação em espaço livre ao dobrar distância",
+      "respostaEscolhida": "C",
+      "gabarito": "A",
+      "errorType": "CONFUSAO_VARIACAO_DB",
+      "rule": "Dobrar distância em espaço livre: ΔL=20log10(2)=6,02dB, não 3 dB.",
+      "status": "PENDENTE_RETESTE",
+      "dueAt": "2026-11-26"
+    },
+    {
+      "questionId": "QTI10-KAMIKAZE-TARDE-20261123-Q07",
+      "questionNumber": 7,
+      "unitId": "10.3",
+      "topic": "IEEE 802.3af — potência PSE versus PD",
+      "respostaEscolhida": "B",
+      "gabarito": "D",
+      "errorType": "CONFUSAO_PSE_VS_PD",
+      "rule": "802.3af: saída PSE até 15,4 W; PD até 12,95 W disponíveis. Enunciado pede PSE.",
+      "status": "PENDENTE_RETESTE",
+      "dueAt": "2026-11-26"
+    }
+  ],
+  "caveat": "QTI-10 autoral de manutenção 4–12; desempenho bom mas não projeta nota oficial. Sem tempo medido.",
+  "recommendedNext": "Retestes curtos de 6 dB por duplicação da distância e 15,4 W PSE/12,95 W PD; seguir rodízio itens 4–12."
+}
