@@ -836,3 +836,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **25/30 (83,3%)**, itens 1–3: 3/3, **itens 4–12: 20/25**, item 13: 2/2. Cinco erros (Q06 ganho/diretividade, Q08 G/T, Q12 G.711, Q20 OTDR, Q23 dBd↔dBi). Reincidência em conversão dBi/dBd: dar prioridade em 26/11.
 - **Total em cinco baterias autorais em 23/11: 94/105 (89,5%)**. São exercícios autorais de manutenção e não pontuação prevista na prova CESGRANRIO.
 - [Relatório](qti/QTI30_KAMIKAZE_RODADA2_2026-11-23.md) · [Dados](qti/QTI30_KAMIKAZE_RODADA2_2026-11-23.json).
+
+
+### 23/11/2026 — Simulado integral 70 em PDF (nova aplicação)
+
+- **Caderno de 70 questões criado e entregue em PDF na conversa**, com formato 10 Português + 10 Inglês + 50 Específicos, tempo-alvo 4h30, 11 figuras vetoriais e cartão-resposta em página própria.
+- **14 questões históricas adaptadas** a partir de provas CESGRANRIO/Transpetro 2018/2023 fornecidas pelo candidato; **56 inéditas autorais** no estilo da banca. Prioridade itens 4–12 e cobertura cautelosa dos 1–3.
+- **Sem respostas ou resultado registrado ainda**; aguardando cartão final do aluno. Não incluir em percentuais de acertos.
+- [Descrição, fontes e protocolo de correção](qti/SIMULADO_70_2026-11-23_CADERNO_E_FONTES.md). Índice técnico e gabarito retidos no repositório para uso **somente após** entrega da prova.
+- O **PDF está disponível no anexo da conversa**, não foi armazenado como arquivo binário no GitHub.
