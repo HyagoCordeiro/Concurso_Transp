@@ -38,3 +38,21 @@
 - Q20 item 12.2: OTDR — distância do evento pela metade do tempo de ida e volta.
 
 **Aguardando respostas Q11–Q20, sem divulgar resultados.**
+
+
+**Respostas do bloco 2 (Q11–Q20):** `B, C, C, E, B, D, A, E, C, E` — 20/30 respondidas, gabarito reservado.
+
+
+**Bloco 3 — Q21 a Q30 (apresentado ao aluno, gabarito reservado):**
+- Q21 item 4.1: taxa de bits com modulação 8-PSK.
+- Q22 item 5.3: função do gatekeeper H.323.
+- Q23 item 6.1: conversão dBd para dBi.
+- Q24 item 7.2: potência recebida e margem de enlace de rádio.
+- Q25 item 8.2: faixas típicas de uplink e downlink Ku.
+- Q26 item 10.3: RMON I vs RMON II.
+- Q27 item 11.2: BGP LOCAL_PREF e seleção de saída.
+- Q28 item 12.2: orçamento e margem de enlace óptico.
+- Q29 item 13.1: obrigações de continuidade e universalização do regime público.
+- Q30 item 13.2: papel do PDFF.
+
+**Aguardando respostas Q21–Q30, sem correção antecipada.**
