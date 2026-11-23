@@ -6333,6 +6333,36 @@
       "plano": "Questão curta de QPSK/16-QAM com outros valores, sem ampliar escopo; reforçar log₂(M) e taxa de símbolos.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI30-Q10-D3",
+      "unitId": "6.1",
+      "editalItem": "6",
+      "materia": "Telecomunicações — Antenas",
+      "topico": "Ganho de antena — conversão dBi e dBd",
+      "motivo": "QTI30 de 23/11: assinalou D, correta B",
+      "origemResultado": "QTI30-KAMIKAZE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão curta sobre conversão dBi/dBd em 26/11; não ampliar teoria. Teste inédito, sem ampliar escopo ou sacrificar itens 4 a 12.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI30-Q12-D3",
+      "unitId": "6.3",
+      "editalItem": "6",
+      "materia": "Telecomunicações — Antenas",
+      "topico": "Yagi-Uda — sentido do lóbulo principal",
+      "motivo": "QTI30 de 23/11: assinalou B, correta A",
+      "origemResultado": "QTI30-KAMIKAZE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão conceitual curta sobre Yagi-Uda em 26/11; não ampliar teoria. Teste inédito, sem ampliar escopo ou sacrificar itens 4 a 12.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-23",
