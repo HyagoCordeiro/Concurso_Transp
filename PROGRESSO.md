@@ -815,3 +815,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **8/10 (80%)**, baterias autorais de manutenção itens 4–12. Erros: Q04 perda de espaço livre, Q07 potência PSE versus PD no PoE 802.3af. Revisão objetiva, reteste sugerido para 26/11.
 - QTI-15 de manhã **14/15**; total do dia **22/25 (88%)** em questões autorais, não nota projetada da prova.
 - [Relatório](qti/QTI10_KAMIKAZE_TARDE_2026-11-23.md) · [Dados](qti/QTI10_KAMIKAZE_TARDE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-20 Kamikaze
+
+- **19/20 (95%)** em QTI-20 autoral de todos os 13 itens: fundamentos 3/3, Telecom 15/16, regulação 1/1. Um erro: QPSK (18 Mbit/s equivale a 9 Mbaud, não 4,5). Reteste 26/11.
+- **Acumulado do dia:** QTI-15 14/15, QTI-10 8/10, QTI-20 19/20 ⇒ **41/45 (91,1%)**, exclusivamente questões autorais de manutenção; sem previsão de nota da prova oficial.
+- [Relatório](qti/QTI20_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI20_KAMIKAZE_2026-11-23.json).
