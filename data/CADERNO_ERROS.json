@@ -4676,6 +4676,28 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticNote": "Questão errada no simulado parcial voluntariamente encerrado (50 respondidas). Usuário pediu análise dos erros apenas amanhã."
+    },
+    {
+      "id": "CE-20261123-K04",
+      "firstSeenAt": "2026-11-23",
+      "lastReviewedAt": "2026-11-23",
+      "sourceResultId": "KAMIKAZE-20261123",
+      "sourceQuestionId": "KAMIKAZE-20261123-K04",
+      "unitId": "2.2",
+      "topic": "Convolução com Dirac — combinar escala e deslocamento",
+      "respostaEscolhida": "B",
+      "gabarito": "D",
+      "errorType": "DIRAC_CONVOLUCAO_ESCALA_DESLOCAMENTO",
+      "status": "PENDENTE_REPARO",
+      "teoriaOuRegra": "h(t)=6δ(2t−2)−4δ(2t−6)=3δ(t−1)−2δ(t−3); y(4)=3x(3)−2x(1)=3·4−2·2=8.",
+      "proxAcao": "K03 correta C; K04 incorreta B, gabarito D. Aplicar K04-R inédita focada em escala e atraso antes de avançar para K05. Diagnosticar origem do valor 4 pela conta do aluno se persistir.",
+      "dueAt": "2026-11-23",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "notContentError": false,
+      "relatedErrorId": "CE-20261122-QTI70-Q25",
+      "diagnosticoDeclarado": "Falhou no exercício combinado de convolução com impulsos escalonados após acertar a integral de Dirac. Ainda não confirmado se foi fator de escala ou deslocamento."
     }
   ],
   "weeklyRoutine": {
