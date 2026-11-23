@@ -14,3 +14,10 @@
 - https://informacoes.anatel.gov.br/legislacao/resolucoes/2026/2157-resolucao-789 (PDFF vigente, Resolução 789/2026)
 
 **Instrução de correção:** aguardar 30 letras, não antecipar gabarito, registrar os resultados em data/RESULTADOS.json, erros em data/CADERNO_ERROS.json e qti/CADERNO_ERROS.md, retestes em data/REVISOES.json; atualizar PROGRESSO.md. Estudar erros brevemente, respeitando prioridade 4–12.
+
+
+## Respostas parciais recebidas — 23/11/2026
+
+**Q01–Q10:** `C, A, D, B, E, E, A, D, C, D`.
+
+**Status:** 10/30 respondidas. **Aguardando Q11–Q30, sem revelar gabarito ou corrigir antecipadamente.** Nenhum erro registrado até a correção.
