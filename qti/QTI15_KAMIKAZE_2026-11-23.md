@@ -33,3 +33,10 @@
 - Acertos em Carson, PCM, SIP/RTP, monopolo, polarização, Fresnel, enlace, satélites, rede celular, 802.1Q, SNMP, OSPF, MPLS L3VPN e WDM.
 - **Manter o foco:** itens 4–12, revisão de domínio e erros reais; tópicos 1–3 em manutenção cautelosa, sem aprofundamento em Elétrica/Automação.
 - Não confundir um QTI-15 autoral e familiar (14/15) com simulado integral original de 70 questões.
+
+
+## Verificação adicional — dispersão óptica (23/11)
+
+- **FGV/AMAZUL 2026 Q3852371:** resposta B (2,5 MHz) correta no critério da banca; Δt=10 ns/km × 20 km=200 ns; largura de banda estimada B≈1/(2Δt). Questão externa usada apenas para examinar a formulação.
+- **CESGRANRIO/Transpetro 2023 Q2326972:** resposta E correta na versão adaptada; original consultado no QConcursos, https://www.qconcursos.com/questoes-de-concursos/questoes/9acca117-a4 . A adaptação ficou muito próxima do original e preservou a letra E, então **não contar como nova evidência independente de retenção**.
+- **Decisão:** encerrar revisão intensiva de dispersão por ora; manter reteste curto já planejado, avançar para revisão intercalada dos itens 4–12.
