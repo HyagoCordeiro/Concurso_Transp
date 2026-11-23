@@ -18,8 +18,23 @@
 - Q09 item 9.2: acesso rádio UMTS WCDMA e LTE downlink OFDMA.
 - Q10 item 10.3: IEEE 802.1p PCP de três bits, número de níveis.
 
-**Respostas:** aguardando Q01–Q10.
+**Respostas do bloco 1 (Q01–Q10):** `B, D, A, E, C, A, D, B, C, A` — registradas em 23/11/2026. **10/30 respondidas, gabarito reservado.**
 
 **Referência às fontes verificadas:** Matéria_Telecom_2026.docx do projeto; https://www.qconcursos.com/questoes-de-concursos/provas/cesgranrio-2018-transpetro-engenheiro-junior-telecomunicacoes e https://www.qconcursos.com/questoes-de-concursos/provas/cesgranrio-2023-transpetro-profissional-transpetro-de-nivel-superior-junior-enfase-21-engenharia-de-telecomunicacoes.
 
 **Após Q30:** corrigir tudo, conferir cálculo e gabarito, atualizar data/RESULTADOS.json, data/CADERNO_ERROS.json, qti/CADERNO_ERROS.md, data/REVISOES.json e PROGRESSO.md. Distinguir autorais de questões originais CESGRANRIO.
+
+
+**Bloco 2 — Q11 a Q20 (apresentado, sem correção):**
+- Q11 item 4.1: identificação de modulações ASK/FSK/PSK.
+- Q12 item 5.3: payload G.711 em 20 ms sem cabeçalhos.
+- Q13 item 6.1: relação coeficiente de reflexão e ROE.
+- Q14 item 7.1: dispersão temporal por multipercurso e ISI.
+- Q15 item 8.2: transponder transparente bent-pipe.
+- Q16 item 9.2: problema near-far em CDMA e controle de potência.
+- Q17 item 10.3: IEEE 802.1s MSTP — múltiplas VLANs por instância.
+- Q18 item 11.2: OSPF DR/BDR em redes broadcast.
+- Q19 item 11.3: MPLS L2VPN pseudowire versus L3VPN.
+- Q20 item 12.2: OTDR — distância do evento pela metade do tempo de ida e volta.
+
+**Aguardando respostas Q11–Q20, sem divulgar resultados.**
