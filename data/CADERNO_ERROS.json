@@ -4755,6 +4755,27 @@
       "notContentError": false,
       "relatedErrorId": "CE-20261122-QTI70-Q25",
       "diagnosticoDeclarado": "Falhou no exercício combinado de convolução com impulsos escalonados após acertar a integral de Dirac. Ainda não confirmado se foi fator de escala ou deslocamento."
+    },
+    {
+      "id": "CE-20261123-QTI15-Q14",
+      "firstSeenAt": "2026-11-23",
+      "lastReviewedAt": "2026-11-23",
+      "sourceResultId": "QTI15-KAMIKAZE-20261123",
+      "sourceQuestionId": "QTI15-KAMIKAZE-20261123-Q14",
+      "unitId": "12.1",
+      "topic": "Dispersão modal — escolha do critério R≈1/Δt versus R≈1/(2Δt)",
+      "respostaEscolhida": "C",
+      "gabarito": "D",
+      "errorType": "CRITERIO_DA_QUESTAO",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "Δt=60×4=240ns; enunciado estabelece R≈1/Δt=4,17 Mbps. R≈1/(2Δt)=2,08 Mbps é critério mais conservador também empregado; não é universalmente errado.",
+      "proxAcao": "Revisar leitura do critério de alargamento/taxa no próprio enunciado; reteste curto em 26/11, prioridade moderada. Não tratar como lacuna grande de conhecimento.",
+      "dueAt": "2026-11-26",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "notContentError": false,
+      "diagnosticoDeclarado": "O erro foi responder com critério 1/(2Δt), plausível fisicamente, mas incompatível com a hipótese textual imposta na Q14."
     }
   ],
   "weeklyRoutine": {
