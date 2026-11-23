@@ -10846,7 +10846,290 @@
       "tempoTotalSec": null,
       "diagnosticValidity": "REPARO_IMEDIATO_NAO_COMPROVA_RETENCAO",
       "observacao": "11/15 do bloco principal + 7/8 reforço = 18/23 prática; NÃO usar 18/23 como simulado independente."
+    },
+    {
+      "id": "QTI70-20261122-PARCIAL50",
+      "data": "2026-11-22",
+      "tipo": "QTI-70-PARCIAL",
+      "titulo": "QTI-70 interrompido pelo usuário após 50 questões",
+      "totalQuestoes": 70,
+      "totalRespondidas": 50,
+      "totalValidas": 50,
+      "naoRespondidas": 20,
+      "acertos": 32,
+      "erros": 18,
+      "percentual": 64,
+      "materias": {
+        "portugues": {
+          "acertos": 8,
+          "total": 10
+        },
+        "ingles": {
+          "acertos": 7,
+          "total": 10
+        },
+        "especificos": {
+          "acertos": 17,
+          "total": 30
+        }
+      },
+      "origem": "Respostas do usuário no ChatGPT em 22/11/2026",
+      "sourceType": "AUTORAL_E_ADAPTADA_ESTILO_CESGRANRIO",
+      "sourceFile": "qti/QTI70_PARCIAL_2026-11-22.json",
+      "reportFile": "qti/FECHAMENTO_DIA_2026-11-22.md",
+      "tempoTotalSec": null,
+      "respostas": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A",
+        "E",
+        "E",
+        "C",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "D",
+        "A",
+        "B",
+        "D",
+        "E",
+        "C",
+        "D",
+        "D",
+        "E",
+        "B",
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "C",
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "A",
+        "C",
+        "D",
+        "A",
+        "A",
+        "B",
+        "D",
+        "D",
+        "C",
+        "A",
+        "C",
+        "D",
+        "E",
+        "B",
+        "A",
+        "D"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A",
+        "D",
+        "B",
+        "C",
+        "D",
+        "A",
+        "C",
+        "B",
+        "E",
+        "D",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C",
+        "D",
+        "D",
+        "E",
+        "A",
+        "D",
+        "C",
+        "A",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "C",
+        "D",
+        "E",
+        "A",
+        "C",
+        "D",
+        "C",
+        "D",
+        "D",
+        "D",
+        "C",
+        "C",
+        "E",
+        "C",
+        "D",
+        "E",
+        "B",
+        "E",
+        "C"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q06",
+          "unitId": "PT",
+          "topico": "Pronomes relativos",
+          "respostaEscolhida": "E",
+          "gabarito": "D",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q07",
+          "unitId": "PT",
+          "topico": "Pontuação/conjunções",
+          "respostaEscolhida": "E",
+          "gabarito": "B",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q13",
+          "unitId": "ING",
+          "topico": "Conector while",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q15",
+          "unitId": "ING",
+          "topico": "Vocabulário revealed",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q18",
+          "unitId": "ING",
+          "topico": "Even when — concessão",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q23",
+          "unitId": "1.3",
+          "topico": "WSS — segunda diferença",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q25",
+          "unitId": "2.2",
+          "topico": "Escalonamento de Dirac",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q27",
+          "unitId": "2.4",
+          "topico": "Convolução contínua — suportes",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q29",
+          "unitId": "3.1",
+          "topico": "Routh-Hurwitz estrito",
+          "respostaEscolhida": "C",
+          "gabarito": "D",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q31",
+          "unitId": "4.1",
+          "topico": "Carson — desvio de frequência",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q34",
+          "unitId": "4.2",
+          "topico": "BER — evento complementar",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q38",
+          "unitId": "6.1",
+          "topico": "Fraunhofer — potência quadrática da abertura",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q39",
+          "unitId": "6.2",
+          "topico": "Monopolo — imagem e ganho",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q40",
+          "unitId": "6.3",
+          "topico": "Arranjo linear — fase",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q42",
+          "unitId": "7.2",
+          "topico": "Orçamento de enlace — perdas e margem",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q44",
+          "unitId": "8.2",
+          "topico": "Bandas satelitais — chuva",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q49",
+          "unitId": "10.2",
+          "topico": "Roteamento inter-VLAN L3",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        },
+        {
+          "questionId": "QTI70-20261122-PARCIAL50-Q50",
+          "unitId": "10.3",
+          "topico": "Versões SNMP e notificações",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "A_DIAGNOSTICAR_EM_23_11"
+        }
+      ],
+      "observacao": "Sem cartão-resposta; faltam Q51–70, que não contam como erros nem como tentativas. Sessão encerrada por cansaço e compromissos familiares. A pedido do usuário, discutir erros somente em 23/11. Percentual não prediz nota integral."
     }
   ],
-  "updatedAt": "2026-11-21"
+  "updatedAt": "2026-11-22"
 }
