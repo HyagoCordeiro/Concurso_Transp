@@ -523,3 +523,16 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - **Q12 (item 6.3):** B→A; Yagi-Uda convencional irradia principalmente **na direção dos diretores**, e não do refletor.
 - Reteste curto **26/11**, sem aprofundamento desnecessário. Total das 4 baterias autorais de 23/11: **69/75 (92%)**.
 - [Relatório](QTI30_KAMIKAZE_2026-11-23.md) · [Dados](QTI30_KAMIKAZE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-30 Kamikaze (2ª rodada, 3 blocos)
+
+- **25/30 (83,3%)**, autorais; itens 1–3: 3/3; itens 4–12: **20/25 (80%)**; item 13: 2/2.
+- **Q06 / 6.1:** A→B. Ganho 10dBi, η=0,5: diretividade 13 dBi.
+- **Q08 / 8.3:** B→E. G/T 40−10log10(100)=20 dB/K.
+- **Q12 / 5.3:** C→D. G.711 em 20ms: 160 bytes, não 320.
+- **Q20 / 12.2:** E→B. OTDR 40µs ida/volta ⇒ 4km.
+- **Q23 / 6.1:** A→E. 5 dBd⇒7,15 dBi; erro recorrente com Q10 da 1ª rodada, no sentido inverso.
+- Retestes breves em **26/11**, alta prioridade para **dBd↔dBi**; demais prioridade média.
+- **Acumulado do dia em cinco QTIs autorais:** **94/105 (89,5%)**.
+- [Relatório](QTI30_KAMIKAZE_RODADA2_2026-11-23.md) · [Dados](QTI30_KAMIKAZE_RODADA2_2026-11-23.json).
