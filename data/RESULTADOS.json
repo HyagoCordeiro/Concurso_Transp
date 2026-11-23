@@ -11345,6 +11345,128 @@
         }
       ],
       "observacao": "95% em teste autoral, manutenção dos 13 itens. Não extrapolar para prova oficial."
+    },
+    {
+      "id": "QTI30-KAMIKAZE-20261123",
+      "data": "2026-11-23",
+      "tipo": "QTI-30",
+      "titulo": "QTI-30 Kamikaze — todos os 13 itens",
+      "totalQuestoes": 30,
+      "totalValidas": 30,
+      "acertos": 28,
+      "erros": 2,
+      "percentual": 93.3,
+      "sourceType": "QUESTOES_AUTORAIS_ESTILO_CESGRANRIO_TELECOM",
+      "origem": "Respostas na conversa 23/11/2026 em três lotes",
+      "sourceFile": "qti/QTI30_KAMIKAZE_2026-11-23.json",
+      "reportFile": "qti/QTI30_KAMIKAZE_2026-11-23.md",
+      "respostas": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "E",
+        "A",
+        "D",
+        "C",
+        "D",
+        "E",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E",
+        "C",
+        "A",
+        "B",
+        "E",
+        "C",
+        "D",
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "E",
+        "E",
+        "A",
+        "D",
+        "C",
+        "B",
+        "E",
+        "A",
+        "D",
+        "B",
+        "C",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E",
+        "C",
+        "A",
+        "B",
+        "E",
+        "C",
+        "D",
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "tempoTotalSec": null,
+      "grupos": [
+        {
+          "label": "ITENS_1_A_3",
+          "acertos": 3,
+          "total": 3
+        },
+        {
+          "label": "ITENS_4_A_12",
+          "acertos": 23,
+          "total": 25
+        },
+        {
+          "label": "ITEM_13",
+          "acertos": 2,
+          "total": 2
+        }
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI30-KAMIKAZE-20261123-Q10",
+          "unitId": "6.1",
+          "editalItem": "6",
+          "materia": "Telecomunicações — Antenas",
+          "topico": "Ganho de antena — conversão dBi e dBd",
+          "respostaEscolhida": "D",
+          "gabarito": "B",
+          "errorType": "CONVERSAO_DBI_DBD",
+          "observacao": "G[dBd]=G[dBi]−2,15. 8,15 dBi=6 dBd. Na conversão dBi→dBd, subtrair, não somar."
+        },
+        {
+          "questionId": "QTI30-KAMIKAZE-20261123-Q12",
+          "unitId": "6.3",
+          "editalItem": "6",
+          "materia": "Telecomunicações — Antenas",
+          "topico": "Yagi-Uda — sentido do lóbulo principal",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "CONCEITO_DIRETORES_REFLETOR",
+          "observacao": "Na Yagi-Uda convencional o refletor está atrás do excitado e o lóbulo principal aponta na direção dos diretores."
+        }
+      ],
+      "observacao": "QTI-30 autoral, 28/30 (93,3%). Baterias autorais 23/11 totalizam 69/75 (92%). Sem cronômetro; não extrapolar para a prova oficial."
     }
   ],
   "updatedAt": "2026-11-23"
