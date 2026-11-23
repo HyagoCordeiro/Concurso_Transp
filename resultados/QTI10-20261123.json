@@ -1,0 +1,86 @@
+{
+  "eventId": "QTI10-20261123",
+  "studyDateLocal": "2026-11-23",
+  "qti": "QTI-10",
+  "tema": "Simulado misto CESGRANRIO",
+  "total": 10,
+  "totalValid": 10,
+  "acertos": 9,
+  "erros": 1,
+  "invalidos": 0,
+  "accuracy": 90,
+  "sourceType": "AUTORAL_ADAPTADO",
+  "answers": [
+    {
+      "questao": 1,
+      "tema": "Português: conectores",
+      "resposta": "Finalidade",
+      "gabarito": "Causa",
+      "acerto": false
+    },
+    {
+      "questao": 2,
+      "tema": "Inglês: compreensão",
+      "resposta": "Combining remote monitoring with periodic on-site inspections",
+      "gabarito": "Combining remote monitoring with periodic on-site inspections",
+      "acerto": true
+    },
+    {
+      "questao": 3,
+      "tema": "1.1 Probabilidade",
+      "resposta": "56,25%",
+      "gabarito": "56,25%",
+      "acerto": true
+    },
+    {
+      "questao": 4,
+      "tema": "2.3 Fourier",
+      "resposta": "6",
+      "gabarito": "6",
+      "acerto": true
+    },
+    {
+      "questao": 5,
+      "tema": "4.2 PCM",
+      "resposta": "192 kbit/s",
+      "gabarito": "192 kbit/s",
+      "acerto": true
+    },
+    {
+      "questao": 6,
+      "tema": "5.1 Erlang B",
+      "resposta": "40%",
+      "gabarito": "40%",
+      "acerto": true
+    },
+    {
+      "questao": 7,
+      "tema": "7.1 Propagação",
+      "resposta": "6 dB",
+      "gabarito": "6 dB",
+      "acerto": true
+    },
+    {
+      "questao": 8,
+      "tema": "8.3 Satélite",
+      "resposta": "24 dB",
+      "gabarito": "24 dB",
+      "acerto": true
+    },
+    {
+      "questao": 9,
+      "tema": "10.3 SNMPv3",
+      "resposta": "Autenticação e criptografia",
+      "gabarito": "Autenticação e criptografia",
+      "acerto": true
+    },
+    {
+      "questao": 10,
+      "tema": "11.3 MPLS L3VPN",
+      "resposta": "VRFs e Route Targets",
+      "gabarito": "VRFs e Route Targets",
+      "acerto": true
+    }
+  ],
+  "revisao": "Conectores de causa: visto que, uma vez que, já que, porque."
+}
