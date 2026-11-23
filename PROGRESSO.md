@@ -808,3 +808,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 
 - Questões autorais de itens **4–12**: **14/15 (93,3%)**. Um erro em dispersão modal ligado à **convenção explicitamente exigida no enunciado**; 1/(2Δt) pode ser modelo conservador válido, mas foi pedido 1/Δt. Reteste curto em 26/11.
 - [Relatório](qti/QTI15_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI15_KAMIKAZE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-10 Kamikaze (tarde)
+
+- **8/10 (80%)**, baterias autorais de manutenção itens 4–12. Erros: Q04 perda de espaço livre, Q07 potência PSE versus PD no PoE 802.3af. Revisão objetiva, reteste sugerido para 26/11.
+- QTI-15 de manhã **14/15**; total do dia **22/25 (88%)** em questões autorais, não nota projetada da prova.
+- [Relatório](qti/QTI10_KAMIKAZE_TARDE_2026-11-23.md) · [Dados](qti/QTI10_KAMIKAZE_TARDE_2026-11-23.json).
