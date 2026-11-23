@@ -25,3 +25,13 @@
 **Q11–Q20:** `E, B, D, B, C, A, C, D, B, E`.
 
 **Status:** 20/30 respondidas. **Aguardando Q21–Q30; gabarito reservado, sem correção antecipada.**
+
+
+**Q21–Q30:** `C, A, B, E, C, D, B, E, A, D`.
+
+## Fechamento — corrigido em 23/11/2026
+
+**Status final: 30/30 respondidas e corrigidas.** Resultado **28/30 (93,3%)**, erros somente Q10 (dBi/dBd: D→B) e Q12 (Yagi-Uda: B→A). Relatórios definitivos:
+- [Resultado completo](QTI30_KAMIKAZE_2026-11-23.md)
+- [Dados completos](QTI30_KAMIKAZE_2026-11-23.json)
+- Atualizações em `data/RESULTADOS.json`, `data/CADERNO_ERROS.json`, `qti/CADERNO_ERROS.md`, `data/REVISOES.json` e `PROGRESSO.md`.
