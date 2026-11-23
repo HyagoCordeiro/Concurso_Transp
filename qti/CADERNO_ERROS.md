@@ -507,3 +507,10 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - Reteste curto **26/11**, prioridade média, preservando foco em Telecom; sem aprendizado aprofundado desnecessário.
 - Total parcial de baterias autorais do dia: **22/25 (88%)**.
 - [Relatório](QTI10_KAMIKAZE_TARDE_2026-11-23.md) · [Dados](QTI10_KAMIKAZE_TARDE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-20 Kamikaze (13 itens)
+
+- **19/20 (95%)**: itens 1–3 **3/3**, itens 4–12 **15/16**, item 13 **1/1**. Questões autorais, não oficiais.
+- **Q04 item 4.1:** A→E; QPSK tem **2 bits/símbolo**. 18 Mbit/s em QPSK ⇒ **9 Mbaud**, não 4,5 Mbaud (16-QAM). Reteste curto em **26/11**, sem extrapolar.
+- Total de três baterias autorais no dia: **41/45 (91,1%)**. [Relatório](QTI20_KAMIKAZE_2026-11-23.md) · [Dados](QTI20_KAMIKAZE_2026-11-23.json).
