@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 1,
+  "id": "SIM70-20261123-REALESTILO",
+  "createdAt": "2026-11-23",
+  "targetExamDate": "2026-12-06",
+  "bank": "CESGRANRIO / Transpetro / Eng. Telecom",
+  "status": "PDF_GERADO_AGUARDANDO_RESPOSTAS",
+  "durationLimitMinutes": 270,
+  "totalQuestions": 70,
+  "sections": [
+    {
+      "name": "PORTUGUES",
+      "range": [
+        1,
+        10
+      ],
+      "count": 10
+    },
+    {
+      "name": "INGLES",
+      "range": [
+        11,
+        20
+      ],
+      "count": 10
+    },
+    {
+      "name": "ESPECIFICOS",
+      "range": [
+        21,
+        70
+      ],
+      "count": 50
+    }
+  ],
+  "historicalAdaptationsCount": 14,
+  "newAuthorialCount": 56,
+  "figuresCount": 11,
+  "bookletPages": 13,
+  "answerSheetIncluded": true,
+  "pdf": {
+    "filename": "SIMULADO_70_TRANSPETRO_TELECOM_KAMIKAZE_2026-11-23.pdf",
+    "sha256": "af2f977a44d3f6ec14842d5ecb8483462f0e221ecc0a561d36d8c36502c61f4c",
+    "binarySavedInGitHub": false,
+    "availability": "PDF anexado à conversa; GitHub guarda índice, origens e gabarito para correção posterior."
+  },
+  "sources": [
+    "Matéria_Telecom_2026.docx (arquivo enviado no projeto)",
+    "Conhecimento_Básico. .docx (arquivo enviado no projeto)",
+    "Engenharia de Telecomunicações.pdf (Transpetro 2023, arquivo enviado)",
+    "Cópia de Prova Engenharia Telecomunicações - 2018.pdf (arquivo enviado)",
+    "Cópia de Prova Engenharia Telecomunicações - 2012.pdf (arquivo enviado)",
+    "qti/SIMULADO_INTEGRAL_70_2026-11-15.md",
+    "docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md",
+    "docs/PLANO_RETA_FINAL_2026-11-11_A_2026-12-06.md",
+    "docs/CLASSIFICACAO_TECCONCURSOS_13_ITENS_2026-10-07.md",
+    "data/EDITAL.json",
+    "QConcursos CESGRANRIO Transpetro 2018/2023"
+  ],
+  "keyBalance": {
+    "A": 14,
+    "B": 14,
+    "C": 14,
+    "D": 14,
+    "E": 14
+  },
+  "questions": [
+    {
+      "id": "SIM70-20261123-REALESTILO-Q01",
+      "questionNumber": 1,
+      "unitId": "PT",
+      "topic": "Interpretação global",
+      "gabarito": "A",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q01"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q02",
+      "questionNumber": 2,
+      "unitId": "PT",
+      "topic": "Conectivo causal",
+      "gabarito": "A",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q02"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q03",
+      "questionNumber": 3,
+      "unitId": "PT",
+      "topic": "Linguagem figurada",
+      "gabarito": "B",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q03"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q04",
+      "questionNumber": 4,
+      "unitId": "PT",
+      "topic": "Inferência textual",
+      "gabarito": "D",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q04"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q05",
+      "questionNumber": 5,
+      "unitId": "PT",
+      "topic": "Inferência e contraste",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q06",
+      "questionNumber": 6,
+      "unitId": "PT",
+      "topic": "Haver impessoal",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q07",
+      "questionNumber": 7,
+      "unitId": "PT",
+      "topic": "Tempos e modos verbais",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q08",
+      "questionNumber": 8,
+      "unitId": "PT",
+      "topic": "Concordância verbal",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q09",
+      "questionNumber": 9,
+      "unitId": "PT",
+      "topic": "Crase",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q10",
+      "questionNumber": 10,
+      "unitId": "PT",
+      "topic": "Pontuação e efeito expressivo",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q11",
+      "questionNumber": 11,
+      "unitId": "EN",
+      "topic": "Main idea",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q12",
+      "questionNumber": 12,
+      "unitId": "EN",
+      "topic": "Inference",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q13",
+      "questionNumber": 13,
+      "unitId": "EN",
+      "topic": "Connectors",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q14",
+      "questionNumber": 14,
+      "unitId": "EN",
+      "topic": "Pronoun reference",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q15",
+      "questionNumber": 15,
+      "unitId": "EN",
+      "topic": "Vocabulary in context",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q16",
+      "questionNumber": 16,
+      "unitId": "EN",
+      "topic": "Concession",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q17",
+      "questionNumber": 17,
+      "unitId": "EN",
+      "topic": "Inference / rather than",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q18",
+      "questionNumber": 18,
+      "unitId": "EN",
+      "topic": "Meaning in context",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q19",
+      "questionNumber": 19,
+      "unitId": "EN",
+      "topic": "Inference / textual evidence",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q20",
+      "questionNumber": 20,
+      "unitId": "EN",
+      "topic": "Grammar / condition",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q21",
+      "questionNumber": 21,
+      "unitId": "12.3",
+      "topic": "SDH / interoperabilidade",
+      "gabarito": "E",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q33"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q22",
+      "questionNumber": 22,
+      "unitId": "4.1",
+      "topic": "Carson FM",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q23",
+      "questionNumber": 23,
+      "unitId": "5.1",
+      "topic": "Erlang B, dois circuitos",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q24",
+      "questionNumber": 24,
+      "unitId": "1.1",
+      "topic": "Probabilidade condicional simples",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q25",
+      "questionNumber": 25,
+      "unitId": "6.1",
+      "topic": "Fraunhofer campo distante",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q26",
+      "questionNumber": 26,
+      "unitId": "7.1",
+      "topic": "Difração gume de faca",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q27",
+      "questionNumber": 27,
+      "unitId": "8.3",
+      "topic": "Satélite C/N",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q28",
+      "questionNumber": 28,
+      "unitId": "10.3",
+      "topic": "Power over Ethernet",
+      "gabarito": "A",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2023-Q64"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q29",
+      "questionNumber": 29,
+      "unitId": "9.2",
+      "topic": "LTE OFDMA SC-FDMA",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q30",
+      "questionNumber": 30,
+      "unitId": "12.4",
+      "topic": "CWDM canal",
+      "gabarito": "A",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q24"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q31",
+      "questionNumber": 31,
+      "unitId": "2.4",
+      "topic": "Convolução de retângulos",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q32",
+      "questionNumber": 32,
+      "unitId": "11.2",
+      "topic": "OSPF DR",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q33",
+      "questionNumber": 33,
+      "unitId": "5.3",
+      "topic": "H.323 MCU",
+      "gabarito": "B",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q37"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q34",
+      "questionNumber": 34,
+      "unitId": "4.2",
+      "topic": "Modulação e FEC",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q35",
+      "questionNumber": 35,
+      "unitId": "6.1",
+      "topic": "Perda polarização",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q36",
+      "questionNumber": 36,
+      "unitId": "7.1",
+      "topic": "FSPL distância",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q37",
+      "questionNumber": 37,
+      "unitId": "11.1",
+      "topic": "IGMPv1 Membership Report",
+      "gabarito": "E",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q49"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q38",
+      "questionNumber": 38,
+      "unitId": "10.3",
+      "topic": "MSTP IEEE 802.1s",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q39",
+      "questionNumber": 39,
+      "unitId": "12.4",
+      "topic": "DWDM transponder 3R",
+      "gabarito": "E",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q23"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q40",
+      "questionNumber": 40,
+      "unitId": "4.2",
+      "topic": "BER probabilidade",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q41",
+      "questionNumber": 41,
+      "unitId": "3.1",
+      "topic": "Laplace valor final",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q42",
+      "questionNumber": 42,
+      "unitId": "8.3",
+      "topic": "G/T estação satelital",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q43",
+      "questionNumber": 43,
+      "unitId": "11.3",
+      "topic": "MPLS RD RT",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q44",
+      "questionNumber": 44,
+      "unitId": "5.3",
+      "topic": "SIP respostas",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q45",
+      "questionNumber": 45,
+      "unitId": "4.2",
+      "topic": "ARQ X FEC",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q46",
+      "questionNumber": 46,
+      "unitId": "12.1",
+      "topic": "Dispersão cromática",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q47",
+      "questionNumber": 47,
+      "unitId": "11.1",
+      "topic": "QoS LLQ",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q48",
+      "questionNumber": 48,
+      "unitId": "6.1",
+      "topic": "Conversão dBi→dBd",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q49",
+      "questionNumber": 49,
+      "unitId": "10.3",
+      "topic": "SNMP SetRequest",
+      "gabarito": "C",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q46"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q50",
+      "questionNumber": 50,
+      "unitId": "7.1",
+      "topic": "Fresnel clearance",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q51",
+      "questionNumber": 51,
+      "unitId": "8.1",
+      "topic": "Satélite GEO tempo ida/volta",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q52",
+      "questionNumber": 52,
+      "unitId": "4.1",
+      "topic": "FM Carson 2",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q53",
+      "questionNumber": 53,
+      "unitId": "9.2",
+      "topic": "CDMA controle potência",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q54",
+      "questionNumber": 54,
+      "unitId": "10.2",
+      "topic": "InterVLAN L3",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q55",
+      "questionNumber": 55,
+      "unitId": "12.1",
+      "topic": "Fibras EMI",
+      "gabarito": "B",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2023-Q60"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q56",
+      "questionNumber": 56,
+      "unitId": "11.2",
+      "topic": "BGP LOCAL_PREF",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q57",
+      "questionNumber": 57,
+      "unitId": "2.3",
+      "topic": "Fourier escala no tempo",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q58",
+      "questionNumber": 58,
+      "unitId": "6.1",
+      "topic": "Polarização circular RHCP LHCP",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q59",
+      "questionNumber": 59,
+      "unitId": "5.2",
+      "topic": "E1 PCM",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q60",
+      "questionNumber": 60,
+      "unitId": "8.2",
+      "topic": "Satélite Ku chuva e cintilação",
+      "gabarito": "B",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q52"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q61",
+      "questionNumber": 61,
+      "unitId": "12.2",
+      "topic": "OTDR ida e volta",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q62",
+      "questionNumber": 62,
+      "unitId": "11.4",
+      "topic": "IPSec tunnel",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q63",
+      "questionNumber": 63,
+      "unitId": "8.1",
+      "topic": "VSAT estrela",
+      "gabarito": "C",
+      "sourceType": "CESGRANRIO_TRANSPETRO_QUESTAO_HISTORICA_ADAPTADA",
+      "historicalQuestion": "2018-Q53"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q64",
+      "questionNumber": 64,
+      "unitId": "10.1",
+      "topic": "Wi-Fi6 OFDMA",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q65",
+      "questionNumber": 65,
+      "unitId": "4.2",
+      "topic": "PCM Nyquist",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q66",
+      "questionNumber": 66,
+      "unitId": "12.3",
+      "topic": "SDH duração do quadro",
+      "gabarito": "D",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q67",
+      "questionNumber": 67,
+      "unitId": "13.1",
+      "topic": "LGT art 157",
+      "gabarito": "C",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q68",
+      "questionNumber": 68,
+      "unitId": "13.2",
+      "topic": "PDFF",
+      "gabarito": "E",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q69",
+      "questionNumber": 69,
+      "unitId": "1.2",
+      "topic": "Probabilidade binomial complemento",
+      "gabarito": "A",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    },
+    {
+      "id": "SIM70-20261123-REALESTILO-Q70",
+      "questionNumber": 70,
+      "unitId": "3.5",
+      "topic": "Transformada Z e função de transferência",
+      "gabarito": "B",
+      "sourceType": "AUTORAL_CALIBRADA_CESGRANRIO"
+    }
+  ],
+  "antiRepeat": "Adaptadas de questões CESGRANRIO identificadas; demais autorais sem repetição literal dos QTIs de 23/11. O aluno pode reconhecer conceitos de provas anteriores. Não misturar este simulado com original integral.",
+  "scoring": "Gabarito preservado no JSON para correção quando o candidato enviar o cartão. Não divulgar antes."
+}
