@@ -499,3 +499,11 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - **Leitura crítica:** a resposta C usa o modelo conservador \(R\approx1/(2\Delta t)\), que pode ser válido em outras condições; nesta questão foi imposto \(R\approx1/\Delta t\). Não confundir troca de critério com ausência de domínio da dispersão.
 - **Reteste 26/11:** verificar interpretação de critérios e preservar foco em itens 4–12.
 - [Detalhamento](QTI15_KAMIKAZE_2026-11-23.md) · [Respostas](QTI15_KAMIKAZE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-10 Kamikaze (tarde)
+
+- **8/10 (80%)**, autorais nos itens 4–12; erros em **Q04 (7.1, C→A)**: ao dobrar distância a perda aumenta ~6 dB; **Q07 (10.3, B→D)**: IEEE 802.3af diferencia **15,4 W PSE** de **12,95 W PD**.
+- Reteste curto **26/11**, prioridade média, preservando foco em Telecom; sem aprendizado aprofundado desnecessário.
+- Total parcial de baterias autorais do dia: **22/25 (88%)**.
+- [Relatório](QTI10_KAMIKAZE_TARDE_2026-11-23.md) · [Dados](QTI10_KAMIKAZE_TARDE_2026-11-23.json).
