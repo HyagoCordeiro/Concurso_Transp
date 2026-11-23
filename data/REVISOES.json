@@ -6318,6 +6318,21 @@
       "plano": "Reteste breve de uma questão semelhante, com novos valores ou outra redação; manter prioridade itens 4 a 12.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-QTI20-Q04-D3",
+      "unitId": "4.1",
+      "editalItem": "4",
+      "materia": "Telecomunicações — modulação",
+      "topico": "QPSK e M-QAM — relação bits/símbolo e baud rate",
+      "motivo": "Questão Q04 QTI20 23/11: marcou 4,5 Mbaud (A) em vez de 9 Mbaud (E).",
+      "origemResultado": "QTI20-KAMIKAZE-20261123",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Questão curta de QPSK/16-QAM com outros valores, sem ampliar escopo; reforçar log₂(M) e taxa de símbolos.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
   "updatedAt": "2026-11-23",
