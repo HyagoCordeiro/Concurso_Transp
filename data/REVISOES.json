@@ -6018,8 +6018,8 @@
       "origemResultado": "QTI70-20261122-PARCIAL50",
       "agendadaPara": "2026-11-23",
       "prioridade": "alta",
-      "status": "PENDENTE",
-      "plano": "Avaliar erro em 23/11; teoria curta e questão de transferência inédita. Não considerar reparo imediato prova de retenção.",
+      "status": "CONCLUIDO_RETESTE_D1_PENDENTE_D3",
+      "plano": "K-01 correta B e K-02 correta D em 23/11; confirmar retenção em 26/11.",
       "createdFromStudyDate": "2026-11-22",
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "relatorio": "qti/FECHAMENTO_DIA_2026-11-22.md"
@@ -6215,9 +6215,24 @@
       "createdFromStudyDate": "2026-11-22",
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "relatorio": "qti/FECHAMENTO_DIA_2026-11-22.md"
+    },
+    {
+      "id": "REV-20261123-QTI70-WSS-D3",
+      "unitId": "1.3",
+      "editalItem": "1",
+      "materia": "Probabilidade e Processos Estocásticos",
+      "topico": "WSS: R(τ), C(τ), rho(τ), sigma², desvio e diferença quadrática",
+      "motivo": "Erro Q23 QTI70 22/11, duas questões de recuperação corretas em 23/11 (K01=B e K02=D); retenção ainda não verificada no D3.",
+      "origemResultado": "QTI70-20261122-PARCIAL50",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Questão inédita mais desafiadora sem fórmulas antecipadas, incluindo média não nula e atraso não infinito.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
     }
   ],
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "weeklySaturdayReview": {
     "weekday": "SATURDAY",
     "period": "MORNING",
