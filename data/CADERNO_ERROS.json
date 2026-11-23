@@ -4818,6 +4818,27 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "Erro pontual em revisão mista, corrigido; não abrir capítulo aprofundado. Verificar retenção espaçada."
+    },
+    {
+      "id": "CE-20261123-QTI20-Q04",
+      "firstSeenAt": "2026-11-23",
+      "lastReviewedAt": "2026-11-23",
+      "sourceResultId": "QTI20-KAMIKAZE-20261123",
+      "sourceQuestionId": "QTI20-KAMIKAZE-20261123-Q04",
+      "unitId": "4.1",
+      "topic": "Modulação QPSK — cálculo de bits por símbolo",
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "errorType": "CONVERSAO_TAXA_BITS_POR_SIMBOLO",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "QPSK 4 estados → log₂4=2 bits/símbolo. 18 Mbit/s ÷ 2 = 9 Mbaud; 4,5 Mbaud corresponderia a 16-QAM com 4 bits/símbolo.",
+      "proxAcao": "Revisão curta de tabela M-PSK/QAM, uma questão inédita alterando taxa e ordem de modulação. Foco manutenção itens 4–12.",
+      "dueAt": "2026-11-26",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "notContentError": false,
+      "diagnosticoDeclarado": "Marcada taxa de símbolos 4,5 Mbaud em QPSK com taxa 18 Mbit/s; erro de divisão por 4 em vez de 2 bits por símbolo."
     }
   ],
   "weeklyRoutine": {
