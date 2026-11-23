@@ -802,3 +802,9 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - Encerrado a pedido do usuário por cansaço e compromissos familiares; tempo líquido não mensurado de modo confiável.
 - **23/11/2026:** inicia fase intensiva de revisão priorizando análise dos erros e aplicação de questões novas. A pedido do usuário, sem discussão dos erros na noite do dia 22.
 - [Relatório](qti/FECHAMENTO_DIA_2026-11-22.md) · [Dados](qti/QTI70_PARCIAL_2026-11-22.json) · [Caderno](qti/CADERNO_ERROS.md).
+
+
+### 23/11/2026 — QTI-15 Kamikaze
+
+- Questões autorais de itens **4–12**: **14/15 (93,3%)**. Um erro em dispersão modal ligado à **convenção explicitamente exigida no enunciado**; 1/(2Δt) pode ser modelo conservador válido, mas foi pedido 1/Δt. Reteste curto em 26/11.
+- [Relatório](qti/QTI15_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI15_KAMIKAZE_2026-11-23.json).
