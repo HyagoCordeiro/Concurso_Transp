@@ -4485,10 +4485,10 @@
       "respostaEscolhida": "D",
       "gabarito": "E",
       "errorType": "RESPOSTA_INCORRETA_DIAGNOSTICO_A_CONFIRMAR",
-      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "status": "RETESTE_ESPACADO",
       "teoriaOuRegra": "Em t=4, τ pertence a (2,3); integral de τ de 2 a 3 é (9−4)/2=2,5.",
-      "proxAcao": "K05 correta em 23/11. Resolver K06 com dois sinais variáveis; após acerto, agendar reteste espaçado. Sem consolidação antecipada.",
-      "dueAt": "2026-11-23",
+      "proxAcao": "K05 E e K06 B corretas (2/2 em 23/11); recuperação provisória. Reteste independente em 26/11 sem antecipar suporte nem integral.",
+      "dueAt": "2026-11-26",
       "sourceType": "AUTORAL_OU_ADAPTADA_ESTILO_CESGRANRIO_NAO_ORIGINAL",
       "retestEvidence": [
         {
@@ -4499,6 +4499,15 @@
           "status": "CORRETO",
           "type": "REPARO_INEDITO",
           "comment": "Convolução contínua: interseção dos suportes 3<tau<5; integral (2tau-1) d tau =14. Aguardar K06 mais desafiadora."
+        },
+        {
+          "date": "2026-11-23",
+          "sourceQuestionId": "KAMIKAZE-20261123-K06",
+          "respostaEscolhida": "B",
+          "gabarito": "B",
+          "status": "CORRETO",
+          "type": "REPARO_INEDITO",
+          "comment": "x(t)=(t−1)[u(t−1)−u(t−5)], h(t)=(t+1)[u(t)−u(t−3)]; interseção 3<τ<5, integral (τ−1)(7−τ) = 52/3."
         }
       ],
       "retentionVerified": false,
