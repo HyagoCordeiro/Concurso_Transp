@@ -21,3 +21,7 @@
 **Q01–Q10:** `C, A, D, B, E, E, A, D, C, D`.
 
 **Status:** 10/30 respondidas. **Aguardando Q11–Q30, sem revelar gabarito ou corrigir antecipadamente.** Nenhum erro registrado até a correção.
+
+**Q11–Q20:** `E, B, D, B, C, A, C, D, B, E`.
+
+**Status:** 20/30 respondidas. **Aguardando Q21–Q30; gabarito reservado, sem correção antecipada.**
