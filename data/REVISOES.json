@@ -6050,8 +6050,8 @@
       "origemResultado": "QTI70-20261122-PARCIAL50",
       "agendadaPara": "2026-11-23",
       "prioridade": "alta",
-      "status": "PENDENTE",
-      "plano": "Avaliar erro em 23/11; teoria curta e questão de transferência inédita. Não considerar reparo imediato prova de retenção.",
+      "status": "CONCLUIDO_REPARO_PENDENTE_D3",
+      "plano": "K05 e K06 corretas em 23/11; reteste independente em 26/11.",
       "createdFromStudyDate": "2026-11-22",
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "relatorio": "qti/FECHAMENTO_DIA_2026-11-22.md"
@@ -6256,6 +6256,21 @@
       "prioridade": "alta",
       "status": "PENDENTE",
       "plano": "Questão inédita sem indicação do passo de cálculo, cobrando integral e convolução; não confundir recuperação imediata com retenção.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-CONVOLUCAO-D3",
+      "unitId": "2.4",
+      "editalItem": "2",
+      "materia": "Matemática aplicada a sinais",
+      "topico": "Convolução contínua — interseção de suportes e integrais de polinômios",
+      "motivo": "Erro Q27 do QTI70 em 22/11, recuperado com K05 e K06 (2/2) em 23/11.",
+      "origemResultado": "QTI70-20261122-PARCIAL50",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Questão autoral ou CESGRANRIO com dois sinais variáveis e outros suportes, sem dicas; verificar retenção D3.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
     }
