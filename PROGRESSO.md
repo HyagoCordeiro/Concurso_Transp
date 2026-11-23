@@ -829,3 +829,10 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **28/30 (93,3%)**, 13 itens; Telecom 4–12: **23/25 (92%)**. Dois erros pontuais em **antenas**: Q10 conversão dBi→dBd (D→B), Q12 lóbulo principal da Yagi-Uda (B→A). Retestes em 26/11.
 - **Acumulado do dia:** QTI-15 (14/15), QTI-10 (8/10), QTI-20 (19/20), QTI-30 (28/30) ⇒ **69/75 (92,0%)**, apenas baterias autorais, sem extrapolação de nota da CESGRANRIO.
 - [Relatório](qti/QTI30_KAMIKAZE_2026-11-23.md) · [Dados](qti/QTI30_KAMIKAZE_2026-11-23.json).
+
+
+### 23/11/2026 — QTI-30 Kamikaze (2ª rodada, 3 blocos)
+
+- **25/30 (83,3%)**, itens 1–3: 3/3, **itens 4–12: 20/25**, item 13: 2/2. Cinco erros (Q06 ganho/diretividade, Q08 G/T, Q12 G.711, Q20 OTDR, Q23 dBd↔dBi). Reincidência em conversão dBi/dBd: dar prioridade em 26/11.
+- **Total em cinco baterias autorais em 23/11: 94/105 (89,5%)**. São exercícios autorais de manutenção e não pontuação prevista na prova CESGRANRIO.
+- [Relatório](qti/QTI30_KAMIKAZE_RODADA2_2026-11-23.md) · [Dados](qti/QTI30_KAMIKAZE_RODADA2_2026-11-23.json).
