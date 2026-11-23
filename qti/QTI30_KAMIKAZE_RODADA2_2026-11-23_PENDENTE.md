@@ -56,3 +56,12 @@
 - Q30 item 13.2: papel do PDFF.
 
 **Aguardando respostas Q21–Q30, sem correção antecipada.**
+
+
+**Bloco 3 — Q21 a Q30:** `C, B, A, D, A, D, A, C, E, B`.
+
+## Encerramento — 30/30 respostas corrigidas
+
+- **25/30 (83,3%)**. Cinco erros: **Q06 (A→B), Q08 (B→E), Q12 (C→D), Q20 (E→B), Q23 (A→E)**.
+- [Relatório completo](QTI30_KAMIKAZE_RODADA2_2026-11-23.md) · [Dados](QTI30_KAMIKAZE_RODADA2_2026-11-23.json)
+- Retestes em 26/11, prioridade à conversão dBi/dBd recorrente; atualização do caderno de erros e progresso concluída.
