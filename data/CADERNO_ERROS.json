@@ -5009,7 +5009,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada D divergiu do gabarito A; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q07",
@@ -5032,7 +5035,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada C divergiu do gabarito D; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q23",
@@ -5055,7 +5061,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada C divergiu do gabarito D; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q26",
@@ -5078,7 +5087,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada B divergiu do gabarito A; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q28",
@@ -5103,7 +5115,10 @@
       "diagnosticoDeclarado": "A resposta marcada E divergiu do gabarito A; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
       "relatedErrorIds": [
         "CE-20261123-QTI10-Q07"
-      ]
+      ],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q31",
@@ -5126,7 +5141,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada C divergiu do gabarito B; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q33",
@@ -5149,7 +5167,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada A divergiu do gabarito B; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q36",
@@ -5174,7 +5195,10 @@
       "diagnosticoDeclarado": "A resposta marcada D divergiu do gabarito E; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
       "relatedErrorIds": [
         "CE-20261123-QTI10-Q04"
-      ]
+      ],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q37",
@@ -5197,7 +5221,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada B divergiu do gabarito E; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q40",
@@ -5220,7 +5247,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada D divergiu do gabarito A; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q48",
@@ -5246,7 +5276,10 @@
       "relatedErrorIds": [
         "CE-20261123-QTI30-Q10",
         "CE-20261123-QTI30R2-Q23"
-      ]
+      ],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q50",
@@ -5269,7 +5302,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada B divergiu do gabarito E; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q58",
@@ -5292,7 +5328,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada A divergiu do gabarito D; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     },
     {
       "id": "CE-20261123-SIM70-Q60",
@@ -5315,7 +5354,10 @@
       "retentionVerified": false,
       "notContentError": false,
       "diagnosticoDeclarado": "A resposta marcada C divergiu do gabarito B; regra revisada conforme caderno PDF. Sem declaração do cálculo feito pelo candidato.",
-      "relatedErrorIds": []
+      "relatedErrorIds": [],
+      "nextStudySessionAt": "2026-11-24",
+      "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
+      "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
     }
   ],
   "weeklyRoutine": {
