@@ -536,3 +536,14 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - Retestes breves em **26/11**, alta prioridade para **dBd↔dBi**; demais prioridade média.
 - **Acumulado do dia em cinco QTIs autorais:** **94/105 (89,5%)**.
 - [Relatório](QTI30_KAMIKAZE_RODADA2_2026-11-23.md) · [Dados](QTI30_KAMIKAZE_RODADA2_2026-11-23.json).
+
+
+### 23/11/2026 — Simulado integral 70 (cartão corrigido)
+
+- **56/70 (80%)**, cartão conferido: Português **8/10**, Inglês **10/10**, Específicos **38/50**. Nenhuma questão anulada; tempo não aferido.
+- Históricas CESGRANRIO/Transpetro **adaptadas: 9/14 (64,3%)**; autorais **47/56 (83,9%)**. Diferença aconselha intensificar questões históricas verificadas.
+- **Português:** Q02 D→A (COMO causal), Q07 C→D (pretérito imperfeito subjuntivo).
+- **Telecomunicações:** Q23 C→D (Erlang B 20%); Q26 B→A (difração v=0: ~6dB); Q28 E→A (802.3af PSE 15,4W, **dois pares**); Q31 C→B (convolução: área com amplitude 2 =4); Q33 A→B (H.323 MCU); Q36 D→E (FSPL 5→15 km: 9,5dB); Q37 B→E (IGMPv1 Membership Report); Q40 D→A (BER ao menos um erro: 39,35%); Q48 C→A (9,5dBi=7,35dBd); Q50 B→E (Fresnel 60% de 5m=3m); Q58 A→D (RHCP/LHCP ortogonais); Q60 C→B (Ku: chuva + cintilação troposférica).
+- Reincidências comprovadas nos exercícios recentes em **dBi/dBd**, **PoE** e **FSPL**; essas três entram na prioridade alta, além do trio de radiopropagação.
+- Retestes **agrupados** para 26/11, não 14 aulas. **7 conjuntos** registrados em `data/REVISOES.json` para economia de tempo na reta final.
+- [Relatório de correção](SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md) · [Cartão + dados](SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json).
