@@ -854,3 +854,9 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Alerta de transferência:** adaptação CESGRANRIO histórica 9/14 (64,3%) vs autorais 47/56 (83,9%). A diferença favorece treino com fontes históricas reais e não apenas versões autorais.
 - [Relatório completo](qti/SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md) · [Gabarito e respostas transcritas](qti/SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json).
 - Não agregar este simulado aos **94/105** das cinco baterias autorais do dia sem identificar a mudança de instrumento.
+
+
+### 24/11/2026 — Sessão planejada de recuperação do simulado 70 (D1)
+
+- Solicitação explícita: estudar o caderno de erros **amanhã, 24/11**. Revisão ativa dos 14 erros do simulado 70 (**56/70, 80%**) e reincidências em PoE, FSPL e dBi↔dBd. Prioridade: Q26/Q28/Q36/Q48/Q50, depois outros erros Telecom e Português.
+- [Plano de estudo para amanhã](qti/REVISAO_CADERNO_ERROS_2026-11-24_PLANO.md); revisão **pendente**, sem pontuação presumida. Os **7 grupos D3 já marcados para 26/11** são preservados.
