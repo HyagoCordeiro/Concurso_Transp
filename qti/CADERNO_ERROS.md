@@ -547,3 +547,10 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - Reincidências comprovadas nos exercícios recentes em **dBi/dBd**, **PoE** e **FSPL**; essas três entram na prioridade alta, além do trio de radiopropagação.
 - Retestes **agrupados** para 26/11, não 14 aulas. **7 conjuntos** registrados em `data/REVISOES.json` para economia de tempo na reta final.
 - [Relatório de correção](SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md) · [Cartão + dados](SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json).
+
+
+### 24/11/2026 — Sessão planejada de recuperação do simulado 70 (D1)
+
+- Pedido em 23/11: **amanhã 24/11 revisar os 14 erros do simulado 70**, com prioridade em recorrências e itens 4–12; sem registrar revisão como executada.
+- Primeiro: Q26/Q28/Q36/Q48/Q50 (gume, PoE, FSPL, dBi↔dBd, Fresnel). Depois: Q23/Q33/Q37/Q58/Q60 (conceitos), Q31/Q40 (cálculo), Q02/Q07 (Português).
+- **D1 em 24/11** + **D3 de retenção em 26/11** mantido. [Plano detalhado](REVISAO_CADERNO_ERROS_2026-11-24_PLANO.md).
