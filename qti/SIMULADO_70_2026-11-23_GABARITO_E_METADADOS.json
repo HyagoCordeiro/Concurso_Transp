@@ -4,7 +4,7 @@
   "createdAt": "2026-11-23",
   "targetExamDate": "2026-12-06",
   "bank": "CESGRANRIO / Transpetro / Eng. Telecom",
-  "status": "PDF_GERADO_AGUARDANDO_RESPOSTAS",
+  "status": "CARTAO_CORRIGIDO",
   "durationLimitMinutes": 270,
   "totalQuestions": 70,
   "sections": [
@@ -641,5 +641,14 @@
     }
   ],
   "antiRepeat": "Adaptadas de questões CESGRANRIO identificadas; demais autorais sem repetição literal dos QTIs de 23/11. O aluno pode reconhecer conceitos de provas anteriores. Não misturar este simulado com original integral.",
-  "scoring": "Gabarito preservado no JSON para correção quando o candidato enviar o cartão. Não divulgar antes."
+  "scoring": "Gabarito preservado no JSON para correção quando o candidato enviar o cartão. Não divulgar antes.",
+  "correction": {
+    "correctedAt": "2026-11-23",
+    "scoreCorrect": 56,
+    "scoreWrong": 14,
+    "scorePercent": 80,
+    "report": "qti/SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md",
+    "data": "qti/SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json",
+    "timeSpentSec": null
+  }
 }
