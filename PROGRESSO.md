@@ -845,3 +845,12 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - **Sem respostas ou resultado registrado ainda**; aguardando cartão final do aluno. Não incluir em percentuais de acertos.
 - [Descrição, fontes e protocolo de correção](qti/SIMULADO_70_2026-11-23_CADERNO_E_FONTES.md). Índice técnico e gabarito retidos no repositório para uso **somente após** entrega da prova.
 - O **PDF está disponível no anexo da conversa**, não foi armazenado como arquivo binário no GitHub.
+
+
+### 23/11/2026 — Simulado integral 70 (cartão corrigido)
+
+- **56/70 (80%)** no simulado completo impresso, com 70 marcações reconhecidas; Português 8/10, Inglês 10/10 e Específicos 38/50 (76%). Tempo líquido não informado.
+- **14 erros**, sendo 2 Português e 12 específicos: Q02, Q07, Q23, Q26, Q28, Q31, Q33, Q36, Q37, Q40, Q48, Q50, Q58, Q60. Priorização de 7 retestes temáticos para 26/11.
+- **Alerta de transferência:** adaptação CESGRANRIO histórica 9/14 (64,3%) vs autorais 47/56 (83,9%). A diferença favorece treino com fontes históricas reais e não apenas versões autorais.
+- [Relatório completo](qti/SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md) · [Gabarito e respostas transcritas](qti/SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json).
+- Não agregar este simulado aos **94/105** das cinco baterias autorais do dia sem identificar a mudança de instrumento.
