@@ -31,3 +31,8 @@
 4. Dar prioridade aos erros dos itens 4–12 e temas com maior potencial de pontuação. Não cobrar reforço em dobro por princípio.
 
 **Nota:** sem tempo aferido nem respostas do usuário neste momento. Não registrar acertos, erros nem domínio antecipadamente.
+
+
+## Resultado após aplicação
+
+O cartão foi entregue no chat em 23/11/2026 e **corrigido: 56/70 (80%)**. Português 8/10; Inglês 10/10; Específicos 38/50. **14 erros** registrados no caderno e retestes temáticos indicados para 26/11/2026. Veja [relatório final](SIMULADO_70_2026-11-23_RELATORIO_CORRECAO.md) e [dados do cartão](SIMULADO_70_2026-11-23_CARTAO_CORRIGIDO.json). Sem cronometragem inferida.
