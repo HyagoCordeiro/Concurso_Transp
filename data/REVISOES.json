@@ -6438,6 +6438,146 @@
       "plano": "Prioridade alta: testar dBi↔dBd nos dois sentidos (dois exemplos novos) em 26/11, sem abrir capítulo. Reforço curto e objetivo, sem alongar teoria.",
       "createdFromStudyDate": "2026-11-23",
       "cadernoErros": "qti/CADERNO_ERROS.md"
+    },
+    {
+      "id": "REV-20261123-SIM70-PT-D3",
+      "unitId": "PT",
+      "editalItem": "PT",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Português: COMO causal e pretérito imperfeito subjuntivo",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q02",
+        "SIM70-20261123-REALESTILO-Q07"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q2, Q7.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "2 questões históricas ou inéditas de textos e emprego verbal, sem repetir o enunciado.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-TELEFONIA-D3",
+      "unitId": "5",
+      "editalItem": "5",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Telefonia: Erlang B (2 circuitos) e MCU H.323",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q23",
+        "SIM70-20261123-REALESTILO-Q33"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q23, Q33.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "2 questões de concursos com pequena mudança de carga e papéis de MCU/gatekeeper.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-RADIO-D3",
+      "unitId": "7",
+      "editalItem": "7",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Radiopropagação: gume v=0, distância FSPL e zona Fresnel",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q26",
+        "SIM70-20261123-REALESTILO-Q36",
+        "SIM70-20261123-REALESTILO-Q50"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q26, Q36, Q50.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "3 questões novas em nível CESGRANRIO; saber 6dB de difração para v=0, 20log razão de distância e 60% da zona de Fresnel.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-REDES-D3",
+      "unitId": "10/11",
+      "editalItem": "10/11",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Redes: PoE 802.3af e IGMPv1 Membership Report",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q28",
+        "SIM70-20261123-REALESTILO-Q37"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q28, Q37.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "2 perguntas históricas com alternativas de distração: 15,4W PSE dois pares e Report host vs Query roteador.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-PROB-SINAIS-D3",
+      "unitId": "2/4",
+      "editalItem": "2/4",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Probabilidade BER e convolução de pulsos",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q31",
+        "SIM70-20261123-REALESTILO-Q40"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q31, Q40.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "2 questões rápidas: área de sobreposição com amplitudes e evento ao menos um erro por complemento.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-ANTENAS-D3",
+      "unitId": "6",
+      "editalItem": "6",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Antenas: conversão dBi↔dBd e polarização circular",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q48",
+        "SIM70-20261123-REALESTILO-Q58"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q48, Q58.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Reforço obrigatório com 2 conversões nos dois sentidos e 1 pergunta de RHCP/LHCP; erro repetido em QTI30s.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261123-SIM70-SAT-D3",
+      "unitId": "8",
+      "editalItem": "8",
+      "materia": "Operação Kamikaze — revisões agrupadas do simulado 70",
+      "topico": "Satélites Ku: atenuação por chuva e cintilação troposférica",
+      "questoesOrigem": [
+        "SIM70-20261123-REALESTILO-Q60"
+      ],
+      "motivo": "Simulado 70 de 23/11; erros Q60.",
+      "origemResultado": "SIM70-20261123-REALESTILO",
+      "agendadaPara": "2026-11-26",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão curta comparando banda Ku e fatores atmosféricos.",
+      "createdFromStudyDate": "2026-11-23",
+      "cadernoErros": "qti/CADERNO_ERROS.md",
+      "isScheduledNotification": false
     }
   ],
   "updatedAt": "2026-11-23",
