@@ -22,3 +22,6 @@ Preditivo II: E B C D resultado livre correto (13+9j)/5 E D A B D D B.
 Retestes: D C E B C E D E (erros Q02,08); C D A E; B D C E; Fourier B B C, D A A, B D; Z C A B (Q03 anulada).
 Anulações de elaboração: Preditivo II Q05, resultado (13+9j)/5 identificado pelo aluno; Z Q03 resposta ao degrau y[3]=72 ausente; QTI-10 Q10 resposta ao degrau y[3]=35 ausente. Não contam como erros.
 Revisão: itens 1–3 encerrados por hoje, não equivalendo a domínio de todo o edital. Priorizar coeficientes Fourier e resposta ao degrau discreto em futura revisão. Ver caderno-de-erros/2026-11-25-itens-1-a-3.md.
+
+## Adendo — Reteste final de resposta ao degrau (25/11)
+Duas questões autorais com alternativas novamente inválidas, mas ambas resolvidas corretamente pelo aluno em resposta livre: (6z²+4z−2)/(2z²−4z+2), y[0..3]=3,11,23,39; (8z²−4z+6)/(2z²−6z+4), y[0..3]=4,14,39,94. Respostas 39 e 94, ambas corretas. Pendência de resposta ao degrau superada no reteste imediato; manter revisão de retenção. Balanço atualizado: 76 apresentadas, 71 válidas objetivas (62 acertos, 9 erros), 5 com alternativas inválidas, das quais 2 adicionais acertadas discursivamente. Aproveitamento objetivo 87,32%; incluindo as duas novas respostas discursivas, 64/73=87,67%. Sem penalização por falhas de elaboração.
