@@ -6641,12 +6641,26 @@
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Dois retestes novos: tangência v=0 e margem remanescente após perda. Reincidência na rodada mista.",
+      "plano": "Reparo imediato 2/2 em 26/11. Manter D3 em 29/11 com questões inéditas sem consulta; confirmar retenção antes de encerrar erro.",
       "questoesOrigem": [
         "PRED-20261126-ITENS7A9-FINAL-Q03",
         "QTI20-20261126-MISTO-R2-Q09"
       ],
-      "isScheduledNotification": false
+      "isScheduledNotification": false,
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q01",
+          "result": "CORRETA",
+          "note": "−62−(−85)−6=17 dB"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q02",
+          "result": "CORRETA",
+          "note": "11−3−6=2 dB"
+        }
+      ]
     },
     {
       "id": "REV-20261126-DOPPLER-D3",
@@ -6764,11 +6778,25 @@
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "plano": "Reparo imediato 2/2 em 26/11. Manter D3 em 29/11 com questões inéditas sem consulta; confirmar retenção antes de encerrar erro.",
       "questoesOrigem": [
         "QTI20-20261126-MISTO-R2-Q11"
       ],
-      "isScheduledNotification": false
+      "isScheduledNotification": false,
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q03",
+          "result": "CORRETA",
+          "note": "I e II corretas; SS7 é CCS"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q04",
+          "result": "CORRETA",
+          "note": "Q-SIG interliga centrais privadas"
+        }
+      ]
     },
     {
       "id": "REV-20261126-MISTO-R2-Q15-D3",
@@ -6781,11 +6809,25 @@
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "plano": "Reparo imediato 2/2 em 26/11. Manter D3 em 29/11 com questões inéditas sem consulta; confirmar retenção antes de encerrar erro.",
       "questoesOrigem": [
         "QTI20-20261126-MISTO-R2-Q15"
       ],
-      "isScheduledNotification": false
+      "isScheduledNotification": false,
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q05",
+          "result": "CORRETA",
+          "note": "2×0,9²/0,03=54 m"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q06",
+          "result": "CORRETA",
+          "note": "Dmax=√(16×0,125/2)=1 m"
+        }
+      ]
     },
     {
       "id": "REV-20261126-MISTO-R2-Q20-D3",
@@ -6798,11 +6840,25 @@
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "plano": "Reparo imediato 2/2 em 26/11. Manter D3 em 29/11 com questões inéditas sem consulta; confirmar retenção antes de encerrar erro.",
       "questoesOrigem": [
         "QTI20-20261126-MISTO-R2-Q20"
       ],
-      "isScheduledNotification": false
+      "isScheduledNotification": false,
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q07",
+          "result": "CORRETA",
+          "note": "HLOS=52 m; r1=10 m; 52−6−3=43 m"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q08",
+          "result": "CORRETA",
+          "note": "HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m"
+        }
+      ]
     }
   ],
   "updatedAt": "2026-11-26",
