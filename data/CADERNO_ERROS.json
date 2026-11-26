@@ -5766,9 +5766,9 @@
       "respostaEscolhida": "C",
       "gabarito": "E",
       "errorType": "GUME_FACA_V_ZERO",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Todas I, II e III verdadeiras. v<0 abaixo da LOS, v=0 tangência com perda ~6 dB, v>0 acima da LOS. Reincidência do simulado 23/11.",
-      "proxAcao": "Reincidência: praticar v=0, perda por difração e margem residual; D3.",
+      "proxAcao": "Reparo imediato 2/2 em 26/11; confirmar retenção com questões novas sem consulta em 29/11 (D3).",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
@@ -5780,6 +5780,20 @@
           "questionId": "QTI20-20261126-MISTO-R2-Q09",
           "result": "INCORRETA",
           "note": "Confundiu perda ~6 dB com margem residual 3 dB."
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q01",
+          "result": "CORRETA",
+          "note": "−62−(−85)−6=17 dB"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q02",
+          "result": "CORRETA",
+          "note": "11−3−6=2 dB"
         }
       ],
       "relatedErrorIds": [
@@ -5825,13 +5839,28 @@
       "respostaEscolhida": "B",
       "gabarito": "A",
       "errorType": "GUME_FACA_MARGEM",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "v=0 (tangência à LOS) implica perda por difração ~6 dB. Margem remanescente = 9−6 = 3 dB. Marcou 6 dB, que é a perda, não a margem; reincidência do tópico.",
-      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "proxAcao": "Reparo imediato 2/2 em 26/11; confirmar retenção com questões novas sem consulta em 29/11 (D3).",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q01",
+          "result": "CORRETA",
+          "note": "−62−(−85)−6=17 dB"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q02",
+          "result": "CORRETA",
+          "note": "11−3−6=2 dB"
+        }
+      ],
       "retentionVerified": false,
       "relatedErrorIds": [
         "CE-20261126-FINAL-Q03"
@@ -5848,13 +5877,28 @@
       "respostaEscolhida": "B",
       "gabarito": "C",
       "errorType": "CAS_CCS_CONCEITO",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS.",
-      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "proxAcao": "Reparo imediato 2/2 em 26/11; confirmar retenção com questões novas sem consulta em 29/11 (D3).",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q03",
+          "result": "CORRETA",
+          "note": "I e II corretas; SS7 é CCS"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q04",
+          "result": "CORRETA",
+          "note": "Q-SIG interliga centrais privadas"
+        }
+      ],
       "retentionVerified": false,
       "relatedErrorIds": []
     },
@@ -5869,13 +5913,28 @@
       "respostaEscolhida": "A",
       "gabarito": "E",
       "errorType": "FRAUNHOFER_CAMPO_DISTANTE",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões.",
-      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "proxAcao": "Reparo imediato 2/2 em 26/11; confirmar retenção com questões novas sem consulta em 29/11 (D3).",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q05",
+          "result": "CORRETA",
+          "note": "2×0,9²/0,03=54 m"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q06",
+          "result": "CORRETA",
+          "note": "Dmax=√(16×0,125/2)=1 m"
+        }
+      ],
       "retentionVerified": false,
       "relatedErrorIds": []
     },
@@ -5890,13 +5949,28 @@
       "respostaEscolhida": "C",
       "gabarito": "A",
       "errorType": "DESCONHECIMENTO_CONCEITO_SALIENCIA",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m.",
-      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "proxAcao": "Reparo imediato 2/2 em 26/11; confirmar retenção com questões novas sem consulta em 29/11 (D3).",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
-      "retestEvidence": [],
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q07",
+          "result": "CORRETA",
+          "note": "HLOS=52 m; r1=10 m; 52−6−3=43 m"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2-REPAIR",
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q08",
+          "result": "CORRETA",
+          "note": "HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m"
+        }
+      ],
       "retentionVerified": false,
       "relatedErrorIds": [
         "CE-20261126-FRESNEL-HLOS"
