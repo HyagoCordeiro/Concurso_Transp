@@ -5768,12 +5768,23 @@
       "errorType": "GUME_FACA_V_ZERO",
       "status": "PENDENTE_RETESTE",
       "teoriaOuRegra": "Todas I, II e III verdadeiras. v<0 abaixo da LOS, v=0 tangência com perda ~6 dB, v>0 acima da LOS. Reincidência do simulado 23/11.",
-      "proxAcao": "Reteste D3 com questão nova sem consulta; Todas I, II e III verdadeiras. v<0 abaixo da LOS, v=0 tangência com perda ~6 dB, v>0 acima da LOS. Reincidência do simulado 23/11.",
+      "proxAcao": "Reincidência: praticar v=0, perda por difração e margem residual; D3.",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
       "retentionVerified": false,
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2",
+          "questionId": "QTI20-20261126-MISTO-R2-Q09",
+          "result": "INCORRETA",
+          "note": "Confundiu perda ~6 dB com margem residual 3 dB."
+        }
+      ],
+      "relatedErrorIds": [
+        "CE-20261126-MISTO-R2-Q09"
+      ]
     },
     {
       "id": "CE-20261126-FINAL-Q12",
@@ -5786,14 +5797,110 @@
       "respostaEscolhida": "D",
       "gabarito": "C",
       "errorType": "DOPPLER_ANGULAR",
-      "status": "PENDENTE_RETESTE",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
       "teoriaOuRegra": "f_D=(v/λ)cosθ. 108 km/h=30 m/s, λ=0,15 m, máximo 200 Hz, porém θ=90°: 0 Hz. Marcou máximo sem componente angular.",
-      "proxAcao": "Reteste D3 com questão nova sem consulta; f_D=(v/λ)cosθ. 108 km/h=30 m/s, λ=0,15 m, máximo 200 Hz, porém θ=90°: 0 Hz. Marcou máximo sem componente angular.",
+      "proxAcao": "Reteste D3 sem consulta, após acerto angular no mesmo dia.",
       "dueAt": "2026-11-29",
       "priority": "alta",
       "sourceType": "AUTORAL",
       "retentionVerified": false,
-      "retestEvidence": []
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "QTI20-20261126-MISTO-R2",
+          "questionId": "QTI20-20261126-MISTO-R2-Q16",
+          "result": "CORRETA",
+          "note": "72 km/h, 2,4 GHz, θ=60°, módulo 80 Hz, alternativa C."
+        }
+      ]
+    },
+    {
+      "id": "CE-20261126-MISTO-R2-Q09",
+      "firstSeenAt": "2026-11-26",
+      "lastReviewedAt": "2026-11-26",
+      "sourceResultId": "QTI20-20261126-MISTO-R2",
+      "sourceQuestionId": "QTI20-20261126-MISTO-R2-Q09",
+      "unitId": "7.1",
+      "topic": "Gume de faca: margem remanescente",
+      "respostaEscolhida": "B",
+      "gabarito": "A",
+      "errorType": "GUME_FACA_MARGEM",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "v=0 (tangência à LOS) implica perda por difração ~6 dB. Margem remanescente = 9−6 = 3 dB. Marcou 6 dB, que é a perda, não a margem; reincidência do tópico.",
+      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "dueAt": "2026-11-29",
+      "priority": "alta",
+      "sourceType": "AUTORAL",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "relatedErrorIds": [
+        "CE-20261126-FINAL-Q03"
+      ]
+    },
+    {
+      "id": "CE-20261126-MISTO-R2-Q11",
+      "firstSeenAt": "2026-11-26",
+      "lastReviewedAt": "2026-11-26",
+      "sourceResultId": "QTI20-20261126-MISTO-R2",
+      "sourceQuestionId": "QTI20-20261126-MISTO-R2-Q11",
+      "unitId": "5.2",
+      "topic": "Sinalização telefônica CAS/CCS",
+      "respostaEscolhida": "B",
+      "gabarito": "C",
+      "errorType": "CAS_CCS_CONCEITO",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS.",
+      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "dueAt": "2026-11-29",
+      "priority": "alta",
+      "sourceType": "AUTORAL",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "relatedErrorIds": []
+    },
+    {
+      "id": "CE-20261126-MISTO-R2-Q15",
+      "firstSeenAt": "2026-11-26",
+      "lastReviewedAt": "2026-11-26",
+      "sourceResultId": "QTI20-20261126-MISTO-R2",
+      "sourceQuestionId": "QTI20-20261126-MISTO-R2-Q15",
+      "unitId": "6.1",
+      "topic": "Campo distante de Fraunhofer",
+      "respostaEscolhida": "A",
+      "gabarito": "E",
+      "errorType": "FRAUNHOFER_CAMPO_DISTANTE",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões.",
+      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "dueAt": "2026-11-29",
+      "priority": "alta",
+      "sourceType": "AUTORAL",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "relatedErrorIds": []
+    },
+    {
+      "id": "CE-20261126-MISTO-R2-Q20",
+      "firstSeenAt": "2026-11-26",
+      "lastReviewedAt": "2026-11-26",
+      "sourceResultId": "QTI20-20261126-MISTO-R2",
+      "sourceQuestionId": "QTI20-20261126-MISTO-R2-Q20",
+      "unitId": "7.1",
+      "topic": "Saliência terrestre em enlace Fresnel",
+      "respostaEscolhida": "C",
+      "gabarito": "A",
+      "errorType": "DESCONHECIMENTO_CONCEITO_SALIENCIA",
+      "status": "PENDENTE_RETESTE",
+      "teoriaOuRegra": "Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m.",
+      "proxAcao": "D3: duas questões novas sem consulta, incluindo aplicação do conceito.",
+      "dueAt": "2026-11-29",
+      "priority": "alta",
+      "sourceType": "AUTORAL",
+      "retestEvidence": [],
+      "retentionVerified": false,
+      "relatedErrorIds": [
+        "CE-20261126-FRESNEL-HLOS"
+      ]
     }
   ],
   "weeklyRoutine": {
