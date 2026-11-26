@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "createdAt": "2026-11-12",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-26",
   "purpose": "Caderno persistente de erros e lacunas do projeto CESGRANRIO Telecom; primeiro lote migrado com segurança do histórico 12/11; registros anteriores continuam em data/REVISOES.json e qti históricos.",
   "statusValues": [
     "NOVO_CONTEUDO_A_ENSINAR",
@@ -5358,6 +5358,52 @@
       "nextStudySessionAt": "2026-11-24",
       "nextStudySessionType": "REVISAO_D1_SUPERVISIONADA",
       "nextStudySessionNote": "Rever erro em contexto, resolver uma questão nova sem gabarito e manter reteste espaçado D3 26/11; não dar baixa por leitura."
+    },
+    {
+      "id": "CE-20261126-FRESNEL-HLOS",
+      "firstSeenAt": "2026-11-26",
+      "lastReviewedAt": "2026-11-26",
+      "sourceResultId": "PRED-20261126-ITENS7A9",
+      "sourceQuestionId": "PRED-20261126-ITENS7A9-Q01",
+      "unitId": "7.1",
+      "topic": "Fresnel — HLOS com alturas diferentes e conversão de λ",
+      "respostaEscolhida": "A",
+      "gabarito": "C",
+      "errorType": "FRESNEL_HLOS_UNIDADES",
+      "status": "REPARO_IMEDIATO_FEITO_RETESTE_PENDENTE",
+      "teoriaOuRegra": "HLOS=H1+(H2−H1)d1/D; λ=0,3/fGHz em m; r1=√(300 d1 d2/(fGHz D)) em m com d em km; Hmáx=HLOS−0,6r1 quando exigidos 60%, terreno plano e curvatura desprezada.",
+      "diagnosticoDeclarado": "Q1: marcou A (24 m), correta C (34 m). HLOS=30+(50−30)×4/8=40 m; r1=10 m; Hmáx=40−0,6×10=34 m. Usar 30 m em vez de HLOS explicaria a resposta, mas a causa não foi confirmada pelo aluno. No reforço Q2, apesar de marcar B corretamente, explicitou dúvida: λ=0,015 m para 4,5 GHz e misturou km com m. Correto: λ=0,3/4,5=0,06667 m; r1=√(300 d1 d2/[f(d1+d2)]) em m, d em km, f em GHz. Após explicação, declarou ter compreendido.",
+      "proxAcao": "Reteste D3 sem consulta, obstáculo assimétrico com alturas diferentes; calcular λ e r1 com unidades coerentes e HLOS.",
+      "dueAt": "2026-11-29",
+      "priority": "alta",
+      "sourceType": "AUTORAL",
+      "retentionVerified": false,
+      "relatedErrorIds": [
+        "CE-20261123-SIM70-Q50"
+      ],
+      "retestEvidence": [
+        {
+          "date": "2026-11-26",
+          "sessionId": "PRED-20261126-ITENS7A9-REPAIR",
+          "questionId": "PRED-20261126-ITENS7A9-REPAIR-Q01",
+          "result": "CORRETA",
+          "note": "44 m, obstáculo central"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "PRED-20261126-ITENS7A9-REPAIR",
+          "questionId": "PRED-20261126-ITENS7A9-REPAIR-Q02",
+          "result": "CORRETA",
+          "note": "56 m, obstáculo assimétrico; dúvida de λ e unidades esclarecida depois"
+        },
+        {
+          "date": "2026-11-26",
+          "sessionId": "PRED-20261126-ITENS7A9-REPAIR",
+          "questionId": "PRED-20261126-ITENS7A9-REPAIR-Q03",
+          "result": "CORRETA",
+          "note": "72 m, altura mínima Rx"
+        }
+      ]
     }
   ],
   "weeklyRoutine": {
