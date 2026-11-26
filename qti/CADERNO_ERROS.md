@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 21/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 26/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -554,3 +554,11 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - Pedido em 23/11: **amanhã 24/11 revisar os 14 erros do simulado 70**, com prioridade em recorrências e itens 4–12; sem registrar revisão como executada.
 - Primeiro: Q26/Q28/Q36/Q48/Q50 (gume, PoE, FSPL, dBi↔dBd, Fresnel). Depois: Q23/Q33/Q37/Q58/Q60 (conceitos), Q31/Q40 (cálculo), Q02/Q07 (Português).
 - **D1 em 24/11** + **D3 de retenção em 26/11** mantido. [Plano detalhado](REVISAO_CADERNO_ERROS_2026-11-24_PLANO.md).
+
+
+### 26/11/2026 — Simulado preditivo itens 7–9 e reforço Fresnel
+
+- Diagnóstico autoral: **11/12 (91,7%)**; radiopropagação 3/4, satélites 4/4, celular 4/4. Reforço imediato Fresnel 3/3; agregado de treino **14/15 (93,3%)**, não simulado independente. Tempo líquido não aferido.
+- Q1: marcou A (24 m), correta C (34 m). HLOS=30+(50−30)×4/8=40 m; r1=10 m; Hmáx=40−0,6×10=34 m. Usar 30 m em vez de HLOS explicaria a resposta, mas a causa não foi confirmada pelo aluno. No reforço Q2, apesar de marcar B corretamente, explicitou dúvida: λ=0,015 m para 4,5 GHz e misturou km com m. Correto: λ=0,3/4,5=0,06667 m; r1=√(300 d1 d2/[f(d1+d2)]) em m, d em km, f em GHz. Após explicação, declarou ter compreendido.
+- Reforços D/B/E corretos: obstáculo central 44 m; assimétrico 56 m; altura mínima Rx 72 m. Evidência de acerto imediato, não retenção consolidada. Reteste sem consulta em 29/11 (D3), antes da prova-alvo 06/12 conforme data oficial registrada no repositório.
+- [Relatório](RESULTADOS_DIA_2026-11-26.md).
