@@ -11966,7 +11966,180 @@
         }
       ],
       "observacao": "56/70 (80%). 14 erros. Históricas adaptadas: 9/14 (64,3%). Autorais: 47/56 (83,9%). Horário/duração não aferidos; não confundir questões adaptadas com originais integrais."
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9",
+      "data": "2026-11-26",
+      "tipo": "SIMULADO_PREDITIVO_12",
+      "titulo": "Itens 7–9",
+      "totalQuestoes": 12,
+      "totalValidas": 12,
+      "acertos": 11,
+      "erros": 1,
+      "percentual": 91.7,
+      "sourceType": "AUTORAL_CALIBRADO_HISTORICO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "A",
+        "E",
+        "A",
+        "D",
+        "B",
+        "D",
+        "B",
+        "E",
+        "C",
+        "A",
+        "D",
+        "B"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "A",
+        "D",
+        "B",
+        "D",
+        "B",
+        "E",
+        "C",
+        "A",
+        "D",
+        "B"
+      ],
+      "tempoTotalSec": null,
+      "grupos": [
+        {
+          "label": "7",
+          "acertos": 3,
+          "total": 4
+        },
+        {
+          "label": "8",
+          "acertos": 4,
+          "total": 4
+        },
+        {
+          "label": "9",
+          "acertos": 4,
+          "total": 4
+        }
+      ],
+      "questoes": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q01",
+          "topico": "Fresnel e alturas desiguais",
+          "resposta": "A",
+          "gabarito": "C"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q02",
+          "topico": "Difração por gume de faca",
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q03",
+          "topico": "FSPL e margem de enlace",
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q04",
+          "topico": "Horizonte radioelétrico",
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q05",
+          "topico": "Órbitas GEO e LEO",
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q06",
+          "topico": "Bandas C e Ka",
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q07",
+          "topico": "C/N satélite",
+          "resposta": "B",
+          "gabarito": "B"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q08",
+          "topico": "VSAT TDM/TDMA",
+          "resposta": "E",
+          "gabarito": "E"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q09",
+          "topico": "Cluster e FDD",
+          "resposta": "C",
+          "gabarito": "C"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q10",
+          "topico": "GSM/UMTS/LTE",
+          "resposta": "A",
+          "gabarito": "A"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q11",
+          "topico": "5G eMBB URLLC mMTC SA",
+          "resposta": "D",
+          "gabarito": "D"
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q12",
+          "topico": "Canal móvel seletivo",
+          "resposta": "B",
+          "gabarito": "B"
+        }
+      ],
+      "itensErrados": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-Q01",
+          "unitId": "7.1",
+          "editalItem": "7",
+          "topico": "Fresnel HLOS",
+          "respostaEscolhida": "A",
+          "gabarito": "C",
+          "errorType": "FRESNEL_HLOS_UNIDADES",
+          "observacao": "Q1: marcou A (24 m), correta C (34 m). HLOS=30+(50−30)×4/8=40 m; r1=10 m; Hmáx=40−0,6×10=34 m. Usar 30 m em vez de HLOS explicaria a resposta, mas a causa não foi confirmada pelo aluno. No reforço Q2, apesar de marcar B corretamente, explicitou dúvida: λ=0,015 m para 4,5 GHz e misturou km com m. Correto: λ=0,3/4,5=0,06667 m; r1=√(300 d1 d2/[f(d1+d2)]) em m, d em km, f em GHz. Após explicação, declarou ter compreendido."
+        }
+      ]
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9-REPAIR",
+      "data": "2026-11-26",
+      "tipo": "REPAIR",
+      "titulo": "Três cenários de Fresnel",
+      "totalQuestoes": 3,
+      "totalValidas": 3,
+      "acertos": 3,
+      "erros": 0,
+      "percentual": 100,
+      "sourceType": "AUTORAL_REFORCO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "D",
+        "B",
+        "E"
+      ],
+      "gabarito": [
+        "D",
+        "B",
+        "E"
+      ],
+      "tempoTotalSec": null,
+      "observacao": "Reparo imediato, não independente; dúvida de unidades na Q2 esclarecida posteriormente, reteste pendente.",
+      "itensErrados": []
     }
   ],
-  "updatedAt": "2026-11-23"
+  "updatedAt": "2026-11-26"
 }
