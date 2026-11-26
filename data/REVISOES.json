@@ -6611,9 +6611,27 @@
       "cadernoErros": "qti/CADERNO_ERROS.md",
       "isScheduledNotification": false,
       "planningNote": "Atividade de estudo registrada no repositório, NÃO notificação automática."
+    },
+    {
+      "id": "REV-20261126-FRESNEL-D3",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "materia": "Radiopropagação",
+      "topico": "Fresnel HLOS e unidades de comprimento de onda",
+      "motivo": "Reincidência Fresnel e dúvida declarada no reforço",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Reteste D3 sem consulta, obstáculo assimétrico com alturas diferentes; calcular λ e r1 com unidades coerentes e HLOS.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-Q01",
+        "PRED-20261126-ITENS7A9-REPAIR-Q02"
+      ],
+      "isScheduledNotification": false
     }
   ],
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-26",
   "weeklySaturdayReview": {
     "weekday": "SATURDAY",
     "period": "MORNING",
