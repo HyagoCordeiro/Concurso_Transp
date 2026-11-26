@@ -6629,6 +6629,128 @@
         "PRED-20261126-ITENS7A9-REPAIR-Q02"
       ],
       "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-GUME-D3",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "materia": "Telecomunicações",
+      "topico": "Gume de faca — v=0 e 6 dB",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-FINAL-Q03"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-DOPPLER-D3",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "materia": "Telecomunicações",
+      "topico": "Doppler angular",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-FINAL-Q12"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-DIV-D3",
+      "unitId": "7.2",
+      "editalItem": "7",
+      "materia": "Telecomunicações",
+      "topico": "Diversidade espacial/frequência/polarização",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-R2-Q03",
+        "PRED-20261126-ITENS7A9-R2-REPAIR-Q02"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-ENLACE-D3",
+      "unitId": "7.2",
+      "editalItem": "7",
+      "materia": "Telecomunicações",
+      "topico": "Conversão W/dBm e margem",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-R2-Q04"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-VSAT-D3",
+      "unitId": "8.3",
+      "editalItem": "8",
+      "materia": "Telecomunicações",
+      "topico": "VSAT estrela/malha e RTT",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-R2-Q08"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-SCFDMA-D3",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "materia": "Telecomunicações",
+      "topico": "SC-FDMA e PAPR",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "média",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-R2-Q13"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-FADING-D3",
+      "unitId": "9.2",
+      "editalItem": "9",
+      "materia": "Telecomunicações",
+      "topico": "Desvanecimento plano/seletivo e rápido/lento",
+      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "origemResultado": "PRED-20261126-ITENS7A9",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "questoesOrigem": [
+        "PRED-20261126-ITENS7A9-R2-Q15",
+        "PRED-20261126-ITENS7A9-R2-REPAIR-Q09",
+        "PRED-20261126-ITENS7A9-R2-REPAIR-Q10"
+      ],
+      "isScheduledNotification": false
     }
   ],
   "updatedAt": "2026-11-26",
