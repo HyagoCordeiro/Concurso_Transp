@@ -194,3 +194,31 @@ Histórico de referência: Transpetro 2018 Q55 (Fresnel), Q54 (C/N), Q53/Q59 (VS
 - **Q20 (7.1) — Saliência terrestre em enlace Fresnel: C→A.** Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m. Reteste 29/11.
 
 **Doppler:** acerto R2 Q16 (C, 80 Hz); erro anterior mantido como recuperado imediatamente, retenção pendente. **Gume de faca:** reincidência, prioridade alta. Anulações R1 não são erros do candidato.
+
+
+### 26/11/2026 — Encerramento definitivo da sessão: 108 questões
+
+| Sessão | Total | Válidas | Acertos | Erros | Anuladas | % válidas |
+|---|---:|---:|---:|---:|---:|---:|
+| Itens 7–9 | 60 | 60 | 49 | 11 | 0 | 81,7% |
+| QTI-20 misto R1 | 20 | 18 | 18 | 0 | 2 | 100% |
+| QTI-20 misto R2 | 20 | 20 | 16 | 4 | 0 | 80% |
+| Reforço final | 8 | 8 | 8 | 0 | 0 | 100% |
+| **Total** | **108** | **106** | **91** | **15** | **2** | **85,8%** |
+
+- Diagnósticas: 68/80 válidas (85,0%); reforços: 23/26 (88,5%). Todos os tópicos errados nesta sessão receberam acertos em reparo imediato, sem comprovação de retenção espaçada. Manter D3 em 29/11. Tempo líquido não aferido. Sessão encerrada a pedido do usuário.
+
+#### Reforço final — 8/8 (100%)
+
+| Q | Subitem | Tema | Resposta | Gabarito | Conferência |
+|---|---|---|---|---|---|
+| 1 | 7.1 | Gume de faca e margem a partir de Pr e sensibilidade | D | D | −62−(−85)−6=17 dB |
+| 2 | 7.1 | Gume de faca e chuva simultânea | A | A | 11−3−6=2 dB |
+| 3 | 5.2 | CAS/CCS e SS7 | E | E | I e II corretas; SS7 é CCS |
+| 4 | 5.2 | Q-SIG canal comum | B | B | Q-SIG interliga centrais privadas |
+| 5 | 6.1 | Fraunhofer distância mínima | C | C | 2×0,9²/0,03=54 m |
+| 6 | 6.1 | Fraunhofer dimensão máxima | D | D | Dmax=√(16×0,125/2)=1 m |
+| 7 | 7.1 | Fresnel com saliência fornecida | B | B | HLOS=52 m; r1=10 m; 52−6−3=43 m |
+| 8 | 7.1 | Fresnel com cálculo de saliência e K | E | E | HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m |
+
+**Caderno de erros:** gume de faca/margem (2/2), CAS/CCS (2/2), Fraunhofer (2/2), Fresnel/saliência (2/2). Erro de saliência foi desconhecimento do termo, não deficiência de cálculo de Fresnel/HLOS; usuário acertou inclusive cálculo com K=4/3 no reforço. Mantidos todos os registros históricos; status de reparo imediato com retenção pendente. Retestes D3 em 29/11, sem notificação automática.
