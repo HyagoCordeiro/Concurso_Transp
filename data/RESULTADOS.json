@@ -13467,6 +13467,149 @@
         }
       ],
       "observacao": "16/20; Q16 Doppler recuperado no mesmo dia; Q20 erro conceitual de vocabulário, cálculos intermediários corretos."
+    },
+    {
+      "id": "QTI20-20261126-MISTO-R2-REPAIR",
+      "data": "2026-11-26",
+      "tipo": "REPAIR",
+      "titulo": "Reforço final dos quatro erros do QTI-20 misto R2",
+      "totalQuestoes": 8,
+      "totalValidas": 8,
+      "acertos": 8,
+      "erros": 0,
+      "anuladas": 0,
+      "percentual": 100,
+      "sourceType": "AUTORAL_REFORCO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "gabarito": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "questoes": [
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q01",
+          "unitId": "7.1",
+          "topico": "Gume de faca e margem a partir de Pr e sensibilidade",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true,
+          "observacao": "−62−(−85)−6=17 dB"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q02",
+          "unitId": "7.1",
+          "topico": "Gume de faca e chuva simultânea",
+          "resposta": "A",
+          "gabarito": "A",
+          "valid": true,
+          "correct": true,
+          "observacao": "11−3−6=2 dB"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q03",
+          "unitId": "5.2",
+          "topico": "CAS/CCS e SS7",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true,
+          "observacao": "I e II corretas; SS7 é CCS"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q04",
+          "unitId": "5.2",
+          "topico": "Q-SIG canal comum",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true,
+          "observacao": "Q-SIG interliga centrais privadas"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q05",
+          "unitId": "6.1",
+          "topico": "Fraunhofer distância mínima",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true,
+          "observacao": "2×0,9²/0,03=54 m"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q06",
+          "unitId": "6.1",
+          "topico": "Fraunhofer dimensão máxima",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true,
+          "observacao": "Dmax=√(16×0,125/2)=1 m"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q07",
+          "unitId": "7.1",
+          "topico": "Fresnel com saliência fornecida",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true,
+          "observacao": "HLOS=52 m; r1=10 m; 52−6−3=43 m"
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-REPAIR-Q08",
+          "unitId": "7.1",
+          "topico": "Fresnel com cálculo de saliência e K",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true,
+          "observacao": "HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m"
+        }
+      ],
+      "grupos": [
+        {
+          "editalItem": "5",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0
+        },
+        {
+          "editalItem": "6",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0
+        },
+        {
+          "editalItem": "7",
+          "total": 4,
+          "totalValidas": 4,
+          "acertos": 4,
+          "erros": 0
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [],
+      "observacao": "Reparo imediato de todos os quatro erros R2, 2/2 em cada tema. Não é diagnóstico independente de retenção."
     }
   ],
   "updatedAt": "2026-11-26"
