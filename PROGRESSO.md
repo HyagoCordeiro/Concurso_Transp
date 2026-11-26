@@ -870,3 +870,13 @@ Foi solicitado expressamente guardar as questões **Q49, Q55–61 e Q70** enviad
 - [Relatório](qti/RESULTADOS_DIA_2026-11-26.md).
 
 Próxima revisão sugerida: itens 10–12.
+
+
+### 26/11/2026 — Fechamento de 60 questões (itens 7–9)
+
+- **49/60 (81,7%)**, 11 erros, incluindo reforços. Baterias diagnósticas: **34/42 (81,0%)**; reforços **15/18 (83,3%)**. Tempo líquido não aferido. Questões autorais calibradas ao histórico; não são prova oficial nem diagnóstico independente de retenção, pois houve correções no mesmo dia.
+- Diagnóstico por item: 7 radiopropagação **10/14**; 8 satélites **13/14**; 9 celular **11/14**.
+- Sequência: 11/12, 3/3, 10/15, 7/10, 5/5, 13/15. As duas primeiras já registradas; quatro adicionais agora anexadas sem duplicação.
+- **Pendências finais prioritárias:** gume de faca (v=0 → ~6 dB) e Doppler angular (θ=90° → 0 Hz). Diversidade, enlace W/dBm, VSAT, SC-FDMA, Fresnel e desvanecimento reforçados no mesmo dia; manter retestes D3 em 29/11. Retestes de G/T, FSPL e Fresnel corretos na segunda rodada. Não dar baixa automática em erros históricos.
+
+[Relatório](qti/RESULTADOS_DIA_2026-11-26.md). Próxima etapa: itens 10–12.
