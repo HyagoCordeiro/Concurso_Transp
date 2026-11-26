@@ -880,3 +880,26 @@ Próxima revisão sugerida: itens 10–12.
 - **Pendências finais prioritárias:** gume de faca (v=0 → ~6 dB) e Doppler angular (θ=90° → 0 Hz). Diversidade, enlace W/dBm, VSAT, SC-FDMA, Fresnel e desvanecimento reforçados no mesmo dia; manter retestes D3 em 29/11. Retestes de G/T, FSPL e Fresnel corretos na segunda rodada. Não dar baixa automática em erros históricos.
 
 [Relatório](qti/RESULTADOS_DIA_2026-11-26.md). Próxima etapa: itens 10–12.
+
+
+### 26/11/2026 — Fechamento atualizado: 100 questões (itens 1–9)
+
+| Sessão | Total | Válidas | Acertos | Erros | Anuladas | % válidas |
+|---|---:|---:|---:|---:|---:|---:|
+| Itens 7–9 (6 baterias) | 60 | 60 | 49 | 11 | 0 | 81,7% |
+| QTI-20 misto R1 | 20 | 18 | 18 | 0 | 2 | 100% |
+| QTI-20 misto R2 | 20 | 20 | 16 | 4 | 0 | 80% |
+| **Total** | **100** | **98** | **83** | **15** | **2** | **84,7%** |
+
+- R1: anulações Q1 (Bayes sem alternativa correta, usuário calculou 0,54) e Q15 (figura de antena inadequada); sem penalização e sem caderno de erros. R2: nível mais exigente, reteste angular Doppler Q16 correto; quatro novos erros abaixo. Questões autorais; não confundir acertos em reforços no mesmo dia com retenção espaçada. Tempo líquido não aferido.
+
+#### Quatro novos erros — QTI-20 misto R2
+
+- **Q09 (7.1) — Gume de faca: margem remanescente: B→A.** v=0 (tangência à LOS) implica perda por difração ~6 dB. Margem remanescente = 9−6 = 3 dB. Marcou 6 dB, que é a perda, não a margem; reincidência do tópico. Reteste 29/11.
+- **Q11 (5.2) — Sinalização telefônica CAS/CCS: B→C.** CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS. Reteste 29/11.
+- **Q15 (6.1) — Campo distante de Fraunhofer: A→E.** Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões. Reteste 29/11.
+- **Q20 (7.1) — Saliência terrestre em enlace Fresnel: C→A.** Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m. Reteste 29/11.
+
+**Doppler:** acerto R2 Q16 (C, 80 Hz); erro anterior mantido como recuperado imediatamente, retenção pendente. **Gume de faca:** reincidência, prioridade alta. Anulações R1 não são erros do candidato.
+
+[Relatório completo](qti/RESULTADOS_DIA_2026-11-26.md).
