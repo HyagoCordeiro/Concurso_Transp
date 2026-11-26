@@ -6636,14 +6636,15 @@
       "editalItem": "7",
       "materia": "Telecomunicações",
       "topico": "Gume de faca — v=0 e 6 dB",
-      "motivo": "Erros em 26/11; reforço imediato não equivale à retenção",
+      "motivo": "Reincidência em 26/11: v=0 e margem residual.",
       "origemResultado": "PRED-20261126-ITENS7A9",
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "plano": "Dois retestes novos: tangência v=0 e margem remanescente após perda. Reincidência na rodada mista.",
       "questoesOrigem": [
-        "PRED-20261126-ITENS7A9-FINAL-Q03"
+        "PRED-20261126-ITENS7A9-FINAL-Q03",
+        "QTI20-20261126-MISTO-R2-Q09"
       ],
       "isScheduledNotification": false
     },
@@ -6658,7 +6659,7 @@
       "agendadaPara": "2026-11-29",
       "prioridade": "alta",
       "status": "PENDENTE",
-      "plano": "Uma questão nova sem consulta por grupo; priorizar GUME e DOPPLER ainda sem reforço.",
+      "plano": "Reteste espaçado D3 de Doppler angular; acerto na rodada mista Q16 (80 Hz), ainda sem retenção comprovada.",
       "questoesOrigem": [
         "PRED-20261126-ITENS7A9-FINAL-Q12"
       ],
@@ -6749,6 +6750,57 @@
         "PRED-20261126-ITENS7A9-R2-Q15",
         "PRED-20261126-ITENS7A9-R2-REPAIR-Q09",
         "PRED-20261126-ITENS7A9-R2-REPAIR-Q10"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-MISTO-R2-Q11-D3",
+      "unitId": "5.2",
+      "editalItem": "5",
+      "materia": "Telecomunicações",
+      "topico": "Sinalização telefônica CAS/CCS",
+      "motivo": "CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS.",
+      "origemResultado": "QTI20-20261126-MISTO-R2",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "questoesOrigem": [
+        "QTI20-20261126-MISTO-R2-Q11"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-MISTO-R2-Q15-D3",
+      "unitId": "6.1",
+      "editalItem": "6",
+      "materia": "Telecomunicações",
+      "topico": "Campo distante de Fraunhofer",
+      "motivo": "Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões.",
+      "origemResultado": "QTI20-20261126-MISTO-R2",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "questoesOrigem": [
+        "QTI20-20261126-MISTO-R2-Q15"
+      ],
+      "isScheduledNotification": false
+    },
+    {
+      "id": "REV-20261126-MISTO-R2-Q20-D3",
+      "unitId": "7.1",
+      "editalItem": "7",
+      "materia": "Telecomunicações",
+      "topico": "Saliência terrestre em enlace Fresnel",
+      "motivo": "Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m.",
+      "origemResultado": "QTI20-20261126-MISTO-R2",
+      "agendadaPara": "2026-11-29",
+      "prioridade": "alta",
+      "status": "PENDENTE",
+      "plano": "Duas questões novas sem consulta; revisar definição e aplicação.",
+      "questoesOrigem": [
+        "QTI20-20261126-MISTO-R2-Q20"
       ],
       "isScheduledNotification": false
     }
