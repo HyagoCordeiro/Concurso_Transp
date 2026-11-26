@@ -562,3 +562,24 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - Q1: marcou A (24 m), correta C (34 m). HLOS=30+(50−30)×4/8=40 m; r1=10 m; Hmáx=40−0,6×10=34 m. Usar 30 m em vez de HLOS explicaria a resposta, mas a causa não foi confirmada pelo aluno. No reforço Q2, apesar de marcar B corretamente, explicitou dúvida: λ=0,015 m para 4,5 GHz e misturou km com m. Correto: λ=0,3/4,5=0,06667 m; r1=√(300 d1 d2/[f(d1+d2)]) em m, d em km, f em GHz. Após explicação, declarou ter compreendido.
 - Reforços D/B/E corretos: obstáculo central 44 m; assimétrico 56 m; altura mínima Rx 72 m. Evidência de acerto imediato, não retenção consolidada. Reteste sem consulta em 29/11 (D3), antes da prova-alvo 06/12 conforme data oficial registrada no repositório.
 - [Relatório](RESULTADOS_DIA_2026-11-26.md).
+
+
+### 26/11/2026 — Fechamento de 60 questões (itens 7–9)
+
+- **49/60 (81,7%)**, 11 erros, incluindo reforços. Baterias diagnósticas: **34/42 (81,0%)**; reforços **15/18 (83,3%)**. Tempo líquido não aferido. Questões autorais calibradas ao histórico; não são prova oficial nem diagnóstico independente de retenção, pois houve correções no mesmo dia.
+- Diagnóstico por item: 7 radiopropagação **10/14**; 8 satélites **13/14**; 9 celular **11/14**.
+- Sequência: 11/12, 3/3, 10/15, 7/10, 5/5, 13/15. As duas primeiras já registradas; quatro adicionais agora anexadas sem duplicação.
+- **Pendências finais prioritárias:** gume de faca (v=0 → ~6 dB) e Doppler angular (θ=90° → 0 Hz). Diversidade, enlace W/dBm, VSAT, SC-FDMA, Fresnel e desvanecimento reforçados no mesmo dia; manter retestes D3 em 29/11. Retestes de G/T, FSPL e Fresnel corretos na segunda rodada. Não dar baixa automática em erros históricos.
+
+- **R2-Q03 (7.2) — Diversidade espacial: D→A.** Antenas separadas fisicamente: diversidade espacial, não polarização. Deseja-se baixa correlação dos desvanecimentos. Reforço imediato registrado; retenção pendente.
+- **R2-Q04 (7.2) — Equação de enlace e W→dBm: D→E.** Usuário declarou usar 2 W = 30 dBm + 2; correto 30+10log10(2)≈33 dBm. Pr=-54 dBm sem perdas, margem 26 dB, perdas máximas 6 dB. Reforço imediato registrado; retenção pendente.
+- **R2-Q08 (8.3) — VSAT estrela atraso unidirecional: B→D.** Entre remotos em estrela, A-sat-HUB-sat-B: quatro pernas de 120 ms, total 480 ms unidirecional. Em malha são duas pernas; RTT dobra o tempo. Reforço imediato registrado; retenção pendente.
+- **R2-Q13 (9.2) — SC-FDMA PAPR: B→D.** SC-FDMA no uplink LTE tem PAPR tipicamente menor que OFDMA, favorecendo eficiência do amplificador e bateria. Reforço imediato registrado; retenção pendente.
+- **R2-Q15 (9.2) — Banda de coerência: B→A.** B_sinal muito menor que B_coerência: plano; muito maior: seletivo. Não inverter. Reforço imediato registrado; retenção pendente.
+- **R2-REPAIR-Q02 (7.2) — Diversidade espacial/polarização/frequência: C→A.** I e II verdadeiras; III falsa. Diversidade em frequência usa portadoras diferentes. Reforço imediato registrado; retenção pendente.
+- **R2-REPAIR-Q09 (9.2) — Desvanecimento seletivo: D→A.** 200 kHz de coerência: apenas sistema II de 2 MHz sofre seletividade; 10 e 20 kHz sofrem desvanecimento plano. Reforço imediato registrado; retenção pendente.
+- **R2-REPAIR-Q10 (9.2) — Desvanecimento plano e lento: A→D.** 50 kHz << 2 MHz: plano; 20 µs << 10 ms: lento. Comparações independentes. Reforço imediato registrado; retenção pendente.
+- **FINAL-Q03 (7.1) — Gume de faca v=0 e 6 dB: C→E.** Todas I, II e III verdadeiras. v<0 abaixo da LOS, v=0 tangência com perda ~6 dB, v>0 acima da LOS. Reincidência do simulado 23/11. Sem reforço posterior ainda.
+- **FINAL-Q12 (9.2) — Doppler componente angular: D→C.** f_D=(v/λ)cosθ. 108 km/h=30 m/s, λ=0,15 m, máximo 200 Hz, porém θ=90°: 0 Hz. Marcou máximo sem componente angular. Sem reforço posterior ainda.
+
+[Relatório de 26/11](RESULTADOS_DIA_2026-11-26.md).
