@@ -594,3 +594,20 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 **Doppler:** acerto R2 Q16 (C, 80 Hz); erro anterior mantido como recuperado imediatamente, retenção pendente. **Gume de faca:** reincidência, prioridade alta. Anulações R1 não são erros do candidato.
 
 [Fechamento de 100 questões](RESULTADOS_DIA_2026-11-26.md).
+
+#### Reforço final — 8/8 (100%)
+
+| Q | Subitem | Tema | Resposta | Gabarito | Conferência |
+|---|---|---|---|---|---|
+| 1 | 7.1 | Gume de faca e margem a partir de Pr e sensibilidade | D | D | −62−(−85)−6=17 dB |
+| 2 | 7.1 | Gume de faca e chuva simultânea | A | A | 11−3−6=2 dB |
+| 3 | 5.2 | CAS/CCS e SS7 | E | E | I e II corretas; SS7 é CCS |
+| 4 | 5.2 | Q-SIG canal comum | B | B | Q-SIG interliga centrais privadas |
+| 5 | 6.1 | Fraunhofer distância mínima | C | C | 2×0,9²/0,03=54 m |
+| 6 | 6.1 | Fraunhofer dimensão máxima | D | D | Dmax=√(16×0,125/2)=1 m |
+| 7 | 7.1 | Fresnel com saliência fornecida | B | B | HLOS=52 m; r1=10 m; 52−6−3=43 m |
+| 8 | 7.1 | Fresnel com cálculo de saliência e K | E | E | HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m |
+
+**Caderno de erros:** gume de faca/margem (2/2), CAS/CCS (2/2), Fraunhofer (2/2), Fresnel/saliência (2/2). Erro de saliência foi desconhecimento do termo, não deficiência de cálculo de Fresnel/HLOS; usuário acertou inclusive cálculo com K=4/3 no reforço. Mantidos todos os registros históricos; status de reparo imediato com retenção pendente. Retestes D3 em 29/11, sem notificação automática.
+
+[Relatório do dia](RESULTADOS_DIA_2026-11-26.md).
