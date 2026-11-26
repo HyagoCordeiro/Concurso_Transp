@@ -12784,6 +12784,689 @@
         }
       ],
       "observacao": "Bateria temática autoral; inclui retestes no mesmo dia."
+    },
+    {
+      "id": "QTI20-20261126-MISTO-R1",
+      "data": "2026-11-26",
+      "tipo": "QTI-20",
+      "titulo": "QTI-20 misto itens 1–9 — R1",
+      "totalQuestoes": 20,
+      "totalValidas": 18,
+      "acertos": 18,
+      "erros": 0,
+      "anuladas": 2,
+      "invalidos": 2,
+      "percentual": 100,
+      "sourceType": "AUTORAL",
+      "origem": "Respostas no chat; correção final com anulações solicitadas",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "0,54",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "C",
+        "C",
+        "D",
+        "C",
+        "B",
+        "B",
+        "C",
+        "B",
+        "D",
+        "C",
+        "C",
+        "A",
+        "B",
+        "E"
+      ],
+      "gabarito": [
+        "ANULADA",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "C",
+        "C",
+        "D",
+        "C",
+        "B",
+        "B",
+        "C",
+        "B",
+        "ANULADA",
+        "C",
+        "C",
+        "A",
+        "B",
+        "E"
+      ],
+      "questoes": [
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q01",
+          "unitId": "1.1",
+          "topico": "Bayes",
+          "resposta": "0,54",
+          "gabarito": "ANULADA",
+          "valid": false,
+          "correct": null,
+          "anulada": true,
+          "motivoAnulacao": "Sem alternativa correta. Bayes = 0,12/0,22 = 0,54545…; usuário 0,54 (truncamento). Não registrar erro."
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q02",
+          "unitId": "2.2",
+          "topico": "Função degrau",
+          "resposta": "A",
+          "gabarito": "A",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q03",
+          "unitId": "3.1",
+          "topico": "Valor final",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q04",
+          "unitId": "4.1",
+          "topico": "Índice AM",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q05",
+          "unitId": "5.1",
+          "topico": "Erlang B",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q06",
+          "unitId": "6.1",
+          "topico": "Ganho de antena dBi/dBd",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q07",
+          "unitId": "7.1",
+          "topico": "FSPL distância dobrada",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q08",
+          "unitId": "8.3",
+          "topico": "G/T",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q09",
+          "unitId": "9.2",
+          "topico": "Canais por célula",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q10",
+          "unitId": "1.2",
+          "topico": "Uniforme contínua",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q11",
+          "unitId": "3.5",
+          "topico": "Nyquist",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q12",
+          "unitId": "3.5",
+          "topico": "Transformada Z inversa",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q13",
+          "unitId": "4.2",
+          "topico": "PCM taxa binária",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q14",
+          "unitId": "5.3",
+          "topico": "SIP ACK",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q15",
+          "unitId": "6.1",
+          "topico": "Diagrama de radiação",
+          "resposta": "D",
+          "gabarito": "ANULADA",
+          "valid": false,
+          "correct": null,
+          "anulada": true,
+          "motivoAnulacao": "Diagrama gráfico inadequado, não determina inequivocamente largura de lóbulo. Anulação solicitada pelo usuário. Não registrar erro."
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q16",
+          "unitId": "7.1",
+          "topico": "Fresnel",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q17",
+          "unitId": "8.3",
+          "topico": "VSAT estrela",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q18",
+          "unitId": "9.2",
+          "topico": "GSM UMTS LTE",
+          "resposta": "A",
+          "gabarito": "A",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q19",
+          "unitId": "9.2",
+          "topico": "Canal móvel multipercurso",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R1-Q20",
+          "unitId": "1.3",
+          "topico": "WSS",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true
+        }
+      ],
+      "grupos": [
+        {
+          "editalItem": "1",
+          "total": 3,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 1
+        },
+        {
+          "editalItem": "2",
+          "total": 1,
+          "totalValidas": 1,
+          "acertos": 1,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "3",
+          "total": 3,
+          "totalValidas": 3,
+          "acertos": 3,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "4",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "5",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "6",
+          "total": 2,
+          "totalValidas": 1,
+          "acertos": 1,
+          "erros": 0,
+          "anuladas": 1
+        },
+        {
+          "editalItem": "7",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "8",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "9",
+          "total": 3,
+          "totalValidas": 3,
+          "acertos": 3,
+          "erros": 0,
+          "anuladas": 0
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [],
+      "observacao": "Q1 e Q15 anuladas por falha de elaboração; 18/18. Nível básico/intermediário; não usar isoladamente como predição de nota."
+    },
+    {
+      "id": "QTI20-20261126-MISTO-R2",
+      "data": "2026-11-26",
+      "tipo": "QTI-20",
+      "titulo": "QTI-20 misto itens 1–9 — R2",
+      "totalQuestoes": 20,
+      "totalValidas": 20,
+      "acertos": 16,
+      "erros": 4,
+      "anuladas": 0,
+      "invalidos": 0,
+      "percentual": 80,
+      "sourceType": "AUTORAL",
+      "origem": "Respostas no chat; correção final com anulações solicitadas",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "E",
+        "B",
+        "B",
+        "D",
+        "A",
+        "A",
+        "C",
+        "D",
+        "B",
+        "E",
+        "C"
+      ],
+      "gabarito": [
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "C",
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "D",
+        "B",
+        "E",
+        "A"
+      ],
+      "questoes": [
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q01",
+          "unitId": "2.3",
+          "topico": "Fourier X(0) área",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q02",
+          "unitId": "8.3",
+          "topico": "C/N0 enlace satélite",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q03",
+          "unitId": "5.1",
+          "topico": "Erlang C",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q04",
+          "unitId": "9.2",
+          "topico": "Distância de reúso e canais",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q05",
+          "unitId": "1.2",
+          "topico": "Hipergeométrica",
+          "resposta": "A",
+          "gabarito": "A",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q06",
+          "unitId": "6.1",
+          "topico": "HPBW gráfico",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q07",
+          "unitId": "3.1",
+          "topico": "Polos e estabilidade",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q08",
+          "unitId": "4.1",
+          "topico": "Carson inversa",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q09",
+          "unitId": "7.1",
+          "topico": "Gume de faca margem remanescente",
+          "resposta": "B",
+          "gabarito": "A",
+          "valid": true,
+          "correct": false
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q10",
+          "unitId": "1.3",
+          "topico": "Variância WSS",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q11",
+          "unitId": "5.2",
+          "topico": "Sinalização CAS/CCS",
+          "resposta": "B",
+          "gabarito": "C",
+          "valid": true,
+          "correct": false
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q12",
+          "unitId": "3.3",
+          "topico": "Convolução discreta",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q13",
+          "unitId": "8.3",
+          "topico": "Back-off transponder",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q14",
+          "unitId": "4.2",
+          "topico": "16-QAM eficiência espectral roll-off",
+          "resposta": "A",
+          "gabarito": "A",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q15",
+          "unitId": "6.1",
+          "topico": "Campo distante Fraunhofer",
+          "resposta": "A",
+          "gabarito": "E",
+          "valid": true,
+          "correct": false
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q16",
+          "unitId": "9.2",
+          "topico": "Doppler angular",
+          "resposta": "C",
+          "gabarito": "C",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q17",
+          "unitId": "3.5",
+          "topico": "Transformada Z h[1]",
+          "resposta": "D",
+          "gabarito": "D",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q18",
+          "unitId": "1.2",
+          "topico": "Exponencial falta de memória",
+          "resposta": "B",
+          "gabarito": "B",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q19",
+          "unitId": "4.1",
+          "topico": "Potência total AM",
+          "resposta": "E",
+          "gabarito": "E",
+          "valid": true,
+          "correct": true
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q20",
+          "unitId": "7.1",
+          "topico": "Fresnel com saliência terrestre",
+          "resposta": "C",
+          "gabarito": "A",
+          "valid": true,
+          "correct": false
+        }
+      ],
+      "grupos": [
+        {
+          "editalItem": "1",
+          "total": 3,
+          "totalValidas": 3,
+          "acertos": 3,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "2",
+          "total": 1,
+          "totalValidas": 1,
+          "acertos": 1,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "3",
+          "total": 3,
+          "totalValidas": 3,
+          "acertos": 3,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "4",
+          "total": 3,
+          "totalValidas": 3,
+          "acertos": 3,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "5",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 1,
+          "erros": 1,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "6",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 1,
+          "erros": 1,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "7",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 0,
+          "erros": 2,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "8",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        },
+        {
+          "editalItem": "9",
+          "total": 2,
+          "totalValidas": 2,
+          "acertos": 2,
+          "erros": 0,
+          "anuladas": 0
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q09",
+          "unitId": "7.1",
+          "editalItem": "7",
+          "topico": "Gume de faca: margem remanescente",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "GUME_FACA_MARGEM",
+          "observacao": "v=0 (tangência à LOS) implica perda por difração ~6 dB. Margem remanescente = 9−6 = 3 dB. Marcou 6 dB, que é a perda, não a margem; reincidência do tópico."
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q11",
+          "unitId": "5.2",
+          "editalItem": "5",
+          "topico": "Sinalização telefônica CAS/CCS",
+          "respostaEscolhida": "B",
+          "gabarito": "C",
+          "errorType": "CAS_CCS_CONCEITO",
+          "observacao": "CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS."
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q15",
+          "unitId": "6.1",
+          "editalItem": "6",
+          "topico": "Campo distante de Fraunhofer",
+          "respostaEscolhida": "A",
+          "gabarito": "E",
+          "errorType": "FRAUNHOFER_CAMPO_DISTANTE",
+          "observacao": "Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões."
+        },
+        {
+          "questionId": "QTI20-20261126-MISTO-R2-Q20",
+          "unitId": "7.1",
+          "editalItem": "7",
+          "topico": "Saliência terrestre em enlace Fresnel",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "errorType": "DESCONHECIMENTO_CONCEITO_SALIENCIA",
+          "observacao": "Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m."
+        }
+      ],
+      "observacao": "16/20; Q16 Doppler recuperado no mesmo dia; Q20 erro conceitual de vocabulário, cálculos intermediários corretos."
     }
   ],
   "updatedAt": "2026-11-26"
