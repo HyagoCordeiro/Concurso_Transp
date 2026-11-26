@@ -583,3 +583,14 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 - **FINAL-Q12 (9.2) — Doppler componente angular: D→C.** f_D=(v/λ)cosθ. 108 km/h=30 m/s, λ=0,15 m, máximo 200 Hz, porém θ=90°: 0 Hz. Marcou máximo sem componente angular. Sem reforço posterior ainda.
 
 [Relatório de 26/11](RESULTADOS_DIA_2026-11-26.md).
+
+#### Quatro novos erros — QTI-20 misto R2
+
+- **Q09 (7.1) — Gume de faca: margem remanescente: B→A.** v=0 (tangência à LOS) implica perda por difração ~6 dB. Margem remanescente = 9−6 = 3 dB. Marcou 6 dB, que é a perda, não a margem; reincidência do tópico. Reteste 29/11.
+- **Q11 (5.2) — Sinalização telefônica CAS/CCS: B→C.** CAS: sinalização associada ao canal de voz (ex.: R2); CCS: canal comum compartilhado por várias conexões (ex.: SS7, Q-SIG). Marcou a alternativa que descreve associação exclusiva, não CCS. Reteste 29/11.
+- **Q15 (6.1) — Campo distante de Fraunhofer: A→E.** Rmin=2D²/λ. D=0,6 m, λ=0,05 m (6 GHz), Rmin=14,4 m. Marcou 3,6 m. Causa específica não declarada; revisar fórmula e conversões. Reteste 29/11.
+- **Q20 (7.1) — Saliência terrestre em enlace Fresnel: C→A.** Usuário declarou explicitamente: erro foi não saber o significado de saliência. Calculou corretamente HLOS=48 m e r1=10 m. Saliência/abaulamento é a elevação aparente devido à curvatura efetiva da Terra. Hmax=HLOS−0,6r1−hc=48−6−2=40 m. NÃO classificar como deficiência de cálculo de HLOS/Fresnel. Fórmula hc≈d1*d2/(12,74K), km→m. Reteste 29/11.
+
+**Doppler:** acerto R2 Q16 (C, 80 Hz); erro anterior mantido como recuperado imediatamente, retenção pendente. **Gume de faca:** reincidência, prioridade alta. Anulações R1 não são erros do candidato.
+
+[Fechamento de 100 questões](RESULTADOS_DIA_2026-11-26.md).
