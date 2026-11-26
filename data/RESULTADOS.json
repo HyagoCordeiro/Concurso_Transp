@@ -12139,6 +12139,651 @@
       "tempoTotalSec": null,
       "observacao": "Reparo imediato, não independente; dúvida de unidades na Q2 esclarecida posteriormente, reteste pendente.",
       "itensErrados": []
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9-R2",
+      "data": "2026-11-26",
+      "tipo": "SIMULADO_PREDITIVO_15",
+      "titulo": "Segunda rodada diagnóstica",
+      "totalQuestoes": 15,
+      "totalValidas": 15,
+      "acertos": 10,
+      "erros": 5,
+      "percentual": 66.7,
+      "sourceType": "AUTORAL_CALIBRADO_HISTORICO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "B",
+        "D",
+        "D",
+        "D",
+        "C",
+        "E",
+        "B",
+        "B",
+        "A",
+        "C",
+        "E",
+        "B",
+        "B",
+        "C",
+        "B"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "E",
+        "B",
+        "D",
+        "A",
+        "C",
+        "E",
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "questoes": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q01",
+          "unitId": "7.1",
+          "topico": "FSPL frequência e distância",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q02",
+          "unitId": "7.1",
+          "topico": "Fresnel percentual livre e HLOS",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q03",
+          "unitId": "7.2",
+          "topico": "Diversidade espacial",
+          "resposta": "D",
+          "gabarito": "A",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q04",
+          "unitId": "7.2",
+          "topico": "Equação de enlace e W→dBm",
+          "resposta": "D",
+          "gabarito": "E",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q05",
+          "unitId": "7.1",
+          "topico": "Mecanismos de propagação",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q06",
+          "unitId": "8.3",
+          "topico": "C/N total",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q07",
+          "unitId": "8.3",
+          "topico": "G/T",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q08",
+          "unitId": "8.3",
+          "topico": "VSAT estrela atraso unidirecional",
+          "resposta": "B",
+          "gabarito": "D",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q09",
+          "unitId": "8.3",
+          "topico": "SCPC/MCPC",
+          "resposta": "A",
+          "gabarito": "A",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q10",
+          "unitId": "8.3",
+          "topico": "Compensação chuva Ka",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q11",
+          "unitId": "9.2",
+          "topico": "Doppler máximo",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q12",
+          "unitId": "9.2",
+          "topico": "Subdivisão de células",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q13",
+          "unitId": "9.2",
+          "topico": "SC-FDMA PAPR",
+          "resposta": "B",
+          "gabarito": "D",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q14",
+          "unitId": "9.1",
+          "topico": "Beamforming",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q15",
+          "unitId": "9.2",
+          "topico": "Banda de coerência",
+          "resposta": "B",
+          "gabarito": "A",
+          "correct": false
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q03",
+          "unitId": "7.2",
+          "editalItem": "7",
+          "topico": "Diversidade espacial",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "errorType": "DIVERSIDADE_ESPACIAL",
+          "observacao": "Antenas separadas fisicamente: diversidade espacial, não polarização. Deseja-se baixa correlação dos desvanecimentos."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q04",
+          "unitId": "7.2",
+          "editalItem": "7",
+          "topico": "Equação de enlace e W→dBm",
+          "respostaEscolhida": "D",
+          "gabarito": "E",
+          "errorType": "ENLACE_W_DBM",
+          "observacao": "Usuário declarou usar 2 W = 30 dBm + 2; correto 30+10log10(2)≈33 dBm. Pr=-54 dBm sem perdas, margem 26 dB, perdas máximas 6 dB."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q08",
+          "unitId": "8.3",
+          "editalItem": "8",
+          "topico": "VSAT estrela atraso unidirecional",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "VSAT_ESTRELA_ATRASO",
+          "observacao": "Entre remotos em estrela, A-sat-HUB-sat-B: quatro pernas de 120 ms, total 480 ms unidirecional. Em malha são duas pernas; RTT dobra o tempo."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q13",
+          "unitId": "9.2",
+          "editalItem": "9",
+          "topico": "SC-FDMA PAPR",
+          "respostaEscolhida": "B",
+          "gabarito": "D",
+          "errorType": "SC_FDMA_PAPR",
+          "observacao": "SC-FDMA no uplink LTE tem PAPR tipicamente menor que OFDMA, favorecendo eficiência do amplificador e bateria."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-Q15",
+          "unitId": "9.2",
+          "editalItem": "9",
+          "topico": "Banda de coerência",
+          "respostaEscolhida": "B",
+          "gabarito": "A",
+          "errorType": "FADING_BANDA_COERENCIA",
+          "observacao": "B_sinal muito menor que B_coerência: plano; muito maior: seletivo. Não inverter."
+        }
+      ],
+      "observacao": "Bateria temática autoral; inclui retestes no mesmo dia."
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9-R2-REPAIR",
+      "data": "2026-11-26",
+      "tipo": "REPAIR",
+      "titulo": "Primeiro reforço dos cinco erros",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 7,
+      "erros": 3,
+      "percentual": 70,
+      "sourceType": "AUTORAL_REFORCO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "C",
+        "C",
+        "E",
+        "D",
+        "D",
+        "E",
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "gabarito": [
+        "C",
+        "A",
+        "E",
+        "D",
+        "D",
+        "E",
+        "B",
+        "C",
+        "A",
+        "D"
+      ],
+      "questoes": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q01",
+          "unitId": "7.2",
+          "topico": "Diversidade frequência",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q02",
+          "unitId": "7.2",
+          "topico": "Diversidade espacial/polarização/frequência",
+          "resposta": "C",
+          "gabarito": "A",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q03",
+          "unitId": "7.2",
+          "topico": "Enlace perdas 4 W",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q04",
+          "unitId": "7.2",
+          "topico": "Enlace potência mínima",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q05",
+          "unitId": "8.3",
+          "topico": "VSAT mesh RTT",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q06",
+          "unitId": "8.3",
+          "topico": "VSAT estrela RTT",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q07",
+          "unitId": "9.2",
+          "topico": "SC-FDMA eficiência PA",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q08",
+          "unitId": "9.2",
+          "topico": "LTE OFDMA/SC-FDMA PAPR",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q09",
+          "unitId": "9.2",
+          "topico": "Desvanecimento seletivo",
+          "resposta": "D",
+          "gabarito": "A",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q10",
+          "unitId": "9.2",
+          "topico": "Desvanecimento plano e lento",
+          "resposta": "A",
+          "gabarito": "D",
+          "correct": false
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q02",
+          "unitId": "7.2",
+          "editalItem": "7",
+          "topico": "Diversidade espacial/polarização/frequência",
+          "respostaEscolhida": "C",
+          "gabarito": "A",
+          "errorType": "DIVERSIDADE_AFIRMATIVAS",
+          "observacao": "I e II verdadeiras; III falsa. Diversidade em frequência usa portadoras diferentes."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q09",
+          "unitId": "9.2",
+          "editalItem": "9",
+          "topico": "Desvanecimento seletivo",
+          "respostaEscolhida": "D",
+          "gabarito": "A",
+          "errorType": "FADING_BANDA_COERENCIA",
+          "observacao": "200 kHz de coerência: apenas sistema II de 2 MHz sofre seletividade; 10 e 20 kHz sofrem desvanecimento plano."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR-Q10",
+          "unitId": "9.2",
+          "editalItem": "9",
+          "topico": "Desvanecimento plano e lento",
+          "respostaEscolhida": "A",
+          "gabarito": "D",
+          "errorType": "FADING_TEMPO_FREQUENCIA",
+          "observacao": "50 kHz << 2 MHz: plano; 20 µs << 10 ms: lento. Comparações independentes."
+        }
+      ],
+      "observacao": "Reparo imediato; não usar como simulado independente."
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9-R2-REPAIR2",
+      "data": "2026-11-26",
+      "tipo": "REPAIR",
+      "titulo": "Segundo reforço diversidade e desvanecimento",
+      "totalQuestoes": 5,
+      "totalValidas": 5,
+      "acertos": 5,
+      "erros": 0,
+      "percentual": 100,
+      "sourceType": "AUTORAL_REFORCO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "D",
+        "B",
+        "C",
+        "A",
+        "E"
+      ],
+      "gabarito": [
+        "D",
+        "B",
+        "C",
+        "A",
+        "E"
+      ],
+      "questoes": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR2-Q01",
+          "unitId": "7.2",
+          "topico": "Tipos diversidade",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR2-Q02",
+          "unitId": "7.2",
+          "topico": "Diversidade frequência e temporal",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR2-Q03",
+          "unitId": "9.2",
+          "topico": "Desvanecimento plano/seletivo",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR2-Q04",
+          "unitId": "9.2",
+          "topico": "Desvanecimento seletivo/lento",
+          "resposta": "A",
+          "gabarito": "A",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-R2-REPAIR2-Q05",
+          "unitId": "9.2",
+          "topico": "Classificação de três sistemas",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [],
+      "observacao": "Reparo imediato; não usar como simulado independente."
+    },
+    {
+      "id": "PRED-20261126-ITENS7A9-FINAL",
+      "data": "2026-11-26",
+      "tipo": "SIMULADO_PREDITIVO_15",
+      "titulo": "Simulado final itens 7–9",
+      "totalQuestoes": 15,
+      "totalValidas": 15,
+      "acertos": 13,
+      "erros": 2,
+      "percentual": 86.7,
+      "sourceType": "AUTORAL_CALIBRADO_HISTORICO",
+      "origem": "Respostas no chat",
+      "reportFile": "qti/RESULTADOS_DIA_2026-11-26.md",
+      "respostas": [
+        "D",
+        "B",
+        "C",
+        "A",
+        "C",
+        "B",
+        "E",
+        "C",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "B",
+        "D"
+      ],
+      "gabarito": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C",
+        "B",
+        "E",
+        "C",
+        "D",
+        "A",
+        "E",
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "questoes": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q01",
+          "unitId": "7.1",
+          "topico": "Fresnel frequência mínima",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q02",
+          "unitId": "7.2",
+          "topico": "Margem de enlace 8 W",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q03",
+          "unitId": "7.1",
+          "topico": "Gume de faca v=0 e 6 dB",
+          "resposta": "C",
+          "gabarito": "E",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q04",
+          "unitId": "7.2",
+          "topico": "Diversidade espacial baixa correlação",
+          "resposta": "A",
+          "gabarito": "A",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q05",
+          "unitId": "7.1",
+          "topico": "FSPL fator 3 compensação ganho",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q06",
+          "unitId": "8.3",
+          "topico": "EIRP dBW",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q07",
+          "unitId": "8.3",
+          "topico": "Eb/N0",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q08",
+          "unitId": "8.3",
+          "topico": "Transponder transparente",
+          "resposta": "C",
+          "gabarito": "C",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q09",
+          "unitId": "8.1",
+          "topico": "Órbita GEO",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q10",
+          "unitId": "8.2",
+          "topico": "Ku chuva e cintilação",
+          "resposta": "A",
+          "gabarito": "A",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q11",
+          "unitId": "9.2",
+          "topico": "Cluster canais",
+          "resposta": "E",
+          "gabarito": "E",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q12",
+          "unitId": "9.2",
+          "topico": "Doppler componente angular",
+          "resposta": "D",
+          "gabarito": "C",
+          "correct": false
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q13",
+          "unitId": "9.2",
+          "topico": "CDMA near-far",
+          "resposta": "A",
+          "gabarito": "A",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q14",
+          "unitId": "9.2",
+          "topico": "Desvanecimento temporal/espectral",
+          "resposta": "B",
+          "gabarito": "B",
+          "correct": true
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q15",
+          "unitId": "9.1",
+          "topico": "MIMO OFDM prefixo cíclico",
+          "resposta": "D",
+          "gabarito": "D",
+          "correct": true
+        }
+      ],
+      "tempoTotalSec": null,
+      "itensErrados": [
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q03",
+          "unitId": "7.1",
+          "editalItem": "7",
+          "topico": "Gume de faca v=0 e 6 dB",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "GUME_FACA_V_ZERO",
+          "observacao": "Todas I, II e III verdadeiras. v<0 abaixo da LOS, v=0 tangência com perda ~6 dB, v>0 acima da LOS. Reincidência do simulado 23/11."
+        },
+        {
+          "questionId": "PRED-20261126-ITENS7A9-FINAL-Q12",
+          "unitId": "9.2",
+          "editalItem": "9",
+          "topico": "Doppler componente angular",
+          "respostaEscolhida": "D",
+          "gabarito": "C",
+          "errorType": "DOPPLER_ANGULAR",
+          "observacao": "f_D=(v/λ)cosθ. 108 km/h=30 m/s, λ=0,15 m, máximo 200 Hz, porém θ=90°: 0 Hz. Marcou máximo sem componente angular."
+        }
+      ],
+      "observacao": "Bateria temática autoral; inclui retestes no mesmo dia."
     }
   ],
   "updatedAt": "2026-11-26"
