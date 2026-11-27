@@ -936,3 +936,56 @@ Próxima revisão sugerida: itens 10–12.
 ### 26/11/2026 — Estratégia de reta final aprovada
 
 Recuperada e reconferida a classificação original TecConcursos de 07/10 (456 questões, 445 dentro do edital, 11 excluídas). Diretriz aprovada: [perfil da CESGRANRIO e seleção de simulados](docs/ESTRATEGIA_PERFIL_CESGRANRIO_2026-11-26.md). Cruzar banco TecConcursos, provas originais e QConcursos com histórico individual, privilegiar originais, controlar repetição e mapear famílias de raciocínio/pegadinhas. Proporção sugerida 6/6/6/2 por bloco de 20. Matriz estatística consolidada ainda pendente; manter cobertura de todos os 13 itens e revisão D3. Limitação de leitura do banco geral data/QUESTOES.json preservada.
+
+
+### 27/11/2026 — Revisão final dos itens 10–13 e reteste de dispersão
+
+| Sessão | Questões avaliadas | Acertos | Erros | Aproveitamento |
+|---|---:|---:|---:|---:|
+| QTI-12 R1 — itens 10–12 | 12 | 12 | 0 | 100% |
+| QTI-12 R2 — itens 10–12 | 12 | 11 | 1 | 91,67% |
+| Consolidado diagnóstico dos itens 10–12 | 24 | 23 | 1 | 95,83% |
+| Reteste imediato (12.2) | 1 | 1 | 0 | 100% |
+| Item 13 — questões prioritárias (resultado registrado na sessão, sem nova auditoria dos gabaritos históricos) | 27 | 26 | 1 | 96,30% |
+
+**Itens 10–12 — distribuição diagnóstica:** item 10: 8/8; item 11: 8/8; item 12: 7/8. Com o reteste, 24/25 (96%); o erro original permanece no histórico. Tempo líquido não aferido. Questões dos QTI-12 autorais, inspiradas no perfil CESGRANRIO; não são questões originais da banca nem previsão garantida.
+
+#### QTI-12 R1 — 12/12
+
+| Q | Item | Tema | Resposta | Gabarito |
+|---|---|---|---|---|
+| 1 | 10 | 802.11ax: OFDMA, BSS Coloring e 1024-QAM | C | C |
+| 2 | 10 | Terminal oculto, RTS/CTS, NAV, SIFS/PIFS/DIFS | E | E |
+| 3 | 10 | MSTP / IEEE 802.1s | B | B |
+| 4 | 10 | RMON I/II e SNMPv3 authPriv | D | D |
+| 5 | 11 | QoS LLQ | A | A |
+| 6 | 11 | OSPF/Dijkstra: custo mínimo 30 | C | C |
+| 7 | 11 | MPLS L3VPN: RD, RT e MP-BGP | E | E |
+| 8 | 11 | OSPF-TE e RSVP-TE | B | B |
+| 9 | 12 | Abertura numérica: sqrt(1,50²−1,44²)=0,42 | D | D |
+| 10 | 12 | Orçamento óptico: 88 km | A | A |
+| 11 | 12 | SDH: quadro STM-1, período e taxa STM-4 | B | B |
+| 12 | 12 | CWDM versus DWDM | D | D |
+
+#### QTI-12 R2 — 11/12
+
+| Q | Item | Tema | Resposta | Gabarito |
+|---|---|---|---|---|
+| 1 | 10 | PoE 802.3af: 15,4 W PSE / 12,95 W PD | B | B |
+| 2 | 10 | 802.1Q: tag, VID, PCP e VID reservado | E | E |
+| 3 | 10 | 802.11ac: banda e largura de canal | A | A |
+| 4 | 10 | 802.11e: EDCA, HCCA, TXOP | D | D |
+| 5 | 11 | Multicast, IGMP, IGMP Snooping e PIM | C | C |
+| 6 | 11 | IPSec ESP em modo túnel | A | A |
+| 7 | 11 | DiffServ: DSCP, AF31, EF | E | E |
+| 8 | 11 | Stateful Inspection e firewall de aplicação | B | B |
+| 9 | 12 | Frequência normalizada V=1,94, monomodo | D | D |
+| 10 | 12 | Dispersão cromática: 17×0,2×80=272 ps | A | C |
+| 11 | 12 | Transponder DWDM | B | B |
+| 12 | 12 | Metro Ethernet: UNI, EVC, E-Line/E-LAN | E | E |
+
+**Caderno de erros — 12.2:** dispersão cromática. Fórmula Δt=D·Δλ·L, com D em ps/(nm·km), Δλ em nm e L em km. Q10 R2: resposta A (68 ps), correta C (272 ps). Reteste imediato: D=16, Δλ=0,5, L=60; Δt=480 ps. Resposta D, correta D. Reparo imediato 1/1; retenção espaçada ainda não aferida. Revisar antes da prova.
+
+**Item 13 — sessão anterior do mesmo dia:** resultado registrado na correção: 26/27 prioritárias; erro Q7, universalização versus continuidade (E→B). Quatro questões antigas de SLP separadas da avaliação principal por diferenças regulatórias; não agregar ao diagnóstico. Respostas prioritárias: A,A,B,B,A,E,E,E,A,C,A,A,B,C,A,D,A,B,C,C,C,E,D,E,C,C,C. Resultado histórico sujeito a conferência das fontes e da legislação atual; acesso ao TEC Concursos foi limitado. Revisão conceitual adicional: BSS/BSSID/IBSS/ESS, CSMA/CD versus CSMA/CA, terminal oculto, RTS/CTS, NAV, IFS e QoS Wi-Fi.
+
+**Próximo passo sugerido:** revisar dispersão cromática e universalização/continuidade brevemente; priorizar pontos de maior dificuldade em probabilidade e sinais/sistemas. Preservar histórico e distinguir acertos diagnósticos de retestes.
