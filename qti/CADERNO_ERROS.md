@@ -1,6 +1,6 @@
 # Caderno de erros — CESGRANRIO / Transpetro Telecom
 
-**Atualização:** 26/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
+**Atualização:** 27/11/2026. Este é o registro **permanente e prioritário** para revisar erros. Sempre acrescentar erros dos novos blocos, sem apagar o histórico; depois do reforço imediato, manter o erro para reteste espaçado. **Uma questão corrigida imediatamente não significa domínio consolidado.**
 
 ## 15/11/2026 — Simulado integral autoral de 70 questões
 
@@ -611,3 +611,27 @@ A pedido do usuário: **não detalhar, discutir nem aplicar reparos hoje**; inic
 **Caderno de erros:** gume de faca/margem (2/2), CAS/CCS (2/2), Fraunhofer (2/2), Fresnel/saliência (2/2). Erro de saliência foi desconhecimento do termo, não deficiência de cálculo de Fresnel/HLOS; usuário acertou inclusive cálculo com K=4/3 no reforço. Mantidos todos os registros históricos; status de reparo imediato com retenção pendente. Retestes D3 em 29/11, sem notificação automática.
 
 [Relatório do dia](RESULTADOS_DIA_2026-11-26.md).
+
+
+### 27/11/2026 — Revisão final itens 9–13: 11 erros diagnósticos
+
+[Relatório completo da sessão, respostas e gabaritos](RESULTADOS_DIA_2026-11-27.md). Diagnóstico: 80/91 (87,91%); reforços: 11/11; total avaliado 91/102 (89,22%). Quatro questões históricas de SLP respondidas à parte e excluídas, por ressalvas de normas/gabaritos antigos. Resultado do bloco histórico 13 mantido conforme correção da sessão, sem nova auditoria integral.
+
+| Origem | Item | Erro | Correção | Status |
+|---|---|---|---|---|
+| Histórico Q7 E→B | 13.1 | Universalização vs continuidade | Acesso vs prestação ininterrupta | Acerto posterior QTI-20 Q20 C; retenção pendente |
+| QTI-12 R2 Q10 A→C | 12.2 | Dispersão cromática | Δt=D·Δλ·L=272 ps | Reteste 1/1 (480 ps); retenção pendente |
+| QTI-20 9–13 Q5 B→C | 10.3 | Eleição Root Bridge | Menor BID: menor prioridade e, na mesma VLAN, menor MAC. Usuário contestou enunciado por empate de ID; esclarecido que empate era só na prioridade | Reteste 2/2; retenção pendente |
+| QTI-20 9–13 Q12 B→A | 11.3 | VPWS | L2 ponto a ponto; VPLS multiponto; VRF-Lite é separação de tabelas L3 | Reteste 2/2; retenção pendente |
+| QTI-20 9–13 Q15 A→C | 12.3 | STM-16 | 16×155,52=2488,32 Mbps; 622,08 Mbps é STM-4 | Reteste 2/2; retenção pendente |
+| QTI-20 9–13 Q18 A→D | 13.2 | Atribuição/consignação | Atribuição=serviço; destinação=serviço/aplicação nacional; distribuição=área; consignação=estação | Reteste 2/2; retenção pendente |
+| QTI-20 9–13 Q19 D→A | 13.3 | FM estendida | 76–87,4 MHz conforme referência adotada; não confundir com VHF aeronáutico | Reteste 2/2; retenção pendente |
+| QTI-20 avançado Q2 A→E | 10.3 | VLAN nativa | Em trunk com native VLAN 30 sem tag, quadro untagged entra na VLAN 30/PVID, nas condições da questão | **Sem reteste** |
+| QTI-20 avançado Q4 E→A | 10.3 | RMON I Alarm/Event | Alarm monitora limiar; Event gera evento/notificação | **Sem reteste** |
+| QTI-20 avançado Q5 C→D | 10.1 | Target Wake Time | 802.11ax: negocia períodos de atividade/repouso, economiza energia | **Sem reteste** |
+| QTI-20 avançado Q7 B→D | 10.2 | Tamanho mínimo Ethernet | 6+6+2+46+4=64 B, sem preâmbulo/SFD | **Sem reteste** |
+
+Não inferir causas individuais não declaradas; registrar alternativa e conceito. Policing vs Shaping foi revisado a pedido, mas questão correta; não classificar como erro. Não apagar erros anteriores nem considerar acertos imediatos comprovação de retenção.
+
+**28/11 (sábado):** revisar erros da semana 23–27/11 e pendências anteriores; priorizar os quatro sem reteste acima e reincidências (gume de faca, FSPL, dBi/dBd, PoE, Fresnel/saliência), depois os demais erros, inclusive Português, sinais/sistemas e probabilidade quando constarem dos registros. Retestes novos sem consulta, agrupados, sem duplicações.
+**29/11 (domingo):** simulado solicitado pelo usuário; formato integral sugerido, não definido como obrigatório. Preservar a data oficial anteriormente registrada no repositório (06/12) e as revisões D3.
