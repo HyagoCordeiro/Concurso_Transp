@@ -6,6 +6,10 @@ Repositório central de estudos para a prova da **Transpetro / CESGRANRIO — En
 
 **Padrão obrigatório de condução:** [Estudo rápido e simulados completos](docs/PROTOCOLO_ESTUDO_RAPIDO_2026-11-11.md). Questões em **texto simples**, blocos de tamanho **flexível a cada pedido**, correção rápida e diagnóstico dos erros. **Sem QTI interativo por padrão.** Simulados de **70 questões, preferencialmente aos domingos**, em trilha separada conforme disponibilidade, para treinar tempo e conteúdo. Este protocolo tem precedência sobre exigências antigas de interface QTI.
 
+## Diretriz complementar — perfil da CESGRANRIO (26/11/2026)
+
+[Metodologia de análise da banca e seleção de simulados](docs/ESTRATEGIA_PERFIL_CESGRANRIO_2026-11-26.md): cruzar as 445 questões TecConcursos classificadas, provas originais e QConcursos, deduplicando fontes e priorizando questões reais. Composição sugerida de 20: 6 originais Transpetro, 6 originais de outras provas CESGRANRIO, 6 adaptações históricas e 2 retestes. Flexível conforme pedido e cobertura do edital. A matriz de recorrência por item ainda depende de auditoria integral; não tratar distribuição do banco como previsão da prova. Preservar o protocolo vigente e o caderno de erros.
+
 ## Rotina semanal aprovada — sábado de manhã (14/11/2026)
 
 **Todas as manhãs de sábado** são reservadas à revisão do caderno de erros da semana: reunir erros de Telecom, Português e Inglês, propor questões CESGRANRIO/QConcursos ou autorais identificadas, corrigir apenas os erros, reforçar sob demanda e planejar retestes espaçados. [Protocolo da rotina](docs/ROTINA_SABADO_CADERNO_ERROS.md). Primeiro fechamento: [43/56 (76,8%), 29/42 nas baterias e 14/14 nos reforços](qti/REVISAO_CADERNO_ERROS_2026-11-14.md). Não há lembrete automático criado.
