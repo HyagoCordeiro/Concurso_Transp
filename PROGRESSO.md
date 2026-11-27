@@ -931,3 +931,8 @@ Próxima revisão sugerida: itens 10–12.
 | 8 | 7.1 | Fresnel com cálculo de saliência e K | E | E | HLOS=50 m; r1=10 m; hc=1,88 m; Hmax=42,12 m≈42 m |
 
 **Caderno de erros:** gume de faca/margem (2/2), CAS/CCS (2/2), Fraunhofer (2/2), Fresnel/saliência (2/2). Erro de saliência foi desconhecimento do termo, não deficiência de cálculo de Fresnel/HLOS; usuário acertou inclusive cálculo com K=4/3 no reforço. Mantidos todos os registros históricos; status de reparo imediato com retenção pendente. Retestes D3 em 29/11, sem notificação automática.
+
+
+### 26/11/2026 — Estratégia de reta final aprovada
+
+Recuperada e reconferida a classificação original TecConcursos de 07/10 (456 questões, 445 dentro do edital, 11 excluídas). Diretriz aprovada: [perfil da CESGRANRIO e seleção de simulados](docs/ESTRATEGIA_PERFIL_CESGRANRIO_2026-11-26.md). Cruzar banco TecConcursos, provas originais e QConcursos com histórico individual, privilegiar originais, controlar repetição e mapear famílias de raciocínio/pegadinhas. Proporção sugerida 6/6/6/2 por bloco de 20. Matriz estatística consolidada ainda pendente; manter cobertura de todos os 13 itens e revisão D3. Limitação de leitura do banco geral data/QUESTOES.json preservada.
