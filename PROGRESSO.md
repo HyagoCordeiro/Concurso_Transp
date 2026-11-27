@@ -989,3 +989,28 @@ Recuperada e reconferida a classificação original TecConcursos de 07/10 (456 q
 **Item 13 — sessão anterior do mesmo dia:** resultado registrado na correção: 26/27 prioritárias; erro Q7, universalização versus continuidade (E→B). Quatro questões antigas de SLP separadas da avaliação principal por diferenças regulatórias; não agregar ao diagnóstico. Respostas prioritárias: A,A,B,B,A,E,E,E,A,C,A,A,B,C,A,D,A,B,C,C,C,E,D,E,C,C,C. Resultado histórico sujeito a conferência das fontes e da legislação atual; acesso ao TEC Concursos foi limitado. Revisão conceitual adicional: BSS/BSSID/IBSS/ESS, CSMA/CD versus CSMA/CA, terminal oculto, RTS/CTS, NAV, IFS e QoS Wi-Fi.
 
 **Próximo passo sugerido:** revisar dispersão cromática e universalização/continuidade brevemente; priorizar pontos de maior dificuldade em probabilidade e sinais/sistemas. Preservar histórico e distinguir acertos diagnósticos de retestes.
+
+
+### 27/11/2026 — Encerramento da sessão: revisão 9–13 e planejamento do fim de semana
+
+| Sessão | Questões | Acertos | Erros | Aproveitamento |
+|---|---:|---:|---:|---:|
+| Item 13 prioritário (histórico, resultado da sessão) | 27 | 26 | 1 | 96,30% |
+| QTI-12 R1 | 12 | 12 | 0 | 100% |
+| QTI-12 R2 | 12 | 11 | 1 | 91,67% |
+| QTI-20 itens 9–13 | 20 | 15 | 5 | 75% |
+| QTI-20 avançado itens 10–12 | 20 | 16 | 4 | 80% |
+| **Diagnóstico** | **91** | **80** | **11** | **87,91%** |
+| Reteste dispersão | 1 | 1 | 0 | 100% |
+| QTI-10 reparo de cinco erros | 10 | 10 | 0 | 100% |
+| **Total avaliado** | **102** | **91** | **11** | **89,22%** |
+
+Fechamento cumulativo; não somar novamente as baterias já registradas acima. Houve ainda 4 questões históricas SLP separadas da avaliação, totalizando 106 respostas; resultado histórico sujeito a conferência. Tempo líquido não aferido. 
+
+Diagnóstico por item: 9=4/4, 10=14/19, 11=18/19, 12=16/18, 13=28/31 (resultado histórico provisório). Última rodada: 10=3/7, 11=7/7, 12=6/6. Todos os quatro erros da última rodada concentrados em redes locais.
+
+**Erros de hoje:** universalização/continuidade (acerto em questão posterior), dispersão cromática (1/1), STP, VPWS, STM-16, atribuição/consignação e FM estendida (2/2 cada), VLAN nativa, RMON Alarm/Event, TWT, quadro Ethernet mínimo (quatro sem reteste). Retenção espaçada pendente. Policing/Shaping revisado sem erro na questão. 
+- [Relatório completo com temas, respostas e gabaritos](qti/RESULTADOS_DIA_2026-11-27.md).
+- [Caderno de erros atualizado](qti/CADERNO_ERROS.md).
+
+**Plano definido pelo usuário:** sábado 28/11 trabalhar erros da semana (23–27/11), inclusive pendências e reincidências; domingo 29/11 simulado. Formato integral 70 questões sugerido, sujeito à escolha do usuário. Data oficial previamente registrada no repositório: 06/12/2026. Não confundir com o simulado de domingo. Não contabilizar revisão planejada como executada.
