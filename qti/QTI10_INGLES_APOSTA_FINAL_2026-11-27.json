@@ -1,0 +1,247 @@
+{
+  "id": "QTI10-INGLES-APOSTA-FINAL-20261127",
+  "data": "2026-11-27",
+  "disciplina": "Língua Inglesa",
+  "tipo": "QTI-10",
+  "titulo": "QTI-10 — Aposta Final Transpetro 2026",
+  "textoTitulo": "How artificial intelligence is shaping the future of maritime transport",
+  "texto": [
+    "The maritime industry is facing one of the most significant transformations in its history. As global demand for energy and goods continues to grow, shipping companies are under increasing pressure to reduce their environmental footprint while maintaining operational efficiency. Artificial intelligence (AI) is emerging as a valuable tool in addressing these challenges. However, its widespread adoption will depend on more than technological advances alone.",
+    "One of the most promising applications of AI is voyage optimization. Traditionally, shipping routes have been planned according to weather forecasts, fuel availability and estimated arrival times. Today, intelligent systems can process vast amounts of real-time data, allowing vessels to adjust their routes and speeds according to changing conditions. By doing so, shipping companies can cut down on fuel consumption without necessarily compromising delivery schedules.",
+    "Predictive maintenance is another area in which digital technologies are making a considerable difference. Rather than waiting for equipment to fail, operators can use sensors and machine learning algorithms to identify potential problems before they occur. This approach not only extends the lifespan of critical equipment but also reduces unexpected downtime, which can be particularly costly for companies operating offshore.",
+    "Ports are undergoing a similar transformation. Automated systems can help coordinate the arrival of vessels, manage cargo operations and reduce congestion. When ships arrive at a port before a berth is available, they may spend several hours waiting. Better coordination between ports and shipping companies could therefore lead to substantial energy savings.",
+    "Despite these advantages, the increasing reliance on digital infrastructure brings new concerns. As vessels become more connected, they also become more vulnerable to cyber threats. A disruption in communication systems could affect navigation, cargo management and even the safety of crew members. Consequently, investment in cybersecurity must keep pace with technological development.",
+    "Another major challenge is the availability of reliable data. Although large shipping companies may have sufficient financial resources to implement advanced technologies, smaller operators often struggle to afford them. Unless these barriers are addressed, digitalization could widen the gap between companies rather than benefit the industry as a whole.",
+    "Human expertise will remain essential throughout this transition. AI can assist professionals in making informed decisions, but it cannot entirely replace human judgment, particularly in unexpected situations. Instead of eliminating the need for skilled workers, technological innovation is likely to change the nature of their responsibilities.",
+    "Ultimately, the future of maritime transport will depend on the industry's ability to strike a balance between profitability, sustainability and safety. While alternative fuels and cleaner propulsion systems will play a crucial role in reducing emissions, digital solutions can deliver benefits even before these technologies become widely available. The challenge is not merely to adopt new tools, but to ensure that they are used effectively and responsibly."
+  ],
+  "totalQuestoes": 10,
+  "totalValidas": 10,
+  "acertos": 8,
+  "erros": 2,
+  "percentual": 80,
+  "status": "COMPLETED",
+  "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+  "tempoTotalSec": null,
+  "questoes": [
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q11",
+      "numero": 11,
+      "enunciado": "The main purpose of the text is to",
+      "alternativas": {
+        "A": "argue that alternative fuels should replace all digital technologies.",
+        "B": "describe how artificial intelligence can contribute to maritime transport and discuss the challenges of its adoption.",
+        "C": "criticize shipping companies for their dependence on traditional technologies.",
+        "D": "demonstrate that human intervention is no longer necessary in maritime operations.",
+        "E": "explain why environmental regulations prevent the development of the shipping industry."
+      },
+      "resposta": "B",
+      "gabarito": "B",
+      "correct": true,
+      "topico": "Ideia central",
+      "comentario": "§1 e §8: benefícios e desafios da adoção; evitar generalizações absolutas.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q12",
+      "numero": 12,
+      "enunciado": "In the fragment of the first paragraph “However, its widespread adoption will depend on more than technological advances alone”, the word However conveys an idea of",
+      "alternativas": {
+        "A": "addition",
+        "B": "purpose",
+        "C": "consequence",
+        "D": "contrast",
+        "E": "condition"
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "correct": true,
+      "topico": "Conector",
+      "comentario": "However = contraste, não consequência.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q13",
+      "numero": 13,
+      "enunciado": "In the second paragraph, the expression “cut down on” can be replaced, without changing its meaning, by",
+      "alternativas": {
+        "A": "reduce",
+        "B": "measure",
+        "C": "maintain",
+        "D": "increase",
+        "E": "predict"
+      },
+      "resposta": "A",
+      "gabarito": "A",
+      "correct": true,
+      "topico": "Vocabulário",
+      "comentario": "§2: cut down on fuel consumption = reduzir, não eliminar.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q14",
+      "numero": 14,
+      "enunciado": "According to the third paragraph, predictive maintenance enables shipping companies to",
+      "alternativas": {
+        "A": "eliminate the need for equipment inspections.",
+        "B": "replace critical equipment more frequently.",
+        "C": "calculate maintenance costs only after equipment failures.",
+        "D": "prevent sensors from collecting unnecessary information.",
+        "E": "anticipate equipment failures and minimize operational interruptions."
+      },
+      "resposta": "E",
+      "gabarito": "E",
+      "correct": true,
+      "topico": "Compreensão",
+      "comentario": "§3: identify potential problems before they occur; reduces unexpected downtime. Não elimina inspeções.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q15",
+      "numero": 15,
+      "enunciado": "In the fragment of the third paragraph “reduces unexpected downtime, which can be particularly costly for companies operating offshore”, the word which refers to",
+      "alternativas": {
+        "A": "critical equipment",
+        "B": "machine learning algorithms",
+        "C": "unexpected downtime",
+        "D": "potential problems",
+        "E": "companies operating offshore"
+      },
+      "resposta": "C",
+      "gabarito": "C",
+      "correct": true,
+      "topico": "Referência",
+      "comentario": "§3: which retoma unexpected downtime, não critical equipment.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q16",
+      "numero": 16,
+      "enunciado": "From the fourth paragraph, one can infer that",
+      "alternativas": {
+        "A": "ships should always arrive at ports ahead of schedule.",
+        "B": "improved coordination may prevent unnecessary energy consumption.",
+        "C": "port automation necessarily increases waiting times.",
+        "D": "cargo operations are unrelated to energy efficiency.",
+        "E": "fuel consumption depends exclusively on vessel speed."
+      },
+      "resposta": "B",
+      "gabarito": "B",
+      "correct": true,
+      "topico": "Inferência",
+      "comentario": "§4: Better coordination ... could therefore lead to substantial energy savings. Exclusively restringe indevidamente.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q17",
+      "numero": 17,
+      "enunciado": "In the fifth paragraph, the statement “investment in cybersecurity must keep pace with technological development” means that",
+      "alternativas": {
+        "A": "technological development should be interrupted until cyber threats disappear.",
+        "B": "cybersecurity investment is less important than technological innovation.",
+        "C": "shipping companies must reduce their dependence on financial resources.",
+        "D": "cybersecurity measures should advance alongside technological improvements.",
+        "E": "digital infrastructure should be replaced by conventional communication systems."
+      },
+      "resposta": "D",
+      "gabarito": "D",
+      "correct": true,
+      "topico": "Equivalência semântica",
+      "comentario": "§5: keep pace with = acompanhar o ritmo; não interromper a tecnologia.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q18",
+      "numero": 18,
+      "enunciado": "In the fragment of the sixth paragraph “smaller operators often struggle to afford them”, the verb afford is closest in meaning to",
+      "alternativas": {
+        "A": "have enough money to pay for",
+        "B": "be unwilling to accept",
+        "C": "be able to manufacture",
+        "D": "have permission to operate",
+        "E": "be responsible for developing"
+      },
+      "resposta": "E",
+      "gabarito": "A",
+      "correct": false,
+      "topico": "Vocabulário: afford",
+      "comentario": "§6: sufficient financial resources indica capacidade financeira; afford = ter condições de pagar, não ser responsável pelo desenvolvimento.",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q19",
+      "numero": 19,
+      "enunciado": "The fragment of the sixth paragraph “Unless these barriers are addressed, digitalization could widen the gap between companies” can be adequately rewritten as",
+      "alternativas": {
+        "A": "Even if these barriers are addressed, digitalization will certainly widen the gap between companies.",
+        "B": "Because these barriers have been addressed, digitalization could benefit all companies equally.",
+        "C": "If these barriers are addressed, digitalization must widen the gap between companies.",
+        "D": "Although these barriers have disappeared, digitalization may increase inequality.",
+        "E": "If these barriers are not addressed, digitalization may increase the differences between companies."
+      },
+      "resposta": "C",
+      "gabarito": "E",
+      "correct": false,
+      "topico": "Condicional e modal",
+      "comentario": "§6: unless = if not; could/may = possibilidade. A resposta C inverte a condição e troca possibilidade por necessidade (must).",
+      "status": "COMPLETED"
+    },
+    {
+      "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q20",
+      "numero": 20,
+      "enunciado": "Based on the last two paragraphs, it can be concluded that the author believes that",
+      "alternativas": {
+        "A": "artificial intelligence will eventually make skilled professionals unnecessary.",
+        "B": "shipping companies should postpone digitalization until cleaner fuels become available.",
+        "C": "technological innovation should complement human expertise and be implemented responsibly.",
+        "D": "profitability and environmental sustainability are incompatible objectives.",
+        "E": "the development of alternative fuels is sufficient to solve all maritime industry challenges."
+      },
+      "resposta": "C",
+      "gabarito": "C",
+      "correct": true,
+      "topico": "Inferência",
+      "comentario": "§7–8: cannot entirely replace human judgment; used effectively and responsibly. Complementar, não substituir.",
+      "status": "COMPLETED"
+    }
+  ],
+  "reteste": {
+    "tipo": "REPAIR",
+    "totalQuestoes": 2,
+    "acertos": 2,
+    "erros": 0,
+    "percentual": 100,
+    "questoes": [
+      {
+        "numero": 1,
+        "enunciado": "Unless companies invest in cybersecurity, digital risks may increase.",
+        "alternativas": [
+          "If companies invest in cybersecurity, digital risks may increase.",
+          "If companies do not invest in cybersecurity, digital risks may increase.",
+          "Because companies invest in cybersecurity, digital risks will disappear.",
+          "Although companies invest in cybersecurity, digital risks must increase.",
+          "Companies cannot invest in cybersecurity."
+        ],
+        "resposta": "B",
+        "gabarito": "B",
+        "correct": true
+      },
+      {
+        "numero": 2,
+        "enunciado": "Many small companies cannot afford new equipment.",
+        "alternativas": [
+          "They cannot manufacture new equipment.",
+          "They cannot operate new equipment.",
+          "They refuse to replace their equipment.",
+          "They do not have enough money to buy new equipment.",
+          "They are responsible for developing new equipment."
+        ],
+        "resposta": "D",
+        "gabarito": "D",
+        "correct": true
+      }
+    ],
+    "observacao": "Respostas confirmadas na interface; correção imediata, retenção espaçada não aferida."
+  },
+  "observacao": "Simulado autoral, não oficial. Base declarada na sessão: cadernos TEC do projeto, material pós-edital Estratégia e histórico CESGRANRIO/Transpetro; previsão temática não verificada como prova real. Tempo efetivo não medido. Não repetir questões como inéditas."
+}
