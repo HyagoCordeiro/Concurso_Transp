@@ -13610,7 +13610,106 @@
       "tempoTotalSec": null,
       "itensErrados": [],
       "observacao": "Reparo imediato de todos os quatro erros R2, 2/2 em cada tema. Não é diagnóstico independente de retenção."
+    },
+    {
+      "id": "QTI10-INGLES-APOSTA-FINAL-20261127",
+      "data": "2026-11-27",
+      "studyDateLocal": "2026-11-27",
+      "tipo": "QTI-10",
+      "disciplina": "Língua Inglesa",
+      "titulo": "QTI-10 — Aposta Final Transpetro 2026",
+      "totalQuestoes": 10,
+      "totalValidas": 10,
+      "acertos": 8,
+      "erros": 2,
+      "percentual": 80,
+      "status": "COMPLETED",
+      "sourceType": "AUTORAL_ESTILO_CESGRANRIO_TRANSPETRO",
+      "sourceFile": "qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.json",
+      "reportFile": "qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.md",
+      "tempoTotalSec": null,
+      "respostas": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "E",
+        "C",
+        "C"
+      ],
+      "gabarito": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "questionIds": [
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q11",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q12",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q13",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q14",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q15",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q16",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q17",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q18",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q19",
+        "QTI10-INGLES-APOSTA-FINAL-20261127-Q20"
+      ],
+      "itensErrados": [
+        {
+          "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q18",
+          "topico": "Afford",
+          "respostaEscolhida": "E",
+          "gabarito": "A",
+          "errorType": "VOCABULARIO_CONTEXTUAL",
+          "observacao": "Afford = ter condições de pagar; pista: financial resources."
+        },
+        {
+          "questionId": "QTI10-INGLES-APOSTA-FINAL-20261127-Q19",
+          "topico": "Unless e modais",
+          "respostaEscolhida": "C",
+          "gabarito": "E",
+          "errorType": "INVERSAO_CONDICIONAL_E_MODAL",
+          "observacao": "Unless = if not; could/may expressam possibilidade, não must."
+        }
+      ],
+      "observacao": "Simulado autoral, sem tempo aferido. Reteste imediato 2/2 registrado separadamente; retenção espaçada pendente."
+    },
+    {
+      "id": "QTI10-INGLES-APOSTA-FINAL-20261127-REPAIR",
+      "data": "2026-11-27",
+      "tipo": "REPAIR",
+      "disciplina": "Língua Inglesa",
+      "titulo": "Reparo imediato — Inglês: unless e afford",
+      "totalQuestoes": 2,
+      "totalValidas": 2,
+      "acertos": 2,
+      "erros": 0,
+      "percentual": 100,
+      "status": "COMPLETED",
+      "sourceFile": "qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.json",
+      "reportFile": "qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.md",
+      "respostas": [
+        "B",
+        "D"
+      ],
+      "gabarito": [
+        "B",
+        "D"
+      ],
+      "itensErrados": [],
+      "tempoTotalSec": null,
+      "observacao": "Respostas confirmadas na interface. Reteste imediato, não contabilizar como diagnóstico independente."
     }
   ],
-  "updatedAt": "2026-11-26"
+  "updatedAt": "2026-11-27"
 }
