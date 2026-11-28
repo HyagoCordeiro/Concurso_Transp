@@ -1014,3 +1014,11 @@ Diagnóstico por item: 9=4/4, 10=14/19, 11=18/19, 12=16/18, 13=28/31 (resultado 
 - [Caderno de erros atualizado](qti/CADERNO_ERROS.md).
 
 **Plano definido pelo usuário:** sábado 28/11 trabalhar erros da semana (23–27/11), inclusive pendências e reincidências; domingo 29/11 simulado. Formato integral 70 questões sugerido, sujeito à escolha do usuário. Data oficial previamente registrada no repositório: 06/12/2026. Não confundir com o simulado de domingo. Não contabilizar revisão planejada como executada.
+
+### 27/11/2026 — Inglês: QTI-10 Aposta Final
+
+- Diagnóstico autoral estilo CESGRANRIO/Transpetro: **8/10 (80%)**; questões 18 e 19 incorretas.
+- Vocabulário: afford = ter condições de pagar (E→A); condicional: unless = if not, preservar could/may versus must (C→E).
+- Reteste imediato: **2/2 (100%)**, separado do diagnóstico. Retenção espaçada pendente. Tempo não aferido.
+- [Texto, 10 questões, correção e reteste](qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.md) | [Registro estruturado](qti/QTI10_INGLES_APOSTA_FINAL_2026-11-27.json).
+- Próxima revisão: conectores condicionais, modais e vocabulário em contexto. Não reutilizar as questões como inéditas.
